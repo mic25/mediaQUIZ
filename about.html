@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>mediaQUIZ</title>
+    <link href="styles/main.css" type="text/css" rel="stylesheet">
+    <link href="styles/video-js.css" type="text/css" rel="stylesheet">
+    <link rel="icon" href="styles/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="javascript/video.js"></script>
+    <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <a href="/" class="logo"></a>
+        <div class="nav"><a href="/downloads.html">Downloads</a><a href="/about.html">About</a></div>
+        <div class="clear"></div>
+    </div>
+    <div class="content">
+        <h3>Warum MediaQUIZ?</h3>
+        <p>Die Idee für MediaQUIZ entstand spontan während einer Brainstorming-Runde...</p>
+        <p>Als Erweiterung oder Version 2.0 ist eine Verknüpfung mit sozialen Netzwerken ähnlich wie bei der erfolgreichen Quiz-App Quizduell angedacht.</p>
+        <h3>Wo liegt das Problem?</h3>
+        <p>Das Quiz soll dynamisch erzeugt werden und möglichst selten zweimal die gleiche Frage anzeigen, um den Spielspaß zu erhalten. Dazu sind verschiedene Aspekte zu beachten:
+            <ul>
+                <li>zufällige Auswahl des Videoausschnitts aus allen aktuell vorhandenen Videos</li>
+                <li>zufällige Generierung der 3 falschen Antwortmöglichkeiten aus den vorhandenen Points of Interest</li>
+                <li>nur Videos auswählen, in dessen Blickkegel (Winkel & Abstand) der gesuchte Ort liegt</li>
+                <li>nur Antworten anzeigen, deren Orte nicht im Blickkegel des Videos liegen</li>
+                <li>der Nutzer soll nur den relevanten Ausschnitt des Videos sehen</li>
+            </ul>
+        </p>
+        <h3>Algorithmus</h3>
+        <p>Hier kommt Pseudocode von Server & Client hin.</p>
+        <h3>Technische Umsetzung</h3>
+        <p>
+            <ul>
+                <li>
+                    <h4>Server:</h4>
+                    <p>Der Server stellt die Anfragen an die Google Maps API, um die Points of Interest zu erhalten, sucht die verfügbaren Videos dazu aus der Datenbank und generiert die Fragen und Antworten dazu.</p>
+                    <p>
+                        <ul>
+                            <li>Sprache: PHP (Anfragen SQL)</li>
+                            <li>Technische Besonderheiten: </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <h4>Client - Frontend:</h4>
+                    <p>Die Oberfläche von MediaQUIZ zeigt dem Nutzer ein Video sowie 4 Antwortmöglichkeiten. Der Nutzer wählt durch klicken eine Antwort aus und erhält Feedback, ob die Antwort richtig (grün) oder falsch (rot) ist. Durch erneutes klicken gelangt der Nutzer zur nächsten Frage.</p>
+                    <p>
+                        <ul>
+                            <li>Sprache: HTML5, CSS</li>
+                            <li>Design: responsive über CSS-Klassen (Bootstrap)</li>
+                            <li>Technische Besonderheiten: Anzeige der Videos über VideoJS-Plugin mit HTML5 Video-Tag</li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <h4>Client - Backend:</h4>
+                    <p>Per Javascript/AJAX werden Anfragen an den Server gestellt, der die Fragen als JSON zurückgibt. Hier werden die Fragen zu einem Quiz zusammengestellt, sowie die Antworten überprüft und das Quiz abgewickelt.</p>
+                    <p>
+                        <ul>
+                            <li>Sprache: JavaScript</li>
+                            <li>Technische Besonderheiten: verwendet AJAX-Requests</li>
+                        </ul>
+                    </p>
+                </li>
+            </ul>
+        </p>
+        <h3></h3>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,61 @@
+body {
+    font-family: Century Gothic, Arial, sans-serif;
+    color: #fff;
+    background-color: #2c2c2c;
+}
+
+.clear {
+    clear: both;
+}
+
+.logo {
+    float: left;
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    height: 102px;
+    width: 336px;
+    display: block;
+}
+
+.nav {
+    float: right;
+    padding: 30px 40px;
+}
+
+.nav a, .nav a:visited {
+    padding: 0 15px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #00c9cc;
+}
+
+.content {
+    width: 80%;
+    margin: 50px auto;
+}
+
+
+/* smartphone styles */
+@media (max-width: 767px) {
+    .logo {
+        width: 168px;
+        height: 51px;
+        background-size: 100%;
+    }
+
+    .nav {
+        padding: 15px 0px;
+    }
+
+    .nav a {
+        padding: 0 10px;
+    }
+
+    .content {
+        width: calc(100% - 40px);
+        margin: 25px auto;
+    }
+}
