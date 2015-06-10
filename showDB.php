@@ -29,7 +29,8 @@ if ($result = mysqli_query($link, $query)) {
     }
     echo "</table>";
 
-
     /*free result set */
     mysqli_free_result($result);
+
+
 }

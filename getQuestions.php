@@ -49,30 +49,39 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                     $selectedVideoThetaX = $row['ThetaX'];
                 }*/
             }
+            /* free result set */
+            mysqli_free_result($result);
 
+            //echo "<h3>New place:</h3> <br />";
             for($r = 0; $r < count($rows); $r++){
                 $id = $rows[$r]['VideoId'];
                 $frame = $rows[$r]['FovNum'];
                 $frames = [];
                 $contained = false;
+                $index = 0;
                 for($v = 0; $v < count($videoFrames); $v++){
                     if($videoFrames[$v]['id'] == $id){
                         $contained = true;
-                        $frames = $videoFrames[$v]['frames'];
+                        //$frames = $videoFrames[$v]['frames'];
+                        $index = $v;
                     }
                 }
                 //echo "ID: ".$id.", Frame: ".$frame."<br />";
                 if(!$contained){
                     /* push new object with id and frame to array */
                     $frames['id'] = $id;
-                    $frames['frames'] = Array($frame);
+                    $frames['frames'] = [];
+                    array_push($frames['frames'], $frame);
                     array_push($videoFrames, $frames);
                 }else{
                     /* push frame to object with id */
-                    array_push($frames['frames'], $frame);
+                    array_push($videoFrames[$index]['frames'], $frame);
                 }
+                //echo "ID: ".$frames['id'].", Frames: ".implode(", ", $frames['frames'])."<br />";
             }
+
             for($v = 0; $v < count($videoFrames); $v++){
+                //echo "ID: ".$videoFrames[$v]['id'].", Frames: ".implode(", ", $videoFrames[$v]['frames'])."<br />";
                 if(count($videoFrames[$v]['frames']) > 2){
                     sort($videoFrames[$v]['frames']);
                     $following = 0;
@@ -100,112 +109,135 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                         $video['id'] = $videoFrames[$v]['id'];
                         $video['usableFrames'] = $usableFrames;
                         array_push($videos, $video);
+                        //echo "ID: ".$video['id'].", Usable Frames: ".implode(", ", $video['usableFrames'])."<br />";
                     }
                 }
             }
 
             /* get Video from random position */
             $max = count($videos);
-            $videoNumber = rand(0, $max);
-            $rowNum = 0;
-            $selectedVideoLat = 0;
-            $selectedVideoLng = 0;
-            $selectedVideoThetaX = 0;
-            $videoStartTime = 0;
-            $clipStartTime = 0;
-            $clipStartFrame = 0;
-            $clipEndTime = 0;
-            $clipEndFrame = 0;
+            if($max > 0){
+                $videoNumber = rand(0, $max-1);
+                //echo $videoNumber;
+                $rowNum = 0;
+                $selectedVideoLat = 0;
+                $selectedVideoLng = 0;
+                $selectedVideoThetaX = 0;
+                $videoStartTime = 0;
+                $clipStartTime = 0;
+                $clipStartFrame = 0;
+                $clipEndTime = 0;
+                $clipEndFrame = 0;
 
-            //array_push($videos, $row['VideoId']);
-            for($r = 0; $r < count($rows); $r++){
-                $selectVideoStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == 1;
-                if($selectClipStart){
-                    $videoStartTime = $rows[$r]['TimeCode'];
+                //array_push($videos, $row['VideoId']);
+                for($r = 0; $r < count($rows); $r++){
+                    /*
+                    if($rows[$r]['VideoId'] == $videos[$videoNumber]['id']){
+                        $startTimeQuery = "SELECT TimeCode FROM VIDEO_METADATA WHERE VideoId=".$videos[$videoNumber]['id']." AND FovNum=1";
+                        //echo $startTimeQuery."<br />";
+                        if ($startTimeResult = mysqli_query($link, $startTimeQuery)){
+                            echo mysqli_num_rows($startTimeResult)."<br />";
+                            while($row = mysqli_fetch_array($startTimeResult)) {
+                                $videoStartTime = $row;
+                                echo "Start time: ".$row."<br />";
+                            }
+                        }
+                        /* free result set
+                        mysqli_free_result($startTimeResult);
+                    }*/
+                    /*
+                    $selectVideoStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == 1;
+                    if($selectVideoStart){
+                        $videoStartTime = $rows[$r]['TimeCode'];
+                    }
+                    */
+                    $selectClipStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == $videos[$videoNumber]['usableFrames'][0];
+                    if($selectClipStart){
+                        //$clipStartTime = $rows[$r]['TimeCode'] - $videoStartTime;
+                        $clipStartFrame = $rows[$r]['FovNum'];
+                        /*estimated start Time */
+                        $clipStartTime = $clipStartFrame - 1;
+
+                        $selectedVideoLat = $rows[$r]['Plat'];
+                        $selectedVideoLng = $rows[$r]['Plng'];
+                        $selectedVideoThetaX = $rows[$r]['ThetaX'];
+                    }
+                    $framesLength = count($videos[$videoNumber]['usableFrames']) - 1;
+                    $selectClipEnd = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == $videos[$videoNumber]['usableFrames'][$framesLength];
+                    if($selectClipEnd){
+                        $clipEndTime = $rows[$r]['TimeCode'] - $videoStartTime + 1000;
+                        $clipEndFrame = $rows[$r]['FovNum'];
+                        /* estimated end time */
+                        $clipEndTime = $clipEndFrame + 2;
+                    }
                 }
-                $selectClipStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == $videos[$videoNumber]['usableFrames'][0];
-                if($selectClipStart){
-                    $clipStartTime = $rows[$r]['TimeCode'] - $videoStartTime;
-                    $clipStartFrame = $row['FovNum'];
-                    $selectedVideoLat = $row['Plat'];
-                    $selectedVideoLng = $row['Plng'];
-                    $selectedVideoThetaX = $row['ThetaX'];
+
+
+                /* increase question id */
+                $questionId += 1;
+                $response = "{ \"id\": \"" . $questionId . "\" , ";
+                //echo "Question ID: ".$questionId."<br />";
+
+                $selectedVideo = $videos[$videoNumber]['id'];
+                //echo "Selected Video: ".$videos[$videoNumber]."<br />";
+                $response .= "\"video\": \"http://mediaq.dbs.ifi.lmu.de/MediaQ_MVC_V2/video_content/" . $selectedVideo . "\" , ";
+
+                //$response .= "\"videoStartTime\": \"".$videoStartTime."\", ";
+                $response .= "\"clipStartTime\": \"".$clipStartTime."\", ";
+                $response .= "\"clipEndTime\": \"".$clipEndTime."\", ";
+
+
+                //echo "ID: ".$selectedVideo."Lat: ".$selectedVideoLat.", Lng: ".$selectedVideoLng.", ThetaX: ".$selectedVideoThetaX."<br />";
+
+                /* get name = correct answer */
+                /* web service */
+                //$details = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$i][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
+                /* json on our server */
+                $details = file_get_contents($json_obj[results][$i][place_id].".json");
+                $details_obj = json_decode($details, true);
+                $name = $details_obj[result][name];
+                //echo "Position: ".$lat.", ".$lng."; Name: ".$name."<br />";
+
+                /* get available answers */
+                for($j = 0; $j < count($json_obj['results']); $j++){
+                    if($j != $i && (sqrt(pow($json_obj[results][$j][Plat] - $selectedVideoLat, 2) + pow($json_obj[results][$j][Plng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0))){
+                        /* web service */
+                        //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
+                        /* json on our server */
+                        $answerDetails = file_get_contents($json_obj[results][$j][place_id].".json");
+                        $answerDetails_obj = json_decode($answerDetails, true);
+                        $singlename = $answerDetails_obj[result][name];
+                        array_push($availableAnswers, $singlename);
+                    }
                 }
-                $framesLength = count($videos[$videoNumber]['usableFrames']);
-                $selectClipEnd = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == $videos[$videoNumber]['usableFrames'][$framesLength];
-                if($selectClipStart){
-                    $clipEndTime = $rows[$r]['TimeCode'] - $videoStartTime + 1000;
-                    $clipEndFrame = $row['FovNum'];
+                /* shuffle available answers and take first 3 */
+                shuffle($availableAnswers);
+                $answers = array_slice($availableAnswers, 0, 3);
+                //echo "Name: ".$name."<br />";
+                /* shuffle chosen answers with correct answer */
+                array_push($answers, $name);
+                shuffle($answers);
+
+                /* add answers to response json string */
+                $response .= "\"answers\": " . "[ ";
+                for($k = 0; $k < count($answers); $k++){
+                    if($k == count($answers) - 1){
+                        $response .= "\"" . $answers[$k] ."\"";
+                    }else{
+                        $response .= "\"" . $answers[$k] ."\" , ";
+                    }
                 }
+                $response .= "], ";
+
+                /* add correct answer info to response json string */
+                $correctIndex = array_search($name, $answers);
+                $response .= "\"correctAnswer\": \"" . $correctIndex . "\"}";
+                array_push($responseArray, $response);
             }
 
-
-            /* increase question id */
-            $questionId += 1;
-            $response = "{ \"id\": \"" . $questionId . "\" , ";
-            //echo "Question ID: ".$questionId."<br />";
-
-            $selectedVideo = $videos[$videoNumber];
-            //echo "Selected Video: ".$videos[$videoNumber]."<br />";
-            $response .= "\"video\": \"http://mediaq.dbs.ifi.lmu.de/MediaQ_MVC_V2/video_content/" . $selectedVideo . "\" , ";
-
-            $response .= "\"videoStartTime\": \"".$videoStartTime."\", ";
-            $response .= "\"clipStartTime\": \"".$clipStartTime."\", ";
-            $response .= "\"clipEndTime\": \"".$clipEndTime."\", ";
-
-
-            //echo "ID: ".$selectedVideo."Lat: ".$selectedVideoLat.", Lng: ".$selectedVideoLng.", ThetaX: ".$selectedVideoThetaX."<br />";
-
-            /* get name = correct answer */
-            /* web service */
-            //$details = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$i][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
-            /* json on our server */
-            $details = file_get_contents($json_obj[results][$i][place_id].".json");
-            $details_obj = json_decode($details, true);
-            $name = $details_obj[result][name];
-            //echo "Position: ".$lat.", ".$lng."; Name: ".$name."<br />";
-
-            /* get available answers */
-            for($j = 0; $j < count($json_obj['results']); $j++){
-                if($j != $i && (sqrt(pow($json_obj[results][$j][Plat] - $selectedVideoLat, 2) + pow($json_obj[results][$j][Plng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0))){
-                    /* web service */
-                    //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
-                    /* json on our server */
-                    $answerDetails = file_get_contents($json_obj[results][$j][place_id].".json");
-                    $answerDetails_obj = json_decode($answerDetails, true);
-                    $singlename = $answerDetails_obj[result][name];
-                    array_push($availableAnswers, $singlename);
-                }
-            }
-            /* shuffle available answers and take first 3 */
-            shuffle($availableAnswers);
-            $answers = array_slice($availableAnswers, 0, 3);
-            //echo "Name: ".$name."<br />";
-            /* shuffle chosen answers with correct answer */
-            array_push($answers, $name);
-            shuffle($answers);
-
-            /* add answers to response json string */
-            $response .= "\"answers\": " . "[ ";
-            for($k = 0; $k < count($answers); $k++){
-                if($k == count($answers) - 1){
-                    $response .= "\"" . $answers[$k] ."\"";
-                }else{
-                    $response .= "\"" . $answers[$k] ."\" , ";
-                }
-            }
-            $response .= "], ";
-
-            /* add correct answer info to response json string */
-            $correctIndex = array_search($name, $answers);
-            $response .= "\"correctAnswer\": \"" . $correctIndex . "\"}";
-            array_push($responseArray, $response);
 
         }
 
-
-        /* free result set */
-        mysqli_free_result($result);
     }
 }
 
