@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>mediaQUIZ</title>
+
+    <script src="javascript/jquery.min.js"></script>
+    <link href="styles/main.css" type="text/css" rel="stylesheet">
+    <link rel="icon" href="styles/favicon.ico" type="image/x-icon" />
+    <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <link href="styles/clientLandscape.css" type="text/css" rel="stylesheet" media="all and (orientation:landscape)">
+    <link href="styles/clientPortrait.css" type="text/css" rel="stylesheet" media="all and (orientation:portrait)">
+    <link href="styles/main.css" type="text/css" rel="stylesheet">
+
+    <!-- Include client scripts -->
+    <script src="javascript/client.js"></script>
+</head>
+<body>
+<div class="container">
+    <header class="header">
+        <a href="/" class="logo"></a>
+        <div class="nav"><a href="/">Downloads</a><a href="/">About</a></div>
+        <div class="clear"></div>
+    </header>
+
+    <div class="content">
+        <div id="client">
+            <div id="video">
+                <img src="styles/img/ajax-loader.gif" width="5%" id="loading">
+                <video width="720" height="480" autoplay muted>
+                    <source id="videosrc" src="" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+
+            <div id="sidebar">
+                <div id="button-container">
+                    <h2>Was ist hier zu sehen?</h2>
+                    <button class="choice" id="choice0">Argh</button>
+                    <button class="choice" id="choice1">Blah</button>
+                    <button class="choice" id="choice2">Clllllle</button>
+                    <button class="choice" id="choice3">Ddhkf</button>
+                </div>
+            </div>
+
+            <footer>
+                ...
+            </footer>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
