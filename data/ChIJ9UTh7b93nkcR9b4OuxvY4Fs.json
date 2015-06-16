@@ -1,0 +1,173 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Münchhausenstraße",
+            "short_name" : "Münchhausenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pasing-Obermenzing",
+            "short_name" : "Pasing-Obermenzing",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81247",
+            "short_name" : "81247",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMünchhausenstraße 21\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81247\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Münchhausenstraße 21, 81247 München, Germany",
+      "formatted_phone_number" : "089 81070",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.164891,
+            "lng" : 11.482412
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b3c36fc616653b14645c0833996cb15b679c01ae",
+      "international_phone_number" : "+49 89 81070",
+      "name" : "Zoologische Staatssammlung München",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1300"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 12:00 pm, 1:00 – 4:00 pm",
+            "Tuesday: 8:00 am – 12:00 pm, 1:00 – 4:00 pm",
+            "Wednesday: 8:00 am – 12:00 pm, 1:00 – 4:00 pm",
+            "Thursday: 8:00 am – 12:00 pm, 1:00 – 4:00 pm",
+            "Friday: 8:00 am – 12:00 pm, 1:00 – 2:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ9UTh7b93nkcR9b4OuxvY4Fs",
+      "reference" : "CoQBdgAAANlt1wEj4C005HDxpCnUowkuj24Q9Ju-92WkrkM1CjqxV96_mU7O3sIFR8Eg3ARBVi9pFN1CFuzI_yquWt9qq4zeFWlsah1qHdSrzhvQ-EcAoQpeXy81S1flVh4A1HEjypHQeIk2Vu5H4CRthgCnfXNLqolDNx5_oJgjomNXQ8VgEhBYgXEKUKxqMkRlj3ozU5XTGhSz5HS1UhEPRuwXx-E2havqNKjARw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/113202839294482283558/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Münchhausenstraße 21, München",
+      "website" : "http://www.zsm.mwn.de/"
+   },
+   "status" : "OK"
+}

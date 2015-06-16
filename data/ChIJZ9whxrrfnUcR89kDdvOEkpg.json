@@ -1,0 +1,99 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20",
+            "short_name" : "20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ständlerstraße",
+            "short_name" : "Ständlerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramersdorf-Perlach",
+            "short_name" : "Ramersdorf-Perlach",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81549",
+            "short_name" : "81549",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStändlerstraße 20\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81549\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Ständlerstraße 20, 81549 München, Germany",
+      "formatted_phone_number" : "089 21910",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.102683,
+            "lng" : 11.602399
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c96c1aa915e4ca211a78b36c86697c47b2eb3dda",
+      "international_phone_number" : "+49 89 21910",
+      "name" : "MVG Museum",
+      "photos" : [
+         {
+            "height" : 492,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAChjH1VQTLsrqiSDZLV-PrRHtc5PVh-lp8xZpBtewCKNAgR7hX-idKNqDAQvDl5dTrI_nnpry-vyWhKBEXP58O9v3IZpzXAOGMWyCmYBZX3JxRfMcld__z2nNiwHRvtN4XiM-EvuUMjefVU4SjWsOkRIQs47Mo6JfI4Xu785KbjlpexoUyBlfXGElWDo0i2lAl3ZWypgFO8s",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJZ9whxrrfnUcR89kDdvOEkpg",
+      "reference" : "CmReAAAAuf_UdOwJxMAavmA2zl9eo4O9qIgLA7prHA6wSvO7OhitalLnfb6nBPlwg6UlEoZNU3rUUx37bvt824Cup9BzT-OiW88gh_LqGGrfiYitYV5l6tYcOpPSGEgiqnewoQEKEhDiG_jHoTtwwhXnAzk9a_63GhT714oTZVI4TbA2O-AG22U-CjHCdQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johannes Schön",
+            "author_url" : "https://plus.google.com/111764304831989522922",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424713873
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1326049145
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106068910803751471715/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Ständlerstraße 20, München",
+      "website" : "https://www.mvg.de/services/freizeittipps/mvg-museum.html"
+   },
+   "status" : "OK"
+}

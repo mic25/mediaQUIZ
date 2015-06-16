@@ -1,0 +1,207 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "46",
+            "short_name" : "46",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Provinostraße",
+            "short_name" : "Provinostraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86153",
+            "short_name" : "86153",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eProvinostraße 46\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86153\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Provinostraße 46, 86153 Augsburg, Germany",
+      "formatted_phone_number" : "0821 8100150",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.363933,
+            "lng" : 10.91373
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "ab9565bae06c6497c050ccb4dca6e8b606e656d4",
+      "international_phone_number" : "+49 821 8100150",
+      "name" : "Staatliches Textil- Und Industriemuseum Augsburg",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: 9:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJAWlm-PiXnkcRBI5m565Veu4",
+      "rating" : 4.4,
+      "reference" : "CpQBhQAAAGcb9rT2U_q83ooaAv5FwsynSweuOpX2_xNVcyhzg1CC4tsVzsUX_u3ID_XSDS4pzonCUZiqGV9dOK76rkeW9w0CLzWe2eRoYSAGNoVX9X2qJ_pysOVypcSGeIqRfE6UzUhHkJNP5VfaqAwtQx4DntjjN4RCi31uUbemIIbmChKgpvkU1k0GO0mhfmkFN5kBnBIQh8yTtM-SZqYbWoLLgmgh4hoUwC8DeLbWb_kBMjMN1zAhio4NFCk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joe Geier",
+            "author_url" : "https://plus.google.com/112476474052039390410",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Spannend, abwechslungsreich, gerne wieder!",
+            "time" : 1429004288
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jaqueline Steiner",
+            "author_url" : "https://plus.google.com/101824893546253614385",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Total langweilig! Nicht nochmal...",
+            "time" : 1417784676
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander H",
+            "author_url" : "https://plus.google.com/112256827372954346303",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1298486784
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Robert Fischer",
+            "author_url" : "https://plus.google.com/115272259166854167640",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1377420685
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sebastian Geißler",
+            "author_url" : "https://plus.google.com/115368470563160024115",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1294178503
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/113907549094863303420/about?hl=en-US",
+      "user_ratings_total" : 8,
+      "utc_offset" : 120,
+      "vicinity" : "Provinostraße 46, Augsburg",
+      "website" : "http://www.timbayern.de/"
+   },
+   "status" : "OK"
+}

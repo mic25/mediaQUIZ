@@ -1,0 +1,274 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Oberschleißheim",
+            "short_name" : "Oberschleißheim",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85764",
+            "short_name" : "85764",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"postal-code\"\u003eD-85764\u003c/span\u003e \u003cspan class=\"locality\"\u003eOberschleißheim\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "85764 Oberschleißheim, Germany",
+      "formatted_phone_number" : "089 3158720",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.247757,
+            "lng" : 11.568414
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d2ac3a784bfd36a1ae13469839900fc75fd05c71",
+      "international_phone_number" : "+49 89 3158720",
+      "name" : "Schleissheim palace complex",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: 10:00 am – 4:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103534060942889123504\"\u003eKlaus Ries\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAozLoxcElNDkCN-LuuZ_K_Gqr0CJSf93H5UAGwULBl69ZUvz6E5Lb1U3ZdErefoPGUWwCqrlSMg3eOYM6ix4aO0VGTkgzHG4b9ylz7OMGCRbPoL22nW8ELownl-exixkp9vO1ubznln1bRjXLxhjKfBIQUkErJCivXms4OImHmKvQ8hoU65Q0RapWREDZf4uNECGxtCAXJW8",
+            "width" : 2048
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108709562323291655351\"\u003eSandra Kunstwadl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAANPOwhZ5a25EJ5fqGynlMl8-W6SrFe1mQ6fefrR7s8IcnIge8PTw6xhwJG3VF4xF1ynYCc3fYFNbZjoVGok1rKY0HXWcYliVpiRGcILthuS3UIYJ679GputTqaQbelxII3FhzkWtnNxDpTguZXHUr_m9fbEkdAfsC9E1A6wf9nCUEhCnE5Z1bLLZ2sWbp0UF09z8GhQEGf8v0h7wHZZ57izkTn2cfYzuJg",
+            "width" : 2048
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108709562323291655351\"\u003eSandra Kunstwadl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAACkkjPPJlmI9oHEbhE6YPhJuFf7Y34Bn7EDN2kcCAlB-7Eq5ZVK1au_rWGbAYG_isFOwU1aE3z_hIf8tQmNuzyLNXSQbu3jN7DTRvPrNVjYtBZz6tlzyr6tUIJcyalL5oSWS04Klj9oS5-nDpUxkpILaiAo7NE4kTm6I6-wOh08VEhA6TmwLM7y1Htqts1P2h76-GhT2PmrlEZo0WRvmrQ0zuRhTgKXETA",
+            "width" : 2048
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111597810238005746414\"\u003eReinier NL\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAAI4WaQZOk_HL-G7d8yXXM6NwQBawqZ6cmoczrEtZ26O98IJg9imB_zHilUHhDkteWXMKuuXyqGsdwOnrX7_GVqjA_6PnNtlKFAQ_ihXDgPEcQ76hGyLhYsUVOp6mqFUTGpvNlHmfLgwr2sGJfw8Z2h2LCPOXPw_1Y_BmKZOwRtRZEhALumjjw6RPtwsCEG2fZcVEGhQFB77e_GHATWApsSw0MkmX2o49nA",
+            "width" : 1200
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107251012238835716096\"\u003eChristian Forestgreen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAjRJbvwzhz1NuJPRG6gIslRtSQz0t6bGlzz3h-aDMnWoIgMmeavclw5HiRyb32jpit1c0VWHihuRhlmnzE5xW1V08spQ9izBz9-Z_2_VM3WixJzHtgFoaVbDYsE7xU4aYyLVnfi6_vlDvOwbcnSJx0RIQXGo9Z1nChZ51HkcCAnaz3BoUIldtzaoFyaUpcd__O6qpjF6Lva0",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103534060942889123504\"\u003eKlaus Ries\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAJ6g6wMtZt6Na7Xp-153sBnLywW9HUu1iDtB_U9R5WI2IttB23hE5Ij41n_YwPwhChbxUySaIFDklxtrAvQpusuyx_MQBTiZ85v8pPLhhQ1PJ_8fO0g4e2kewuDYE0JJbRPaxW69YRncQqaN6n-pgApJ2gDVQeXcp41Lgvf7ugRMEhB5AxKlG5dTOixvOMIp1ZboGhTIAYmwMaJg-MQs0H9xDaCk-JVesA",
+            "width" : 2048
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108709562323291655351\"\u003eSandra Kunstwadl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAM_LaTjssdyoAKyuEDcSnOQsVuhOTziXrpfbvbWqpXAG-ypmoAg0028lTIeT-aUmLGbBv7XhquGHaNEmJhOcyMD2JgybG2rH2mvrK6kWK0c2wLBGw1AR-6mlbmFGqM4Vn4_4hnMWWosi9VjURUDzayVjJN8p8_WJuqD590NAZ6HdEhBZLeMP9YCext9aonm7ab99GhROkkt05YTg_gYOuVH_FkowggJDKQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108709562323291655351\"\u003eSandra Kunstwadl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAJyhTdyWfMQ-k9AX9Vd62MM5sbsjOLa5bKm_W3DyS__klTMco3gZAZvvJc1gTk75GOwOPusHzNN2ScTJH8c7IX5NNSWVaXunddBbTBZR7Rkg2lyhBAjGCudhXvGyWEcaxp5QEpiDfbciWZjDJecYdpHO4SSM9t2zJ9RX3-wTK6l6EhCZC_dmoxhw1znOkCu7_2MZGhS2COqzQd38fbFTN9O0V21cmzZKTQ",
+            "width" : 2048
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116913312373646613398\"\u003eEmil Negoita\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7EONkcnhf6B1k6ui1uGaSZkzoPLnBEzugAWyDbyv4WNNrLLnd3QT-XAdOCsofmZxDuahhCX2uvNKZ_dttxefFOCldHPqgtTamWfBAbtKk5zobY9cvwF33P2VmHeI0OcQ-mV5gmoW2cW7IvyjtSJUjxIQ4LRoMh9XC7nyFbzgu5Pu6BoUgBtTLykFleZfAQDf9n3U4tpvjeg",
+            "width" : 480
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108709562323291655351\"\u003eSandra Kunstwadl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAP3PUKiBjycikvWGWduXLj1g50YeO3DC0ZSJ0AJb2IIKk8m0KPxTDzQNqiGioZPulU5UbVnC6S3Rgwd_TSOI8yGPnv6XqLMmtOLYyrwfsRYdjeutMKKMfrJ8s3vAsbPLpXheuBCktzz82dQbXlWGBy7xW66qosRnH2jzYQbMRDf5EhCI_VGOXyOiA-htb3KEe-I1GhTv70LyQQ8J8j45Ib7A_uWCTVtHHw",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJQW02rnJxnkcRolMYSuV4Ly8",
+      "rating" : 4.7,
+      "reference" : "CnRuAAAANKkXJuEQsCP-jUwLbbJCWIbRgMkZ4_Q3qxe24Wg-TFLTYvugEZqzi9UZgGdL4AFcVBgY47-xJRpSau_ddTriTPEGX0c6dTOU5mjNCycnphOQ-7QPu9b3Hs6XfZLt0gi-IB0kblm8xD-Zl-m5R5BA7xIQcqQrtxU_KC-whyroD3DbChoUmPKsply2jhLKnUWU6F9e7AMXrfE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sara Cleereman",
+            "author_url" : "https://plus.google.com/117803521771252766609",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Beautiful palace with amazing art work. Large park full of chirping birds and swimming swans. Very quiet and no crowd. Felt like we had the palace to ourselves. Very peaceful. ",
+            "time" : 1433020992
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mohd Fariz Abu Bakar",
+            "author_url" : "https://plus.google.com/101802874453849898504",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "The castle is very big, with an even bigger back garden that spans...I dunno how far. Unfortunately the castle is closed on the day we came (apparently all castles in Munich are closed on Monday), so there's not much to review other than its outer view of the castle and the garden.",
+            "time" : 1431514165
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alberto Lenz",
+            "author_url" : "https://plus.google.com/103509555681768619128",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Für Fluginteressierte unbedingt empfehlenswert. Führungen um 10 und 14 Uhr. Helikopter-Simulator ausprobieren (10€/10', noch besser 15€ für 15')",
+            "time" : 1406816493
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Elio Stecher",
+            "author_url" : "https://plus.google.com/116634523295190905469",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Wunderschön ",
+            "time" : 1405807320
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Krebs",
+            "author_url" : "https://plus.google.com/100734583397812523371",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr hübsch",
+            "time" : 1377247900
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/102791245445302729322/about?hl=en-US",
+      "user_ratings_total" : 12,
+      "utc_offset" : 120,
+      "vicinity" : "Oberschleißheim",
+      "website" : "http://www.schloesser-schleissheim.de/deutsch/schleissheim/index.htm"
+   },
+   "status" : "OK"
+}

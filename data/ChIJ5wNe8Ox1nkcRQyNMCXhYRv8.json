@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "33",
+            "short_name" : "33",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Amalienstraße",
+            "short_name" : "Amalienstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80799",
+            "short_name" : "80799",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAmalienstraße 33\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80799\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Amalienstraße 33, 80799 München, Germany",
+      "formatted_phone_number" : "089 38602125",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147856,
+            "lng" : 11.576686
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "c942ae6829933478385f44437a475c9c84825919",
+      "international_phone_number" : "+49 89 38602125",
+      "name" : "Max-Planck-Institut für Sozialrecht und Sozialpolitik",
+      "place_id" : "ChIJ5wNe8Ox1nkcRQyNMCXhYRv8",
+      "reference" : "CpQBiwAAAPbHrSvIotB69c8Ld48JffDMqhuL6GdSxbrZUX7lEPgd3Ds3iTazyeq5tTw68z5LZPYkDUkctSExWdyL-qDkKFuwZjXfVTMXZbct8AhdjHb4dfkzIm0-m12nGWyTfwy7cm6Y0sn9i5taABeO9CpK6bXaNIjcbcA-d9rXzPuN3tnooow8GFYxdEAlVUyNrJJ9TBIQW0mJBWgBEypeGzmgNtx1BRoUJCNJ3Ygt2dCUL0-ztRc9BsOyKoE",
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/109169411639031368222/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Amalienstraße 33, München",
+      "website" : "http://www.mpisoc.mpg.de/"
+   },
+   "status" : "OK"
+}

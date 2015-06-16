@@ -1,0 +1,143 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6",
+            "short_name" : "6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Pacellistraße",
+            "short_name" : "Pacellistraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePacellistraße 6\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Pacellistraße 6, 80333 München, Germany",
+      "formatted_phone_number" : "089 2901470",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.140781,
+            "lng" : 11.570852
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+      "id" : "18d6f0bb3335b0a02fcc69063deee92c3308ca1d",
+      "international_phone_number" : "+49 89 2901470",
+      "name" : "Bayerischer Kunstgewerbe-Verein",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJkbvD8fN1nkcRE_2c3U1ehqU",
+      "reference" : "CoQBcwAAAGVgiz1R7eusEZPRB05a4LYOsgF7wyi1HQdvzDPoYLAPDZMGRpJmjuAM-8UWZqLOevHQsl8Go1tq7ObmujAatk8ZXe9GxtRJl_Z4t5UZVNpW9NHOtMse69qBoHEikvZ1Yx4IeW6dqWg5Hny88laIKm7HcAE7xn4DLGQzmQu86mrREhCezPKb5hG2o62_4hGY2UUVGhSsWLbjlesUZPiMPGYhTDVS6TNLmw",
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "establishment" ],
+      "url" : "https://plus.google.com/116881474735367491981/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Pacellistraße 6, München",
+      "website" : "http://www.kunsthandwerk-bkv.de/"
+   },
+   "status" : "OK"
+}

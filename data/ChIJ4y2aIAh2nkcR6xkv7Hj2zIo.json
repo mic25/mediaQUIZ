@@ -1,0 +1,195 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "31",
+            "short_name" : "31",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Nymphenburger Straße",
+            "short_name" : "Nymphenburger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80335",
+            "short_name" : "80335",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNymphenburger Straße 31\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80335\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Nymphenburger Straße 31, 80335 München, Germany",
+      "formatted_phone_number" : "089 555255",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.148363,
+            "lng" : 11.552944
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "90a68c274327bc541c467e899e69f24d11d1e5f5",
+      "international_phone_number" : "+49 89 555255",
+      "name" : "Cinema Filmtheater",
+      "photos" : [
+         {
+            "height" : 300,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAi0F3fLWD5rAjYWw1HyTIjl3jV9E9FYBhTu-mGWq2k-dDbFoC6HwZCTVaVnlPlYonX8hkuJsNpduW8grL8IJyNgC4Rv1Jh7bSqNq0NQjYb-dakvBBisD_csovjIKiQqOSZeR_w-Wk_hBI7PqZEgQL0BIQBCJoWd1Oda_d0hBt3f09XxoUBz2YeLeEnmPlYP-gMFAZ3lXmu2I",
+            "width" : 450
+         },
+         {
+            "height" : 300,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAHWNsCL3CmoR1iMhqXNhKWG06KJvikjoGEjvl3Tgk__VAf3i-hC2vmkH8hgZmsHjz4Y5znlQzIfmzaHWdMvBvxA_mtQPlybl1h6Ax7-S3paJgw7WjFq4ZTlZuBEdF4fNo9Akgqap4gFbKpSFmpztUjBIQ2Rg_5HDqbLlRIAOiwLagdBoUzji_6V_UPqZ9dnAzBeXWd3nK96s",
+            "width" : 450
+         },
+         {
+            "height" : 300,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAFqmwtNMMChLXs1LoMn1WWcXu4YNGU4tkbZVJcbz-mwUN6IEtJMVgwKGSLeStmaAnx-zgnGbWNWvZ10JI2_XwwUs6R44yHe7xNb4a6eAwtpgvYNl6_IRRdOt9TEQI-1djOyj85QvTyokGh6ivV4ADshIQd2Ts0ADDg24eaiiQNK8CrRoUsnno18s1lO2xF4GysxacFb9zoQM",
+            "width" : 450
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAecxtJrPbtD9q-YPPk25BMt7QKTolbpZo3qfHdzxEh2_SNMlyB0RxbQ-4jz3ZRnuNhX752UBhFyZlLrt9i260XRMuIE4Hv7nTamOOPhwV84B6_3el7RK6uPKqiQohoHUNhU_c6gyikdybwSYsC58vVhIQgAUjz94is_MkS8pR_1og_RoUv5OFhIO2MX7BbzxyVrHZilvecTk",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA_XdiOO6c8CeAgCyGK3-_wom3qHX_usSpXprI1igX0L_BeBTPmPMSu434nBKSIt-tF0Vbb7JIeWyORG_kBWjix9qT9hZG-y4lcMvgpsPILaDD0_sDVdzSiAT9Bgjg7dwo3Nfofha04Crz7SSLNm6avBIQ-T3UTNVvNJQiowwgzV_pzBoU3fkqtNf6f9qROaR8Qy1taN7KrTM",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAzrCuccqQ5BrNTvynKhbZas392ZzmNuQW0aSdb5qiQAJikCMSfrqZACAhsrRs31XxctizBM11JwxNKr-jOMfN_YcTWgzX0s-txhcZUEN08m7-tOeTkjSqbXplJfIpaBY5H-SrGbF0koQVvhfSJ-D1vxIQMOcAcIjFVoyRIxjpERjY2xoUqCJZPNNvMnYRRW9W97pgerh4ZNU",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAGiKQGqUWsevxXdPL3tngcy0mfzyTNWqB3GczwhOgVpfAff__K1BN-vPGudkuMj6hEreW-qr_Nsmmbex9U7CwY9PKeQXGR4VXVUt0RkXUpwK_Ed5vNYocuWriqrO2YnIFVlW4XYL7QSN8bFauVA4PYRIQzSwEuK3MLD_mcftOfMV6HhoUsgR8q6U_qIWmljUy0Jcfm99o9Vk",
+            "width" : 1280
+         },
+         {
+            "height" : 900,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA6dwNhCdJfwdBHvGvFtIsq-1zX8L3jo7ZhzprrZL8Si5uMFesGDr70IHFd5NemJnal0PHg3xECwmJ0DBLZs7kdAmNThdB8YA-Z_JyNn3xW-2eltkEtPPeZj6LWsxgiCvMG4CNBFP1JzLG31B5dVzqqxIQbVvxZZ024VbGwvZPXR_fMBoUr4FjMgzjBcQmPnUM-j5d-wS8O5Y",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAyjkB-zIgNCR28nfpsNkkWFzwy6muEy3tZZztDHk591E5tBD6ejGIVUdXrRtnFV33a_kjSsVBQw_OJ5iuvG__wId6fvEPab0xo19_4M56I4p3Qz-qEQeIelETa_V3w352LzBQME4-wP9Jqz8hUbQI5hIQc_3973a1fXYH-IH54SrSSRoUtX99KLyEoalyAS1O64nUGFOq5QM",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAs8UbPrJUa2c0o8TnJVIeamHsTBxPEoV9EmPsVt0R75SH74JPuNcefDl_qpu6BIfkjOfFF2lR_1bU6w2O4pGxgbYU_vGP3yWl434aLk97IpKfqiA8Y-rxneXJlhwTD-hjHcbVEdMNDDjIL8bkARiIlBIQt7zzYNPnqEH67DJlUyM40RoUbodAtBpLmKJHnxasRjHC6wm4b34",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJ4y2aIAh2nkcR6xkv7Hj2zIo",
+      "rating" : 4.4,
+      "reference" : "CnRmAAAA26WrSH9CRt31X7VrNLRA2qIGEPee28-UcMu00DR11DhxfxWbNI03QjlArBXOEdbW4Z8PP_SFKjL-O8G31V8MxFRi_LZciTxjWJmhhLmqODD_Zuwhy2d9SP0oDZqhOkTQcTMbPuNy9WtRq5Qa8D2tChIQFQnXv42gxXiDRxB75Rwt1RoU9-IIFx7prCpvkqBK3BC5ITyRNME",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrew Caldwell",
+            "author_url" : "https://plus.google.com/105893902033776767355",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Best English language cinema in town hands-down.  Only real downside is that they only have 1 screen, so you'd better hope you like what they're showing.",
+            "time" : 1423567853
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Govind Marwaha",
+            "author_url" : "https://plus.google.com/117055176137265401834",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Easily the best cinema in town. Love the easy online reservation & the staff are always friendly which isn't a given in Munich...\n",
+            "time" : 1420388387
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aicani Holten",
+            "author_url" : "https://plus.google.com/106987112895194998937",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Good cinema showing movies in original language.",
+            "time" : 1433246923
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Robert Schmohl",
+            "author_url" : "https://plus.google.com/105103599753861039573",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Probably the best movie theatre in town. Top-notch sound and video equipment, friendly staff and comfortable seats. The only downside is the small size of the place, which becomes crowded quite quickly when premieres are being shown.",
+            "time" : 1382271798
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paco Fdez",
+            "author_url" : "https://plus.google.com/107420237240450346683",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "original version (OV) movies... It's expensive but cool ",
+            "time" : 1403781477
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/105629079995451319452/about?hl=en-US",
+      "user_ratings_total" : 92,
+      "utc_offset" : 120,
+      "vicinity" : "Nymphenburger Straße 31, München",
+      "website" : "http://www.cinema-muenchen.de/"
+   },
+   "status" : "OK"
+}

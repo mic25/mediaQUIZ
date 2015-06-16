@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kölner Platz",
+            "short_name" : "Kölner Pl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-West",
+            "short_name" : "Schwabing-West",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80804",
+            "short_name" : "80804",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKölner Platz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80804\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kölner Platz 1, 80804 München, Germany",
+      "formatted_phone_number" : "089 30680",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.170899,
+            "lng" : 11.57747
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "130547da424b65b6ad382fe27a94361a33d4af49",
+      "international_phone_number" : "+49 89 30680",
+      "name" : "Städtisches Klinikum München - Klinikum Schwabing",
+      "photos" : [
+         {
+            "height" : 205,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAmsMDCeFD0ag8VycMbJX31EXtKfVWuVQ7xrVOu7kLS_XL5O518bjG2WLreJJdV2dsqHkehAKSzy-czHryQxt3VTw7Ry1ev-ui1_lB5YQILiiQtlzJtV1g7niYXPxlDQxl_SB7GEw8D4enV1zsPfV4vhIQNaqa2E3e7tn3PKnbq5AXAhoUJZWTvRFbX4hRClBhbFCsBRLqbE8",
+            "width" : 614
+         }
+      ],
+      "place_id" : "ChIJ0dBoxM11nkcR9nJ4l4jtLo0",
+      "rating" : 3.3,
+      "reference" : "CpQBiAAAABjg1adEjOAg3e1HMk7lz2im0rbc1arLtVcDBsaigpDqj2kM1CGBQrjjdOABWupMonF3EtODBjM6TLi9_SrST9HVGo0H5sJvNAZw4AgMp3biB87Ld8GdDAA8Gq2N6dupn9paxtWRxvaJ7EoKFuyG282oyjGEnD42aX4U58tVty5gWaBBbCiYKhg4FKF9E3C6VxIQeAfyyXzJP7CoQ4MrMObHbBoUMN-1DULL9gAJAp5tfySj7GF5TiA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Silke Nenzel",
+            "author_url" : "https://plus.google.com/100664470391132680886",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "Hab da entbunden. Fand es ok, aber trotzdem hat die Geburtsstation einen schlechten Ruf.",
+            "time" : 1422957340
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mi Ba",
+            "author_url" : "https://plus.google.com/116238542867679174932",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "lange Wartezeit",
+            "time" : 1426254437
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Feilmeier",
+            "author_url" : "https://plus.google.com/106130194871341175485",
+            "language" : "de",
+            "rating" : 4,
+            "text" : " Ich fands dort eigentlich ganz nett, es gibt einen Kiosk, friseur, Kaffee wlan und Kapelle \nDas essen finde ich gut, in meiner Station gab es in der früh ein kleines buffet mittag etwas warmes und abends 2 Brote mit wurscht und Käse \nManchmal gibt es schon etwas komische regeln zB das man ohne Unterschrift die Station nicht verlassen darf \nIn der Mitte beim kaffee ist ein kleiner innengarten in dem man sich nett hinsetzen kann ",
+            "time" : 1395228317
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nico Kaiser",
+            "author_url" : "https://plus.google.com/105905869813023226772",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1431291360
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kathrin Müller",
+            "author_url" : "https://plus.google.com/111713771742305333855",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1424888587
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/109025446704131726674/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Kölner Platz 1, München",
+      "website" : "https://www.klinikum-muenchen.de/"
+   },
+   "status" : "OK"
+}

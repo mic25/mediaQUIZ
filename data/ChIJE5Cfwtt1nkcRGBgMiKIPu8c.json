@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "55",
+            "short_name" : "55",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hiltenspergerstraße",
+            "short_name" : "Hiltenspergerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-West",
+            "short_name" : "Schwabing-West",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80796",
+            "short_name" : "80796",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHiltenspergerstraße 55\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80796\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Hiltenspergerstraße 55, 80796 München, Germany",
+      "formatted_phone_number" : "089 3000790",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.16204,
+            "lng" : 11.56636
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "ff1ff542036f5dba1c59093f6ea2c30586fa2efa",
+      "international_phone_number" : "+49 89 3000790",
+      "name" : "Kreuzkirche",
+      "place_id" : "ChIJE5Cfwtt1nkcRGBgMiKIPu8c",
+      "reference" : "CmRfAAAA8dBPHb1H3wbtFijzc-R0dDEDuJUIR_hwv9Fp4v70U4UaaxcclI6CuKm0ZR3Vq_JFAF-4Ij58YDHLY5Pa-HQHybEJyGiNEz_-9mO7zbqG8GIR-tPBUiDweT19k5cM14fNEhCersTvvBUouawIMeoYN8-nGhQ2rMgbRCcfDE-lomvxEHlrtSqFAg",
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/109153217483142938540/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Hiltenspergerstraße 55, München",
+      "website" : "http://www.kreuzkirche-muenchen.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,251 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Neuhauser Straße",
+            "short_name" : "Neuhauser Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNeuhauser Straße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Neuhauser Straße 2, 80331 München, Germany",
+      "formatted_phone_number" : "089 220522",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.138273,
+            "lng" : 11.571052
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d8b8dcd4a58125fb4ecbe56e4d783ad61ee3bb38",
+      "international_phone_number" : "+49 89 220522",
+      "name" : "Deutsches Jagd- Und Fischereimuseum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 9:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: 9:30 am – 5:00 pm",
+            "Sunday: 9:30 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1432,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106480731320431189304\"\u003eElena Zakamaldina\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBowAAAK7xrbbxpug1dm6owGhNMb95HDHD3634vDjx9345dw0hjqaN-DGA3Eax6AgP8TNhvA2pUUZmMRZrbUoNYIhbatA7t61gf8kZ3V-PeN5EdG4zegpnGIkeMBTyQ9Bi1DkVhn0az-HG-_GnRsAET--8-naNZqAekiKGP6gaffQRb0Sn42bZyhK6iIjzGhSbA7AkprIS094S0cFNeUMW3wEI4NJs3WUIyrOtSrldAC1wFgMyEhCw5A4n9YIk56wcjzqF8smYGhSzF8MeQUFCa_m9HyoReFXj44JsQw",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106480731320431189304\"\u003eElena Zakamaldina\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBoAAAAAngaQJHBbwsmPMeJILhQ6_pt-oaEIAiWNAkB1CxRw9gpo6qcY8WHxAjaTN8JW91IBoNTbnefKp4aDLUOZP5ciex91HJ8-Zm6PH53nypCZPzOlf-soiC1j-dwxYiMv-1jXAgybGSkMSFiRn1Tl5a-_7-HrCrliVvs87qZR-mPVSja5U3j2Btiiaq429dvUMIKH0mrlTihiM8M7Lnik5IQAwSEEuui704L-slbAlcmOVw0M4aFMviyYJ3BnVPqKnJFVL-iLJj8LKv",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106480731320431189304\"\u003eElena Zakamaldina\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBoAAAAKgsKh2R0LNyFPZGepTuLprdibjR9qm72ZhxXewSRe0HTpYvbJ6oAk36Gl_a4K8aS3OzobtZFssgIG3pqqDKOyFBRmZXlEkm8d0eRyByOwmu7f7zGVMMH2ietClyvhzW3ml_BHBnL_k50DPV4u8hhhnLnMkOZFX8qicAlVazx3WQ_5lqdZIsneItRTd_9oEX0Z7mHfIITaw9t5pkrzkb7RsSEHehGDL_utNsB-LnvgRCjToaFGfD30laun8mEVKcafuV0QayWZjO",
+            "width" : 1365
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106480731320431189304\"\u003eElena Zakamaldina\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBoAAAAEcy7nMhQb4v7Z5KdiVpRIVNINiRtl4_toe8yZMNl9q8PlIYjsKzKdT1bAfYT03ACzjP5WoaqNJPsD7RHdfXpZMsGtgRGSdlRhbKFDjYTkVV_xQqI5ZAxbDZI94WrighSWV0ef3ORy3gBMgXCcrjfFpTbE73C5HGGhZKxAgCHK6Vbj561SC8SP2X-VGeUbHwpwNsTCbYidXeIxdFYr29cooSEFpSTYMZXuGmE21s49L9vfoaFDQQc_HXkHVzuU4t6B1CtDxHByfQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJ9_NmT_R1nkcRWexncanDBd4",
+      "rating" : 4.5,
+      "reference" : "CoQBdwAAAP8viu5K89LjJAaKvBND45RaYa_bFcbUm2c8K6VM4zP-3XkpJVe8aueYBvrz-5MMvdG4EHg_Px6WaI3j25TfBMKgjNAAPMbmSonBzXofO6x0CRqNoOwzi3a4794oVzFMoLruM8QtUdMly0L3awWV64nJV23GvRO9yILwaomFGoqvEhC5FvTZJQFaME2jd5XFbRDIGhTTmJ42pGIpS4s8y35LLRcPJYDEmA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jurgen fuessel",
+            "author_url" : "https://plus.google.com/104533898772247300674",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr interessant u. aufschlußreich",
+            "time" : 1417959885
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bastian Großmann",
+            "author_url" : "https://plus.google.com/104852942786232237493",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Informatives museum sehr zu empfelen",
+            "time" : 1398174025
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Inga Bantsadze",
+            "author_url" : "https://plus.google.com/104134313038550241039",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429372653
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andreas Neumeier",
+            "author_url" : "https://plus.google.com/110883541057589003082",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1432539387
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Олександр Костенко",
+            "author_url" : "https://plus.google.com/115212944582834737891",
+            "language" : "uk",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1424510224
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/112259708399358407938/about?hl=en-US",
+      "user_ratings_total" : 9,
+      "utc_offset" : 120,
+      "vicinity" : "Neuhauser Straße 2, München",
+      "website" : "http://www.jagd-fischerei-museum.de/"
+   },
+   "status" : "OK"
+}

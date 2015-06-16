@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Grünwald",
+            "short_name" : "Grünwald",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82031",
+            "short_name" : "82031",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Zeilerstraße 3, \u003cspan class=\"postal-code\"\u003eD-82031\u003c/span\u003e \u003cspan class=\"locality\"\u003eGrünwald\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Zeilerstraße 3, 82031 Grünwald, Germany",
+      "formatted_phone_number" : "089 6413218",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.04286,
+            "lng" : 11.51941
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5b263c1188e0620a26836a7be82ff626128098f9",
+      "international_phone_number" : "+49 89 6413218",
+      "name" : "Burgmuseum Grünwald",
+      "photos" : [
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103993188127483327348\"\u003eRobert Kardos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAK4E2X8W-VJ_imEGFfIBrnmVekG3z6xJIKbaXsNfVyoPrpfR6sCCTNkr4-BD2qApZ-J9eFSWJ1mrKrradX3ta8RaUpRvOGuvwDr_p8goBVx0dp3L08vNPmMXrmpIIluILG298ANK4mAAGB7hIGihpZsf9H4Y7EN_bLQm4fBjuTJEEhB5kZoQ1ZiatDrLcGcNgGNgGhSYgYZiuvWyQh2xg231FVJRg5ruuQ",
+            "width" : 816
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103752435490995384461\"\u003eChristian Pflüger\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAINiFxp3Wx_slcZ3gn0cXVl35LmJhW5Q4leWWJjdb-8weF-sWKYKJxo12XEZzuQecgorKTJ4o-6AJrWL2GGB72Z0LSibcbqpSXisPrTpNyfryWepugBU9inJ6Q0bT1ouxGBndFjNEiOeLl5LgjEUtTj5JN-whV8WlqCTKAMBrGHmEhA-vxwsVTMcT49gdy2IYOFEGhRtaVy6VkPP4wOVJ5jOZzDVuB5oHw",
+            "width" : 1265
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103993188127483327348\"\u003eRobert Kardos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAK4TX3GLM4tgEgWE57wkcR8yn_r1c68DdjpwPdWFQ6TtySpFYXSy-TY3THQFn0QU6fq0GpWfhqpgpAdbe3TaS08gAXb-UvOmaDZgYBFi6Ind5IvGEYP5BLStJFGXViFgV7MYY_USEvzfQ_h4REMXRbAy4dOlbg9crqHpy_lpz1u7EhAZVb1fdJdD2RSHVjahmxqEGhRjWZMmmixo8H00m9H3yVDDk1K8pg",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ45s3UgzcnUcRiJ9W0fSr964",
+      "reference" : "CnRoAAAAwuxE_wN7bgXI92atkbPL5w_yrFokSM6WUDHlHZS_POhZQe9xdKJSO4wL5Oxb02zYPQ_W3C-tN7_MtFEswnbsmNyX9mb8lZPqAyJx73ZuUZ79-5Fiwrp7VGyPmFhwZ-uQXl3IT19JoYeN1GagNs7U1hIQM0Xk0UYyDKMNc64231wO6hoUa1i-mJAVjoc5E6314Qg7IAhmO08",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vanessa Kemper",
+            "author_url" : "https://plus.google.com/116507931706816842898",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1427112914
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/105459729393481948961/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Zeilerstraße 3, Grünwald",
+      "website" : "http://www.archaeologie-bayern.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Schloss Nymphenburg",
+            "short_name" : "Schloss Nymphenburg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80638",
+            "short_name" : "80638",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchloss Nymphenburg 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80638\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Schloss Nymphenburg 1, 80638 München, Germany",
+      "formatted_phone_number" : "089 179080",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.158268,
+            "lng" : 11.503314
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "cb9dccd0ac745b631c487792f107b61db578c67d",
+      "international_phone_number" : "+49 89 179080",
+      "name" : "Nymphenburg Palace",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: 10:00 am – 4:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1361,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113553882783942065812\"\u003eJürgen Düring\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAALfudnvraw_u3UWZWP-VfEg8W3XXIBU8cgwFyKpiv1hB1sFXqgTNrtHfhKyBgT-YeYLEVgfzvb51dCiViSTJ-CKKHeHJVPiFwfJiKFwv_ZxZbrpGFHVTpkXB05E9B1cv8NQoT8SSK_v3O0sCNIBdMZIcvKGi4-WcMVthiIzWUdW-EhA5MA4B88CeGDZSCDz2lQY5GhSl9s1I0ynznEu_JYAqOexIS_3kGg",
+            "width" : 2048
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112245794618390043120\"\u003ebetim shabani\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAASxDxyH9pHHGS9ij6jGZ35RY7T_mnSSyEAZBFKFWaoiTEOkSD2kyUv2mm75Oj5YOEg4tUPjQletkH04SStLcW--XXimA6BeC4F0RhG1z-z9xD9nG_8itUGuw0iB2gurL1cSGRgPXYKlEA3yu5jQiauhIQXwsWXV-TljdNKsts9Z2bORoUxvESFbxLdqQ_Y4CJjaI69HeAlGg",
+            "width" : 960
+         },
+         {
+            "height" : 500,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114033259382188509778\"\u003eAdam Welber\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAABfnuJzy5GIewTu2TkvujKjY8qRb9td_lS9ZEQcZPM1Ug0KaCJkybO3N3pR7W5gnUP6-l2q9raLK-BiUc2O__8snDsXgWBmK7ydE2crLGWWE7jp3mRTfaKWxVNIjwDJMDmyi-m1vtsiFxO9cSR_V2dEoGSyfPAgsdrhFMAiPzI-0EhB1Div9fBfQrXrErNCv53gBGhRDs8asETyJfT3MQpeoHTXeCSMdGA",
+            "width" : 500
+         },
+         {
+            "height" : 1361,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113553882783942065812\"\u003eJürgen Düring\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA93FIiWb4AuoPfgwk0aue-wLqS-WYOk1l0AsJ1TdFzztTMRruM5XiccRjJuJfmXOw2D_0N5oi0gPPdcZDuvUd5hKEJqnS0EM20zyA6xEdAMuYv0AQn66yc_Fz7te7_vmRwUzSpmmWzMMgxDbw9lXCghIQ94gQCmI4VEBzf7Anai530hoUnkLAexH_jRfR_9aaLoW2TuJoASk",
+            "width" : 2048
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108797409214735258054\"\u003eSamu János\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAfy3wBIEJiH2rYC2mh7zvkOZFvXp8QRKL6wRLGdtenTDMog5J-D9ulyLT0AiDD-0YO8KjvqE-D7WrDo5fNTtHpgj6ie53-ENh3-pB-jMbmZU4lxHiZSfh3vgbMAcsfejQ6jGPyL-eWhU1n3TiK8lX-xIQztBIBU5x15xY0bqILiGeeRoUCoqapkVWAulsSSK1jQ4YJLzF3dY",
+            "width" : 2592
+         },
+         {
+            "height" : 592,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108576242631868342602\"\u003e白眉大侠\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAALlfGOrwm6Z2m6oW1cLodi1ix1vO0eOiagO45pCIGmTw6wI8NqRCWKp5_ftP31RhsuH6WfZO65wLWHJDpBkPI9HaYDexaosHXo4HUt1SfcHDsTaU3FQqLm3EAFYaPrqEGVP5eeic458A_tc445jNVDBIQ81-w4_NuJBpLs1Wng2LFaRoUZH__EeCTh_Dpz7bZ6eShbIOQrWQ",
+            "width" : 800
+         },
+         {
+            "height" : 514,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114033259382188509778\"\u003eAdam Welber\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAALKr4WQWtp0KkLeVqzb2ssSb3Ro_URkDNakzXfd7kEijKsH8jEEGJLulrLRmBQWQrhWTdI4fFc88P4gMz6ubemF80SCVoH5ivNnOGF9XlmBzcChFv6DK19EUoPEjK66VavXXYzq_OxM3QY1KlmFAm51K9JUzpaNC2EbDCHsK3-xjEhCqOWi7He602SbUx6q1s463GhSXAVp_1Nrl8-o1ctH1rMz66guFZw",
+            "width" : 500
+         },
+         {
+            "height" : 1343,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113553882783942065812\"\u003eJürgen Düring\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAACZuK3oYT4f-86ixbl85DiXlrM2cf764WSdC31wLAGuJCjR6bv-A3woOoi4JE2NrxTr6mRFL46dICXrSCm66nUmAK0lejtxIwJopEoPp3o9zBO8NE5jXjW89TO6oDhcnL2XdRlGS992NjEyzwixjm-a7YjCvySfwdnP25Sft-ThuEhABRZn79LS1ZQIHahC8f4_PGhQP38aZCn12thm4YH13amwfLjG0yA",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108595669572177723137\"\u003eAndrea Dalla Francesca Cappello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRpAAAAdhlIX-o9Ptv68K1W8C1OIKVI19DVv4xYrvEWkInn3x7yYubfRc94EM93sHp9QeN-oTT5jHZVflCSvKCj2tBbSKYBjmbRbu0_yUZpPXQLCja7s3LyV9T56zOMoJ-3W6ZbMW9FhdCgZ6I5m2x71i86oBIQsgfc5DpXx48ga0on3geohBoUFlwbqjwnIxdCjzQ0IMXGljBt2Y4",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103892887325523682712\"\u003eGiorgos Thanasias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRsAAAAjZ-sPZk0p1rAnYD9WcciT6S8184WYvj8kAI-882QmbsItPTNkRQQl81-O9IXFm8kosHVxchuHGjWXUYJc7JwMKHtlmjDm4mAIYJtjCMA_8pX1tur2wNIW8eid4fCaKPa0hPhh03JOa1gJARnAyD9tBIQ-TlA1caH4s9mmBFEcGwgehoUygTxWrWYdqFen4MUQFUVC4ST4mo",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJLWiif8x3nkcRZm0epRZWTCc",
+      "rating" : 4.6,
+      "reference" : "CnRlAAAATx6La1fj7xMFqUijjkBsOUIT2kAzeUZihiry0gVtX1moGJAXBxF86ffZ5rM6slqtDFvwVFy5iywAT7Scwpw9ppA84mi_Qep1kx1CuA1J5qOmjsy0PQpCBg_X74naHd5VxIzH6BBEZMo4ZzCed-3caBIQ50KpSOWZ8QLslbTxz3ilAhoU_dPKl8xNSGS4hgg4e9ddj9qx2yY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sara Cleereman",
+            "author_url" : "https://plus.google.com/117803521771252766609",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very beautiful palace. The grounds are nice to walk through, as you can mingle with geese and swans. Glad we could take photos as well. The smaller buildings are also quite charming, but make sure you're prepared to walk. ",
+            "time" : 1433020735
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mel G.",
+            "author_url" : "https://plus.google.com/111054531689739891042",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Palace,really nice place , but many rooms are not available for viewing at the moment. \nMuseum on same site is really worth of visit, and  is better value for money.",
+            "time" : 1422719867
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MovieBuffReal",
+            "author_url" : "https://plus.google.com/114429696528269916714",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Very interesting place to visit and spend the whole day. However: 1- Most of the staff do not or do not want to speak in any language rather than German. 2- Information for many items and places is not available. 3- No map of the area is available unless you pay for it and that is extra to the admission fee! ",
+            "time" : 1414717564
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Macias",
+            "author_url" : "https://plus.google.com/104119058842793134635",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "So pretty, open, and amazing. Loved it! ",
+            "time" : 1427566642
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nem Bog",
+            "author_url" : "https://plus.google.com/108540657033958682674",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice palace. Position of building similar to the Versailles palais.",
+            "time" : 1428321975
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106899205024483952334/about?hl=en-US",
+      "user_ratings_total" : 75,
+      "utc_offset" : 120,
+      "vicinity" : "Schloss Nymphenburg 1, München",
+      "website" : "http://www.schloss-nymphenburg.de/"
+   },
+   "status" : "OK"
+}

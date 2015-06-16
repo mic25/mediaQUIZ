@@ -1,0 +1,188 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Geschwister-Scholl-Platz",
+            "short_name" : "Geschwister-Scholl-Platz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80539",
+            "short_name" : "80539",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGeschwister-Scholl-Platz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80539\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Geschwister-Scholl-Platz 1, 80539 München, Germany",
+      "formatted_phone_number" : "089 21802429",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.15039,
+            "lng" : 11.580297
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "d2c44aef547f50366f231e777f6e9f550132a6ae",
+      "international_phone_number" : "+49 89 21802429",
+      "name" : "Universitätsbibliothek der LMU München – Zentralbibliothek",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 12:00 am",
+            "Tuesday: 8:00 am – 12:00 am",
+            "Wednesday: 8:00 am – 12:00 am",
+            "Thursday: 8:00 am – 12:00 am",
+            "Friday: 8:00 am – 12:00 am",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 298,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAQxOVLnLD6zHPhV8o72NnVwG_5pMgcZQbJ1BQV-YpjnB2ihLvuRefpO6x37jOSTTyaq2OxIH4T8TuUP0MDd8CM_6I_p8kUdtRkGgs-Q3H80-f2OnDqxME9vB2j2DA_CAYNAxEzerhR4dXSfDnTBRWPBIQ0AZ8o-Lgmbxvku2MSTgmiBoUHP_crPAsT0hxNPO0HHWwxxKpV0Y",
+            "width" : 448
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [],
+            "photo_reference" : "CpQBjgAAAPsAcHKRGABYZ8hPfVvgc784NJ2uPEoNvZmM9ak-T_5H8LLAOPtKCYQdU0Iu4YmfZkqmT8lTkwbqqbM0VDC7y2QMqXC7a7pvninfdOxX9hMSEnMPiRdCKOJXK0mYRv3QTBi6am9BuVhvxy-ZKDcXseyfmQNlzomb-FCmZRe05HG5wyCCfbXxW5bVY7FM6ZQ9mxIQKJpo3nvhCty4_RMmUy6yhhoUJkb28-zudy7KN7RKYDMdfONXUiw",
+            "width" : 1367
+         }
+      ],
+      "place_id" : "ChIJ00e_Sut1nkcRYBN5zpPR7fg",
+      "reference" : "CqQBkwAAAHEzLCrRsZ7KDDY3DAlUuqT7HaPRsIStflzDX-JpGvDNLzEchWoyvF6zM7vb1M2WvfU-4sYJSn6fWN6r_3sQEyfyB0gj09fz_Gs8iS25SD7hz7XYhilMH-jyvSF-cRYtQoP97Y4JCfFP7rUippzJR1_6lxCwquCAtwJZyLXNNUt8qzY8ngqMpOBSv2Dd7EBQnIy3xI_abbU_ey4ux6m4IeUSEHAU3GV_jrEFx-eHzGVouc8aFJ98vmtdaVSnZnZ9BKbmIRB8p-V1",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Heinrich C. Kuhn",
+            "author_url" : "https://plus.google.com/109713292962660564110",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Nicht zu unterschätzen. Bei längeren Öffnungszeiten für den und besserer Luft im Lesesaal Altes Buch hätte ich \"excellent\" gegeben.",
+            "time" : 1338464908
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ding Liu",
+            "author_url" : "https://plus.google.com/102039975564314949505",
+            "language" : "zh",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1423357060
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/105142283476659806525/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Geschwister-Scholl-Platz 1, München",
+      "website" : "http://www.ub.uni-muenchen.de/bibliotheken/bibs-a-bis-z/0001/index.html"
+   },
+   "status" : "OK"
+}

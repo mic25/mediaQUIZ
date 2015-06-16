@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "22",
+            "short_name" : "22",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ismaninger Straße",
+            "short_name" : "Ismaninger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Au-Haidhausen",
+            "short_name" : "Au-Haidhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81675",
+            "short_name" : "81675",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eIsmaninger Straße 22\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81675\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Ismaninger Straße 22, 81675 München, Germany",
+      "formatted_phone_number" : "089 41400",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.139328,
+            "lng" : 11.599782
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ecfffc7dc4c13fb09e9b902d0c843b2c72a066b2",
+      "international_phone_number" : "+49 89 41400",
+      "name" : "Rechts der Isar Hospital",
+      "photos" : [
+         {
+            "height" : 979,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA5rxkwWj7ANDt1tcmHRVCt_ZY7cCXO5lPuMs3v0JT9NDasA6yIdVd1A0GaMPOJZK2BRSKUKohSox8HMyxXWIqn0Ak0JbCP0ZxCcH5yvRHQR5hTHwPx0BvbJKJhfjxLIo0KO9tr2RtJnGd-jMU_ary1hIQhSMWtOAOO37N1X14tOOngxoU4Z3ODovnNLqsEoP5KdeWSN7iDxE",
+            "width" : 2048
+         },
+         {
+            "height" : 138,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAHxOw3J7zge5hztnW1v7b6010WT7IRvSmMKev7iFNkghZS3noeBZmOh9EP8b8h1dLB5RM15LHEq66gD_z16beAH1k5JF9abnDFGlY3SZGx8qDoRSDd4wY8AAzBNAekjwEw9thfRSvbkpDWiUx8xJQfxIQ_wZPcG-7ncsXcYG64wIszhoUxy3nO0ZYOF3MOKo7mn1Q6MVp-54",
+            "width" : 152
+         }
+      ],
+      "place_id" : "ChIJP0peCIJ1nkcR_mjIc7T636M",
+      "rating" : 3.9,
+      "reference" : "CnRsAAAAG-fu8lm5C2KMKG1P8A3Ig-eNJcq31sp7yeaqfHkO6Xqxh1ZIDqyzEXuDWDgBw5xJuteHBjti5Zq659gUtKaloSY5yXvwGEG125oq6MD78pUEdXGjR-BSifMqOxqvvea1jYmu1J-C236tuHflz_n_PhIQ40goU8E5uEW091VFm_c1cxoU8IbnPK72YrrPHCMcFIYotDzYLqk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hans Wurst",
+            "author_url" : "https://plus.google.com/115157313154121397346",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Leistungen: OK, Patientenmanagement: Mangelhaft\r\n\r\nWie man in der Klinik mit Patienten umgeht, das würde ich evtl. noch in Indien oder Pakistan erwarten, aber nicht in Deutschland. Sorry, das ist ungenügend - setzen, sechs!\r\nIch bekam schon die ersten Rechnungen, obwohl ich noch nicht mal einen Diagnosebrief zugeschickt bekommen habe. Anfragen (sowohl telefonische, als auch schrifitliche) bleiben unbeantwortet.\r\nBeratung = 0, Aufklärung = 0, ich habe den Eindurck, man möchte mit den Patienten gar nicht sprechen, es fühlt sich da keiner zuständig, keiner hat Zeit oder Ahnung.\r\n\r\nFazit: überhaupt nicht empfehlenswert, ich gehe da nicht nochmal hin. werde mir beim nächsten mal eine andere Klinik suchen.",
+            "time" : 1402036422
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Wolf-Gunter Voigt",
+            "author_url" : "https://plus.google.com/107544446965244285807",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich bin hier nach einer Operation (Tumor?) am Kopf.\nIch habe keine Erfahrung in Krankenhäusern - insofern mag mein Bericht nicht aussagekräftig sein.\n\nMir fallen in dieser Reihenfolge die Begriffe ein:\nFreundlichkeit, Kompetenz, Disziplin, Fürsorglichkeit.\nJeder scheint stolz zu sein, hier arbeiten zu können. Die Versorgung - auch die Küche - ist besser als ein Einzelner sich zuhaus ermöglichen kann.\n\nNach inzwischen 10 Tagen wäre ich dennoch zufrieden, heim zu kommen. Geduld. Geduld.",
+            "time" : 1383067772
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Niklas Stöckmann",
+            "author_url" : "https://plus.google.com/111982349935553346420",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Super! \nDie Notaufnahme ist gut organsiert.\nDie Sportorthopäden sind sehr kompetent.",
+            "time" : 1398496922
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan Bermello",
+            "author_url" : "https://plus.google.com/104804998437947055927",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Gutes Krankenhaus. ",
+            "time" : 1381426129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sedef kordu",
+            "author_url" : "https://plus.google.com/115504750114037884485",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "\n",
+            "time" : 1414628982
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/107634589642100645673/about?hl=en-US",
+      "user_ratings_total" : 9,
+      "utc_offset" : 120,
+      "vicinity" : "Ismaninger Straße 22, München",
+      "website" : "http://www.med.tum.de/"
+   },
+   "status" : "OK"
+}

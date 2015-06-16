@@ -1,0 +1,193 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13",
+            "short_name" : "13",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Badstraße",
+            "short_name" : "Badstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Marbach",
+            "short_name" : "Marbach",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Fischbachau",
+            "short_name" : "Fischbachau",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "83730",
+            "short_name" : "83730",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBadstraße 13\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-83730\u003c/span\u003e \u003cspan class=\"locality\"\u003eFischbachau\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Badstraße 13, 83730 Fischbachau, Germany",
+      "formatted_phone_number" : "0171 1772244",
+      "geometry" : {
+         "location" : {
+            "lat" : 47.84865,
+            "lng" : 12.13038
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d28452c842b4264628f64e4c521df77c595ffde6",
+      "international_phone_number" : "+49 171 1772244",
+      "name" : "Das Bistro im Warmbad Fischbachau",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 408,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAZcCidDAsEhCNm70Qdngyv3sOHQ5wuOerW8g8ESG4Pp2lYu4TNhFVjZH91AXEnohmBP4pIhQNzJHAO5Ll0D9lsRSXAA-3KwObmcqj3Fixo-eLprCUdUrdNTs_yPOiPpDfDbN_L6u-nUxS4-Reh-inOBIQV7GETf-IP_AxKM6jhjty4RoUG97v-Z7igXMFzNPjDXt6sg9zgfU",
+            "width" : 306
+         },
+         {
+            "height" : 408,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAALAqsdWYQQh_hrU8Pscd2XIGHrrqlU4pOvA3OSWOMHpK-Qw-r1kcNb9QriO-4Uh4Cno9BLUhGzbK9rn4-FzMXUQyegtCPRAT0qjISQL4rJQvrFGLpvRDj1o73zh1BUFPPYnWi3B7XVUKiexpLluQoZhIQpmxhX78KHS6DFdu7VMGNIRoUrgQdXK_UPe1XJkONx-a3XeRmlZY",
+            "width" : 306
+         },
+         {
+            "height" : 1136,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAATpnRc2ZkTyf1l7X2Go-y4BtlltY3GBs9v17VVIN_zzXeY0jdMYxlHvr30zUMuzlSUMwHMEmJM5gyzCPc8aqIPz9Ee4F4uzdgh1uFnr0sYMlLKETOvH97B7GX-mRnNZQCoY-_UveaDayQmn_TYK9BPRIQIw3R5tnA4MVeZSi60DdR6BoUrzIZiqvjXZZcB9qutI1RuJFQMVo",
+            "width" : 640
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA7_LaXwoQNW6bziruFDZQk68VbYfVpMM3zbZUYTtHuH-IgDALgjFw5KDGskwLyEZ8gLtLT2ltggP5AMrlmqvARqtKLlpzJh-Fmh2qs91XVpk11k0a_UMIFk6AwQjc0Kn6VXLVizvsScm-2wY09OIPxhIQky-btcz0JzHxvZGvCcDqbxoU3dWWSLYnp7_9slllmqa9jRcSq_A",
+            "width" : 2048
+         },
+         {
+            "height" : 306,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAu2OKI88qJRxB8knWduQ0eVRsT8sOr1Yz130f0_4TndQ5XtlFr5Udl_oEu_k9jVUqMzsrxUuIIeNEJIQbNJAgx-MqOrqoYS26yRo96MR5nWzv_VwxpOyhcEfIjtRTCDFlM8zZPfKZTN2VBZGHU8WEMhIQaB98on1r78oOeCTrlmfyOxoUT2v9EJTwckGvp7jYlGKf0UjWGGI",
+            "width" : 408
+         },
+         {
+            "height" : 306,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAAb3ZWF-7NsF2EJUnO3W_id8jXcC93q2knYIw2hcHQfor54VCxCc4meq-75U6v1yTfMhy__Rf_f88mC493qQqk1nwoZp5mQsgUziJsQ1_miGy-XCJA0emSr_fTNLNbgp81VHO4ds1COL2wmo1cMgmjhIQ3WpF-PSeUFJaQETNefpY1hoU6OUG3mOm3viOHlBNCli6efEQg6M",
+            "width" : 408
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAIuIJ8zma8LjXXuVMW1LPYkwuX1k78SG6MuF1iYxOrhmd3jBb9jy24V-tBzrHBV2qd1jNl9XBB6HAebGp876OCNo9D0ZA_8FX8c3_HuvV45dxDxAxlug-uV2AOqrbcrO5Blq82H-rSbvMgSjEMl_nIBIQn1eRebwiphrYjKjKSBsUbRoUqdifo1pj1dcMFuKFM9IAjgvwBPI",
+            "width" : 2048
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [],
+            "photo_reference" : "CnRlAAAAfQ05RYKEVK-8XUlmaWE2XDmWE2h5uPkbpJcgZPKKVX8BlehRQ2-Lu8wej8VqswbLYw511hpKpjvZtGUtpSeDDf0fH1oDKya8gySs8OuBvEJ4xEc67k7MLe17eBNP6n8m_zOQb_FOfbmAt_RTXox0jBIQRY_tUjBTXJ1DIXAtUiPvpRoU5DLm5Gc1BO8LFp-DBqRcvfkGOHs",
+            "width" : 1154
+         }
+      ],
+      "place_id" : "ChIJU7AxpDsadkcRwl1-k3CH8Ic",
+      "reference" : "CoQBdQAAAImykYmLeWjIfzZ8_Ab2cg6hbmqRYNefPsCJokgpLotkMOwSiutHib6Kqa_qJZayOt09OY8Y9OVEQ-keYqmJrkS2RtaAywXnU7RsyB6xjtj8ahLYr-HSFdCh4pb8PXdBSxs4HO6Y4PgYoV9D3q_PWd_q8Wm3IoJ0KXjUBVXM_bjkEhBsyaKpinKUAlDD07UbT-zjGhT4WGPJDHXbMf2xzUOla2ILXxEhPQ",
+      "scope" : "GOOGLE",
+      "types" : [ "amusement_park", "establishment" ],
+      "url" : "https://plus.google.com/104960510340791178606/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Badstraße 13, Fischbachau",
+      "website" : "http://www.warmbad-fischbachau.de/"
+   },
+   "status" : "OK"
+}

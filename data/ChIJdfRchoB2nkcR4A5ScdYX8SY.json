@@ -1,0 +1,143 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "130",
+            "short_name" : "130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Petuelring",
+            "short_name" : "Petuelring",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Milbertshofen-Am Hart",
+            "short_name" : "Milbertshofen-Am Hart",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePetuelring 130\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Petuelring 130, 80809 München, Germany",
+      "formatted_phone_number" : "089 38266300",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.1769,
+            "lng" : 11.56134
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "e231962a31b803152d0fccae40083ed426e948b1",
+      "international_phone_number" : "+49 89 38266300",
+      "name" : "BMW Group",
+      "photos" : [
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116840199123358991536\"\u003ePechenenka Nata\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAINGdDp0HZHdIbYRcj-yv4z45Yq_-0HecrGhYG1-9qWZyf5dX5WOWCPLhHUx2aQcvUS4WRHHiU2wgQrf6WbLFGK1rFMYjTchTo9I6JSrqS6k_WGDohJu1wqPvFwXJYMQoOOfzTlK1mNtdxYXVKv2j1hIQdtAhB0nHnKX7ITpIseGCiBoUBrfa6StFYD3Ip6chWvN5ZvcMiEA",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJdfRchoB2nkcR4A5ScdYX8SY",
+      "rating" : 5,
+      "reference" : "CmRcAAAA34uELotrivz2NOP52hgaP-Xm2HpRJCxiG71ngBl8ooFEPoC22UVcP3iP4nzL3BemFz0FfKdPlI2mUiEdEYVZ8uzauJ0d9PQ2IGM2jDyyxFhTJH6VrDJ01x12C8iXJKFUEhBlTgTxRUaw4adXcDw-senPGhShLoGqjCrborr3b19JnbWtOjrgbA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "stefano angiocchi",
+            "author_url" : "https://plus.google.com/111148220331897660447",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "You are the best\nI'm italian. I♡LOVE♡BMW \nI have a BMW E90",
+            "time" : 1423947381
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Huseen_altai Huseen",
+            "author_url" : "https://plus.google.com/116459565356054011205",
+            "language" : "ar",
+            "rating" : 5,
+            "text" : "تحية من كروب bmw العراق الى شركة bmw ",
+            "time" : 1428149789
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "The Money Team",
+            "author_url" : "https://plus.google.com/107869755589444336880",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "The Best Ever",
+            "time" : 1417119789
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Wolfi 5",
+            "author_url" : "https://plus.google.com/102378605743611365277",
+            "language" : "pl",
+            "rating" : 5,
+            "text" : "BMW the best",
+            "time" : 1428058344
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gabib Magomedov",
+            "author_url" : "https://plus.google.com/110424264031782861027",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1414751219
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/104201051121274817866/about?hl=en-US",
+      "user_ratings_total" : 14,
+      "utc_offset" : 120,
+      "vicinity" : "Petuelring 130, München",
+      "website" : "http://www.bmwgroup.com/"
+   },
+   "status" : "OK"
+}

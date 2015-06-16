@@ -1,0 +1,201 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Arcisstraße",
+            "short_name" : "Arcisstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eArcisstraße 21\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Arcisstraße 21, 80333 München, Germany",
+      "formatted_phone_number" : "089 28901",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14966,
+            "lng" : 11.56786
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "679ca78ac1c42d347f07d7714ea722664f45778c",
+      "international_phone_number" : "+49 89 28901",
+      "name" : "Technische Universität München",
+      "photos" : [
+         {
+            "height" : 217,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAARZB0fIxdeohBLxqzBY_UIxDJbvmf9ixfYlkZ8UulSQ5B7HTTjQs8rjK6T7uIoj12fjUGkXm4NDPbcUj4Vbu0rbnYJ55SXqTQHyt6SmyKe7F1qySg8YW11RVbwY-CKX1Dw_MQHELBZWrqPqx_GFPMjRIQn0HV2ACqdErwGiqKL1wsPhoU81X6wd2-JUeuG0RgAGQ5zgd0gnc",
+            "width" : 320
+         },
+         {
+            "height" : 4256,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRrAAAA3Sq1lOl2Eqs1DhHoaECKOiJ7Z2Y3StbjwnbXCfjVpnsvEnbSflnwAC_bziCo54KZ3Dx0eaTXP0MdOP5hy3hd5cAtljHShtZ4pPd_ulxYPgnNh36Vw6J8teouM6uefMbsH2QWM6NknAxPocKgRvU9fhIQlnXyABEvn5VZlBpdlCa-RxoUIHB4iQ5ExuJF9VpkTP-OueRbFZk",
+            "width" : 2832
+         },
+         {
+            "height" : 1715,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRlAAAAnU_tTQFPEA58pD1Z9wU2HehkiZuxJRp3zs87zBOE0wOWB5IAorISHbH9b2aLrNJEWfWPmd5TKz_AxlaoKxOz5s13erXK5bzOoUMrbSNE8pKxwhoUMNBw1VJ7UUtdgPMoCWcO9mzDvTaYGvrkhi3CsxIQ-FVx0U_Gl0s8xBtB-wDOqhoUqAs_cBaOD3hw_oLRNgoRKyTs7Ic",
+            "width" : 2521
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdwAAAGBmdgvu65jrYAyfbFXhUpR4VbawGWq7oQ1y0KS92DPTlRYyHSmJQ613iNFPFkwx_jyKG3k78QNmbx2XLZ51VV2T0QVRRmJj5DvOyOLIqcuK10tsYCKzKCuX3suKi8AULabS6rpjDBpEHO8lmzaS9Vh8wyB9wOuks1EssaTnuOInEhD5TZUc_jJFHAfbSdu9zKYfGhQDaXVsCG1-U92ZMBa-xDhtfXUVOA",
+            "width" : 2560
+         },
+         {
+            "height" : 760,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRwAAAA50RmrOamvY-O0DNKvrmDEu2zoKoCCOWJIVx_kLdHej059slSl6jqylQPSGGpmyEM5eDSV9nlE2pLko4bIsymfRapNvLXvqEkvJHmzgjSZL1DWjOKlMyWjdK8ILDbi4s7fn4SX04OpiC1jRFFBZB6SBIQvdAblDnwCRWiVLXnfcOOCBoUqp2WRbvAD6-R9FqeBOzsRIgvrVA",
+            "width" : 1012
+         },
+         {
+            "height" : 984,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108191845971288551072\"\u003eStefan THOMAS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBrwAAAMQnPaLYFuDrzGogL2eEUpi1T9GAwoP6Jkr3qNuKNCcnKoTz06OwOW_X_RYsd8HsmVN_yepqCgou0WdkMzeavVVVZcjOCX_E238rEGRvXtaHJWYBzqYhMxBfWt6CTBKB7bAhUALYtbz1nAU4Ky-GbPMW0uvwhV9QeYzpgJKO_wuHyN_1C226v1EJeUmEHhltNLpj_q46EJ3rtwSBvHTwfPdMlafjynZQcQNeIx04lnG6EhCHXe3SU_ZyqeEMmFmQpXspGhQqivd6GhzJfbn70slZFvc0YnP9HA",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAQvDOH1KTzu4scsaVguKadVh8eupxhKn9sPVeDkVh0naf4X-V7QEdn7lwrmf_zs53WAlJu-iuYxu6UuX_bGrRjjFefS_SE5LVJcXjf-TLxl8xQHwhj-F3HvWm9VBHD2_O-F112T3DfxVgY44kHp-NsBIQYR8XzSQPKBajPFtqMWFYgBoUL4lyBlMLNryqA0dPKc4DQrnRsoU",
+            "width" : 1632
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAJxzV7eOw62UF_VTfEEoU7yCG6jzmifPPISRY-94805plLdV03vjIw7PS9V7FQLdVGYJfZUQFPhadm7oA_YOf0GEtfJOTnlj-JqYYDFfTj9iW4wMAw4B2hvO6JbOgOtwk-dRFZanC_zu-8eNC-49v2H3w6zqT_TW_-7cJta2JjE3EhBGZlIMKzDWdET2KXy01q_oGhQ2Bo3m1LOlq0M1RHg-Hv0ET-3W7A",
+            "width" : 2048
+         },
+         {
+            "height" : 760,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRwAAAAIYN6mevcTbtvCvLeqHUO_vJuFd1NV31gOinuSc34Z9MhvSi9h59PNpjEo8FOXqOTOmEUmZ5N-T36KeXdiWmo9yPPOUj3AbIChsN0JBpPWd1bIoSLkOObG3PmHM4WdIJLaL98Lu3BjOdBKWvkxoZnIxIQmfNCdW874wMNz8t6bVCflBoU7BIR7QXSqxtzzAx2t8-iZf9pgLA",
+            "width" : 1012
+         },
+         {
+            "height" : 1715,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRlAAAA1v5zliG0g8q-nqkKUKUxVf0m-_YpME308eYwZ93_Z88SLKsX7Cgq6FAdeiBthAiqzt-1_Get4BDZ_pwUVVSFphAszV-Rd-rhF3BWx_3xb9WgVZusoLq0q7v3IUsG_SgYuZ8AWWIr6GvAL8T9Bl5ohhIQN4y9ipnIy59xrt7oLbJ92xoU1A4kV6GPt6fxTqH-09_Wg0i1Qh0",
+            "width" : 2521
+         }
+      ],
+      "place_id" : "ChIJEYxtM2FynkcRnfFb3ERNoHk",
+      "rating" : 4.8,
+      "reference" : "CoQBcwAAAC71VmISwPsc4u7mrkcqhxr49GVx0sGT1ErGjjWN47HkTLha7LUmw5XLc7DvAi1YRM99ZFBWWB5U8Ym9EhAC2c9WLCZ4z92_bYpDHyauh8XQaJ-I40zBmvaWkMxDN9EVKt7rAuxnhbakU4fmbVnZRbXhA8AFtr6dFxKnoxu0hdyMEhBOrSKXvvFZk46LIllEfUY3GhTLp6hiCGyshXUlxW7_sNWz67J-Cg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Deski Beri",
+            "author_url" : "https://plus.google.com/107728729221933903034",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent place to study and doing research in science and technology.",
+            "time" : 1397468844
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Geoffrey Poss",
+            "author_url" : "https://plus.google.com/109345070069976718797",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Did a study abroad there in 2008. Best experience in Europe!",
+            "time" : 1384183342
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manfred Weis",
+            "author_url" : "https://plus.google.com/104995377906425452389",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "is the best university in the best city",
+            "time" : 1375103765
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anjum Sohail",
+            "author_url" : "https://plus.google.com/103291012152394691677",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "wish to join as student in textile spinning",
+            "time" : 1418643818
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sarthak Pati",
+            "author_url" : "https://plus.google.com/108503443055750018086",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best uni. Period.",
+            "time" : 1329200694
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/112868093621728636928/about?hl=en-US",
+      "user_ratings_total" : 67,
+      "utc_offset" : 120,
+      "vicinity" : "Arcisstraße 21, München",
+      "website" : "http://www.tum.de/"
+   },
+   "status" : "OK"
+}

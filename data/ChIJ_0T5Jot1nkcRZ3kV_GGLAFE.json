@@ -1,0 +1,203 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Marienplatz",
+            "short_name" : "Marienplatz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMarienplatz 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Marienplatz 8, 80331 München, Germany",
+      "formatted_phone_number" : "089 23300",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.137558,
+            "lng" : 11.575556
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "28298fbc0d4fbd3f89500f00f93eb01ecffc3ce9",
+      "international_phone_number" : "+49 89 23300",
+      "name" : "Neues Rathaus",
+      "photos" : [
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CqQBmAAAAAG2BjDCEbkqu9tLnRt4h4HSO6gTS3AdZNUwCbKU58dCW5kD3EsIHHUNXRgA3VfYFVHt4khvXL1BVNpXC0EgZWN-VVzFtPnfM76CQ0jPJmwEiSEFfdISNg2g92uvH0EsMBmgp9BSE8BITjuiWUy6EoPn9LYSoPrbQh3oilPfg6l5OY6k8g6xIfVs8lNLG-7D8QHn2Wdk0pd0_V0gwxN8GK4SEKKXkYIdEQePuPJ2xrPVm8EaFNkMiKxqjH9_q2KklGNdlr8kUERR",
+            "width" : 3648
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105746571168347686472\"\u003efpamar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAORfBzdS7QpxmaR7v4Iy3VLxMjmtfVoHt-dUJWRP8ne2S55Ra6Xc2-NMWtTVEVGBprM3nC2DzZeCleht3OtHniczWgBTf4Eu8Vu2xcXGtmnsGPVvxcMN2m202VXJ9X0e6Gt7lAuNeBLKm-Cu-pZh6Ey5sXj9ocbuwWpwprvg6BCKEhDoEL24wRubvI6pknLo3wMOGhTU6Wtq7XF8Xjv1LRkCndcM4SKs5g",
+            "width" : 1200
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRtAAAAn3rgMvxbaaSf5ulPukpRhTPZJt6XJLNB7XWTS7SbJCJSNKvdMpjdPwfL5Xot6Fsc8WKGwFLWXMzKB-ZuIJYA8IXEAzagANFU-mnkAOzht5NP3LhmD5JvdTgCPuTXPxJi6gwPs8C2CiFBxEWvE330thIQBKA4BmUdnl-XAu_6mrtIJBoUFQVX4n65qO4ND90T23_nv3Rrnlc",
+            "width" : 1200
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CuQB2wAAAJSEajq8BUA6RyB9XxZT5gEHn8_-JAisz0oQG-g4UepftpWjPq-i61U8uv6GFav0m786Mca-VHpN2V8I7swBvRwDq9ngUp2NpYoDGsyj5Tl7BS9XyQXx8IMIvEn3pPNhUtfYTZgCql2Xa9UsVGhVjL7TdN7S_yb9XRxPQcAYi_q8E5POgj0ArYVtbRYWxtZ-8NJp3-qbwNl4fIeD9Qc29XKnglnai25eG7_19fCfkKGRrkiwqQPYwGNY7QrpyknaII89w6OCZs9aoHjGaS-XkeUS_FyVpKw9jB33bHbbtrpkEhB2p6jyxUd2y2YRjKBs6IrFGhRDyIMSrkJIrH224wpYsmECzHuw_A",
+            "width" : 1200
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CqQBmgAAAAbvTvE-7XRaJPSWKUP5t5xRQOsIZAbSSpJNHRAYTt_vkjPDw-378tIY4hnAkXPQhv81oIahwH7VT1CXsXrQRtdAT9AeD3yok2RvAOUi1vD6IMULtOK5y2vU72Njehq9ukeQ9qlaUZ-dfsldvOcckwjzajdlS_kvTSTBUMj3Bov1U0WD2E61PaiCKJ9dc0aCY1d7amGoqvC-2o-X2kMA5MUSELgkJ0xQGQrd5hy9Ipa0eCYaFCPQxnAid6fG16plbULhaN074hRD",
+            "width" : 1632
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBkQAAAEYS2G-8t8-lqjDjdfKABhMC8b9fuW28OeSXaG7Ofjgk-_vvZcE98fqxn_xgoUPnYcqH-tX_dnJlefl20oiKmZgmZt7jqu_qz69TOJq6N2-e_7DszWiFxQwGFRBA_4iiQROXNZVpNmgcbQLhHdpJM8ITuCSh9k2stY6hw60R0gO0GgH2Y2iiVQxZ__-7n5LYbCyhBN-ki6mtnQLJy8715E8SEEjPBjo2TTd-wxiPdKyy858aFN-FiD76zwJJdVcCqRU-3aGHBFFb",
+            "width" : 2048
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBfQAAABcfb8g55mfwcNpR0f3_DVhkRAMes2w4OfgX7sgXuyjPUwEBkdWG1NxEllFDtiSbXuVo0a_jFU1IfTwxNpRlqdg6-OS8ZxtFTxmCf5s57gims5suywP4ua5jz4K029r8QAzNBC5qSmFACU_r0qgUkqaXfN1zLcJMnkrp_JV1URIDEhDTE5xEr5sWxlSyfm7ms0ZmGhTOj6K4siT6H5653QfHvpQE-uDCHA",
+            "width" : 1200
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBgAAAAKmv7-QKnKsAZfCyBY0gDEGVJ3IzBzrnBQMXMtcTAkNbHdfR-zTHemtkaKy4oEQBNxg0R3nSv_e3JoprrGw-obXVYdiM5jkmhZo5VKN4l06Lt9jkdV_76d_8Zol2GlR8XtVU7IT5C7STTDYXReg-YXIpjkWotoafu07yM16QE8XYEhBdSfvLUtSh_3Lcl3YkJAsaGhR8vG-NouW1qMMaFd0TZBGqF07ZsA",
+            "width" : 1200
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113611137727177930434\"\u003eVesselin Nikolaev Nikolov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAw5n4_fdqVrrFYh37MnrGvfpUKgsqzOWfs-o9LLjD5n9s5T9dHHUI25bZ2tOk2dH-T7zVlB85I7kJijkEDhNeKnhzufC7-4jybaLUojyllZdNMt3MUmWRYBaXm-M_oZJUFAPgoJiZPqVID_G2BMDiQBIQYAysc-UGWIKDvSN9swjLXRoUe8KkqbrCwV81fqJ5nPAIix_VPNg",
+            "width" : 816
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108191845971288551072\"\u003eStefan THOMAS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRtAAAAeD2SwbZN9hCVFR9QsGMm0GAFUCU6csBLJMfJxfCx_ujltGHLiHJN02xsTXvpyfq7D40DbCU1b4UFX1i9d8pkSVliqe2XmFORgKg9UGNyB55HgPxiKe6d_UvUYp15O2SR_Zbh4Rhmp0eO_IOVCJdEqBIQ72iwWDN2OCUUkGlzJMIewRoUDAmez0KgDgpviDtDF-2EWGGWe-U",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ_0T5Jot1nkcRZ3kV_GGLAFE",
+      "rating" : 4.7,
+      "reference" : "CmRgAAAA-7o0KfqtJ-Rl3SbxJKTO7nbm0Aq9y1_PD39nydFTizc6U4Dc5aCR1EY1SyEiIH-HXZimYAQ4-dFYxnZobfDWx0rQ68Ltf8OIWvord2merrnWrO3FEqkZZeEniAa7K8DhEhA2dRkm1f8thNyQpEfJJqIsGhQ7G7i-4oQakxi-FcIzqT8t2Vh09A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gabriel Lopez",
+            "author_url" : "https://plus.google.com/117635666075800884931",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Beautiful detail all around this town hall. Very impressive, it's a sight to behold.",
+            "time" : 1420397256
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Terdsak Jaidee",
+            "author_url" : "https://plus.google.com/111029692863586176521",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "The center of Munich, You should come before 11.00 AM to see the doll dance clock.",
+            "time" : 1428311371
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Really beautiful building in a Gothic Revival style with richly decorated facade towards Marienplatz. Neues Rathaus hosts the city government, while the major tourist information office located in the ground floor and restaurant Ratskeller occupied the basement. I especially love the Glockenspiel that performs daily at 11:00 (as well as at 12:00 and 17:00 in summer) attracting attention of both city inhabitants and tourists from all over the world. Tip: Looking for a breathtaking view of the city? Check out the main tower (85m) that is open for visitors.",
+            "time" : 1352580665
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eddie Santos",
+            "author_url" : "https://plus.google.com/106469845964432673736",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Built after 1867 and taken several years to complete, it looks older than what it actually is. None the less, it's a beautiful bavarian structure.",
+            "time" : 1386913887
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Tarek S.",
+            "author_url" : "https://plus.google.com/107157596784645673397",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "So much history! ",
+            "time" : 1361054902
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/104421748906240496807/about?hl=en-US",
+      "user_ratings_total" : 56,
+      "utc_offset" : 120,
+      "vicinity" : "Marienplatz 8, München",
+      "website" : "http://www.muenchen.de/sehenswuerdigkeiten/orte/120394.html#fotos"
+   },
+   "status" : "OK"
+}

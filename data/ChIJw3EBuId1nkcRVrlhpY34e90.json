@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Praterinsel",
+            "short_name" : "Praterinsel",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePraterinsel 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Praterinsel 5, 80538 München, Germany",
+      "formatted_phone_number" : "089 2112240",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135206,
+            "lng" : 11.589
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "e306891d97c68ea3cfc47fb79677940213e36042",
+      "international_phone_number" : "+49 89 2112240",
+      "name" : "Alpines Museum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 1:00 – 6:00 pm",
+            "Wednesday: 1:00 – 6:00 pm",
+            "Thursday: 1:00 – 6:00 pm",
+            "Friday: 1:00 – 6:00 pm",
+            "Saturday: 11:00 am – 6:00 pm",
+            "Sunday: 11:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 156,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAALNmFqV2huBk4pzpArkOa-XPfVbtHBrrHTLrEc_O8vnYCO6JuSa5fa7eRbvlPBP5q-vjBFwFVJuER0u0QHskwIsr3hUH4FHX4cGwnfSlVWY8z_9-FoYNeTKwEdZiNLhbXx3glkZVGQB19gk33zCrH0BIQFWmIk2myhhXqP_Z39HuZChoUD2ToIp_8jdNnHArQ3EXicoRCbbA",
+            "width" : 156
+         }
+      ],
+      "place_id" : "ChIJw3EBuId1nkcRVrlhpY34e90",
+      "reference" : "CnRiAAAARbmlKWc54zzisIlJIUcum69rNcIpWbGN6QvXs5IrPZmvH-1FAuJAtJT7NgUuI0TIvUOY5w-YUTFIoCuyM-uTktHwJwQqekekMmDKi6wZ6Bn4JY3iC_Qwnex5YRj_NJ1tJFEqInyMdvloWBhoIWUO3hIQ2o7Rvd4OwFZzLYusDlDzyBoUNvoQ4UghMfThrZ86zdVvf-BowWY",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/104047875505580707114/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Praterinsel 5, München",
+      "website" : "http://www.alpenverein.de/Kultur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Dachauer Straße",
+            "short_name" : "Dachauer Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80335",
+            "short_name" : "80335",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDachauer Straße 16\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80335\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Dachauer Straße 16, 80335 München, Germany",
+      "formatted_phone_number" : "089 594574",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.143232,
+            "lng" : 11.560267
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "818cc9cb09599fab9843fdbd2ecd53477e327dee",
+      "international_phone_number" : "+49 89 594574",
+      "name" : "Gabriel Filmtheater",
+      "place_id" : "ChIJd31bsPt1nkcREnKjrXcwy_c",
+      "rating" : 4.5,
+      "reference" : "CnRnAAAAc_1MDrF5YCRhCY3bY06AtLErCcMPx5Vy58uKgj0JNKjgLYBIbZjej5uhMD_M0GwCZtEOMveWTlj_Zct3PnwYCQdNrzviV8rOXVHV7P1-U-6wDtFVZw8U5z-vXpwbLpo0ohn-gxGOkWR3IprvCfw_qBIQJzs1DnfExW10ZMBzUp0IQxoU7J-ITyHBJTzgg_OIRvGWhJ2XF8A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Fuchs",
+            "author_url" : "https://plus.google.com/109110490454687143831",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Für mich das absolut charmanteste Kino in München. Es ist zwar sehr klein, aber die Atmosphäre ist richtig toll! Das Bier wird im Glas serviert! Kein Vergleich zu Multiplex-Kinos!",
+            "time" : 1424902512
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christian Paul",
+            "author_url" : "https://plus.google.com/111207010972098663522",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Urgemütlich..Bier vom Fass und nicht so voll",
+            "time" : 1427391646
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrea F",
+            "author_url" : "https://plus.google.com/106595295901684897854",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich bin begeistert! \nEin total schnuckliges kleines Kino.\nBei den gerade mal 4 Sitzreihen in Kino 2 herrscht gemütliche Wohnzimmeratmosphäre.\nKomfortable Sessel, abgeschrägter Kinosaal (was ja oft bei älteren Kinos nicht so ist), sodass man selbst mit einem Sitzriesen vor sich keinen versperrten Blick auf die Leinwand hätte.\nUnd wo sonst kann man Weißbier vom Fass aus dem Glas im Kino trinken?\nWerde hier definitiv öfter hingehen!",
+            "time" : 1390554295
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karl Od",
+            "author_url" : "https://plus.google.com/101936858006691080616",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "sehr nett dort!!!\n\nGutes Kino",
+            "time" : 1424939580
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Christian Königmaier",
+            "author_url" : "https://plus.google.com/101993699577511266012",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Tolles Kino, Bier aus Gläsern, wenig Werbung und sehr günstige Preise! Was mir besonders gefällt ist, dass es eigentlich immer eine Vorstellung um 21 Uhr gibt, dadurch gibt es keine Hetzerei vor dem Film. ",
+            "time" : 1355237853
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/114963598039641503006/about?hl=en-US",
+      "user_ratings_total" : 15,
+      "utc_offset" : 120,
+      "vicinity" : "Dachauer Straße 16, München",
+      "website" : "http://gabriel-filmtheater.de/"
+   },
+   "status" : "OK"
+}

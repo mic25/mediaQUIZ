@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tengstraße",
+            "short_name" : "Tengstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80798",
+            "short_name" : "80798",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTengstraße 7\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80798\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Tengstraße 7, 80798 München, Germany",
+      "formatted_phone_number" : "089 7471660",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.155571,
+            "lng" : 11.568056
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "03fa12690b8c159777469fb6f66f4dd501a4afb0",
+      "international_phone_number" : "+49 89 7471660",
+      "name" : "Kapuzinerkloster",
+      "place_id" : "ChIJGeWRWN11nkcRxnl4Mawr-Ck",
+      "reference" : "CnRjAAAASKt5MwU1bcrn8JewCJGiah811dPFIVHa5lU8EfqohTnQu6MtWgsDFS6l3kgagG1dwFzD7TFtaTCJUPa2etE2IwYlXa0Np4L671XMfPb4_JRSgRNa0kib2Zj7_JcgyttyxusWQxcas0rFpmnzUko0vhIQmQWtxrbmY1llGDu8v-Ug0xoUUH5VcaDo_hzl1vFVe8pFT7QWIqc",
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/115723539579027524911/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Tengstraße 7, München",
+      "website" : "http://kapuziner.org/dprov/orte/m_joseph/index.php"
+   },
+   "status" : "OK"
+}

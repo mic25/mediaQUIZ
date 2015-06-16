@@ -1,0 +1,143 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4",
+            "short_name" : "4",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Galeriestraße",
+            "short_name" : "Galeriestraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Munich",
+            "short_name" : "M",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Bavaria",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80539",
+            "short_name" : "80539",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGaleriestraße 4\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80539\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Galeriestraße 4, 80539 München, Germany",
+      "formatted_phone_number" : "089 221152",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.143768,
+            "lng" : 11.5803
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+      "id" : "3c95754f9611dcea8e04c9ab9f1dee8193a4dd8f",
+      "international_phone_number" : "+49 89 221152",
+      "name" : "Kunstverein München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ5_ocZY11nkcRFoHqnwpuFx4",
+      "reference" : "CnRnAAAAvgoZ4LlQnfiNETCKOr8CLsyC_gDu5ykdvSdgZwv-gG9HGYUJRTWdUDJy2Tf1ME4WN3s6V60orAh_GJ4-Dy2ft_PZgVetWOafKDS9q3mtx7IcUBeDSFRrtT7EXHRJpDPkiclZVKmK_irWoDByDk9s9BIQUshzbC-YtnD15yS6x3JpGxoUa4GhNuyyhF9reF0cw2sIUUdHJc8",
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "establishment" ],
+      "url" : "https://plus.google.com/101269693465893049361/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Galeriestraße 4, München",
+      "website" : "http://www.kunstverein-muenchen.de/"
+   },
+   "status" : "OK"
+}

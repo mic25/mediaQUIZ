@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lichtenbergstraße",
+            "short_name" : "Lichtenbergstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garching bei München",
+            "short_name" : "Garching bei München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85748",
+            "short_name" : "85748",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLichtenbergstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85748\u003c/span\u003e \u003cspan class=\"locality\"\u003eGarching bei München\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Lichtenbergstraße 1, 85748 Garching bei München, Germany",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.265691,
+            "lng" : 11.676021
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "503adb15ec1dee2f846624410f34dec0e4df5864",
+      "name" : "Forschungsreaktor München II",
+      "photos" : [
+         {
+            "height" : 120,
+            "html_attributions" : [],
+            "photo_reference" : "CnRlAAAAOZyH9WVXZ4Q-nxlUVFipppHgOL6W9GNz9oFNqHjfu1FC3XOQGlvUsQwmbPlTNydEMmx5wd6pQBcL01vwpgPjLFT0DcM7j7Madg6ZGCRvL97yw5LpVY0gG_zSyFZ8e8GevBypqq2uttftrFeh2MzAXBIQdzrbiB5OFVRxFwcj1a1J1xoU1QQuL7pWrtOyqtWUKl8R5xgAMgc",
+            "width" : 120
+         }
+      ],
+      "place_id" : "ChIJv62is5RynkcRLN8Zx7LW_lo",
+      "reference" : "CnRwAAAAwACWjGqrQTrvzEF9j8C6RvY-G42sb-IToJ_85FYNIICGsntunXYohiMN-7QR7dfXFwxMe3DjT8AKl9bUuFECpmgTgyG8askyOUuw4O9KwA1Btb8n5kVLQ3VhOxbzSR04Sb-jkqSH-nReNeFbhJzdKxIQewatiOcvo7eAq2i_WiHJeRoU7by-9gSaUG5c99sv4AsW0kLc7LI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Die besten Neutronen in ganz Bayern",
+            "time" : 1314099197
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/110519065698969033842/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Lichtenbergstraße 1, Garching bei München",
+      "website" : "http://www.frm2.tum.de/"
+   },
+   "status" : "OK"
+}

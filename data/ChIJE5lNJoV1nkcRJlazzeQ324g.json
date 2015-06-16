@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "9",
+            "short_name" : "9",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prinzregentenstraße",
+            "short_name" : "Prinzregentenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrinzregentenstraße 9\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prinzregentenstraße 9, 80538 München, Germany",
+      "formatted_phone_number" : "089 23805224",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.142222,
+            "lng" : 11.593333
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "cf0da6ad98b3cf6ad15107e1acac7a26fe433b1e",
+      "international_phone_number" : "+49 89 23805224",
+      "name" : "Schackgalerie",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJE5lNJoV1nkcRJlazzeQ324g",
+      "reference" : "CnRhAAAAHyAGnDYMkeAdwjPYl1GXs2kUDCqgW0QKAVuPr2O5Fytd3DOJoqrEnhTcp6TcYMGX2FQJaBHL9R4BiNWlp3_WBO7ZBORVIzV0lIbwkcbAjDn-g1QwLRPZLOw7qI4ZQ0MevVmiKKTYpaenPClkh3wcIRIQkqI0NLw5iU3jRr4J3Wr-GxoUvdKS319k19t0KkvMZjtRxPaMAYA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1330340345
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/101633310909947044246/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Prinzregentenstraße 9, München",
+      "website" : "http://www.stmwfk.bayern.de/kunst/museen/schack.html"
+   },
+   "status" : "OK"
+}

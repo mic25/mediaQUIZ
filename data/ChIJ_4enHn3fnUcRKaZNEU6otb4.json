@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lilienstraße",
+            "short_name" : "Lilienstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Au-Haidhausen",
+            "short_name" : "Au-Haidhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81669",
+            "short_name" : "81669",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLilienstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81669\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Lilienstraße 2, 81669 München, Germany",
+      "formatted_phone_number" : "089 482403",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.130969,
+            "lng" : 11.587414
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "e49e75fcfa4a678bed3d7096618b6ee6fb554a91",
+      "international_phone_number" : "+49 89 482403",
+      "name" : "Museum Lichtspiele",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117844625297429493694\"\u003eEbrahim Akbar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAALg-SlW25OR4g_r4f5oYacJiKJ_h0ARU2aFq9WnXXECCpVdXjkkcRFDcPa--g_8ueQ7UPQyo7qj7nYqV8SAmxggiIhBYBaZcb1horGx9flDuSkilFJSFoDvJdXnpAIrT3r4BlR8MJPmTTsfOKRNDbuClhzKBSlDQDh0zgzjRT2V_EhB6264dy4msSz-G43I0JBHiGhRVOF-s30bO2TCyaMApB9HpbCkprA",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ_4enHn3fnUcRKaZNEU6otb4",
+      "rating" : 3.7,
+      "reference" : "CnRmAAAAtuA1aCZ9Sz2wYVoqjF5JzFwcdvt9eNxfWPyVUb8XiNrO2POnJHiUv6wdmkyW5t-V-4Y28ErB0Y-2k4DaEkRtbeLrsDku96A2u1qlct2yzkXHEbldJ03V27NaNDh02ro27ZK3NR-5pN4SYqcRjSHwbBIQD9EQ0qk7bOqOcttDG4rN9RoUcV_-RaHHxMyJWQjZlxMDstqOztI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gosia Skiba",
+            "author_url" : "https://plus.google.com/110312121567183698200",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great cinema! The opposite of any cinemaplex. Small but still great selection of movies. Very friendly staff. My favorite!",
+            "time" : 1423821586
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nem Bog",
+            "author_url" : "https://plus.google.com/108540657033958682674",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice small cinema with original version movies. Very friendly staff.",
+            "time" : 1428255825
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Michele Tartara",
+            "author_url" : "https://plus.google.com/108066050547107616892",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Small, cozy cinema. Great selection of original version (OV) movies (mostly in English). From the technical side (audio/video), not the best quality, though.",
+            "time" : 1393579643
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "James Caldwell",
+            "author_url" : "https://plus.google.com/105717216955152051302",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Cinema was sub-par. I do not recommend! Go elsewhere! The theater was unbearably hot (32 degrees celsius). The seats are cramped.",
+            "time" : 1376772884
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "atmosphere"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Heinrich C. Kuhn",
+            "author_url" : "https://plus.google.com/109713292962660564110",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "OV movies, niecely decorated small theaters, friendly staff.",
+            "time" : 1344498609
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/105896455437215996982/about?hl=en-US",
+      "user_ratings_total" : 41,
+      "utc_offset" : 120,
+      "vicinity" : "Lilienstraße 2, München",
+      "website" : "http://muenchen.movietown.eu/"
+   },
+   "status" : "OK"
+}

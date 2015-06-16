@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Residenzstraße",
+            "short_name" : "Residenzstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eResidenzstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Residenzstraße 1, 80333 München, Germany",
+      "formatted_phone_number" : "089 290671",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.140451,
+            "lng" : 11.579966
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "661ef54219726d4d1d09972267521fda5954eca6",
+      "international_phone_number" : "+49 89 290671",
+      "name" : "Allerheiligen-Hofkirche",
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110551492081725704752\"\u003erey perezoso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAVoAPW-ZlJ-hOHOEnBVg6tO0I_vPYXUWjpibt3DKFZ2hkHrTw-agteKgkEMFc4tXXrfFZfJi871lKClwNrEBCO4gvQp-6z7HHKW9JP0uGRnpQX4qSZjrloUL8zMtjxsiSt4JqdEybXnV0tMnv-v3SfxIQmXJVNQWF5vALn1XYDjPRpxoUtkrSSzB9Spz6FGr_Sfnx4o7Peso",
+            "width" : 5184
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104447829340570180658\"\u003eIsabella Bart\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAB4EWFPx1KDuBRChrLQFx7IE9l59gd5BqvrXhO2n3HynkB9ctcUUrm6_t61fUGIUZJZleGHwyo8ZByCWN_Tfs13HawYIfpEG8CV-h1C_SaYrMPiRk8SXN4yHdplffweYpPbqXd7jyvyH1TqJ4h4OMxxIQ69Q2dK_3hkyMLhwKUfXnuhoUCk6YwETKd8W_nPuFJDA8vVkNkXc",
+            "width" : 1224
+         }
+      ],
+      "place_id" : "ChIJ53d42Ix1nkcRKKwyYPuU-DU",
+      "reference" : "CnRqAAAA93Foki8R6PPe6otbVeSlZf4XZ1825jr3UbxJC9JWCXwaGJlEKwKByFrlmn2KmF8sIKEyfbeAQioEdyMjp0NANU3rXFgxYx8s9z4j0M55aEPGHquYdFstLdyqP6uytUyt-VA8oekUKLzhvq8ETwVpEhIQnUGmRic09eVOTJM9-9fcdBoUqnv_Mt5gIYO7beM6W9dY3wNRXRA",
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/107909175554553058681/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Residenzstraße 1, München",
+      "website" : "http://www.residenz-muenchen.de/"
+   },
+   "status" : "OK"
+}

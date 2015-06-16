@@ -1,0 +1,284 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86152",
+            "short_name" : "86152",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Frauentrostraße 2, \u003cspan class=\"postal-code\"\u003eD-86152\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Frauentrostraße 2, 86152 Augsburg, Germany",
+      "formatted_phone_number" : "0821 31668511",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.372752,
+            "lng" : 10.896566
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "a18948a1ad1b842a3138d3c429b6b895f3b3aab3",
+      "international_phone_number" : "+49 821 31668511",
+      "name" : "Hoher Dom zu Augsburg",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 6:00 pm",
+            "Tuesday: 7:00 am – 6:00 pm",
+            "Wednesday: 7:00 am – 6:00 pm",
+            "Thursday: 7:00 am – 6:00 pm",
+            "Friday: 7:00 am – 6:00 pm",
+            "Saturday: 7:00 am – 6:00 pm",
+            "Sunday: 7:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA4DcBH76F18uniAqywHdUuI4Sub2MJhGd2sqwBwmNt9hxH5YyYvP-StGhgy-mUjB_R2Aqr5WLh1RxLAWH6JGdi2FTo_ktRIaq5zgjWygM3wpRwBjb6VzN4SRzuHndjznf-ht-bXBqDoiHsr6ag969OBIQm2dlwH5dDvL9bbbyGBVKCRoUiMkYQeDo86pzrn9pHKWWd9wSNGE",
+            "width" : 533
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA-M5I3O0pN7f4w1xUE3rVFsm9FwqKuX8vaeZDDhcrKb008MgYz8A3IxgziwihCjwC99iPg8geRHeKtrpRLW-j4Imio4w5Ekk4Tcm4BD2vtcXcAty4rgFPqu1i5lgU0OV9frue6r7-HCy0gyjUdHBEAxIQMEzLjYCaabkyf9cJguh9QBoUx20cEtma1KG3_7x2DtURiqsjbCw",
+            "width" : 800
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAlUEbIKFEPJGVo_rf6piqKjUFgXbDdLTCXB_rqM8cWH7Hn5-rSV6ftn4MMECiBGiINlBkMRaucAs5pwCRdmLzmMQp1itXnQo2SFdMExiU5hLtaUefynnyYjgFIVwb_nzNqvbltgmnprFi5CIJFKe9rxIQSZH9J90x7agqcMZNllG0vxoUDEamTrceP0VFx9yIZoRqts7bXZg",
+            "width" : 3264
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAkKqyisvXgcAjJ3MJnoJ74iHg_JW-EWRdjsY3HaKyirDLfFO2FPozplOXY3vtgL_3yP3uGHASWtLVAtax6mFfOjQJQ8tl5-ERn1nj3jAtIS4h1OW3YLeylhqH0_9_FW--2viLO-07-bRyw6PehkwimBIQRdkLUTdH2Y2gaP1l3QwhoxoUm4jskENLcQkZdt6aXbs6Oup0kmw",
+            "width" : 800
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAqm95So8D0_H66FhnP3Z3OVc1mBMbwLSDy1O9oHgS0VwdpK9VfQzocphB24EoVGFYH6WqcfXDKbDUWmhUIJuTbJH54ZhBvePRvsA8BDoIFBGEGTMgbFv_JCmWZTdT4s2xCgT6xV5A6ZJNFPtxTEQfPBIQQtQY284LZ2mYQV1FAkmsEhoUYgmPGGwSXA_j2bxCH9upGvU1Jq8",
+            "width" : 533
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAhbI0XAk5ABH_PAK05oc8_G0I-MDasra17MKy6NdvtVE5G9T3aADnZ5ZI7KGVWMaj4fJov0LShMhUuRQPnyQ14FXR-duXZT38pZdZUCoEpryoMkgY2l3s2l4lrt21Z876nA9sBf5QXkZl_BTuEFhLRRIQspadh__X90za2ZrxIjZp9BoUQDKfjUIFPlOfJszbTYNTQM4mE6M",
+            "width" : 800
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAFqpE_Jjvdu2C9zaxhgbvt0ejWaDrxZ2x-QsLNCp4wapLe5JsQNzIDeDB-_v-r95vtu3xR08kmrWFNztBBK4pt4GDqER7qLiiSyuvyP7eftkSF31I6MyXiju2eGsPP8UNhUPM7ttXTqVBMTcvhQq7rhIQJ1ww97f7nOrxsv3sgkCAPRoU4fQaRYjLAxwlBfyqoPSz4opKwFo",
+            "width" : 800
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAQelh1m6nGT2hWQDLXJOl5PniTBtoPSUqfrsqLxY08fLO4xfWLJj1wQ5BizbnosoBL6S-yxYDSDtqIMvZU2SFpeTkS-aIjJKbbH8rW6if8O75sUWdpKBbAr_XnUIRjo6sFiMLqh2KL9b5SY7mLgzA4BIQnS6ll2wdBTRAKIP6mELpcxoUYd1oevS7Kg1BrKc-7ihbAFlYoFg",
+            "width" : 533
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA_Zgw2u4YffbewP5Zc3o9_cHkyGi0NSk9kv2PjgqbjxlA9NBJjjM3jIEHGTPrSescfxjYAS0TA202heyQKlA80hNAXlwth6SFOA1xPle3HlaoYmLw8zTkHvkdFbYGcFYioI1W5OHJ2ITS07E-XafxpRIQgCp3zOuKhKEutaNx2WGK1BoULLq-EXE1yBo8aXx5cW1zGv5c1Ps",
+            "width" : 612
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAfrC7EsWZeuu1rYwH27_juWTyFz4JGZyXJYpS-s18iiPaewABLjM5SjiyhV_S6BSUDG5QH8EM2mKb8iupF8Jd86ZJ0mXzD31DpsXYXqwn3CABOXkgrNT7PgLHfCri1-ktgMH67Hrbv7kjGKtOpsopoBIQ7HfFuX5OYtxWgip7MIvHsBoU13nH2ccSu-Ua0HyE43iF3AR3BUs",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJk6gZQ1C9nkcRvvqAoBg-dcU",
+      "rating" : 4.4,
+      "reference" : "CnRpAAAA57Kb-byxXAeeD9MU5ZQoSKlmnrykSR63b8Bmx6bjgnyD9arZma_XjpyF6MA_JBUUP8AVEUISjxeoFZv-QtD2cHNC7paXnG6eBcoHZm50660ylM8WjRlGSdoqwInhhuAFYZtU9wiDdAreUpRiG2nIjxIQckwfyH1eeAgqWMcPb46ipRoU3c1RyLHtafm6VAssnJQVTLLnX3g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jody Roberto",
+            "author_url" : "https://plus.google.com/111501244570124582258",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "just another church? \n\nMaybe we’ve just seen one church too many on our travels or are spoiled by living in a city with a world-famous cathedral, but we were disappointed by the plain interior and the stained glass, which we had expected would be far more impressive. \n\nWe had a hard time finding an entrance – the church seemed to have been put together in an architecturally haphazard way and as we later read was indeed changed again and again. We wandered around a bit, was able to overhear some interesting details about the destruction of the place during World War II, but after a look at the cloister, left to continue our visit in Augsburg.  \n\nMaybe we should’ve tried to join a tour of the cathedral or maybe we should’ve just skipped both the church and this overrated mid-size Bavarian city altogether.",
+            "time" : 1412079602
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Manuel Neuhold",
+            "author_url" : "https://plus.google.com/116994795178417125371",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1367627197
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giacomo Spisni",
+            "author_url" : "https://plus.google.com/110900428792772401511",
+            "language" : "it",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1407876426
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iurii Perga",
+            "author_url" : "https://plus.google.com/107606843218438274886",
+            "language" : "uk",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1399325678
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Glauco Possaite",
+            "author_url" : "https://plus.google.com/106289629978457427646",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1403737971
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/106473906120859513736/about?hl=en-US",
+      "user_ratings_total" : 9,
+      "utc_offset" : 120,
+      "vicinity" : "Frauentrostraße 2, Augsburg",
+      "website" : "http://www.bistum-augsburg.de/index.php/bistum/Pfarreien/Zum-Hlgst.-Herzen-Jesu-_Augsburg-Dom/Der-Dom"
+   },
+   "status" : "OK"
+}

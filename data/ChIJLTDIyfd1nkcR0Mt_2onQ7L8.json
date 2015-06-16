@@ -1,0 +1,241 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sonnenstraße",
+            "short_name" : "Sonnenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "short_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSonnenstraße 12\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Sonnenstraße 12, 80331 München, Germany",
+      "formatted_phone_number" : "089 591983",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.136962,
+            "lng" : 11.564332
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "c748d370169e400cca16b8b0c3d1328e915e2320",
+      "international_phone_number" : "+49 89 591983",
+      "name" : "City Kino",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1430"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 4:30 pm – 12:00 am",
+            "Tuesday: 4:30 pm – 12:00 am",
+            "Wednesday: 4:30 pm – 12:00 am",
+            "Thursday: 4:30 pm – 12:00 am",
+            "Friday: 4:30 pm – 12:00 am",
+            "Saturday: 2:30 pm – 12:00 am",
+            "Sunday: 2:30 pm – 12:00 am"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1371,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAqcZTSuanTdf0vfD4LMvtRg_C9Fmbli_swODyJHpUT5cZi7e7hbe9TyOVoI85sveeOBdyc01ptFvsjXTPxhPrsPdpRePPME2l4q8N1xiYSjhUpKU5OJoEzIGWd-gwF0LqH1g3jTMGwMykTQjDrkaVjhIQNce7m2SG8lPAyU8evfV29BoUCWP9K3AtSzplFO8hXKIIb1EnvEM",
+            "width" : 2048
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105737558650838628726\"\u003eFHD NMX\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAb4mw4e0rIWMT0Py2_4VzssNhjVhzEe2mDCpAB1-hUbUVIpUT61gndw7T2J2aiGJE8pnnwxPVg8Oy-qzTdfFNOkb0DjaBsUdodJg8lGunGhzjtfBQs7-6EL2K-qhjeq0HSwNJeRUlDHP1I_dC8RQbjhIQjLRywbmmF1uNH_mLNjsh2RoUwHblHDOCk2VTzcxpipXaziOZZlg",
+            "width" : 1032
+         }
+      ],
+      "place_id" : "ChIJLTDIyfd1nkcR0Mt_2onQ7L8",
+      "rating" : 4.5,
+      "reference" : "CmRdAAAA0fkpES_bM5wAi36cW_251hD2_2OZTeQEJKzH0Bd93xUvM9oX1xMCzA7hjctVGvXbW4iTMmY-QnRarDNCJsgLt2gUQjAeziJsL--tteUvOTrjOoMg5lAyIqMKKR1UJAgpEhCs-51Ap1IubBJtZBTznwH7GhQZGnzj5dRr7rvyUbyQFDvom9g6Fg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Simon Schilling",
+            "author_url" : "https://plus.google.com/107287700490430684819",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Sehr nettes kleines Kino mit guter Programm-Auswahl. Schlägt den großen Nachbarn einen Block weiter um längen!",
+            "time" : 1351235082
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Max Robin Drott",
+            "author_url" : "https://plus.google.com/101721558024926320334",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Café Lounge Bar Filmwirtschaft",
+            "time" : 1325978409
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Uwe Eller",
+            "author_url" : "https://plus.google.com/107709777579597541723",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Die Filme, die mich interessieren, laufen grundsätzlich im City oder im Atelier. Da brauche ich schon gar nicht mehr in die Zeitung zu schauen. Neben dem guten Programm gefällt mir auch meistens der Service. Habe mehrmals eine Freundin mit Rollstuhl begleitet, und da war das Personal immer hilfsbereit. Etwas schwierig ist das telefonische Reservieren der Tickets, da nimmt oft keiner ab.  ",
+            "time" : 1429446316
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pia L",
+            "author_url" : "https://plus.google.com/106764112862017305775",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Diese Popcorn sind die BESTEN in ganz Muenchen, wenn nicht sogar auf der ganzen Welt!!!",
+            "time" : 1427704672
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johannes nölscher",
+            "author_url" : "https://plus.google.com/103649961379234860946",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Hier ist Kino noch Kino. Gute Filme, geiles Popcorn. Komme regelmäßig hier her. ",
+            "time" : 1411227508
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/115465058869250272392/about?hl=en-US",
+      "user_ratings_total" : 17,
+      "utc_offset" : 120,
+      "vicinity" : "Sonnenstraße 12, München",
+      "website" : "http://www.city-kinos.de/"
+   },
+   "status" : "OK"
+}

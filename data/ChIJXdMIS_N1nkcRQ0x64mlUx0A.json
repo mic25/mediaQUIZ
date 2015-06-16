@@ -1,0 +1,241 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Theatinerstraße",
+            "short_name" : "Theatinerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTheatinerstraße 11\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Theatinerstraße 11, 80333 München, Germany",
+      "formatted_phone_number" : "089 24449580",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.141005,
+            "lng" : 11.575392
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "20ae35c6533401d36b2a1170c3a79780fd8121af",
+      "international_phone_number" : "+49 89 24449580",
+      "name" : "FÜNF HÖFE",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111149125902069860283\"\u003eHasan AlKatheeri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAVZISWYoBGCg0usebtgk6YS_fEecLTuUWu3i_OwZV2bFr-N2dmxJ_BF5BgGki1RrEnDNZ-Wp73maFVh1o9T5YjZx6ScnWvokUbqNVK5P9Qdw0F76gSnn6Pz_v_naFGDJajftrvLtlbehD1XYrw86J8hIQkWk5T6KHNyqllfsMu9b8-BoUSoQJRb_TcFTNQ_pgaEJNPUGgzHE",
+            "width" : 1224
+         }
+      ],
+      "place_id" : "ChIJXdMIS_N1nkcRQ0x64mlUx0A",
+      "rating" : 4,
+      "reference" : "CmReAAAANIqoJZK4gRqTyRx5dDD3TFTQNmp3GCVmk20cgi56GVvDpKN8GRZ6yQD8n0xrAL7Dc2a7XMD7O6RrYChwUrrMlCzmwR2T9zPUo-HlJL5IgCgYs1lUyIZW1VflDBV-lwNwEhCZH3jVrL9HYST7ZGorJRczGhQXnoesGQ6X_K_PUkL7URO3tAmezg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "First of all, amazing architecture then everything else! It's worth the visit to walk through Salvatorpassage with „Hängenden Gärten“ by Tita Giese, aftet that visit Viscardihof to enjoy Stahlkugel „Sphere“ by Olafur Eliasson. But of course, Fünf Höfe is first of all, a popular shopping center that offers the whole range of world famous brands. When tired of endless clothes and accessoires, visit The Victorian House or Di Gennaro (my two favorite gourmet shops).",
+            "time" : 1354034122
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Frank Spychalski",
+            "author_url" : "https://plus.google.com/105929453737619095652",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice and stylish but expensive.",
+            "time" : 1296247812
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Alexander Orlov",
+            "author_url" : "https://plus.google.com/102299455092306269473",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "A beautiful atrium & beautiful architecture.",
+            "time" : 1363207509
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Hasan AlKatheeri",
+            "author_url" : "https://plus.google.com/111149125902069860283",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "مجمع محلات راقيه يسمى بالفناءات الخمس",
+            "time" : 1363523389
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ahmad Shahrouri",
+            "author_url" : "https://plus.google.com/107646216824118393011",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ein Freund aus einem anderen Land hat mir Berichte und Aufnahmen für das Auge seiner Tochter, um sich hier in Deutschland über die mögliche Behandlungen beraten zu lassen. Ich war beim Dr. Zarth und habe ihm die Unterlagen gezeigt. Er war sehr zuvorkommend und hat meine Fragen schnell und klar beantwortet. Da es um spezielle Krankheit handelte, hat er anderen Ärzten empholen. ",
+            "time" : 1345902169
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/104039704497922876363/about?hl=en-US",
+      "user_ratings_total" : 22,
+      "utc_offset" : 120,
+      "vicinity" : "Theatinerstraße 11, München",
+      "website" : "http://www.fuenfhoefe.de/"
+   },
+   "status" : "OK"
+}

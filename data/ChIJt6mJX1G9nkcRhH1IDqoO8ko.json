@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fuggerplatz",
+            "short_name" : "Fuggerpl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86150",
+            "short_name" : "86150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFuggerplatz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86150\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Fuggerplatz 1, 86150 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3244111",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.367762,
+            "lng" : 10.89669
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "24874a5d7ffa2824a27e321536c9979eac782f56",
+      "international_phone_number" : "+49 821 3244111",
+      "name" : "Maximilianmuseum",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAZS6P-42iI-sc5ceofdl9sq2q9c_AAcHSVQHCqkhEGmqBMXCl6S2ThU1UMjUTS-_h67cb1BmG_aJLPvEh6SvT-5ljkftNNcnr_lybFuSY2-BCjRNxm-oB5ydTZaNpuXOixZSy_1_eE4I_GZJwl84d0xIQq59tBny6zPihdSHHo5Lf4RoUk8gp7_Vri9CDMCk-38PxyxI1M1E",
+            "width" : 533
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAKCqpL9CQVktCYzJaTmEX4gkgvSqUgVtz_DLkQIPB5YOIEkOQatKqnLJT24qKqW0Y46USrlaU5lps5p7Zhgu0SdOqC1XcMTPylIYLR9LxkuPprXtd86_-Ho9QA2Hjd0SHncnpGuIbazd7td4D6TgvrlXbjBsrrfyX9I0E08tS9NJEhCDmzcZ6ZlJJOnZsWM4t52qGhQvPJe9jTbePfSF3PxDD2tMF7JfDw",
+            "width" : 600
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAIQ668mSXfi3CIxv679y_o_yblX7TKEgzFiWCvibG7rRQF_V0Vx26Y927mo6sKHBX3dadtsAdjPex_5XcdWrTfq5hPAvfmV_KTsNCYrtLLjrF7wc50UgOZ2k-f2q7M7hOT4TSjiRLjszp8ewVrVUMECf2nlfMOjsRmRAYU_R-zBbEhCylnOcWc8mZe5GiEI6Q5wwGhQKh_4S2CVXR8sOHO0JYsxSofHR6A",
+            "width" : 600
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAEpWFZTJQEiawxPaUJ1SV0kGAU7LZYr-bzxD5MGTdgcUvFrCgBNy1wv9ndZB8DUe6h0AiwgGTAMOT3r8KMyp1VOuxKgphS2Ao65E72kLkpCnqaNksVPadwSqsWSn32y9xDgD6qlOptlZB90vI2M00It-gog5twLIqBjDrCbq--7REhDYoGkXlBMHv1FFA_O_0n4jGhTnS1Mvyx1gATVcXBzRW9LcQobeIQ",
+            "width" : 800
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA9oGZ_pdtM0B0iiZ5wN2Xjuq8ThleMq_oTvt2Oyf8eo48WGIE_OGIuQnGUGUR0EZlrLhDX0hYh9jxvL94THWQjgB1CTAAiO0tCRzA5WMIzTJSY2g7KDZv1VKHlVXj-xANj7v_Q5WNII8Jpx45oIAE1BIQLGWkUHQsaKwES3mm4QUd_xoURLYsTS24DH5F7Xq4fYs-jq8JFfQ",
+            "width" : 533
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAV8ry4ZWH_c2TyQJHLxwxT60yfvEf2BFbrq6i_W6KPe8IofOyfP5-iDmF-GuZOOia-JP7naxsLHESykAn9tSrjVTNbavp2inDl3E7fT5AE5O7PyPijiXNjWjYhhsE6cl5NrI48HnsWXFxwHIe4c-OURIQy0iVJoWhqDBXFYigzNiWXhoUoZzLuqVtMnTAr8uGgYrfsFr2J_A",
+            "width" : 1365
+         }
+      ],
+      "place_id" : "ChIJt6mJX1G9nkcRhH1IDqoO8ko",
+      "reference" : "CnRjAAAAaUZlcbSQl9G8BRIylxoCRWejSD_hlrRLNsVReM2oKiN3Ye1xqmXHzCQJrITEKrpvoKEwVkXcoNkQjiFTn51RVGG3K-4k0xixUd3PN9FgceKFEZ0CLtHSjUFz5jY_30nbxv_2SFHDPyysRxKoGl1ZTxIQWosW87PvAO2pe6zWyp8OHRoUOqXLhJNeOsBc3PRD1AxFW67qqJM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Hiro Protagonist",
+            "author_url" : "https://plus.google.com/102181005398363875069",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1360446994
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111088608424129727955/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Fuggerplatz 1, Augsburg",
+      "website" : "http://www2.augsburg.de/index.php?id=4009"
+   },
+   "status" : "OK"
+}

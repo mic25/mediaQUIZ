@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Am Alten Viehmarkt",
+            "short_name" : "Am Alten Viehmarkt",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Landshut",
+            "short_name" : "LA",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "84028",
+            "short_name" : "84028",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAm Alten Viehmarkt 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-84028\u003c/span\u003e \u003cspan class=\"locality\"\u003eLandshut\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Am Alten Viehmarkt 5, 84028 Landshut, Germany",
+      "formatted_phone_number" : "0871 4303179",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.538875,
+            "lng" : 12.156248
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "085893d4d4544e510932df58e44b3af47169dc0c",
+      "international_phone_number" : "+49 871 4303179",
+      "name" : "City Center Landshut 4-RED Centermanagement",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 8:00 pm",
+            "Tuesday: 9:30 am – 8:00 pm",
+            "Wednesday: 9:30 am – 8:00 pm",
+            "Thursday: 9:30 am – 8:00 pm",
+            "Friday: 9:30 am – 8:00 pm",
+            "Saturday: 9:30 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJjWfFNg0mnkcRNLvc8V2GNjI",
+      "reference" : "CoQBfgAAAJpJA7gcahPYYt1_Sb5Qbhs4YuGGmu9Z_vTgDATF2WERdKZBUZlSJWbWGbLe88dLwY6TJC-8lF5mxXPVDhoD0ND0vUQHxuzZ179SwWZ6VUZNaOjQASWbO1GptoV69IR0_drqKD7XpQPIVItqPrx3u9ufspIduq6ry--OBTBF2jaDEhD16yw0DReunrSU7FlmUaVPGhSG9ERgY_bPIGzWhUIuozvd5F6ckA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gerd Less",
+            "author_url" : "https://plus.google.com/103295591735370035080",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1426340037
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander Heigl",
+            "author_url" : "https://plus.google.com/116385543052835810157",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1327930819
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/111008254569957941401/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Am Alten Viehmarkt 5, Landshut",
+      "website" : "http://www.ccl-la.de/"
+   },
+   "status" : "OK"
+}

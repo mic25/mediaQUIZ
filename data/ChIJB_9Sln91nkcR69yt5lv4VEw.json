@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "24",
+            "short_name" : "24",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kirchenstraße",
+            "short_name" : "Kirchenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Au-Haidhausen",
+            "short_name" : "Au-Haidhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81675",
+            "short_name" : "81675",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKirchenstraße 24\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81675\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kirchenstraße 24, 81675 München, Germany",
+      "formatted_phone_number" : "089 4485292",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.133761,
+            "lng" : 11.601523
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "ee0836d2a25bc0b756056e14e61ab497ba8ffbff",
+      "international_phone_number" : "+49 89 4485292",
+      "name" : "Haidhauser Stadtteilmuseum e.V.",
+      "place_id" : "ChIJB_9Sln91nkcR69yt5lv4VEw",
+      "reference" : "CoQBcgAAABbaQFzqjNlN8RKFLUdfuSk17xmcG1CmbJz4sKFleUn4S8iUOSP4hVMNKDYI3WJ98gXJDqpaUFYlZ8t4h79CZvB6Ss4aESpgD_dsxS0MF77M0P6SPY73uj_5Y9yxCNvpEDr23r001mn1bup0tHpaoBYFCj4oAjK16jSrQWtkbvjFEhCCrpmvsisMr14m0hBK0TiPGhROpbQSnfxtSBN1Vpq10DDxAGz1sQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/103241816467253508993/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Kirchenstraße 24, München"
+   },
+   "status" : "OK"
+}

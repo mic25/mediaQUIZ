@@ -1,0 +1,273 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "33",
+            "short_name" : "33",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Luisenstraße",
+            "short_name" : "Luisenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLuisenstraße 33\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Luisenstraße 33, 80333 München, Germany",
+      "formatted_phone_number" : "089 23332000",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147012,
+            "lng" : 11.563645
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6d2470b70ec78b01bdfc3ff6d4db1bfd69fb04c1",
+      "international_phone_number" : "+49 89 23332000",
+      "name" : "Städtische Galerie im Lenbachhaus",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/101776844630674138344\"\u003eBirgit Pauli-Haack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAop3f0qvEw0clj8VNrV0ajowE3Q29mAw30dbbriP_gZRO0sdd01ahwvpwT4WhPaamVTtaZDUjsmTWqWjaT4ZSFb1F6Vd_-BxR--lMua76NB7aFTtxM7rl0dPg5S_Gx93ylGq33hqAFuhAbAqmk0ijExIQnbJbx_On8lq-fWXmD6nIzRoUUPtmI_bKgWyX7y6qIUcmeR4IexI",
+            "width" : 1632
+         },
+         {
+            "height" : 555,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAANvLvIPafBDvNCmYVeERsLZ5FP6Ta67sFTz7K1lXtBgibWbUIoQ5VJkqxeG0M-fgeHZF3xhzyPKFhd_HWrDBfP9mySDWGpiUpySguj6dyo-OnT90zT8uDVtMXUZi245rRYtXCrrxq_foSVgLF5oFinRIQsgNbrbZIw8kJ490dgHmeWxoUZjq_Vm3oARigNJvlnHF-CG2asHg",
+            "width" : 740
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAe1z1CAV0aSbDc3MzCCBRbIH0yrX5hDD0ANHE8IIQaei_oDDVwbmOR03Xx8IWBk6iWs6hDIm3yyirHWIPuXgBXXqRhjK7WZvpeo-9inKHxz-2Zsp-XEj5O2oYsMRvRmhssMn_J4IST2cQ1e5P6ti_NhIQ2FpW_jtwjuJfIM4GNTF4OxoUTuaIuRjxgObwLOuhbOywZtBZir4",
+            "width" : 1632
+         },
+         {
+            "height" : 555,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7oX2XiN-r1jyjiKqdk35i_30dWklShzquyyu3Ullt6B7z3paUP6LrsrShYW9GJ2RqeBI1pgxIPGviUhPX7JW0kkDhdYZ7ngplUArpLnHeT9uBOGwObgpdPuu7heFMT_YGoYafr8DQolNUv67gEfS_BIQpBAY0z9f5CngJEDj0b7QZxoULm-B9eo8qHPHtF4XLjEytYfT_ms",
+            "width" : 740
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA1IDFxWlzPbOYs2dzl4gP711lm5UdTtwtj9Yh7b0kWfrI-8bDWg5GB0XYNoNVjBYB3XP_dGs32wjIPiCNuNInBPIL0lcdu-jomsHpxqfWunVBnJ3Spb6Cv2gH0v-Ay77La_arb5hOyjIi9yK7UoZV5BIQm1REsKp_1ynr7PMubKz_XRoU5QHr1l7uqtKXDtsyZEN_Wtrvvoo",
+            "width" : 1632
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104441837786022377842\"\u003eElisabeth Otte\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAR5QJvSyrQSWhwdx-18bsl5HlRu_nKz1C1XvCPYsoEFnbHZTD9oRPLL8Khd-eQS0QHxFn6cX0CVeWYyZJhXukygLJt-BrN_Tx5fmxq5mmBbqyWUugqOtXVhhwhjMPwQz-iDF-TUYLrPyV0nXuQSReqRIQ0W0t9BfwbKESR0M-6DA2xhoUGZzfjuzxdcC3YBHI5zSsdfR2Ob4",
+            "width" : 1600
+         }
+      ],
+      "place_id" : "ChIJD2wwR-V1nkcRCKM7kD249X8",
+      "rating" : 4.5,
+      "reference" : "CoQBdQAAAC9w6PGb-fVWaHLWryL7zCg6yJrU8QfArXTxausqDzShpy6dY4Ch4eHsZGjyrhGcqt9okI_ZV5TlmCaOLqbMYUj17JUr4ImRwIB2ScpYXXTGOC3j9ffaj6sakweftVQ1xBTBQYc1DW066GcLs5aYsiQOSwsuooZMolI3v7rZh2qtEhBYS3XAYlZRMgXdgw0zX_CtGhTMrzsPkRbCoLs7tqXifomA-Bec_A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paige Mason",
+            "author_url" : "https://plus.google.com/109690722910615726454",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I thought this was a really well done museum. The collection of german expressionist art is top-notch, with several great Kandinskys and Franz Marcs. Really enjoyed it. Great cafe too - the service was a little slow, but it was priced pretty reasonably for Munich. ",
+            "time" : 1408803355
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Christian Haack",
+            "author_url" : "https://plus.google.com/107253200704189872444",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Reopened in May 2013. ",
+            "time" : 1369825001
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giuseppe Settineri",
+            "author_url" : "https://plus.google.com/116000377913403123239",
+            "language" : "it",
+            "rating" : 3,
+            "text" : "Interessante l'ultimo piano con opere di kandinsky, di jawlensky, munter e von werefkin. Al primo piano un'ala raccoglie ritratti risalenti alla seconda metà dell' 800 di artisti teutonici, l'altra installazioni luminose e fotografiche degli anni 2000 e dipinti d'arte moderna.ingresso 10€.",
+            "time" : 1415277133
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christofer Scheimann",
+            "author_url" : "https://plus.google.com/115615277241860168808",
+            "language" : "it",
+            "rating" : 4,
+            "text" : "super Interessant",
+            "time" : 1426695144
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Elisabeth Otte",
+            "author_url" : "https://plus.google.com/104441837786022377842",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Der Bau ist sehr schön geworden. \nAm aller meisten gefällt mir \"das Haus im Haus\". \nHerzlichen Glückwunsch. \nDie Jahres- Karte ist schon gesichert. \n\nLG Elisabeth  Otte",
+            "time" : 1368088517
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/107628793938665463514/about?hl=en-US",
+      "user_ratings_total" : 20,
+      "utc_offset" : 120,
+      "vicinity" : "Luisenstraße 33, München",
+      "website" : "http://www.lenbachhaus.de/"
+   },
+   "status" : "OK"
+}

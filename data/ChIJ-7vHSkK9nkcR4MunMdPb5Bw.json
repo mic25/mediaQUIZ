@@ -1,0 +1,122 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "28",
+            "short_name" : "28",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Heinrich-von-Buz-Straße",
+            "short_name" : "Heinrich-von-Buz-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Oberhausen",
+            "short_name" : "Oberhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86153",
+            "short_name" : "86153",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHeinrich-von-Buz-Straße 28\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86153\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Heinrich-von-Buz-Straße 28, 86153 Augsburg, Germany",
+      "formatted_phone_number" : "0821 4243791",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.38106,
+            "lng" : 10.89215
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "2f84b778b74ab1fe483ccb4660d67f74a0248395",
+      "international_phone_number" : "+49 821 4243791",
+      "name" : "Man-Museum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 4:00 pm",
+            "Tuesday: 9:00 am – 4:00 pm",
+            "Wednesday: 9:00 am – 4:00 pm",
+            "Thursday: 9:00 am – 4:00 pm",
+            "Friday: 9:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ-7vHSkK9nkcR4MunMdPb5Bw",
+      "reference" : "CmRdAAAALOY5Duy0aZgUshDaFmgqZdsBCyAgOSiQBD3sO6gnw_NuEddINl7pPBGfywGJYeIhV1XrLQtnOnMJzaKQMKM6g52ynFmXjwoJLm9nhiK0E_xpk_QoGF1IC2FWwGbuQY__EhCX4lWhZTwAqz01_pc8qYZrGhSkRrpxnddOFhhPgfX6jabRDiOt1w",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/108405996809250809177/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Heinrich-von-Buz-Straße 28, Augsburg"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,309 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bergstraße",
+            "short_name" : "Bergstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Erling",
+            "short_name" : "Erling",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Andechs",
+            "short_name" : "Andechs",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Starnberg",
+            "short_name" : "STA",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82346",
+            "short_name" : "82346",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBergstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-82346\u003c/span\u003e \u003cspan class=\"locality\"\u003eAndechs\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Bergstraße 2, 82346 Andechs, Germany",
+      "formatted_phone_number" : "08152 3760",
+      "geometry" : {
+         "location" : {
+            "lat" : 47.974476,
+            "lng" : 11.182817
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f3a96b1e0fdf559cc6ea0089ad5320d1f440ec28",
+      "international_phone_number" : "+49 8152 3760",
+      "name" : "Andechs Monastery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAS76NcF5hH3UwZkds7WhfpZM0EtsBEaMYm3DORe6pyoMWzzIqnBublR4OW6IIl0RRp6du44Zuz5FQW_f5dtLepHQ7BCCL_BducmLhKx4n_thmd6TbjwLKqzMqkl5zXVUA8nWSfrNBtsAFV3sIsFXrMhIQ3VJUACoWGuCapUdxswsuOxoUbkyoea0f4DAU73gz4SUbyiCkuG0",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAARHmrbCwIw_PztCme4ZHbIXEIzfvDjngsmm9XUopTC4YIe5thdKkr3XYhP-mKOhM5B8iXuQ449fmhBt5dNltJ6LUE3xVwTefj_KaTlEQFgAwViFANrU4YrVEAOrTaka7y92iU__W73QHggO2klDjo-hIQJIiPJsmFJ-rNHpRCPf7FLRoUgWK0Wlw6ySE-yE2vri3cVM2kYGI",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAAJMD5uu5xqraB8q98AhzOwmw366s-xqDqClG03aMTjmCQtZouFzX22BSdhpi0-Fdj5_-ph36TZ-en4HvU5B0EE7F31OljGhbb7CNnvdxjmEiA96tXFv8gg-Z4KsCHafVQQgJi4tIn9O4pcNPSvglgffYb_ZXuhG-GwCtdoEKEAbyEhBVWmCHfbOtJz1P5crnZ7CIGhRKoOl1BStIop_woB_KfEamcG8gjQ",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBjAAAAFDJmtDmakGL41oDfYzk5dD6QFgV-AKrCTnFtfw8MOfU7aZHLFiL7yC0v0EfV3B-aaNG_meIy4wv34dMafZ0uDqPLHRumbsc9bSDmJrZ79Yj8GWxNMZEhmCp3Xxa7iguJKmNz2OmFXIoQqBqQaY6JMYDxv2zrUewf0uHWlexhJA7bTVDUuxRl3XynDcH_H-70BIQ2EhiDLNl_av5o77aaiZckhoUNwHwxW40Pv3MfismXNWxpKgFUFo",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105180880144807125894\"\u003eBill Holler\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAPEHIHL01yKNnIqSW8Y96YtEoncW3FTFOW444A_8CLQyQxG2tKBfTXuH-nTkwyx17Tseyf-z0s2L2ugCyJLObgxvqwAypaL5XSP3oUOMLwDxHjp2-9GWJ_AIek_AeTIzGryeqoEYCJn1FKLVZXRYVfBIQ_WFA0Uvl5jBZr3c5M0nXbBoUbulRcCPxd7eGd_3GyizQIAfn8hw",
+            "width" : 1536
+         },
+         {
+            "height" : 1063,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110411452193150438347\"\u003eLothar Reeg\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAxVPdsqXFOdRC_G6iZIMQj51BRE8d3xDgTECwv8J2OH33XZWhpljdKn9egN3QtdyFEDERHx94BI3u3HP5aSBaqux8LvNHlGnfhqHEKEgi99o1zR3W6JZtV1Yz1fEvn_dbkTqVoZsZWvH0pC_xXELYUBIQ_Z-F6oJuraaylCB-SYJiGhoUA4wVMzu2SiHi-qe-K-LMY7oxZAw",
+            "width" : 1600
+         },
+         {
+            "height" : 1371,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107034570726221611428\"\u003eTom Aaplogic\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAmaBS5p3RNtmKKs7evV918sYHCww3mwPFn5kDtEa5LBYS6J2bl9RDyUkQx9g--0t4CcrEBGoDfJm_9OfBF3JD3hh-Q-gIuXbxc16ysCqRJHeEmBp1WVBGMgF-0v2277eUOjeoVdlreiad8kiLxiDBWRIQOvL96cljI4y7mARyrc4FWhoUzFj0z4w9Bqq2aF_VjZdfjWOlTtw",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAxG-7JzQ0OBxiexHAcaj2eIM_y7EX1TuHS3E3OtFCD8CttGBKicYvCIq3kgf2c3RfP-eSLoVFb4aALRLZht_3TsepmVCh8YVwA7eiTTIgy664kytbXrL64ZJXD737BAeWbOZvcIIEdrruatwWJqaHYhIQ7TeGvSYiFtwDu5kWy4O35RoU2MwQIWqCIN-I1_fEfwGr2RJLSnI",
+            "width" : 2048
+         },
+         {
+            "height" : 707,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110411452193150438347\"\u003eLothar Reeg\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRsAAAAM1kiBJ1nLcOYsi8aGaBMV5_H3sao_8VkyzbR4nSe2ioO1FbJ0N_KGDfwUP2v6lhxglxKVcFAdan45QpJ33RAbi7OuFzabPN85wLSxXzCLfea5AM6wDShP6LrOKfMgF5X91zytwmQC7QAGOiUqVSJiBIQ-1QrCP4Glrtw6DK56x_x_RoUbKiLtptzj4Ph7iOQ4DnJZF4pH6o",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAAOv-4IikXSG3_mFr8nT6hZ_4U1YCX9frGiYkxmVdOYBp2DHzSKA8a3BNXGcqTIRZCygHIia8m0gR6Z5ufov6wizLRDsbhAt7K-7Jk3tQDQVY-j2yqTNkyF8DoZm1SIVjl9CS1fKSsVd5gQG3liuX0XmrR4agiwLROuPuCbwiNsfFEhB5DFGU1AfxV8fbYGPkhke9GhRWCeaN5T6Lww8yz1fxB3WJZah4qw",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJ5fKJEyfNnUcRrPGKUHpA6tI",
+      "rating" : 4.4,
+      "reference" : "CnRlAAAA-Cr6LYhuJDptynAEKKaMaoE-fJD42qcUkMmfXDwAji6rq_UabI2rK5V4NoJBvQGNX7mba4R4_IQmOhJzv6dOnvDHznJ2rScZDUVyr6f4tbAVAgOOdlP319SIF1zmQTwskrK1uWcxFPt0DEkHAFsC4hIQtHE3m33lQx3AWVpY0pzEohoUecVKaLmUMu6e1r7aaQgoyeJOq7A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kevin Gomis",
+            "author_url" : "https://plus.google.com/113901185259752771266",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Took the 'pilgrimage' to Kloster Andechs on a cold snowy day, which certainly made for an entertaining (and at times frightening) journey through the woodlands.\n\nWould recommend making use of the bus (privately owned, therefore will not accept Bayern Ticket etc) unless you are willing to be a little intrepid and brave the trek (esp. if night is beginning to fall). \n\nOnce arriving, I was not disappointed by the beautiful and traditional layout of the brewery and more importantly the beer which was some of the best I've sampled overall let alone in Germany (Doppel Bock esp. recommended).\n\nFood is of a very good quality, and the big Breze (true Bayern style) was on point with generous lashings of sale and the perfect texture. You can also bring your own food from outside, as is tradition.",
+            "time" : 1421043917
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Radu Luchian",
+            "author_url" : "https://plus.google.com/101194768754753001594",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "I was looking forward to visiting it but other than their beer I wasn't really impressed. I found the prices to be really high (compared to other places such as Garmisch or Munich) and they had the exact same beers that I can always find on the market shelves (no special beers). The bike trip there was more enjoyable than the actual place to be honest.",
+            "time" : 1408879686
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chris Ryder",
+            "author_url" : "https://plus.google.com/118046852415444016288",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great scene  lots to do",
+            "time" : 1433582972
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nigel Grainger",
+            "author_url" : "https://plus.google.com/103619188900366534030",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "We visited on a coldish May day, when it was overcast and raining very lightly or threatening to rain.  The inside tables were packed - basically no chance of getting a table so we sat outside at table that was under a roof but apart from that open to the elements.  I found the food choice somewhat limited - on the warm food side there was a choice of pork, pork or pork.  Schweinhaxe, Bellypork etc.  The schweinhaxe came in one size - large - one costs €18, depending on weight, then you want brez'n or potato salad with it - goodbye \u003e€20.  There didn't seem to be an option for having half of a schwein haxe.  And no chicken or duck or any other meat often found in beer gardens.  A Soup or something would have been a nice offering - the german mountain huts all offer good pea or lentil soups or soups with pasta in.  However the beer was good.  I can imagine on a nice warm sunny day it would be a nice day out if you can get a table - but take your own food to avoide spending a fortune, but i guess on a nice day it would be unbelievably busy.  Is it really worth it over all of the other very good beer garden in southern germany - not really sure .....",
+            "time" : 1399311506
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "khen levy",
+            "author_url" : "https://plus.google.com/117983530396301168111",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Not a place for young people.\nView is nice, nothing more.",
+            "time" : 1414262123
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/116177007992170285293/about?hl=en-US",
+      "user_ratings_total" : 62,
+      "utc_offset" : 120,
+      "vicinity" : "Bergstraße 2, Andechs",
+      "website" : "http://www.andechs.de/"
+   },
+   "status" : "OK"
+}

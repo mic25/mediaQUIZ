@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Grafinger Straße",
+            "short_name" : "Grafinger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Berg am Laim",
+            "short_name" : "Berg am Laim",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81671",
+            "short_name" : "81671",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGrafinger Straße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81671\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Grafinger Straße 2, 81671 München, Germany",
+      "formatted_phone_number" : "089 404050",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.12557,
+            "lng" : 11.60569
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a0bb92a1de7bd871879864e8a572de5a64cddfcb",
+      "international_phone_number" : "+49 89 404050",
+      "name" : "Kartoffelmuseum",
+      "place_id" : "ChIJ8R4_N4TfnUcRmPTSUaxets0",
+      "reference" : "CnRjAAAAkSOUkjcjdpurnGTMHJIQvN0MIwjVWooOUDGxHxI9nx1hGvoR9ZJGsaq2CvgPgXchJJ6NwKJNEClKnSlocWB5Mb6vpbu3JIoJHESW0Do9Aw5P5XC1kyd780Q2sK4KjezA3bbIfyxWIQhbaumkjHP-_hIQD8qLi0Mk0fa4ebMddwkSqhoUfGHroGj-bBZHzv52ZHdQK5Q_DeM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laurent Meyer",
+            "author_url" : "https://plus.google.com/108333731373918482427",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great museum very original subject. A bit difficult for people who don't speak German fluently. Very friendly and welcoming. However, the opening hours are a bit complicated !",
+            "time" : 1383130435
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Stefan Damiel",
+            "author_url" : "https://plus.google.com/102693815402393705598",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Wirklich Langeweilig ",
+            "time" : 1432592146
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/108337005790211389034/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Grafinger Straße 2, München",
+      "website" : "http://www.kartoffelmuseum.de/"
+   },
+   "status" : "OK"
+}

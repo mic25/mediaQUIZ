@@ -1,0 +1,266 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20",
+            "short_name" : "20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Osterfeldweg",
+            "short_name" : "Osterfeldweg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Poing",
+            "short_name" : "Poing",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85586",
+            "short_name" : "85586",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eOsterfeldweg 20\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85586\u003c/span\u003e \u003cspan class=\"locality\"\u003ePoing\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Osterfeldweg 20, 85586 Poing, Germany",
+      "formatted_phone_number" : "08121 80617",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.174837,
+            "lng" : 11.833536
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/zoo-71.png",
+      "id" : "77bd2693ae39c532e0d342b8aa08dad700d1fc35",
+      "international_phone_number" : "+49 8121 80617",
+      "name" : "Wildpark Poing",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAVjF9-wzdij8Su96VBOD-y_eGXFfxanTCxqvx6mtDWSvYHjFMALA-ATl-Kc7BsKWhBWkQ80uUhGbYQUM5HoKHjXUNW1FTwUrduoHXYqFSnc6Jv-hLfCzxKdvawb7azu1HMX_U_UzODfa3oIys9iEhchIQZRDHrwShB63WmscDT2y6NxoUXs0_KF21u4nLK16WbJtppFBllSM",
+            "width" : 1280
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104212923199502033489\"\u003eNeven Mićanović\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAZ2x3keyliiwkeRCFtbq0TDjsSB2L3RxaBJoo5CRb9_jbibSYrW2w38XO_A80UcW8I3iHFn7-J2AhACy4i3ReayEoySvxd5oIWvJDzKDNS5Kp5OkiySF9kBCBheQkzMdknYHOy_2zhYj-TNTk9-FueRIQ4i-Hsv4HWzKLndOpmCYfwhoUVJ_xoNX1hR-TzcfG59qQzmO3qh0",
+            "width" : 949
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100434598290808645158\"\u003eLotta Kunde\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAfh3_DkXv4z0RaSVAII5c62Nw4mLHmxbEtYUQ0wTZolveNpiJQGOckoVYcghrgnLv4v1SJRqETNuWBW_TjfF3omkrEIlTdBdPdJMnQMB9tJZpAN6sqismua8qYldBPli6hX9n9qkyN6tofQfjaVNU2BIQ-uQuD1ennW-2KoAxuxkzLRoUYbAdBuzXHwEf-vy9X_IG7Zc2U2A",
+            "width" : 816
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100434598290808645158\"\u003eLotta Kunde\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAUxJk5icCspt5YnWSJxaC4UhmZydkJfwv3i_DBsYUOmALp3pDYBWJG15adnTJiTvFts_yeikLCgwzQ4BxtBYixJBrWjbKSlUTT1ZHKignTaMemWEj_VgbYGe14uUCUwjHjjos44GPRHgSHTdWXo-0WRIQ7LlVdZr6xpOsd-lHK91XlxoUrYZcl9jitsCJp5-8kkdWr1_VOFs",
+            "width" : 816
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdAAAAC4KKB6RRy3r0AumS32FgcxJSfKc9_uPQD9St8ZGxdRkyb8fME_gKYnTWLjU-1zrDggngnACeeazRsCsjmlOdfHxD1GHmZSohteYogC3hGLmUucEuf5qnF4JPXpUUT4Hv7k1ixCnkQAxdcEumGzGnPL_9F6dhGdRculaSCWhyLMIEhCSdcpnUUryDRnUIvYs_eAfGhRtSVonL0Ng0RCETok4N42seJeLSA",
+            "width" : 2048
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104212923199502033489\"\u003eNeven Mićanović\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAA1gjKPHxu4aLs9yZs3dfm7AKosC05qPtV00bgwfjplWiltQx3NYgCeHgnIqBWGZ2yokXVjyVnt20qRvhhiP0GxVY77pxCNjrsT_7DscevVEwIPxpC57h2jCea8Z6nR_XX0hPNEBIENchIbM8r3rNN2BIQG-wkWJBQRMHeuK3Di_tZtBoU87fu5YhWb53y6XZ4MbF4AR_yoQY",
+            "width" : 1265
+         }
+      ],
+      "place_id" : "ChIJkVjlU9kInkcRUmk6XYO_FDc",
+      "rating" : 4.6,
+      "reference" : "CnRhAAAAQcV2vqC5jl4FtWCMp2Z5Svj5pe0tqpvS6iroTwI17xpG8gqeCnsy5o4hygxcV0YAPPVb1qdVkQ4Z8pS1ES79J2O3do5-4z8Nx7vrr81qF976BUTqqf9FWDkta-5KHx3Cs4kKj1tMogvRcekKB6ed1RIQ7kXlokh-DARu8_X311rHgRoUlwZ-_mYdwUU_CHsS73M3PIGKndg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Robbert van den Beld",
+            "author_url" : "https://plus.google.com/101166079421041244847",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great animal park. Good shadow coverage for hot days. Playground is conveniently situated at half way, which is better than in Blindham where the first thing is for children to get stuck playing.",
+            "time" : 1402437210
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Georg Oberwinkler",
+            "author_url" : "https://plus.google.com/116558730916619707854",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Großartige Zoo-Alternative im Münchner Osten. Highlights sind morgens um 9:30 das Rehe füttern, wenn die noch richtig hungrig sind, die Greifvogelshow sowie das unglaublich große Spielplatzareal für Kinder.",
+            "time" : 1370583839
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karsten Petersen",
+            "author_url" : "https://plus.google.com/113767371589083462340",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Schöner Wildpark mit vielen Tierarten die teilweise frei laufen und gefüttert werden können. Riesiger Parkplatz, doch Menschenmassen verteilen sich im Park gut. Schöner, großer und vielseitiger Spielplatz mit ausreichend Bänken und Rasenflächen für ein mitgebrachtes Picknick. Kiosk vorhanden, hat aber nur sehr begrenztes Angebot. Schöner Tagesausflug mit kleinen Kindern.",
+            "time" : 1344170590
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alphawolf100000",
+            "author_url" : "https://plus.google.com/108893685199371457585",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ein sehr sehenswerter Park für die ganze Familie! Der Eintrittspreis ist wirklich nicht der Rede wert. Die Tiere kommen direkt zu den Besuchern und können gefüttert werden. Das Futter kann man sehr günstig kaufen und so ist es insbesondere für Kinder ein sehr tolles Erlebnis!\n\nDer Park ist relativ groß und zeigt viele verschiedene Tiere. Man kann picknicken, es gibt einen Spielplatz und auf dem großen Areal verläuft sich alles ein wenig. Wer in der Nähe ist oder von der Autobahn aus einen Kurztrip sucht sollte definitiv vorbeischauen!",
+            "time" : 1423845229
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Steffen Peters",
+            "author_url" : "https://plus.google.com/110106488385649220585",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr schönes Erlebnis für Gross und Klein. Viel Schattenplätze zum Essen und Trinken aber auch zum Spaziergehen. Kinderspielplätze sind riesig. Man sollte unbedingt die Falkner Vogelschau anschauen!",
+            "time" : 1410439882
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "zoo", "establishment" ],
+      "url" : "https://plus.google.com/110780889953366500939/about?hl=en-US",
+      "user_ratings_total" : 34,
+      "utc_offset" : 120,
+      "vicinity" : "Osterfeldweg 20, Poing",
+      "website" : "http://www.wildpark-poing.de/"
+   },
+   "status" : "OK"
+}

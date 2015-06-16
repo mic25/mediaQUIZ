@@ -1,0 +1,265 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "60",
+            "short_name" : "60",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prinzregentenstraße",
+            "short_name" : "Prinzregentenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Au-Haidhausen",
+            "short_name" : "Au-Haidhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81675",
+            "short_name" : "81675",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrinzregentenstraße 60\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81675\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prinzregentenstraße 60, 81675 München, Germany",
+      "formatted_phone_number" : "089 4555510",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14039,
+            "lng" : 11.59959
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "dd1cd3af34e9187e99d2c1db1fcabcf507aedd68",
+      "international_phone_number" : "+49 89 4555510",
+      "name" : "Museum Villa Stuck",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 6:00 pm",
+            "Wednesday: 11:00 am – 6:00 pm",
+            "Thursday: 11:00 am – 6:00 pm",
+            "Friday: 11:00 am – 6:00 pm",
+            "Saturday: 11:00 am – 6:00 pm",
+            "Sunday: 11:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAZXteaamd20gvjc8e4eQ6qWwGucusx9rJd7F_WPvv5moiMD6F1gSS0DFapZv6vBzPFWkM9XyEpa2o4S-QGIhawlOmaBSxcSKB7IarBrM-sSnJO269amdC91WfeSJWNZROBvLRS2PXkbCDsFCASAgDqBIQQmPOMtYMZuDXxfeuOvG55hoUI8jqWxOZEF_y73g7NjNNy6nrW5g",
+            "width" : 1024
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmZmQcnq-oxaD8GA_uNJnunjeerfZns6JOALZGeTXGqeOU9yCHZD7VANcy68MiV4Q4eOE_zb-1qaZopadV3bz3x_SEB7QG4j0ehRf_lRamsbYcSqb9cdSzVcIHsmJ8dP3onxfuoQ1t9ZG_miYqBLMfhIQcUaqLlz1X4zddG3a8FGR2xoUXvrcqTmG9D5GSeTzFAailDcMU5w",
+            "width" : 1024
+         },
+         {
+            "height" : 492,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAsynN_oSreap6B8GDOYscGZjUuOpG4-QXZXo0156YFXbPavUuWStD9PLjL6pORY6yqdx60LoUcpFjU_1TEPhQokHAu3qBdCzNR1z2L4HtJhuR_ae33q7UXiQxDeCBcPHX8PLNP01Yw6Or0NLfUykRExIQ6lLw9Q2JwzKegTkM3oHHjhoU_5GQTdd0uBHj4FjOXO99TzVUhyE",
+            "width" : 816
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAg_HXWWiMV4rae0MEklTy8wy1qaOKoT7COlI1wcIsvr30ufSsXZ7KRdBKT_SYx5bltpDZAdjwHMDe0YlT3sUQZs95A6pFBq3YWUSgOHRY8kLVt_LYI30OuCni7M22A3Pid4xd75L5bxKJSulMHzHWABIQ-bo5-vu-DpNULn4lbyqPgxoUZHSP5i_CfAcy4v8usjgxd_J4TqA",
+            "width" : 1632
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA4rtqwvCUIkSAQyLTfTZMDgPjKM-y9cr3w9KKBmhZzbhmEot0P8oG_f1o_zZQ8_PklZJGLwIDlxbDhDIEy_oVu1z68BFwEZ3thvN4FE6tP9h3v6jSMpyhceUlbmzTeuMlM6Lnnj1Cpqd-PZa7NgH32RIQTa3-kBiJ57u36LlColj7NhoU4AwfBXNkDXZ5vF5hdUzc_vNU2IY",
+            "width" : 1024
+         },
+         {
+            "height" : 381,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAIWBZDsum_h-bYyOq00ia_kvlTeyj-fKilp9tgrIlLUDR_XevSyD_vn3w3-7d-XRF-UWPiLPwKBtC9GCC05P9qgR8UdZkrRd83txNOeutCUmjTEIcRdT0jmwLvfiCRvibOTujyiZK9woggEKBmLRsGxIQnQgxrbOezB5M7Cgjor9YghoU_96TBpXyfePKnU474khD7ly7wFc",
+            "width" : 792
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAJCB8EPmbuf1ZpkoeZixe7JuVyj4FWnlwz5J6p8UlPw8xUqhtY5n07UZW2pJSu7IJOqeVl7uubFBg4QM3jUsUBPsBrcQEb5g57dAqhYUdkoJz9QtXOKvFFY0ouXsPZUBuX4ka97zeJ3q-0pN2b-3iQRIQaLzUXNnhKANCpj1qX_WJ3BoUFOGE6uQ-3fyVOtcQwDXMN_8rr_k",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJT4_G44J1nkcR8KLC6o1Xfdk",
+      "rating" : 4.3,
+      "reference" : "CnRmAAAA1lhn1bjza4KcaO9-oQ3T2b-YsnEnXKVJgGK6duCZFF1VLRWoXkZYFZrjPjj-EO2tzdvY9BA6yyfL-IIFLBHEHczqtuvDwsdtSP_tMPWNluLFoIUbNzwMlpo8MZtxxr0F3udLvD9BDz7s1xUrefodbRIQqOoa8BziouA0Ovt1YZ_wPRoUB44HC14pa07Yz6QWWDhaQBq2WAg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Wenceslao Muñoz",
+            "author_url" : "https://plus.google.com/106628000037585944159",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Man hat uns heute mit unserem Kinderwagen nicht reingelassen. O-Ton: \"Mit dem Ding dürfen Sie nicht rein, der ist zu gross.\"\n\nZum Glück gibt es in München noch andere interessante Ausstellungen und ein Kinderwagen stellt dort kein Problem dar.",
+            "time" : 1376255794
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cornelius M.",
+            "author_url" : "https://plus.google.com/100453909603587311234",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Schöne Villa und ausgezeichete temporäre Ausstellungen",
+            "time" : 1321385992
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "maria isabel tobar rojas",
+            "author_url" : "https://plus.google.com/112152755391781486166",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424119163
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oren Yulevitch",
+            "author_url" : "https://plus.google.com/117953845793050407205",
+            "language" : "iw",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429940918
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jürgen Skerhut",
+            "author_url" : "https://plus.google.com/105561227490313212909",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1413660553
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/108156236077782576843/about?hl=en-US",
+      "user_ratings_total" : 6,
+      "utc_offset" : 120,
+      "vicinity" : "Prinzregentenstraße 60, München",
+      "website" : "http://www.villastuck.de/"
+   },
+   "status" : "OK"
+}

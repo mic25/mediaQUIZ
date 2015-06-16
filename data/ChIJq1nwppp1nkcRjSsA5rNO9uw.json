@@ -1,0 +1,98 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lerchenfeldstraße",
+            "short_name" : "Lerchenfeldstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLerchenfeldstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Lerchenfeldstraße 2, 80538 München, Germany",
+      "formatted_phone_number" : "089 21124468",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.144191,
+            "lng" : 11.591351
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "abde58644f4e6143f4f2bea87e3ba99fb1e61ead",
+      "international_phone_number" : "+49 89 21124468",
+      "name" : "Bavarian State Archaeological Collection",
+      "place_id" : "ChIJq1nwppp1nkcRjSsA5rNO9uw",
+      "reference" : "CoQBfAAAAOo9o9HN0L5nVKYv0ATUlby0M97aQFOEtmgEOT8lSGKupFuRmRTvqbXcW3Cv7FwiWD_r9e3H42_flwVSg6pefABk6u6cNafGK9qP7QOnmdOktZ88cVmr5qExGBj_bVFqZfCKVhjNU84L48ctLvUtIg2LrOYms-HreD0VAsyYRe6PEhCpALEGkpXUF73z3dsmsb98GhTYFSZk-FzL6J4gpnAfIg1KZvRTKw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Max Hille",
+            "author_url" : "https://plus.google.com/112359840946639681639",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1368709394
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Evgeniy Krachun",
+            "author_url" : "https://plus.google.com/103813203559305034858",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1399893185
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106415996276755618790/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Lerchenfeldstraße 2, München",
+      "website" : "http://www.archaeologie-bayern.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "79",
+            "short_name" : "79",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Altstadt",
+            "short_name" : "Altstadt",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Landshut",
+            "short_name" : "LA",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "84028",
+            "short_name" : "84028",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAltstadt 79\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-84028\u003c/span\u003e \u003cspan class=\"locality\"\u003eLandshut\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Altstadt 79, 84028 Landshut, Germany",
+      "formatted_phone_number" : "0871 924110",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.536197,
+            "lng" : 12.15131
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a7e4d8101220c06d14a462ac33801196d9306438",
+      "international_phone_number" : "+49 871 924110",
+      "name" : "Landshut Residence",
+      "photos" : [
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111341369210050737864\"\u003emocsel rita\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAANwNGf-oYPmzZIXTgdy7pDeiq9Ol-6CF68V95WNUG4altSKO-jJkZrkqPlauRJt00E7WvHB51_ZzsESUQq3G0VahJF1NPZdi77u5Rvb3iUP0h4QYhjb93DsBVB6GHXmKnWT1w86fVeaqIXkCx-71fLBIQhdVazNJoEPGoR6z4DRcoABoUmtm9dwljL_1rMcEXWZ9zdgegupI",
+            "width" : 1224
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114677651688233825685\"\u003eSara Villagomez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAII8k3MZrsX2zpEX07pm5K6yIcIceOECBvkwhuF5COB4I79YcgrFIZwm0363M5bHJ4GGfd4TytPM_eAsQUfxVzoJtQ5huTPxPpjfWMuyjB8o1wg3C5DZunXZ2ozvKxLofiUqV953F8QCPRqxW1EMBGRER1vXULcdhDHHuIS3WEADEhAfESFjiLb1o9C8v54_bzkGGhRyy0O_fS769lE5uKZ2gFBLNISCxQ",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJU-zJk3MmnkcRnJgQjkBXnYc",
+      "reference" : "CnRmAAAAOECbvqsVowYV2kSOWAqtCaYkFI5nkom8_SL8ALO3uSuAiyasQeKgDi4UX1AgEmUjECSMbWL4QF3J9bcHJZ3dWfK6iIb4_QfsL2giB-bL6D_MHzKQ4XCkFqnFEvZLFTPvNCEu0-KMxNm27T4ekcsbpxIQISJycaAsu1P4Y-xJQQpRMBoUtxDeGewEbp1GLDSj2eRD26qz7r4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sara Villagomez",
+            "author_url" : "https://plus.google.com/114677651688233825685",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Hermoso lugar!!!!",
+            "time" : 1357316673
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martin Strasser",
+            "author_url" : "https://plus.google.com/102301766625311466713",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420891129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Renata La Tour-Wünschmann",
+            "author_url" : "https://plus.google.com/108740934237364790258",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423539612
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edvin Szunyog",
+            "author_url" : "https://plus.google.com/113157482222108852558",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1433419922
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/115761100095356954219/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Altstadt 79, Landshut",
+      "website" : "http://www.landshut.de/stadtresidenz"
+   },
+   "status" : "OK"
+}

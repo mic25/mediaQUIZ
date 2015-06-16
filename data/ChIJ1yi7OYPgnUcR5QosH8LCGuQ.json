@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Neubiberg",
+            "short_name" : "Neubiberg",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85577",
+            "short_name" : "85577",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Werner-Heisenberg-Weg 39, \u003cspan class=\"postal-code\"\u003eD-85577\u003c/span\u003e \u003cspan class=\"locality\"\u003eNeubiberg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Werner-Heisenberg-Weg 39, 85577 Neubiberg, Germany",
+      "formatted_phone_number" : "089 60040",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.08184,
+            "lng" : 11.632607
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "6608657aa3033286339160a2d879cafd543de1e1",
+      "international_phone_number" : "+49 89 60040",
+      "name" : "Universität der Bundeswehr München",
+      "photos" : [
+         {
+            "height" : 150,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA7ZDMJRYHbKGXTwRu1Tbpy-lK6V_jTRFzRu6KSpmjANX_kLn0-5kHuH19wwEKNi4JBpLfkpWZMSbTHq-srDDJ6SY5QT0F7wmox3btFF9Cj_V4__Yz4jKnHdebXzVMcnfwlejrtShzGEe3dczouqhaSRIQbOS9zcKAUGaiSkbNQU1F4xoUeWvR7Dd3_-5nA_3lVbiNSMJrMWw",
+            "width" : 200
+         }
+      ],
+      "place_id" : "ChIJ1yi7OYPgnUcR5QosH8LCGuQ",
+      "rating" : 4.3,
+      "reference" : "CoQBeAAAAEmar89Tq6G2Y-Pr59cW-vU9O8zpuBVURQQ5mtp4ZGnY67wEPID2vnWvyO65ixig-3Ay3sA0P5ceVRP5VDpWaU1O776tct4OOSQxVEX_leB84zm4XTJs25OaarT9IzRQn973kaPfzdjvhL9aaHXJoyRYMu9R83dLiTg3ja1XaYUiEhCJUesmiT-NNW4_-qpdGey5GhTlNOL4bhixc-pqpR1zinqZhh4w5A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nuri Rostriana",
+            "author_url" : "https://plus.google.com/110940643969287003058",
+            "language" : "id",
+            "rating" : 1,
+            "text" : "Fabian aaron bieg😛",
+            "time" : 1419523778
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Schmidt",
+            "author_url" : "https://plus.google.com/109194248176158871270",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402033131
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christoph Scholz",
+            "author_url" : "https://plus.google.com/112573734893906747307",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1381527301
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rid Wan",
+            "author_url" : "https://plus.google.com/110162067734450965407",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1307201589
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Patrick Wilczek",
+            "author_url" : "https://plus.google.com/101488199632150813284",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1415987496
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/103373691104602051094/about?hl=en-US",
+      "user_ratings_total" : 14,
+      "utc_offset" : 120,
+      "vicinity" : "Werner-Heisenberg-Weg 39, Neubiberg",
+      "website" : "http://www.unibw.de/"
+   },
+   "status" : "OK"
+}

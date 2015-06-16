@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6",
+            "short_name" : "6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ramersdorfer Straße",
+            "short_name" : "Ramersdorfer Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramersdorf-Perlach",
+            "short_name" : "Ramersdorf-Perlach",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81669",
+            "short_name" : "81669",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRamersdorfer Straße 6\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81669\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Ramersdorfer Straße 6, 81669 München, Germany",
+      "formatted_phone_number" : "089 600876740",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.114357,
+            "lng" : 11.614941
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ad4b55bbfc1ed57b9d4c0a0fddbfc44741c5dc15",
+      "international_phone_number" : "+49 89 600876740",
+      "name" : "Maria Ramersdorf Kirche",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJSzNd7ZTfnUcRLjw92hLo7pI",
+      "reference" : "CnRrAAAApU1OihIxMhhvwN2plek3TWmnGSUYu0-vsXhULpc18o1PrQmA4yoO0cgmY4VUKbgYN6yuVY5qANqp_PYFMgQ029iOZyQdwT9O5xW0SXBmLyiPKfU_pxp-8XtG1N47k4virPAycbyA9UikTZhxEn6aYRIQw84TC8MjZCp_BZHBbCK1bhoUH6P1e39KWRPzptUHFoc9USEJ0-M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Aktuelle Informationen zu Wallfahrt, Veranstaltungen und Gemeindeleben sowie die Geschichte der Kirche erfahren Sie unter www.maria-ramersdorf.de",
+            "time" : 1271148467
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/102838235337186929453/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Ramersdorfer Straße 6, München"
+   },
+   "status" : "OK"
+}

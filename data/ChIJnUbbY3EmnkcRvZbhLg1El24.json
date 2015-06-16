@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Martinsfriedhof",
+            "short_name" : "Martinsfriedhof",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Landshut",
+            "short_name" : "LA",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "84028",
+            "short_name" : "84028",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMartinsfriedhof\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-84028\u003c/span\u003e \u003cspan class=\"locality\"\u003eLandshut\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Martinsfriedhof, 84028 Landshut, Germany",
+      "formatted_phone_number" : "0871 9221780",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.534187,
+            "lng" : 12.151143
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "2064367d2500857b0c3226058306cb724f620683",
+      "international_phone_number" : "+49 871 9221780",
+      "name" : "Stiftsbasilika Sankt Martin",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114033259382188509778\"\u003eAdam Welber\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAKDgrS9fy-X9vaw2SH7eY9we9pMpLpV50sdSGiPcgOifu7VfzOuhnVDLgtO2QrFYOqLQJL7jp9GIgCG9pfDes2NfPRlDQuUXytndN2hNHDAYvtuNaE_8v97bsEGR18HOIWQQGokUXcoaVV3s0Xxq8GAal3WB7X7B-1fpuoZ8MieOEhC0K1OLD3gnXg6OH8DxuFO5GhTeBjksqtw9a7lEAo9RbAvB2tKpTQ",
+            "width" : 768
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108148162001837551576\"\u003eomar aziz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAg2dcvYNHbO1yaa1PnTDDPDcNB6XdYx_uiQWX8kq_Fn_bq7-PIxnv5-KNwtlpCtAFlp9XQhDXb5w92F1ffuJ4tJcGLzQ18GXDF584cTmUR-81QlD4ZwuPfpqg_QJowuoYkH09E5QyQj6nvsn6BeS5GBIQBzR2fHTyCQWrFG7g_gveuRoUNRh21gq3LXqpYUlwK2_qk4-OIrI",
+            "width" : 1224
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114033259382188509778\"\u003eAdam Welber\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAA61_apTQARj3EsVmmA9XEF99rMWeaCqltt8YRhqnbrWzjI9kJEtDvKvp924D4wU7GerR6HTR-WSLbqH_jKioHx3FaD_WoCsbHKF82dmFzpQ6ZXUzPmVFRF2-NCZPqUHPLjuDOEi7tfJ4SHwgxEd42UyUy55ooCHBNvEJVDU-IMVEhAKr8-Qo-pW700ALgNdrqZ8GhSzPMkxMMnv2OV3K9Q3wfGRICzKnw",
+            "width" : 768
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114033259382188509778\"\u003eAdam Welber\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAI2SffFJ1Yr6LOtBmFLps0DXJebwPu0EO6rSYX8Rjwz5eGEiRrGC-9ejcG7fMmjxg6rjxokedEfc03LgSxvapPEvdPldgzIfEMlfXQRc6MWPVcVBfNGSHxau-55POD8moQBdAebN3XTjnolFXRv8MKFlNm18p7GiCiAyOwvyNNGuEhDBGmfQNu8HYi4bHm267cXmGhQiZPEMfXzQxf4zITpnct2WujfLSw",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJnUbbY3EmnkcRvZbhLg1El24",
+      "rating" : 4.8,
+      "reference" : "CnRuAAAAU4KnRfuoeJwSRSEfX1iqpiqBB_JfEVXk1GmRp0TnNTfGusrjKgeL2aEXOpOg2b2MKe9FCSSHADPZtdSTojj5H5TENbNWn2J8p-pjILtSeTjsSSVZ-us6nQFDrcWgHKY6S8E5x4-P33rXR0DURhJunhIQXMThhFWeyes0tgz3nSgjjxoUleBZZS-maBGzmq7r6xjjdfAxNug",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martin Strasser",
+            "author_url" : "https://plus.google.com/102301766625311466713",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1407591274
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Zahn",
+            "author_url" : "https://plus.google.com/100933501991150978147",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1411912861
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Antonello Monagheddu",
+            "author_url" : "https://plus.google.com/106636142847895018462",
+            "language" : "it",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1411299474
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christian Hanel",
+            "author_url" : "https://plus.google.com/116967771411026818108",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429213929
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adi Bauer",
+            "author_url" : "https://plus.google.com/114468018651100891896",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427651653
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/105543969959023338032/about?hl=en-US",
+      "user_ratings_total" : 7,
+      "utc_offset" : 120,
+      "vicinity" : "Martinsfriedhof, Landshut",
+      "website" : "http://st.martin-landshut.de/"
+   },
+   "status" : "OK"
+}

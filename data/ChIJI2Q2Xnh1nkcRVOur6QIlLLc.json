@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "80",
+            "short_name" : "80",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prinzregentenstraße",
+            "short_name" : "Prinzregentenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bogenhausen",
+            "short_name" : "Bogenhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81675",
+            "short_name" : "81675",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrinzregentenstraße 80\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81675\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prinzregentenstraße 80, 81675 München, Germany",
+      "formatted_phone_number" : "089 23615050",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.139568,
+            "lng" : 11.604187
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+      "id" : "c46787b5f3eb602ccfa523b21915aa00db7c9afc",
+      "international_phone_number" : "+49 89 23615050",
+      "name" : "Prinzregentenstadion",
+      "photos" : [
+         {
+            "height" : 266,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAx9l4fEbMuI_ejpRil3EkovX4PqdSzp-xvkeihXPN4k9G7rW0Lbnt8UdD2yUNe_IOv1yJH_y9tYVvTHsIpnbf9CkR648iEWog42TXCK-IEWanB40E2YUKY0ZMka6w2cJtmgf-lbw9_xy1yNR_tV-g9BIQ6xv39JNExD0Ohh_0Ym4qARoUeTpg8o8drh3zoO4V2Dlx9PqgAVI",
+            "width" : 400
+         },
+         {
+            "height" : 266,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAn0J1fmiGMYMve6aNgWPynhvEXSgcKV4l6kuIyKuvOmKgWYjcPuC-YOTk9yed0E83qvMUxWCz4OxK80uoNQSXd82fNZx1vd81U3l9wFM9Ca3G51iXfSWjlNQOEo_01yPmYksOBs1ifC119Rrzius2DRIQ4KpxtLAB1XDic3aqvpfn2RoUP36SPX-AbNFvA1xCQBK_Eb8zK7E",
+            "width" : 400
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcgAAACc6QDYXWu7BJ9z0aEvNpq6Ly4ON26A_6zziaBVcQu6nm4RUmB4_C3_cNtYRJSKnSkBf1Tp4hTqX4h-x7KDIUKrhu6vcecmwzlyUZFFlCwSfYTPV0ug8cfSuJzQ9Ed9G8SkrkBsgxqiMg44FLNZOe7O6AP8mFHfBw9zh078kmSK1EhCip3DqFF7WqyfON31Xmx7eGhQfNjdA57w8M1di2tJd-Fi3qW0v4Q",
+            "width" : 796
+         }
+      ],
+      "place_id" : "ChIJI2Q2Xnh1nkcRVOur6QIlLLc",
+      "rating" : 4.7,
+      "reference" : "CnRoAAAAuS7jDQTHwpPxfX117s0vyisoSqzWcpqF7Eeszaxmucy2eO2aWmI4-4hENsedIuCVkhd_mG0NAcvya7Vla6M-rYfvA_4lwAGCW1lVziWwc_a9IGxFkX3pnS_0XlPvY3WAdEFHwnS_vIB4XqpWOgVbWxIQiDR6v9141JkxbN9_yTcnahoU6AlABQ9_c9uBkrkn6emjM4XtBhI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Benjamin Henniger",
+            "author_url" : "https://plus.google.com/116519365790852299442",
+            "language" : "tr",
+            "rating" : 5,
+            "text" : "Av ,envdcfyvd,by,hsv.    Marvel Avengers Marvel the weather channel Wilde Kerle 5 rasieren oder nicht the best denn s ANR äh äh Adler Bilder level that the devil Level Glitch German Rip bitte Löwe Avantgarde VIP Sauna Bilder sind so little when the children should I buy Resident Evil Dead or Alive bitte was stolen when the way to the jungle the rich München Markus Rühl cchymoses,hfv ,",
+            "time" : 1433101604
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Konstantin Heller",
+            "author_url" : "https://plus.google.com/112056801029556343053",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Super eisstadion und total nah bin 3mal in der woche dort\n",
+            "time" : 1389107774
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Veronika Moser",
+            "author_url" : "https://plus.google.com/113408134044100483446",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1419853762
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1289892746
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1319201113
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "stadium", "health", "spa", "establishment" ],
+      "url" : "https://plus.google.com/103183233149750947745/about?hl=en-US",
+      "user_ratings_total" : 6,
+      "utc_offset" : 120,
+      "vicinity" : "Prinzregentenstraße 80, München",
+      "website" : "http://www.swm.de/"
+   },
+   "status" : "OK"
+}

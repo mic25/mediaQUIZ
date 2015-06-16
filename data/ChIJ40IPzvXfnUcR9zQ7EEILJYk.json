@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "24",
+            "short_name" : "24",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Josephsburgstraße",
+            "short_name" : "Josephsburgstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Berg am Laim",
+            "short_name" : "Berg am Laim",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81673",
+            "short_name" : "81673",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJosephsburgstraße 24\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81673\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Josephsburgstraße 24, 81673 München, Germany",
+      "formatted_phone_number" : "089 4368963",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.12703,
+            "lng" : 11.6292
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "ea866cc95d306d64e236b318ebaa393f96931130",
+      "international_phone_number" : "+49 89 4368963",
+      "name" : "Katholisches Pfarramt St. Michael",
+      "place_id" : "ChIJ40IPzvXfnUcR9zQ7EEILJYk",
+      "reference" : "CoQBdQAAAHjkOvDdRIN0M4X20h3MXAbUqy4K97kjGWnUOsEpAYU9Vc807jmIsszSKSA0Y6KPC6TkdETHNkU2cUeNfwAzuHglMI3An9hqq01Dm30xA472JetzPHdLWhG-p5oJUSGTObEhPyGTxPKcEaRTqqIM14SMiUlhIOGzcWa_ttE4J-4LEhB_tVF2OD2P4PYDQRYWZy8OGhRUgU1MM24g3SoPrvUfzF_0wRQcPw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gregor Ruscitti",
+            "author_url" : "https://plus.google.com/104823457125994181412",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1426444738
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/100484696592635858777/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Josephsburgstraße 24, München"
+   },
+   "status" : "OK"
+}

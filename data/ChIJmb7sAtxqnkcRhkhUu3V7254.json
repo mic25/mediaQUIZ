@@ -1,0 +1,93 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "18",
+            "short_name" : "18",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Alois-Steinecker-Straße",
+            "short_name" : "Alois-Steinecker-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Freising",
+            "short_name" : "Freising",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85354",
+            "short_name" : "85354",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlois-Steinecker-Straße 18\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85354\u003c/span\u003e \u003cspan class=\"locality\"\u003eFreising\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Alois-Steinecker-Straße 18, 85354 Freising, Germany",
+      "formatted_phone_number" : "08161 243000",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.403578,
+            "lng" : 11.745525
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2bfb88097f15686523b47f833ec900a4cf79ead3",
+      "international_phone_number" : "+49 8161 243000",
+      "name" : "Klinikum Freising",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAA2rRc1t7g01T4KKAqR7E11vZ10vajG5dHjPV_A4wd9UQNJIC84i55gWOjnDBGJ2uX7LGzzmcefxZSrp7TXl7wQeVBe7-rV_a24ypQGtgyph5tPRR-TiBVWY4McuqtgtNdoIt_27Hl4afvwAna672CBIQuRkR-4G9BRptyZ-6gRNWsBoUqW8Zou9TmIm2A3bAJPBedV_YL1g",
+            "width" : 1200
+         }
+      ],
+      "place_id" : "ChIJmb7sAtxqnkcRhkhUu3V7254",
+      "reference" : "CnRlAAAApQaRuC3QqEM_3-7xF1t4qRevjjqLI_NNjlC_zSGIkrDDFVDNHJgRQ1wrDW6sfRrDIaLcnSlvFoJHWjRe6Mf_GxjOALWFSCJ-sTUttTlSUfWg9MVEpZNQsv29roKUplrWNCD1I2hVd_BRCr1Yt1rNzxIQDy-UZn-yhBNh40f1s7Vv1hoUbi4uCwA7WINIZ43b2DYltSxc8Jc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jasmin Seitter",
+            "author_url" : "https://plus.google.com/111653082202745373531",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Super,\nIhr macht das richtig toll !!!!",
+            "time" : 1417101514
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "violet shyndy",
+            "author_url" : "https://plus.google.com/100453693705934433571",
+            "language" : "vi",
+            "rating" : 5,
+            "text" : "very good",
+            "time" : 1372147653
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/109189888339078321139/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Alois-Steinecker-Straße 18, Freising",
+      "website" : "http://www.klinikum-freising.de/"
+   },
+   "status" : "OK"
+}

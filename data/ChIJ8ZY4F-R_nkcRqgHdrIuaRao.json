@@ -1,0 +1,109 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Fürstenfeldbruck",
+            "short_name" : "Fürstenfeldbruck",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82256",
+            "short_name" : "82256",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Dachauer Straße 33, \u003cspan class=\"postal-code\"\u003eD-82256\u003c/span\u003e \u003cspan class=\"locality\"\u003eFürstenfeldbruck\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Dachauer Straße 33, 82256 Fürstenfeldbruck, Germany",
+      "formatted_phone_number" : "08141 990",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.180874,
+            "lng" : 11.258922
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e5e96682bef7f557d503bc98a5af9e5f8966880b",
+      "international_phone_number" : "+49 8141 990",
+      "name" : "Klinikum Fürstenfeldbruck",
+      "photos" : [
+         {
+            "height" : 2658,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRuAAAAk0Kav07b-ROI6QyBtBNpbhLW_6ad8CcnAY9u35_zvI5spwfjuxwpF6MUDblkRFehTK_jwIYJq0-WUqExdXYzpe-sbCYfTZF-BRbHgy_KWlbt6igxx2vD-d7GyoTCO7RXL6-aznv7kfhfIqFNtm1u_hIQ0rZrJ6jb2SVyULU7mIYByhoUnZTbvtB6njAPo35vo_hARTnSvj4",
+            "width" : 2769
+         }
+      ],
+      "place_id" : "ChIJ8ZY4F-R_nkcRqgHdrIuaRao",
+      "reference" : "CnRuAAAA5y7EnQSraCWNmsz8LLG-kY8f36CiYgTQfUAFjR-Il_jPFBNXuPG2SGQu6Ux70Ok_zM8h1XqnQGBy-p5GoNo5ulYswZNuonnIO8E2oEMW2CVbYKXiEawxVG1nr7QGfeiegwueu32_XgLifDJ1lI88xhIQwGGQon-S4wtQX071cHUvMhoUwhqlYYfsXMaml0cA2yXbAaPWeF0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "geile uschi",
+            "author_url" : "https://plus.google.com/100515574101173071780",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Einer der besten Kliniken, die ich kenne",
+            "time" : 1431753258
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "khaled Alhussein",
+            "author_url" : "https://plus.google.com/112060012968095322214",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1414683462
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1328106567
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1402050814
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/108715755237559097733/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Dachauer Straße 33, Fürstenfeldbruck",
+      "website" : "http://www.klinikum-ffb.de/"
+   },
+   "status" : "OK"
+}

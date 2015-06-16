@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Auf dem Rain",
+            "short_name" : "Auf dem Rain",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86152",
+            "short_name" : "86152",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAuf dem Rain 7\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86152\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Auf dem Rain 7, 86152 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3240",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.370002,
+            "lng" : 10.900127
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "52dbf0d521ece509be2620b73b33d443f07af0b6",
+      "international_phone_number" : "+49 821 3240",
+      "name" : "Brechthaus",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAA7hfvEHTU8uVV5zFeSpDUwhGzhaDrM-Pw6X453B1Ka9pJtx2dZj5WKMB2NSWtn95VdMbcT475qEe9ug2QCKZnYzE3VWpamNK1mNMvbF85d4m4OCHZwHGQOukuCnFqMnor6au7YiKorqEsF49zih6xBIQf0Aj70YoZvLli4qJ_CxvXxoUPSzuu-ViTNq7KDvSOeVSPg_iraQ",
+            "width" : 533
+         }
+      ],
+      "place_id" : "ChIJuTY12Fa9nkcRLWeGqMZ43c0",
+      "reference" : "CmReAAAABdnFdmAAabCXPwQC9G13qkpAaoQ1vVVDlaHIX3IEgXeDJlAwuaF_YnBMfYpP9u8K45gl0bPx8ojVdUS3nXmapAwVugFuS179ubaD7QTbQynuFuBIwwqWbjz5xwyLLYpCEhBtBECfayDg-Dc1GDK0NR7UGhRaptFghEHR2bfx1TunQBne-l220A",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/112381598149568185173/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Auf dem Rain 7, Augsburg"
+   },
+   "status" : "OK"
+}

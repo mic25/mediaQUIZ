@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "33",
+            "short_name" : "33",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Landshuter Allee",
+            "short_name" : "Landshuter Allee",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80637",
+            "short_name" : "80637",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLandshuter Allee 33\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80637\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Landshuter Allee 33, 80637 München, Germany",
+      "formatted_phone_number" : "089 168721",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.149815,
+            "lng" : 11.536592
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "b2dfe5a123372323f72f05beb99e77f23d490894",
+      "international_phone_number" : "+49 89 168721",
+      "name" : "Maxim Kino",
+      "place_id" : "ChIJR6BdkhB2nkcRQIkNaMn9srg",
+      "reference" : "CmReAAAArh2nML_AEY04qmef8BwaCMBW7zPyzmGbmQjT9sw1o3FFViMHobwaM0215GxR8Djjez_BDZwIZjZWbgC83Ofs0g81Di5XJUW2cEQIgMfbh9sZ3d4txMT3c8ZiMmG6Wf9LEhBOrg4vYxslRP8A94unf8WuGhT_G8-8M4wz0bTQ4ny8mYTSg6xR-A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hans-Werner Ruch",
+            "author_url" : "https://plus.google.com/104951579330124194282",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Muss man erlebt haben. Eine Zeitreise!",
+            "time" : 1414354821
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Conrad Nutschan",
+            "author_url" : "https://plus.google.com/109061227226125583441",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Familiäres, alternatives Kino im nostalgischen Stil.",
+            "time" : 1325588831
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/108398947837555334665/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Landshuter Allee 33, München",
+      "website" : "http://www.maxim-kino.de/"
+   },
+   "status" : "OK"
+}

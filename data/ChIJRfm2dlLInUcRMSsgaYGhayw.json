@@ -1,0 +1,167 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Am Hirschgarten",
+            "short_name" : "Am Hirschgarten",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bernried am Starnberger See",
+            "short_name" : "Bernried am Starnberger See",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82347",
+            "short_name" : "82347",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAm Hirschgarten 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-82347\u003c/span\u003e \u003cspan class=\"locality\"\u003eBernried am Starnberger See\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Am Hirschgarten 1, 82347 Bernried am Starnberger See, Germany",
+      "formatted_phone_number" : "08158 99700",
+      "geometry" : {
+         "location" : {
+            "lat" : 47.872842,
+            "lng" : 11.289004
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "beeb96f9f531daf626ddd639da06385b3eeede10",
+      "international_phone_number" : "+49 8158 99700",
+      "name" : "Buchheim Museum der Phantasie",
+      "photos" : [
+         {
+            "height" : 200,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAPsFQExYTM6VeyT7g33-Xt4wiU-_2lbzWzNY1vva1NVuQa8cZDvdy9FBHCO6XRb6Jhx6abdIaEuBbzTKSrbkHJYWn0Vl0rRHNvfciJRS_dZg8UQPNg6m52QikFo4IE5656uISi5Ilzss2nJ1P6O95DRIQzD-7QKLp-FTN30KWFYvFexoUEGI37WFw0zdnvP3tqJj8rvJkOB8",
+            "width" : 240
+         },
+         {
+            "height" : 450,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAATUCPTuPjId2SQfwR7KWC_Ic_cVe5yqvDzNfsFrcUB5nXUfGU5GcnRkImTbHIj1ax5rmPKGaRhNXsdl7-NN4sMY7-sO9n3BMboCgRAQuI6TaimbAXu62ifnxgsBvCww5E0wC57NCaXszSfSZkC8hLWhIQZsgIqku5CO2RRM_hc070hRoUeQ_zCKGRjSgMu1PCa4zifO6q6-o",
+            "width" : 1100
+         },
+         {
+            "height" : 450,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAfI4hoecZGLqEQ4jl91idW_TnKhUShOKHLWmgfnOsME7J1DpT3I_nf341-q37VwK76JCnRg5Ouj0T0VXBcLseJHjiZMHiUzni7ch09WHSyzf1UBp37P5jZpoMk0bqtqzXn67MJYDAJFyK0APi3UkCDhIQvkBynWT-HIZk2VglMozrrBoUK5MyLDXWzf8FujgkBHoUfmWSshk",
+            "width" : 1100
+         },
+         {
+            "height" : 450,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAMieoX-V8XjwvdENnIdxZhEnWyJkBg4I5vPXdW8eU1esjnoueEtZsM1rXHJQx56R0bK3NwJRBXc92MhAdal_vFiOSw2nKhDJXAvbz_UX6gHrDMc3oCwxelI_c5RNAQFhqeQKRT1vbqagZvt8ILftKnBIQv4kGFVMZQtHck8sN3MAtaRoUR6-5WhVYm43Mqexc2RLK5U2O-Hs",
+            "width" : 738
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112694804813781271456\"\u003ePatrick Meyer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAq13wrwjvDP3rWN7_usctDnEMC_g-9Vm-u-txfte8QgP5ImNbT7FZmMn6pzlL5S90bIHcWCc2E8HhQrfL5GWy8F30Ef6Tcpvm4apLGn8qYBITYyMzPTlXY-I9hCxVBxyD3aedHJWDXvtrCgpmYcLLsRIQj8752L8fPE9unMuPrS1ZAxoULp4TWno_IWFZL8OfvEPxFGkt_mU",
+            "width" : 4000
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110411452193150438347\"\u003eLothar Reeg\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhQAAAKRAr9maQhsEzWBzTOvYxvOz7DNzqSgeMW3LriCozkvheCXu8OSJY33GSeCNuielLdTBD-4kVlj-Wq1pakTZEk9CW6VTYQk6Lz86vQQ92S0aTiAwn-aurVKf_1QzzsZ4fhZ3g9vnNyVCr9xWjsn6yCjgMNmQlZHu6xt0C355LxJA0Cez_GT77yGBumYXzohXlBIQ_2dPzYM0x3iIot-c_swSPRoUo0ivEgn5ZGwKafMqSd4_JHTuUD8",
+            "width" : 2048
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdgAAAPTGA7k2kqNRx92SfQKgsxWcVJVNQFnbFAxJ-E_aLjXhSM5tEM3ORPUzS8R2meSrDFE_C8ahz83hY9Ip3MZvQ_PoWozrf2X1yihB1RXOARrId0kvYnFhuuv4C3RbvAJQlJt4-6Lckyfna_AahdjcQUMPSLAEl9Wj8k_Um89_Djs6EhD8NPyFdnOd9DMhkEb0OzzVGhQseuSBlfNgihutvDsfax3LfOMSWA",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJRfm2dlLInUcRMSsgaYGhayw",
+      "reference" : "CnRwAAAAsS7gy1IMyU8TPoyGv8PMCgki3_kEhW42L4-Dk077u99mkZNSiD_9BOn4LX_iPF2RS6iJf4WHXo7UsK9mrtLbDMjDKf7rkaGxkRq-NKQ64MlwrnBmuMmifRtpym7ZwppJGQNt-vwk3hv8gMvTrvX0DBIQyuFUTZ1Qld2myXCXytu8dBoU1kAz3QVytbD4_hyDxK3klyJdUdY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Addy Hillen",
+            "author_url" : "https://plus.google.com/114281312304895465901",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "A must, muss mann gesehen haben, sehr beeindruckend......\n\n",
+            "time" : 1428315812
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gerhard Kladiwa",
+            "author_url" : "https://plus.google.com/104166653054395921107",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ein Erlebnis für jeden der die Abwechslung liebt. Das Gebäude am See ist alleine ein Kunstwerk.\nWir werden im Sommer wiederkommen um auch den Park zu genießen.",
+            "time" : 1420962612
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Nadim Al-Ani",
+            "author_url" : "https://plus.google.com/103687492306791148390",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1346060732
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Kleinere Kunsstammlung und Darstellung der U-Boot Erlebnisse von Buchheim in sehr schöner Lage. Sicher einen Ausflug wert.",
+            "time" : 1314204908
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/109630652120017022707/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Am Hirschgarten 1, Bernried am Starnberger See",
+      "website" : "http://www.buchheimmuseum.de/"
+   },
+   "status" : "OK"
+}

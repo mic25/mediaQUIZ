@@ -1,0 +1,239 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sankt-Jakobs-Platz",
+            "short_name" : "Sankt-Jakobs-Platz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSankt-Jakobs-Platz 16\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Sankt-Jakobs-Platz 16, 80331 München, Germany",
+      "formatted_phone_number" : "089 23396096",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.134334,
+            "lng" : 11.572324
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a293432fbda4ebf3936fc5976a6846d1e0f59d7c",
+      "international_phone_number" : "+49 89 23396096",
+      "name" : "Jüdisches Museum München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115609401161919010962\"\u003eWam Kat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRmAAAAlIZsZ4GPOV-AJF49aNLKGhlZV5nb7ZMwBXqXPR8I1FF53Ph2a5lHVCMvmcJUFDq4nlEilSlqy_GtpDqu-9dijyOb4MBzA1aMa1VF1o2zKnuFuOsqKeyyr2ikeTl-XuybuTe4uqlrFJ6qIVUTJpwIKhIQssadUpiMpYD9dBNidkosRBoU1QFL5WPwotu9WfFZnZC4eCxHcRQ",
+            "width" : 2048
+         },
+         {
+            "height" : 280,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAcpOnvp3TIwobOY1tVuWO6fLcqctFfk10wEgbmlI71tWUP0mcz4RmqzhCJ3CjVF5bml4aKui0ViGYU1y7OZjBZW9n3h7YZ9zX-Sm9bB9xvE5eGAdhzeMgXp-5L79u0kcaY1d9fsPdO3VtS59ecLSt0hIQc-3i7u64B6rZR9Hndv-FWBoUu_AsKkhZg-WTj0bcRG1DUO84ZXQ",
+            "width" : 640
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAU0zH1htP4IvvlIn6iD3wOVo5roWpWo4Tk0IeAu-xA324VfIngT5bHuSz2Ty015WQecJyVKomxKvUOqZql48EIlZhs3_mMOefAQgyBv9-jzZRAZiug_UVVf2PNYAloSgu5-OkkBVVFVtr1RCIIvx6-hIQQQhOmVOpwWgZDOzucDQp2xoUR-R3-jGyWYgL0qw-n4qkNC2HZ7Y",
+            "width" : 640
+         },
+         {
+            "height" : 392,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmlu5kbDUuNYpH3K7aAWZyamOwit03j_iNPZlb7-zHqBNcBCzgE9JDKjPFpwfZERpBguCgD9ejjP0WKsNF8DnZK0hDY5gixCkBQ7ZwZIC6xRDE6GMEIapoCIuAZ8ckeG8-kg1L-AclC9AyfJ0TI5ikhIQvV-80IkKYvyhziAY4oH8QRoUubQgSoS29GJUz8mvaD0-wXKNLlc",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJwzub8eQBCUERRMXUgKsVPsQ",
+      "rating" : 4.2,
+      "reference" : "CnRuAAAAMkOWhLjnIcZ9vaKSXFwr9bptQAC_e7i28nBYh51PF-V2iwq946KDB5HPF-gDWBmNT6t0eW_iyPeuY6N_SzgpxWeutPK34uHX7sa8OdiSlMGDCskiKIaGZkQImmaVuEi5T5iYv9kx9M2WIvUGbvDe4BIQEWdHqwQfhzLmjaxasX6rcBoUsM-ZSwVuxfxeP3Hj7iy5T-BUSOs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "It wasn't a Jewish museum so much as a Jew Museum. As in, \"This is a jew. Here are some of the sterotypes and here we show that they're not true.\" No real feel for how much life there was let alone for the depth and richness of the culture that was destroyed. Much more space was devoted to the traces of Jewish culture that exist in modern popculture in Germany. Go there if you're worried your child is becoming antisemitic. Don't go there if you want some real depth.",
+            "time" : 1307713844
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Petra Baumgärtner",
+            "author_url" : "https://plus.google.com/106348646692269455428",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Es ist für uns immer wieder schön am Jakobsplatz im Stadtcafe zu sitzen und einfach diesen Flair an diesem Platz zu genießen!!!",
+            "time" : 1420627500
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1418747216
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yehuda Caplar",
+            "author_url" : "https://plus.google.com/110289526395306461950",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1412462523
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Daniel R",
+            "author_url" : "https://plus.google.com/110336760785127349780",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424818076
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/107416730187588322498/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Sankt-Jakobs-Platz 16, München",
+      "website" : "http://www.juedisches-museum-muenchen.de/"
+   },
+   "status" : "OK"
+}

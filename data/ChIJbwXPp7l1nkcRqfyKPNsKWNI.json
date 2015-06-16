@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Feilitzschstraße",
+            "short_name" : "Feilitzschstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80802",
+            "short_name" : "80802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFeilitzschstraße 12\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80802\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Feilitzschstraße 12, 80802 München, Germany",
+      "formatted_phone_number" : "089 38887820",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.161209,
+            "lng" : 11.588939
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "42a9cfedd658276d2d0cbd7d637772aaebf4e9de",
+      "international_phone_number" : "+49 89 38887820",
+      "name" : "Heppel & Ettlich",
+      "place_id" : "ChIJbwXPp7l1nkcRqfyKPNsKWNI",
+      "reference" : "CnRkAAAAoQ0_izGjJCkMfEVuBr0ITXm8KJB9YO9JtMpc8cMkqqCFrBZw8w7iKyFQTJrljRgwPE1zfWnPiJW1o0fOmMhS86Stntx9BVHOzqNQGdlpZyK7tnpE1IRNxVDHWP7-FzTsP_WzUr5aeoHHctUgx1Qi0xIQ1f16vM8aONrg9GxVenFhkxoU45VTydviPi-zhRHYV1LBV8n3X1E",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Echt toll! ",
+            "time" : 1424635997
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bernd Keßmeier",
+            "author_url" : "https://plus.google.com/109240891539887092496",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Nette Kleinskunstbühne. Angenehme Athmosphäre.",
+            "time" : 1381949273
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fl Zvg",
+            "author_url" : "https://plus.google.com/108951564155246073657",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430494189
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/107846147616152079842/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Feilitzschstraße 12, München",
+      "website" : "http://www.heppel-ettlich.de/"
+   },
+   "status" : "OK"
+}

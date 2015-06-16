@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kiliansplatz",
+            "short_name" : "Kilianspl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwanthalerhöhe",
+            "short_name" : "Schwanthalerhöhe",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80339",
+            "short_name" : "80339",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKiliansplatz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80339\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kiliansplatz 1, 80339 München, Germany",
+      "formatted_phone_number" : "089 9699870",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135318,
+            "lng" : 11.535649
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "23541b40fad481b8bfe3bc2547fbdef9753aedef",
+      "international_phone_number" : "+49 89 9699870",
+      "name" : "Sankt Rupert",
+      "place_id" : "ChIJlc0Gj6jYnUcRv3qvTtsNC6Y",
+      "reference" : "CmRgAAAAlO7ZQZlM9Jy0P3v6PcCb8xXKLvAylE-Gbr1EeBr3irTzIThJVS4MbOtL9yPEk8KzhbBekMxYoS32eZx4GfcYmRyip3t0zn_T_mVMnh0QzIsdnEaCw-XoqpRyzi48lEkDEhAwcMoFLPKj8NpDKvr9gFYTGhQuU6wKP8p9vwZvUj-5a1xOt5boMA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1317404470
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/117269103633580190140/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Kiliansplatz 1, München",
+      "website" : "http://www.pfarrverband-muenchen-westend.de/"
+   },
+   "status" : "OK"
+}

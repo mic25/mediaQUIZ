@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sankt-Jakobs-Platz",
+            "short_name" : "Sankt-Jakobs-Platz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt",
+            "short_name" : "Altstadt",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSankt-Jakobs-Platz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Sankt-Jakobs-Platz 1, 80331 München, Germany",
+      "formatted_phone_number" : "089 23396450",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.134821,
+            "lng" : 11.572896
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "712d7b287b309e3a3036206a4e28df2228f9db60",
+      "international_phone_number" : "+49 89 23396450",
+      "name" : "Filmmuseum",
+      "place_id" : "ChIJp-hHRfV1nkcR0OgguCjJ3gY",
+      "reference" : "CmRdAAAAO48mwnN6k9oj5nPwQWBnVhoZ2c-vDLC0S5eqtY6_uIVwl8Swift5alqTniO7hjNWJljThiDe9WXy4Y-3fJbzjnoY6pp2cFElpKmMcP8n5CfukTFVe38YzLUE-C4fQC_XEhADT73nE8VWg4H3MTykvccCGhTH-lS4SjXIkuPp-9Fw19_iGxGeZg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fadi Hamoud",
+            "author_url" : "https://plus.google.com/105175873544690677550",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "You'll definitely get warmly nostalgic in this place, it's a great experience to have.",
+            "time" : 1428275202
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lê Cao Cường",
+            "author_url" : "https://plus.google.com/105305572298315526378",
+            "language" : "vi",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1428288930
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/104978389973279769191/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Sankt-Jakobs-Platz 1, München",
+      "website" : "http://www.muenchner-stadtmuseum.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,99 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "15",
+            "short_name" : "15",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Türkenstraße",
+            "short_name" : "Türkenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTürkenstraße 15\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Türkenstraße 15, 80333 München, Germany",
+      "formatted_phone_number" : "089 2727250",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.146676,
+            "lng" : 11.570561
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "54522d313ec9a67baae5b7513e0b96b6e9c37b5f",
+      "international_phone_number" : "+49 89 2727250",
+      "name" : "Die Neue Sammlung",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA8m9vfolw6msumBFiB9KdAD0JaC18FM0IbSH1LfGKkvW2_PXXaVZJKgIYOMS_MtSPIC2dBgtI6oI9cAJ_3orwmDaM7pgH6Rgbsbd6EB9byH7BJ6eUt1kJCGLepcXzTztfUVJx9GA4ULZXJ2Lb8W1UQxIQJ1Zo0C-P6p9yGNaUqk9GrhoUzPJHD7OwI_P3ie6o0qWdq1yvo6w",
+            "width" : 800
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAEHYcoIMbpapFOBVP24Ad2a0XdElWrl0h_zYhRM7qr1yu3U75T_9KNBA2Y5pUVpg0D0uMQzpWYTQq4ke1MrmK9EmFRFM2BaiicruQMu9BuKlC7vIr7LtsmYUJITtxzOat3maSwJhBXClc6gwj09CCdlz-xsOxOkYcmJq5-EdZe5ZEhDsteBHJu9WSc7kEYaglHLcGhR4DVs6tPH43M7Zt16fce7vIsH2tQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJB38B0O11nkcRdUJKAvuAYO4",
+      "reference" : "CnRlAAAArxLeZuMWEKYOKTztrYwlE4dVT1tX_uA0_0IPUgszlj6WQoxzEOfKxhQplbIyg77bYws2RHRHS8C1s-6k0ap7HjR1sEyFy38MFNj0GNqFOcu2wp_XEUijRftcJCfHRxrOQmhmVF4Eogme1IGhf0VbURIQt17_guti5X-GOYZ-Iy-_VRoUiP7OfgKk26-3WUgEldI1l3h4NMA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sampsa Puikkonen",
+            "author_url" : "https://plus.google.com/115928392186164917251",
+            "language" : "fi",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1359981161
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/114643776630268397110/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Türkenstraße 15, München"
+   },
+   "status" : "OK"
+}

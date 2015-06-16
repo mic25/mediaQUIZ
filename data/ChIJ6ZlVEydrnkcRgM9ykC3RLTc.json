@@ -1,0 +1,182 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "36",
+            "short_name" : "36",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Domberg",
+            "short_name" : "Domberg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Freising",
+            "short_name" : "Freising",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85354",
+            "short_name" : "85354",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDomberg 36\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85354\u003c/span\u003e \u003cspan class=\"locality\"\u003eFreising\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Domberg 36, 85354 Freising, Germany",
+      "formatted_phone_number" : "08161 1810",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.398836,
+            "lng" : 11.746324
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "05bac07a65527d5142aadf527b74547669486769",
+      "international_phone_number" : "+49 8161 1810",
+      "name" : "Freising Cathedral",
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAulb8E7cDHkBlg4tKwg5xZQigKIZTt3-oZlHmcjh5qPNI6RrePp-HIl-jaA6vXit-KnbZzCs2YZlo5OMWyHthM6fSjqP99S9sJK3ftFIxwCzufAG9EbOgHbndkOxevCDgpDCaKM0WRfHwk2bkgbBbWhIQfT4QJajltzzND6pxC0yKxRoUhL0hQljyQ6uE0cBkRjZC4OCOrxA",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108595669572177723137\"\u003eAndrea Dalla Francesca Cappello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAOG6uUbBY5yzb-Rkxm18nddZgJoJ_CQBC5OsfjMidyZCKDFKemph3Qx3rXdFsNhQc_0mUNztOzhBrsHnrDoUHt8KfHvP_hDVRC0mDkcibQqDAWa4-aXLivLGRbn-Bj_KTcvrnwvDpcXY7TDq3kosjDUphs2gyAgoNorLcBpGiYdmEhCWC3_bl4bGK0JRfOQ2b7idGhQ88LkaAjMiXednqGeoJyj0SwYGmg",
+            "width" : 1024
+         },
+         {
+            "height" : 1706,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104358755816113264073\"\u003ePiotr Siemaszko\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAJrfjNrwobRhkD4x4Jd4cYKEd7eKb026MXTsZhOVh6ejIk1IJtnYwFCTG6T-6wDneV4hmzabmT_Apm2MPcuR_WE027EWylOMd2ervBasNvRVFqhtQOrVdex_8CBE1HxxhYrJlFlo8ScK8W8PBfnrV7IDfc5GFAIi1Fkfl6fzRYdwEhD67mb8SUD3vf1rp-5rt-k0GhTJjn7kd0ICXdqXTErDs_pvXnmEWg",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRuAAAA7qKNAtiP_9xphXNeMdv6K33Wf_5NzczJiL_--gKfEX0tnVhQ6-vVGpKE-xxKJRCR9vSn4fdR9Imqzr9TgPRw7GV6fuWi8XfKEw4edoTBn3kp908OC-FwtrqFYbDPIs3rFF2ec_H_kEjhA_FVtTNIfhIQhz8xZYnG0orDwd4x60Wq2hoUWjDZLNOLtRM2dZqRT-_PvxixEn4",
+            "width" : 1024
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAAdG5saHfSNsEG8vlxWUaZtk5oav4Gxa5D78BjVlsrqFa9gjkQKuB5gEwox36ejcoWdayfnXBZtEluWUKbjejMi3Cv_G8dBKMsJvAerMMhl5InBI7n6k4RCiHj8Pe_xYHfLjs3MlJp0vwu4go56RpnhBIQAOwKzW8S4iSsBqxzuYgapxoUV-xxxg7s-0jos1kx6fZXuy_YyR4",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAACaZHpt5NbkL7jWhPTfIUfSDridVyA_XEm7HAvXqTXuH0ZbPdlCE3hHhJ_CRow7NOm-MY8AaCLxWc53sR5MarkgBiqxm1dRT2zXjIEyapvK6eY-lle-yUGFALVgo55uic1M_OX-bYql3rrcrA_JgB_RIQiUVU2Aa61nMQXd1M_nxsLhoUP0XY-hHZxrs_VM_EeSPHE7G5diY",
+            "width" : 2048
+         },
+         {
+            "height" : 1180,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRuAAAAmX6SmDjVaektxVytLazD1CV2UbubOpaeIcy_xg9MxBhKBuOrWn0YIiiPCa_7CE5QSJ2MlH69Vc9kSHIkzlZjELfMU9U1Qs5tn79BznQWekgv6exwbbTucwHPYvXPbVsKcr3SevggEEYySeyZf3FKvhIQ3rDcQQPOnw-wL4E3N-ub_hoUdS0ptq339KdaQi_hUzV_-_XMLkE",
+            "width" : 882
+         }
+      ],
+      "place_id" : "ChIJ6ZlVEydrnkcRgM9ykC3RLTc",
+      "rating" : 4.4,
+      "reference" : "CnRlAAAAJc2sQOIh5PzS8hC6CB0OTKPrYDhF5aZcJIzPyzNdW74_G0ZPS98MeMntsNclosh71v902Fz-oYZOpFQqRPtHUULjo3UOLoDIBLEwk1UIF4j_3Of3irUU956R7Yx-PsIWPargRUBKjaTBA98lmhqRcBIQvdDaAdfVZU-ezVABl1NGbBoUSt4WuAijOrUeklYKKFGxEqtHLNs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gabriele Pfefferkorn",
+            "author_url" : "https://plus.google.com/105874194129474626579",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ein Gesamtkunstwerk",
+            "time" : 1420612883
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "yoyo qian",
+            "author_url" : "https://plus.google.com/115274050355207771527",
+            "language" : "zh",
+            "rating" : 4,
+            "text" : "w外观朴实但很圣洁",
+            "time" : 1432557841
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Felix Daum",
+            "author_url" : "https://plus.google.com/117085085271119368754",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr interessant und ein gesamtes Kunstwerk",
+            "time" : 1421949633
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mary Goos",
+            "author_url" : "https://plus.google.com/112638759527588708957",
+            "language" : "de",
+            "rating" : 4,
+            "text" : ".",
+            "time" : 1431344546
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nem Bog",
+            "author_url" : "https://plus.google.com/108540657033958682674",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1427460400
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/104091264035138428587/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Domberg 36, Freising",
+      "website" : "http://www.freisinger-dom.de/"
+   },
+   "status" : "OK"
+}

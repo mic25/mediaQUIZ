@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Domberg",
+            "short_name" : "Domberg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Freising",
+            "short_name" : "Freising",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85354",
+            "short_name" : "85354",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDomberg 10\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85354\u003c/span\u003e \u003cspan class=\"locality\"\u003eFreising\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Domberg 10, 85354 Freising, Germany",
+      "formatted_phone_number" : "08161 8627310",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.399338,
+            "lng" : 11.745629
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "38eb866932a2e5ef3982c18485ae45534f7bf912",
+      "international_phone_number" : "+49 8161 8627310",
+      "name" : "Bodhi Vihara",
+      "place_id" : "ChIJU8csZCdrnkcR4Vxxj4NtP40",
+      "reference" : "CmRgAAAANNPXpyYFR-myt6Tyc4dj20l1AOifcxW5RIZVd4dlgyXPfEi7rxgkEjovNI1WCpqtTuXG6N0vJvE7oig7KZuhksrjOdRP7FF9g5LDr5MW5v6DaD3NvmYhxfGXci0C7UBBEhCY4RpPsrY8js8p8hEi1QueGhTJr6m566Z_NuBSdgSF9T5t8emZDQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Varasami Ashin",
+            "author_url" : "https://plus.google.com/115745018058781360777",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1422640428
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/111431654235929732918/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Domberg 10, Freising",
+      "website" : "http://www.bodhi-vihara.org/"
+   },
+   "status" : "OK"
+}

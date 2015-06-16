@@ -1,0 +1,117 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "26",
+            "short_name" : "26",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Maximilianstraße",
+            "short_name" : "Maximilianstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80539",
+            "short_name" : "80539",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMaximilianstraße 26\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80539\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Maximilianstraße 26, 80539 München, Germany",
+      "formatted_phone_number" : "089 23337100",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.13848,
+            "lng" : 11.58238
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "08a772ff0177a6cb48f4549ae6f3412f63fd1986",
+      "international_phone_number" : "+49 89 23337100",
+      "name" : "Münchner Kammerspiele",
+      "place_id" : "ChIJmUcZMIt1nkcRcigymMXI_lQ",
+      "reference" : "CnRpAAAAgcTWhHZr8_xvqRAw8-ECjlvrdxpin2GQAOqRqPjHuDC0z3y_TmnWeUZola52GD41oebhAX5LArYHUSUXugf3b2O6J5Mu-zeSqErdtRsVcEfdAILOIw_yA3qzIAIjKlQ05aZWoH8GqRH0BcfcZNAeVxIQ2zWJwo-_NI2TNi12LFommBoUcL9bPtFl4Azf9mBwVPqlem6iPmc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abdulmajeed Aleid",
+            "author_url" : "https://plus.google.com/101591934939243569407",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "ارستوقراط",
+            "time" : 1409857532
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Werner Fels",
+            "author_url" : "https://plus.google.com/105439182203704208202",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Betr.: \"Das schweigende Mädchen\"\n\nEs ist weder meinem Mann noch mir klar geworden, warum Elfriede Jelinek dieses Stück mit Figuren, Propheten und Engeln aus der Bibel unterlegt hat. Die Hauptangeklagten des Stückes hatten sicherlich mit dem christlichen Glauben wenig am Hut. Für mich als bekennende Christin grenzt die Inszenierung des Stückes an Blasphemie und war daher schwer zu ertragen. Es gibt verschiedene Auswirklungen unserer christlichen Kultur. Hier wurde eine einseitig negative gezeigt. Ob Frau Jelinek ähnlichen Mut im Umgang mit dem Islam aufbringen würde?\nRosmarie Fels",
+            "time" : 1423397848
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Michael Ajomale",
+            "author_url" : "https://plus.google.com/107403505252344097453",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1417000875
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1307894968
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/114509346292803059219/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Maximilianstraße 26, München",
+      "website" : "http://www.muenchner-kammerspiele.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Don-Bosco-Straße",
+            "short_name" : "Don-Bosco-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Benediktbeuern",
+            "short_name" : "Benediktbeuern",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "83671",
+            "short_name" : "83671",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDon-Bosco-Straße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-83671\u003c/span\u003e \u003cspan class=\"locality\"\u003eBenediktbeuern\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Don-Bosco-Straße 1, 83671 Benediktbeuern, Germany",
+      "formatted_phone_number" : "08857 880",
+      "geometry" : {
+         "location" : {
+            "lat" : 47.70739,
+            "lng" : 11.39881
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d0e9836ea56c81228ee6e31106012efe4874277f",
+      "international_phone_number" : "+49 8857 880",
+      "name" : "Kloster Benediktbeuern",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116901269073517425419\"\u003eMoritz Geißler\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdgAAAEWxbMI8fY6FiVnqYudW9OyQAwhocOS594VUGawH8ss7Q5A0nt83HNb_CMid9dqy-H2bxlD0Z7NvrQ3gP2ymeTR1t28J9ODyfJIpnfsMc2AZwRWL571dQ9EJLeAITE8OqJ_pkE4OlbNfbcB0O_jPKjMduT5hmJQ2RboI2YhIOYXTEhAftfC7dZPafHs0DIcIaZAgGhRcISKX5GidDzUA16tb_CqRAxr9mA",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJg7D2Tou8nUcRkPstR5oEI0M",
+      "rating" : 4.7,
+      "reference" : "CnRpAAAAoK01y72UIrc-t7-KDwn6qzJORW984MQc5L2MbrNpjXcKmVkzuV7q2sKq3wj8YvFXVhhcDa_C9lBINkKVAx-W2a1iPVPJDByDAFNrI7thbd08V5OJMnxViLh8CLeA_m28hOBm8Oepdi_MM0exkJlh0BIQLfwAMm219tiUbzHAtiR2jhoUyzil2Rzod7bUDMyewgMG1o7h3lc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrei Kovalev",
+            "author_url" : "https://plus.google.com/105718026743714730914",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Wenn Kräuter kaufen dann in dem Kloster!",
+            "time" : 1409397173
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Josip Vujevic",
+            "author_url" : "https://plus.google.com/109325425171166808980",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr tolle umgebung und ja die täter hab ich gefasst wir hatten eine schöne zeit die liegen momentan im Krankenhaus ;)!",
+            "time" : 1417981396
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Almir Borges",
+            "author_url" : "https://plus.google.com/107950342149504679351",
+            "language" : "pt-BR",
+            "rating" : 5,
+            "text" : "Visitei Kloster Benediktbeuern no início de Abril de 2011, um lugar fantástico. Belíssimo, o trabalho realizado pelos salesianos no Centro de Juventude.\n\nParabéns à Comunidade Salesiana de Benediktbeuern pelo trabalho e obrigado pela acolhida. Danke! Alles Gute!",
+            "time" : 1302788575
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Seb Bu",
+            "author_url" : "https://plus.google.com/113727876718494291574",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1382982937
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "BigM TV",
+            "author_url" : "https://plus.google.com/114177990866215585525",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427958748
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/112303617403017446417/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Don-Bosco-Straße 1, Benediktbeuern",
+      "website" : "http://www.kloster-benediktbeuern.de/"
+   },
+   "status" : "OK"
+}

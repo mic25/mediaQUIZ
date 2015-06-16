@@ -1,0 +1,89 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kraepelinstraße",
+            "short_name" : "Kraepelinstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-West",
+            "short_name" : "Schwabing-West",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80804",
+            "short_name" : "80804",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKraepelinstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80804\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kraepelinstraße 2, 80804 München, Germany",
+      "formatted_phone_number" : "089 306221",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.173681,
+            "lng" : 11.575183
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f9a5db435e51d2fbb79e233d27e8ed2e7785842d",
+      "international_phone_number" : "+49 89 306221",
+      "name" : "Max Planck Institute of Psychiatry",
+      "place_id" : "ChIJKZ2wltJ1nkcR2FLkeVPNP7Q",
+      "reference" : "CoQBdgAAAD4UhmeMaMTS-GSg2w-t8Xk_G5YTR6vPpEa0wlGaA6e1qMI0-BDA681Z1KPc4r0lObOmfqE2pc4g2vGQpWYs1MHOwlPoqQ8PZfxIwT3SHacx7K-7zZ7-F7FJfjSJRLhQMfr5gRAofhoV_QK5B3g4O3N0rRiZEtg4gfJ9x1NdRbjLEhChEVZvtG2fH7q_y3DBh-APGhRaYuErDeTmaywLntNoHbjbz2MjHg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Elvis Massari",
+            "author_url" : "https://plus.google.com/103371877302001868921",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "coool",
+            "time" : 1402143662
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1333327261
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/113873140951522749853/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Kraepelinstraße 2, München",
+      "website" : "http://www.mpipsykl.mpg.de/"
+   },
+   "status" : "OK"
+}

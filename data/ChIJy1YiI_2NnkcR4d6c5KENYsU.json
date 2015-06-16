@@ -1,0 +1,265 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Blumenthal",
+            "short_name" : "Blumenthal",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Aichach",
+            "short_name" : "Aichach",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86551",
+            "short_name" : "86551",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBlumenthal 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86551\u003c/span\u003e \u003cspan class=\"locality\"\u003eAichach\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Blumenthal 1, 86551 Aichach, Germany",
+      "formatted_phone_number" : "08521 8904300",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.421376,
+            "lng" : 11.148014
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+      "id" : "c66b1c01ceb2543743bd372415e91170aa66c5c6",
+      "international_phone_number" : "+49 8521 8904300",
+      "name" : "Schloß Blumenthal",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 3:00 – 9:00 pm",
+            "Tuesday: 3:00 – 9:00 pm",
+            "Wednesday: Closed",
+            "Thursday: 3:00 – 9:00 pm",
+            "Friday: 3:00 – 9:00 pm",
+            "Saturday: 11:00 am – 11:00 pm",
+            "Sunday: 11:00 am – 11:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1530,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAtYfoGw3KVLmNpSUUvoobeSOcmwfxL_GlV5ORn6KZ8B80YEdQMAvcJrlvcG9U3UijCgb8wucqWNMGd5VChBvIgGUCLv8KiItYOiAnB95M58tZe-MlE0zZdpkSJjYaR60o6MMgbsxfgi5u9EKEXW1rARIQ856AqlqmI9uYCgrzzI_cwxoUa_op1ZppLER-2tLcVxczvjZ0Jwo",
+            "width" : 2048
+         },
+         {
+            "height" : 1530,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAnhzqcp1xx5rpeR6-U4BHHTJM1momBsVN9MhBnJhcuAwoO5Aj6VvaeLjNiQlO-n_W55rf4cmxD6l2tBQ_8sN77ZtV7FgaWkz3oo2gQ-HyCNYcyQgV-rpiCLuRGWD6WajluXhVOdwvlbN_3KKzmdqeyxIQ6k319jC0MYE07eOyZfVQNhoUoGwkXA85jJ_ep0MjOpmLszVTbA8",
+            "width" : 2048
+         },
+         {
+            "height" : 1008,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAALAU-ZB-UifRu524xS6Tso4D6qXvkjdhfYJYZAhLTiFq-JLZeJ7_806C2lkAG6n8pf0J-2k2_TW3yjCzn0Kd_ovFyZZ19j3ATQZWWIPq6zRk4zEnd9x6m0-C_9jiImvNI65JjafpGly1sOdskHKuZ0RIQf18UGRZcp1ucfCFXwAr3jxoUX4V-YI6DX7Qjvu9RvmJfjzqD00c",
+            "width" : 672
+         },
+         {
+            "height" : 836,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBegAAAL_iWX8E8oe9sJqh03mjfcu_OW76uHpgnm-i2vECkYicovq1F3yeGeGweXVIpCvjBL0JWtZI2_EH-C5yMWujkHBwcBwhUL-KP3ViYrsv33DmQPZq9WafR7SL7oVv5Sp4J5tNQUownWU5GwJ-xoUjq42PKkGM-kmrnSjbg_j4WQODEhB-LbdSV6WDoXaY2ppGv9_eGhRx_b9YVuIO5lS5Z70wXL8nAoXVKw",
+            "width" : 912
+         },
+         {
+            "height" : 427,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBqgAAAA-uNTUFoZJ55Jv290_quFWobWkLcwdai7NzzmYzgzSGHtXVrIDvhcPkmj5CLmZsASgpSGqyZXpWsYXdxRK0164k0wu8s0cmaHMCcsy6p5CU3x1y5X_VeaI0yyrclPipQK0Qb_6WNWZGneWuzLM38QCYu-8KGS2H4rctDO8fXRdxMHXsNmAOxgSehOlUROR_-PzTYpqZxYbWWBZJ0Lg04AtuIhOh19aw5avYQ4hP8km2EhDSm4TaPpO9xn-A3ajXlJiwGhTxGEElt8yH8pY8mB8xrNkLE_6YRA",
+            "width" : 640
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAI8htIFSmkUgGfxgxIIz4y1p2lzjgR6kwJI9bW8cmqZ62AcoCCJZSf_BXVu3JO-7IT10ZpCnMfsOgXTlUrzFw9A7gGGCmRKcfS7rEwMADUPVL-rezy2pxqGVplb9tQPFdB_6pOIWD-sKwipc-GoG-AhIQhPQ0O45U_lttiFrivorrshoU4ac2G-UsGzTZvZlWOgevLpNAq9M",
+            "width" : 2048
+         },
+         {
+            "height" : 327,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100321372401650924689\"\u003eMartin Horack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAC7qYrekGGkCooRTUKNIR8AeDuk244x3wVw2VJchbsYIcL1tibmUR-t9USbH2SYDLYaZghiwareGX5H_m-zsa-BNfidNF2ZXjcC63qYmK48eOPgs-O8IAuvLYEAIcTy32VAE0iCdH79b80RR64-P2Uzbs3bMqRhxYKC78AoQIWNIEhA3lGhAln-d3FlHY2-TYX06GhTa0P3f9u7GyEJevZ9esba3XmfIkw",
+            "width" : 490
+         },
+         {
+            "height" : 272,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAKtoeX0VwgJ8mZss39Vc6gcMtf_8fDcBXe1-F0s5b2t5_KcolH6d_BIHm0hlB_OCWiBznI1B93L8u3dL-bof3PtY-xVvZ2TXcjZGEZzfLaF9cCbVYg-pds1ciiC3iHM7abvBWp2Fe4NZ3A_XgpqdZnhIQueGR37bV8iJAvvByrZCgvxoU56ZHtLKr4nDFm0My6eZ0VL5yXuA",
+            "width" : 1023
+         }
+      ],
+      "place_id" : "ChIJy1YiI_2NnkcR4d6c5KENYsU",
+      "rating" : 4.3,
+      "reference" : "CnRmAAAAN-jz42cEL8xgwmIdamAzJObjqVJQ3R-3giFzBCofMEDR3Vkc2yQN642PLK5oxKJFY2Jd6W5zXyP_R8vkdC0MVFiHZC0S4A0n7qbEqrZ2rUdZUwLcrOSMH3RqxTCVKvnDr0FR5VrNT97pI4JFSs--ZxIQvtgd7Q7chRzGK62tSZT2dRoUZ0SgDeFSNy4XfLuF6vVfYEz6SOw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Matthew T Richards",
+            "author_url" : "https://plus.google.com/108805068482864363408",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Wonderful food in a beautifully traditional bavarian style beer garden under the chestnut trees. ",
+            "time" : 1374996445
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander Wuerll",
+            "author_url" : "https://plus.google.com/110146892125941460629",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Toller ort , nette Leute, witzige feste, leckeres essen.",
+            "time" : 1402541644
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "marvin Koehler",
+            "author_url" : "https://plus.google.com/106205394826006444476",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1425589701
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kurt S.",
+            "author_url" : "https://plus.google.com/108300382551301102539",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1401016823
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "ganz gutes essen, wunderschöner Biergarten",
+            "time" : 1332127784
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "lodging", "establishment" ],
+      "url" : "https://plus.google.com/106439725715833931611/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Blumenthal 1, Aichach",
+      "website" : "http://schloss-blumenthal.de/"
+   },
+   "status" : "OK"
+}

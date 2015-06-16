@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "18",
+            "short_name" : "18",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Effnerstraße",
+            "short_name" : "Effnerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Oberschleißheim",
+            "short_name" : "Oberschleißheim",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85764",
+            "short_name" : "85764",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEffnerstraße 18\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85764\u003c/span\u003e \u003cspan class=\"locality\"\u003eOberschleißheim\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Effnerstraße 18, 85764 Oberschleißheim, Germany",
+      "formatted_phone_number" : "089 3157140",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.246049,
+            "lng" : 11.557139
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "83fc4b07c97631a8c45eb5aec9c5c57f46f54f02",
+      "international_phone_number" : "+49 89 3157140",
+      "name" : "Deutsches Museum Flugwerft Schleissheim",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103238596976538044197\"\u003eROCCO RANERI\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAAMzx2kpW4GfspWeqAOM_eGR78NOiPLCwInv-QdrFJvjmviM-jB218Djr19G8VrvOUsEEkUe0gGliUwhS9fhnNg-s2fCa89xxqS8sUXVr04RORSnGx0ryQHxhBBL578Dk0rMvk9szB4dgR8OPeXc43o6tBZXq-mw_K8BVK7L4tClSEhDFhfSGM0MpaiisjFt6yi3XGhTFrg7v3OP_tOmrTiDSR50Vxv4lng",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAgagRxUzWr18ofDwepRz0Fu-c3Gat1Xbk95oxoIrOvD5Ef_AXmh9xEKbhMkjn4f-XHAj_wyo9Mu0pipIcr3WlMVVfeYpDLvXZyCS0IDwYkpc6D8FWktrNNUGV-XFUVFU5M6KNs5albB1J6atiPrFZahIQVfZICFKMKKqt4MOR45-J0BoUwrVKV7smgi9k4JAjTVXSuzSGrgw",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108944271584348557839\"\u003eClaudio Pedrazzi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAwTQt4EL6E_1gKNhvk2_VxE6PMjN6xHdelecjGatqdHO9diYwBe5AEH97jib2Xq5-OhbfQnuKhaUf1hsm5D4Y4g1jVkyMgtRLLJJP6wa0I4wNuzTF3W6mfsPRKiV-e-6v6oz9PKzdH9XePvE9By1gBBIQp9HJ3LVXdwQ2BVoBSHocUBoUTH_cCwMO1TXHCZ8YvFfIA3aZkvA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107251012238835716096\"\u003eChristian Forestgreen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAks7dwIiO3yZ3QrZsSypyVQOIjNeABAn6yBrfNN-iUKDJLo1cNpoOYy1I5JoKiCifArPRMvo4LqaXr4nqsAUMR-69crl0KmWsGiV3NFCWbKY_zc1HJ0xC52AFnsbrwY3bior_n7Ws8qjj8-ayIBeOUxIQV9yi8XiFWf0RZvyU8jPfkhoU5CI0IAmHKd1Z8bHwpsXRTBjGOWc",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAb7vcE9sB9dnwiwvMrkQ8Egp8cROWbCiFvEm2s0bg5rTK_qSoOojQTvSjILF0S4txeiuA3Jl0lK4Ms-R3UE6pQjzOgDoSlu0BDICtQ9mjRqZL4I5HCvIaV0lzwVslJLD2C2VL4BsKolbqvLKFOdRZNBIQYLLZUZBVgk0z2CuPcwjkQRoUrM3YEJG_0Wqnrxbx3wEK-832ipc",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAARLRvar6Q4Ed_FVVGxk7WwOEoT_R3vVaFb2kC5rvRtvq5SvI86mIfHOupWMgMOvY106T8HuQNzBuX38mj6Qf0DL5PxxVbkzb1B3cMx6lhylJSLuaOpZAt1IpSN60n_ICgWo5jrj9Nw0iaUZld6J3XYhIQd0pX13tTgCv_QEFtV-Bx4hoUfTrUPJVHQRGpz7boVIyuaI1ayRI",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAwofq8GwWQMuVOvvV_75jsEbVe27nY-BdJseTN8moOFfziVR6fZlMy6xjz6pyGJCtbEem7WpAw1mf_kBGcFpdZS38FyNBLk-rewyVCNu4AfafgxHdhRTn_LYc8rcYtXKDK27bZjZRQnp8RKXlEgaHFxIQo9xXd2PJ-It9Z-qlgdnNLBoU-B9Cw-5KJz6CHxIc5Yvpi0THc_4",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAPXx4RrJ5gG9hzcGRo7jDk5IijoJzUtNUO_uTJ8Q2wqyl56Ghk4Pg14ksaBENqyVTjCipXjgDH8no4oQLauYSi1ifqGL49rvhHniCUr-kfmC8rVRMNBQXzay5UpCzvF5Eg2AygMVZjOnB3cikS8xnuBIQr62EuigIPt13DGRpSqjwMxoUOYqKgxnVoZBaBzB-YmWq6qFwPMA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108944271584348557839\"\u003eClaudio Pedrazzi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAw-yCowGIEN-KFpynBUID4Nav6CvRKi29L50Tn8UKFE3hAgN6-lie6Nj-Yg7g_cpFrDLs_2hakbmbHy_352ohfUTGERVv3Lr3t2xt7VB5IPOqsQhJY2uaXvz8naBn84k2gVS60MbiNvuXk9LUmNwXoBIQC6egFeJrC3pKb_pKkFSothoUA2yjxGAC0TtAMaxceyLD_7t7Nuc",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102381417658683572677\"\u003eFictionSource\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAANHa3Ssqg4t_m5FdlqXowvrjxLEbHS6InOGBX4R1oTsRHlXSSRmepeTzIgbSv4WF2T8AB82-kCNn3k2D3RQaqkMR3ZSjVZbprPFHMiH5FL01WT8zeHFDtx8nh1AosZ2AOBxGYHwgjrv2K5lCGHxGPPhIQC3M0C9hi8Ie2RuNKMwVefRoUnv4WtQYnpQEdza4h5xveJMblhcA",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJF7KYyhFxnkcRyZTA1RMW9hM",
+      "rating" : 4.7,
+      "reference" : "CoQBegAAAHxjHUDPDFgBtlamIggydvrA5iB_EXYsXvSYE59GaUPg1ZzMlF-YP4Dq7F_jir_GGt2bEDMG17MgX3gvxWwQHx_ocrHzfCggTg2C9MfhSgT-jtbZUlP8ln2cPgcbGHEpdmaA3udFukNHoFuPlsoBH2uIgetp6z4o-qucKei5EaOyEhDlLmT82Zg2KK8kd9lXQH2PGhTUWvX0DvcOWzU_qRMsPHpBRTUEuw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Zuhair Bin Redha",
+            "author_url" : "https://plus.google.com/115537324132327812575",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice place for family.\nKids can enjoy fun rides of plans.",
+            "time" : 1432468128
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "FictionSource",
+            "author_url" : "https://plus.google.com/102381417658683572677",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "There's an exceptional amount of airplanes/aircrafts/anything-flyable in those 2 impressively big buildings. So far so good, however, personally the museum was after all lacking of interaction. Interactive stuff like doing your own experiments or screens with controllable content were very rare. Also the helicopter simulation did cost you additional money (5€ or so!!)",
+            "time" : 1415701432
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lea Pantalla",
+            "author_url" : "https://plus.google.com/117178456822995389776",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Loved it",
+            "time" : 1411171364
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Claudio Pedrazzi",
+            "author_url" : "https://plus.google.com/108944271584348557839",
+            "language" : "it",
+            "rating" : 5,
+            "text" : "Sempre raccomandabile, per appassionati di volo e non. Adesso ha anche un simulatore di elicottero! Unico problema: nei weekend troppi bambini... mah, diventeranno comunque tutti futuri piloti :-)",
+            "time" : 1404391288
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gregor Ruscitti",
+            "author_url" : "https://plus.google.com/104823457125994181412",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Einfach genial 100 Jahre Fliegerei. Interessante Flugzeugmodelle.",
+            "time" : 1432675588
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111429571841541008819/about?hl=en-US",
+      "user_ratings_total" : 26,
+      "utc_offset" : 120,
+      "vicinity" : "Effnerstraße 18, Oberschleißheim",
+      "website" : "http://www.deutsches-museum.de/flugwerft/information/"
+   },
+   "status" : "OK"
+}

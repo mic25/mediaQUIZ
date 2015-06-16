@@ -1,0 +1,224 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Spiridon-Louis-Ring",
+            "short_name" : "Spiridon-Louis-Ring",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSpiridon-Louis-Ring 21\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Spiridon-Louis-Ring 21, 80809 München, Germany",
+      "formatted_phone_number" : "089 30670",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.175465,
+            "lng" : 11.551797
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2fa2d7552d0b3ee08ad795ec145819363e972702",
+      "international_phone_number" : "+49 89 30670",
+      "name" : "Olympiapark",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4877,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRwAAAA7VDHxhTJVbHFGaUhS7sTsUlQ72d6Mc9muhXcw3XiYmHwT1zooUfPxUNZPXPRQgvGaQ8BMpO8QA8KyCu5zuHdRyznN2vsM3_8NpEmp2Tq-Sxyf0OSCy1xAQI1WQp6-QZKPcjMIgFe1EZG_qah6UbWzhIQsIh-lk3SfGrU3XgnEYn_9BoUGOmjwnWWJzbYpaSGmA85bIgSHUM",
+            "width" : 3235
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAtI9Sq4sF9o4gmIEm1nIBAwL2kio5v77EHcfigseS0KIo1X7yC7kz_I9OjK7mwvA0SDBZRYFzmThLWessJ8zrxD7UwqgS_gzJoxBlmxJW3LY2PJugnPq5wc6wzsEsdOsNHtixaWOyCyhZAgpM-JOa5BIQ2gN5T-i_qButydpRwA8y6BoUE8quo50A9t5VjRcMGDWIFAy2TtI",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103861422605451307667\"\u003eMiroslav Sekera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBewAAAJLxQtlNibd_K0OpLfzPQ-T8ozNutII8ZyY_nsL8_osqJp0F2VSTXRxKuJhSxyORuS5qEeTyrDNQbWq2bKCdTS3N2quvQMqwHAVSIijD6HzJ47GI64w5-hwG6pzpJ9tg8JlyfW9CBCGZ5T3i76LwSoMVlKZhiMHeVYQb6NoGROiNEhBxWNwNHZoJ3r5gynT74XnxGhREl2JAMZoa9UorbLWTpZIr_bJdEQ",
+            "width" : 2048
+         },
+         {
+            "height" : 3245,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRwAAAAW9DJRUkRqgEujwpv3xZW6QkG6LTamAV1b0l7RsEgnKoQtnXoU0p8YLQT46_nJ58i4Pv2MpoDjCkscUZDI3qOWuJZSEwEAviGfC10hQsE1qXxQUGRYErw4sEb1A-yG-P1-L9NZJma0kOUHRNBIA-g4hIQVF6C7rz4kePTb5rBzGDhGhoUj6aseiy_ygzbg6ghAp0djmcHSbQ",
+            "width" : 4883
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103183223173318508686\"\u003ePeter Reinold\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAGA5SadX8vkFkpo3TmQOmU5jVVx9W8Ow3uYZG0w33r8_Xf6nVjEA6maZEFzSN89mYMJllnpLzoWAlShAgJvo0SlDrFt76Y-wLatP_c8uPE5WP4RyTp0eI0wMEZ1z0lH7k1agw2OBW8TMo8EDQgdOkKxIQdpMZM_mVqNXUrNr7TZVykhoUeFr5dbQP7GQRNTwhcD-dip5OTQ0",
+            "width" : 816
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103861422605451307667\"\u003eMiroslav Sekera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBewAAALusy_eFv_gkUAsQTnQu_PfPCnHxty0_Tdp1ovnwIBwBuxrOD6tbgAAOHCCnYimsBVc7gmW7BKpN69fK2CAG4VAfFrgbqCHjmjNcfj-SRJ68Ve3sttqYn0x4CHOUY-i-hrKM9QuDc4cB4U01qVYKGfJtgIZnNnFWYPLzCIikwrNGEhBMCIeL429oyjXLHmCFIRFkGhTYKt3aPjguIKzmAOrRJIATTp_2Rw",
+            "width" : 2048
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104454071740698905680\"\u003eIbrahim Alnaim\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAZTNjVDQQhaWgbFTEp6QCYI165mdh80jI0VOb784GXLakQsmfqMlW9PbGr9lF-SBwLvnzO074uRq4h91WIq-u7487tmrzCIr4bPg2VrGHreLYabH8TUw7yiMuQd0BX0m25D99ljyKROV8kxbK0Fc7jxIQlHOQ5vwwWjzMR4kGJi5nZhoUz5DCaYKsTTiGajR-awGgiwJIiCY",
+            "width" : 1632
+         },
+         {
+            "height" : 3254,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRuAAAAaWgnQujnXJkjHxgHi35U6OLzS5v7XwP4vgAk5Tk_191MwoIlyDZRa9vvvVfAkqKIIFtA6HG-5fku8gnja4jdJk9SK2vvlIwvJgPfq4WbkDPVLenn23tqYO1m9qcoHVzsSIRDmG_KZr-Jc7CxLqLGMhIQLvm_PwsKUVyoi8n58yFM_xoUn30wLtxPvKfDWoKbP-6vxt6jUQQ",
+            "width" : 4889
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116731248123789001858\"\u003eKhaled Al Zaabi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAANujJUfdEwps-0D0Cvzrgaydeixz0rmuTtRSBtnEOu6g6l_icarPp3C1yedMOEfGY6xacBWL-b2boPhONKQw-ICyEbVJaICvEoMGtc22L_XHLI9tMrHX4vKRd32i-C-xxkdxwsIaB_ShTaP9wF_FLGRIQzbjUFFv-ayrubMqURkUvRhoUsP85xC4BQV80ncyhKgcahiRDb-Q",
+            "width" : 960
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118130391070519205108\"\u003eAbu Hamad\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAN1GsiHjB1H051EP70C1qmsoiu8b-KMD5YfWESpVH6FLX2pPTHVNgDZPkzULo0-DW0JcLQ9g39aX8zfXRBsKD2XAe94vcCvnVCVrMLJ_d1JRMoDpN_lZTDGkdutVsD6nwrJ7zjRLdX2ShYMJuiHDrIxIQMlmzmZmWwbQrXQ9f5APJ_RoUJKpYyQaliALHnWKgqKFryLJhR3k",
+            "width" : 1032
+         }
+      ],
+      "place_id" : "ChIJM7U-OGN2nkcRS91BCoGkObE",
+      "rating" : 4.4,
+      "reference" : "CmRfAAAAL9RIpBYOCKq3SHVBkjXrw1Rn0OBwWA1hVcnLCDPF7Tze74uX7vWAOw_FcvpugQ--BsRmH7l7zJ3Ha-KVOGr9HixNaXrGlQlqORBXdXIimR484KrJj8p8d1ZKuwhCLcV0EhCtbNdZwg6RlExVpmaTiSqiGhTFgrsLO0V1k_2LspJg7wvtqN65WA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "saif alshamsi",
+            "author_url" : "https://plus.google.com/101548894317084582223",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Perfect for a half day tour. The water lake is amazing ",
+            "time" : 1428333113
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Finn Köpf",
+            "author_url" : "https://plus.google.com/116613854591402791486",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Mega geil zum longboarden am \"Spot 1\" nur zu empfehlen",
+            "time" : 1394490004
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hussain Almoghalliq",
+            "author_url" : "https://plus.google.com/100372220519784121621",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Amazing place for half a day. The small mosquitoes near the lakes prevented us from staying more as the mosquitoes were annoying us with their bites. But it is really a fantastic place to visit.",
+            "time" : 1411942624
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joseph Mezher",
+            "author_url" : "https://plus.google.com/101383560463056102016",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "amazing",
+            "time" : 1429613387
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carol Rizzi",
+            "author_url" : "https://plus.google.com/114470969089514502201",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Very nice place.",
+            "time" : 1409860774
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/104522761927171232048/about?hl=en-US",
+      "user_ratings_total" : 144,
+      "utc_offset" : 120,
+      "vicinity" : "Spiridon-Louis-Ring 21, München",
+      "website" : "http://www.olympiapark.de/"
+   },
+   "status" : "OK"
+}

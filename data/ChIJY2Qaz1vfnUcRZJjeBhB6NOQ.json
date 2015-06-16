@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Maistraße",
+            "short_name" : "Maistraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "short_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80337",
+            "short_name" : "80337",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMaistraße 11\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80337\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Maistraße 11, 80337 München, Germany",
+      "formatted_phone_number" : "089 51604111",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.130102,
+            "lng" : 11.562815
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "adaa74e29265de9844103d8be73c830624c8aabc",
+      "international_phone_number" : "+49 89 51604111",
+      "name" : "Frauenklinik Maistraße",
+      "photos" : [
+         {
+            "height" : 340,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAbiwEZMh4QNkop4RJ7EV5QiDn_zD8qIlSU63X5RAf6BNmXiM5N2T87A4ZEfyN_bbCFL8kfnJMTIJWgRjB29K7fZPsfVnJ-VhbVzbfhaI3foiCWIoQRKRSZFMs2jYTDrjTDJu_8yk6lYrTCl2e2tZpaRIQksXp6k4bv-9xrOF1TR94GhoUgLzx_1oq0NB6GsXoxbvkurdF3_g",
+            "width" : 512
+         }
+      ],
+      "place_id" : "ChIJY2Qaz1vfnUcRZJjeBhB6NOQ",
+      "reference" : "CnRrAAAAEx7x2MIP5jzUL7ekKUn004bqBbmRcUHcoGbZXlVRny-4CQpaxP6_GTMFAXm9KSzvSe3T0KfTq5UksXACNJLCl1VVexU7wPMabIhGaYWibUUk9DWnOt8N2AhFeIkiLEy08ZmKhlKy_D-vZz4F7CnE5xIQicWvOIiTf6giFZ060xoEkhoUASEHfuK1939TiayOhmPL6qS_Og8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aylin Kesapli",
+            "author_url" : "https://plus.google.com/115014847271268994775",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Ich war im april 2012, zur entbindung meines sohnes in dieser klinik. alle ärzte und hebammen die mich betreut hatten, waren sehr sehr nett und fürsorglich. es ist zwar ein älteres krankenhaus, aber davon sollte man sich absolut nicht abschrecken lassen! essen gut betreuung gut viele möglichkeiten um etwas zu trinken zu finden.perfekt finde ich auch die neugeborenen intensivstation und das (kinder)-babyzimmer!. mann kann auch mal sein kind kurz abgeben um selber etwas zu entspannen, und bekommt immer hilfe, meiner erfahrung nach. ich würde wirklich jedem diese klinik empfehlen, und werde beim 2. kind definitiv wieder in diese klinik zum entbinden gehen, soweit es möglich ist :) mfg.",
+            "time" : 1367069332
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Olli Barrenbrügge",
+            "author_url" : "https://plus.google.com/102112750515367027354",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Ärzte gut und nett, Gebäude bedürfte allerdings einer Renovierung... Erwähnenswert: an vielen Plätzen gibt es etwas zu trinken :)",
+            "time" : 1354177899
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Azizollah Abasi",
+            "author_url" : "https://plus.google.com/117365288713490585071",
+            "language" : "fa",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1432634850
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1318324249
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/112239736360983554236/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Maistraße 11, München",
+      "website" : "http://www.frauenklinik-maistrasse.de/"
+   },
+   "status" : "OK"
+}

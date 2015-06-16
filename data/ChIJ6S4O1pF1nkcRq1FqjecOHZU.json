@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prinzregentenstraße",
+            "short_name" : "Prinzregentenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrinzregentenstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prinzregentenstraße 1, 80538 München, Germany",
+      "formatted_phone_number" : "089 21127113",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.144096,
+            "lng" : 11.585936
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "79362041deb2c5df628026967c31d3a948cbc493",
+      "international_phone_number" : "+49 89 21127113",
+      "name" : "Haus der Kunst",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAHa_KVaAiM-GREJ3XFLtK4XjGv3RYMeN_bGwgOCS5tVFkMVQB-dFZ61IyjRKdRscMWK-LlIpDcsqZJHI-p5LBXaN651iCVD48QWKkDEYefM-RdcgIRj3iDQXzbu3bKUMLeZzd85Awm5FGnxWND7UZVBIQEV6-Z-QZkIPGPT-XebXxLBoUWSg_quKgzyXoFnjUpn-7Q8P_T8w",
+            "width" : 1632
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117254801151831866766\"\u003eDennis Eckert\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAJ4bLhGxfkgDg4-wNO6TU6xSmn_XvxCU6aIcrwYoxZv4KQ_gKJMkU8gMBpKYvGLZ9majLRlwu8njnGJwHbScRWqh3RMb9qrAC9ZDFeet1shJqt29WEFttWq1EMETKvJnhenzqzqjFHm37ebyJ1WrvFxIQnKkAn1X8oTkqQZRCYyh2xBoUxFjtdIbjIhR6xIyYd3XpWAo9Boo",
+            "width" : 5184
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAhYQ0r_VDjQrprK71xHqaBiEq54TKu_qja4pwCs_aC8g_Gb7bD_EWKRQwF8gItdsKZqA58YQUbLp1HxKS_UXlXGOZZib_2JRY8eXQsfWWxGYTqaTtXAcQmgWLwUNLqGzzY70boQ1f3gACyUxd5nqeOBIQfTrnwgbgZRUNNyyImeXHLRoUuJ9GFCaIdjgEZLClMr0fG-ANhIU",
+            "width" : 1632
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAbNrzte8GtS-9g2UolXRHW4EAhkgGx-BrXiMdcr2IYFVhrp50qDSq4MfALcqy7ctK_vvO2w7KxKeoptsE7icVHFj3AiUtwMbz-f_7G7Udb0J4Ntf0HzIO7FzVfPYMvTl82iai4Bo064I6OyrFgArZ6RIQmuR3_WmvolWNYInymtrUlBoUX4Ai6kqyREY_CW5PdkkpxV5F2H8",
+            "width" : 3000
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAABrlHavz5I8FgbWXPS7G1acp8lqWjkKn52oAGg7BkdKJTe-sJKAnRF5m0yT19gBA7QRQ9pe1UKGWHwGnOwe8PNoD5SmyAwpBGDe0Ur8HOkGitV7ZFPRkUzx8uNOO_UitfqbQsYtU7LcWV4VKZIXCO_xIQTWfG9LWbvpFNCW57--evrRoUJfI3bTN6SV0-SBXEAnVlnpxiHWQ",
+            "width" : 4000
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115250142513883042615\"\u003eCengiz Bay\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA_fY4DoStGYWpEDwgTokhgYA64geTs7dO197P6V0VFbsQTk8SdPmJtv1vBmtx1_xxVRuMXE1J9K9GvDLU8X6b6o9UJNVibWwV2I5nxmR9QI7P6Tw18QjYopTqY23YBgtie1kQmps-CiqQd_8ovp-PexIQ4yPFnJn8Mj0e6dI0T0E8axoU5wP1hIp2GA9Cl-yjh1seabQpIg8",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWQZZSesG52PU30KiLqct2DFFL_6AnEMCCsv0vVNqVmc7kt5N35hqXA7XluJjq_s34e1v74vp4I2-ESIs6MjFlysdIbDU-LH6Z5oAniuW49o8aYKeKC6BnjynWC6X4jVm9JlVu4402KaWgfGkIhIEfRIQ5qzuAsfpdzQ5tKvrpLXh5RoUnEWVNGgVl7aFPl1RS0LionU2dfw",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7wkw0U3O6XTzGOtdkBseX_0GOUQcIyHwUWmqxT34aR6ZurxjyEjaDq0oVu6qJ9N4A5aTnpxhK0A7ry6UXVjFA3ZoEraeaIy8eM3b4jby2W23qAHnOiZ28MzvkE9z7B_4TaH3ZW2uK9bO9PGwPMOrExIQADeWnhdbfmocwwbVza-rAhoUmu65Jcy-vqyS9iXd1WVfMeUy91w",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAXBL3UO6lkjFVJrVJD7-x8vl30kaPvOWpBHZAGKw8Qcvlj_-iERW-LvQal3VnryZqJmSnXFKEw81HRE9d0YMCLVkM1YQnYwIQIuI2Vsb-Pqhn-peLX6j0txNUUabIzfTysbH23aSsjGHkNXtRuMIH2RIQnUR-PoyoPNRAmkm224fSuBoUDpkEjpqWWZGo8cBVCeMNuo3mMBU",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJ6S4O1pF1nkcRq1FqjecOHZU",
+      "rating" : 4.2,
+      "reference" : "CnRiAAAA2dh8g_Fbgo6YM4u13RXMWpSTeS4ocgSaRnG_kFpLXFJagZYHKtcE8lnqMGc7CBaHo-DFEyDhBRF3ruE44p06rch5b9YKZcg5Ab0fr2RNyq33e4ZxB_0AEx0KnWGnXtmJ2a0WVzYhNEddaCDTEVyNRhIQby-k09QlBm20YNFjfRBMPxoU8j1i8cNR-U9kXvQ_Ub8r5T5SgKk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hernz O",
+            "author_url" : "https://plus.google.com/118089331728706163448",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "An amazing building but poorly maintained and looks like there isn't an incentive to restore this building to its past glory. Just use your imagination one could experience what this place looked like prior to WW2",
+            "time" : 1427315102
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lukas Bauer",
+            "author_url" : "https://plus.google.com/100777995256353113157",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1386251675
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "george dedas",
+            "author_url" : "https://plus.google.com/108406075444930411914",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1382457526
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Caspian Smooth",
+            "author_url" : "https://plus.google.com/108960327785413615627",
+            "language" : "ru",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1375286212
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manfred Caruso",
+            "author_url" : "https://plus.google.com/100139626383104146129",
+            "language" : "it",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1308640770
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/115853258504013587367/about?hl=en-US",
+      "user_ratings_total" : 8,
+      "utc_offset" : 120,
+      "vicinity" : "Prinzregentenstraße 1, München",
+      "website" : "http://www.hausderkunst.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "17",
+            "short_name" : "17",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Frölichstraße",
+            "short_name" : "Frölichstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86150",
+            "short_name" : "86150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFrölichstraße 17\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86150\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Frölichstraße 17, 86150 Augsburg, Germany",
+      "formatted_phone_number" : "0821 31600",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.36809,
+            "lng" : 10.887963
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "232fea9731da47fbe02bc9f91473a2c3498ed05f",
+      "international_phone_number" : "+49 821 31600",
+      "name" : "Krankenhaus der evangelischen Diakonissenanstalt",
+      "place_id" : "ChIJwW4MK0y9nkcR3xbvQcSxzhA",
+      "reference" : "CpQBhAAAAAuXRPYN2aRTd1M9EQUY-Z8FD92aySSJrTkYTAbL-y5dnMUTLuHBy5kevnbt8ksBQ2fyFJZUJtgjnBA4okn-SymsMrBwdO7apvowK8ttB_lY6GOo5fYJhs742DR-ElskUTjPRAwkEJiHZvgup9uGD_b2kL7vBUYzHDf1XI1LIk8CJQbB9_AIl350b7Q-rLWo6hIQsmEcSTQ4jvtFFRkryGzAnRoUcuY9hsGxfDnqPMEY-YtW7t5cRRk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander H",
+            "author_url" : "https://plus.google.com/112256827372954346303",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1319102315
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bernd Preller",
+            "author_url" : "https://plus.google.com/106696658415674867588",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423927201
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/115905074640697514653/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 120,
+      "vicinity" : "Frölichstraße 17, Augsburg",
+      "website" : "http://www.diako-augsburg.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,266 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "53",
+            "short_name" : "53",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Josef-Felder-Straße",
+            "short_name" : "Josef-Felder-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81241",
+            "short_name" : "81241",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJosef-Felder-Straße 53\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81241\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Josef-Felder-Straße 53, 81241 München, Germany",
+      "formatted_phone_number" : "089 2885175500",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.148306,
+            "lng" : 11.463848
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "db046d912615bed27cdbeefd825f5ad7f40744db",
+      "international_phone_number" : "+49 89 2885175500",
+      "name" : "Pasing Arcaden",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 8:00 pm",
+            "Tuesday: 9:30 am – 8:00 pm",
+            "Wednesday: 9:30 am – 8:00 pm",
+            "Thursday: 9:30 am – 8:00 pm",
+            "Friday: 9:30 am – 8:00 pm",
+            "Saturday: 9:30 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAI2GisDRkRSxv5MZ3JCkAvyiaUHvZ0iPwAU8QQc84FPtl1e1vSMOOQZs7Zhmyn3JzajYF7Kf1NuXLflBfOIEBsZ5XvOoxm3doh8zWhLR_7pXC8W2oeq4DffH3pFeSqH85bmUMvZ8XwgszLLZwSZe4vRIQqwd4MVxZlGFZ40PtvuHmERoU5D-Y4ID6yQwlwL-e_HQK1-aK1no",
+            "width" : 794
+         },
+         {
+            "height" : 947,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108838057315002733596\"\u003eElham Kargar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAuzOAlg9dxm6w0cysZyO5nbpkKslp16761jivTsb8MdCJzfBsnb5IwvdGJJ9dxcNVW3TmbMD4TpyIjUXyuiRR3lk8GMKV4OEBLPkSUhPRT5zFJqr-1Pl7z8OSJDQum3XBpxlwBrGuAv0N9mxW8_kdWhIQcKeLHwiOuS5U9HrllKCkaxoUBv5wPxSeXrbB7UK9o3to0ceXPdw",
+            "width" : 1268
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107338226489392881403\"\u003emanuel strübel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA3O3zShGBs_cc-h-9-HS5iO6-heuJdrkC3C0HcgbZzlwkLODgMUNmxO2943kNyiag52Co4Y3isCN4rJPpK5GsLcc_oUJB5ZkCbncLoNelAQ4Aq1DmDMdiLq0nmVSuUgXMUTayzGkEihREUC1A2B5nshIQApGP0K0dFlTwZSbVylb6UhoUXJyBsdbU27tqbsoATdI2dYSvxGU",
+            "width" : 1632
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109321880160010030543\"\u003equeen janine\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWz4nMCS6V_Odu0P2ioir8eIiQPLkzKjjcBVYdFLJV3W6M8dE25LNKaA2d2tdEUQg-UOVXFf5haxNJxwXNLrPRrntPdQKkKpU61btKgGlwqqE1jbV98zaDEZ6kwD0sIZhKleNu4lyZAwlvUZGqptKHBIQh9O51DlVEcjhp1boeso1xBoU_3uJsaK5dia1HA2ptjStjzS-_to",
+            "width" : 1280
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113477191442697826692\"\u003eStefan Furtmayr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdQAAAOpiMjcKfpl4zgUWk5BTcaALinko4J-1A1c6mI4abBCKVfP3n_gRsP0mzMwGFiWUIUczf4KTCQqsO-XI-_Sh1HCsezlZwW9rJcwYkYJRGo810gt4SpBmI8VKG05LOYBah-9RuK-jaRNJeeogp3pAgeRFfuxTN1lqkmuSYAJ8o8cEEhD9Y4gEtwfqMV10a6vtbuSoGhQvt9hoZ0z26Ysi71pDi3ySP76sLA",
+            "width" : 2592
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109321880160010030543\"\u003equeen janine\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAvXQs2MA-sOIpIzCiemXKfc530LTIZXh6ZUYkMbWvtYDr6WEHZjJwbCheQ5ldKocA3olEfG2GgB9mkgkoAh8DJeuD7cE6WX6nojqkorW5M8OSiyMkkxR6Xyg7l-DBxlBGSdf4G8YfKRuISsNY1rBixhIQYrrgMXUadFNqF0kKH3qfVBoUVD2AKonVSRJO-G1hZpGEdNsDs1U",
+            "width" : 1280
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108292619289992280614\"\u003eEmile Radermacher\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAgQWtBMK_YVWKDajtYkfKtpfJLdMTQhwveYQKfFAFyEKRAKdkugFs4oe2FFgqXey35BlbcmJz1f-vWYWyScvtMxNPzB0XfRiGFdgPhiANrArKPEal-TvdkmuKapUNwRdJsoH6Xq5iiUB5fotqUpb_ABIQmWY9UHiWBOAPRrcTOtWp0RoU1tjRsPBYwiUjcxQNELmCvcFnsww",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJ8eS91uJ3nkcR_-7lErpLAZM",
+      "rating" : 4,
+      "reference" : "CnRiAAAAjZ71DyfyKYRc5oYgOzXaN2ceGvtBS0C99bZ8j5gnzp__1t59Uvy8WKmcJGbDRLk5d63_kEGxhAnh17t9BsVqCa-Zi6bEZ2LTqp3BPuACCvZTZZPEo8S07_2bzXfAmwL6V7zUZqg5iWoeb9avATm0wRIQbQOYZxzzSTMn7YPY8rKHyRoUdtMqKU4ZJuMA1u7jGPBrn31AdsQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Walter White",
+            "author_url" : "https://plus.google.com/100406054034197717516",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I was for here in germany for some days, much better than new mexico! I love it!",
+            "time" : 1428316271
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ibrahim Nasser",
+            "author_url" : "https://plus.google.com/117276389848096559644",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great for shopping and passing time. ",
+            "time" : 1429362039
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Shopping in Pasing Arcaden is almost always a pleasant experience. It got everything from grocery stores to clothing boutiques and at the same time not so crowded as some other alternative shopping centers. I only wish it had a bigger selection of dining spots to stay fit during the shopping day.",
+            "time" : 1351344636
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Mohamed Alremeithi",
+            "author_url" : "https://plus.google.com/106554313654759491640",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Very cheap quality.  It was like 90's shopping mall in abudhabi. where is the development on Germany. ",
+            "time" : 1364129518
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexis Post",
+            "author_url" : "https://plus.google.com/103522586771380330917",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Very few shops",
+            "time" : 1414759997
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/116108120116112532172/about?hl=en-US",
+      "user_ratings_total" : 51,
+      "utc_offset" : 120,
+      "vicinity" : "Josef-Felder-Straße 53, München",
+      "website" : "http://www.pasing-arcaden.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Schyrenplatz",
+            "short_name" : "Schyrenpl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Scheyern",
+            "short_name" : "Scheyern",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85298",
+            "short_name" : "85298",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchyrenplatz 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85298\u003c/span\u003e \u003cspan class=\"locality\"\u003eScheyern\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Schyrenplatz 1, 85298 Scheyern, Germany",
+      "formatted_phone_number" : "08441 7520",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.50115,
+            "lng" : 11.45159
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "311288172e939ef73a27e56abe1d04451283642d",
+      "international_phone_number" : "+49 8441 7520",
+      "name" : "Scheyern Abbey",
+      "place_id" : "ChIJGce4SFtenkcRFXKFGM8hrxs",
+      "rating" : 4.4,
+      "reference" : "CnRhAAAAXJNH3EbejUiWKt3O7Zm9iygitMXuAH2v_0T-l0PaPR1uS799Tb0PFf40Z2ZSxfHBb61Sgv6OWLoVW0JyCnEUkD002Yez8j5iqBtKGVzEkQXGMKv_vM8CYn4MzENQ8i92NT-pH4uXYuF8ijwUKiTMbRIQwX7QsGQrqKUPoFadtcYbvBoUAtlRixecN8QDicIE8uPQwqFP__A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anthony Coakley",
+            "author_url" : "https://plus.google.com/103393666284945302050",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Scheyern community has 4800 inhabitants, it is in the district of Pfaffenhofen.\nI have visited Scheyern Abbey on two occasions. Once in a group and the second time with one relative. On both occasions it was super. \nThe grounds are small but oho. The abbey has a lovely basilica chapel. It is elevated and has a ramp in addition to steps.\n\nWe dined in the 'Klosterschenke' that is the Abbey bar'. The food was bavarian and the service was great.\n\nWhen my next visitor comes I shall suggest visiting Scheyern Abbey 31 km and 40 minutes drive from my place.\n\nAnthony\n",
+            "time" : 1413809906
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Michele Rosi",
+            "author_url" : "https://plus.google.com/100438929623743858195",
+            "language" : "it",
+            "rating" : 4,
+            "text" : "ottimo posto x mangiare ma soprattutto bere \nCome luogo storico non so....Delittuoso non fermarsi!",
+            "time" : 1421445849
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mahmoud ALORD",
+            "author_url" : "https://plus.google.com/112554071878512085519",
+            "language" : "ar",
+            "rating" : 5,
+            "text" : "Ails god",
+            "time" : 1419095777
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andreas Grunwald",
+            "author_url" : "https://plus.google.com/111603904621438573176",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1429999599
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aljazz Romšak",
+            "author_url" : "https://plus.google.com/104231076649695145335",
+            "language" : "sl",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420989562
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/113850526178561750883/about?hl=en-US",
+      "user_ratings_total" : 9,
+      "utc_offset" : 120,
+      "vicinity" : "Schyrenplatz 1, Scheyern",
+      "website" : "http://www.kloster-scheyern.de/"
+   },
+   "status" : "OK"
+}

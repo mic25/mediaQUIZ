@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Steinerweg",
+            "short_name" : "Steinerweg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pasing-Obermenzing",
+            "short_name" : "Pasing-Obermenzing",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81241",
+            "short_name" : "81241",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSteinerweg 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81241\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Steinerweg 5, 81241 München, Germany",
+      "formatted_phone_number" : "089 88920",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.144843,
+            "lng" : 11.454473
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "354d1849384d46769f01c1958705fd997267cbcc",
+      "international_phone_number" : "+49 89 88920",
+      "name" : "HELIOS Klinikum München West",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107001705303030837956\"\u003eEckhard M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRjAAAA1aEjunvsxjYZY6P10zybPMX_YH9p5_bAPKjkAN3kztCMzHFklS9fopiolTcQJphchf9mayX-JRf0VajSrAC4lvdVY359PfdUVuuKnO9Ka7B7fde2ejfCqES3Hn_SfITnwcJoTKB9DnapY33wyOjW6RIQZKJ4rheY17iDJ0Li1girrBoUefUzoU1uAIRKo91ZMYKc43Yk5zQ",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJvfDnJAfYnUcRQXBsqoAVRHI",
+      "rating" : 4,
+      "reference" : "CnRwAAAAEDvl0OVdPjogxZKFXs8K4AQUNYvmb4b73S-YjNR0T_e9rkVJJCbShu2e6h3pujr7VYQaFE8BfMFv2QZfYm8TeRxoaboIM6qe09m41O2hjklubv8lzjpbDR8lK9R56q4CozIXbRQmiQ7yozqSBIs1YRIQVJVErvRpVCvwhrqobAEgBxoUBFOJMMzb2_R4r_BKImzhtrYCh30",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Claudio Sansone",
+            "author_url" : "https://plus.google.com/103820718948456992663",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Dieses Krankenhaus ist wirklich eine bodenlose Frechheit.Bin zur Nachkontrolle wegen einem Strecksehnenriss am Mittelfinger dort hin gegangen,da mir telefonisch mitgeteilt worden ist das dort immer ein Fachmann für dieHandchirugie vor Ort ist.Allerdings mit Wartezeit.Nach 3 Stunden Wartezeit rief mich ein Arzt auf und sagte zu mir nicht wirklich das ich zu einem Facharzt gehen solle wegen meinem Finger.Fazit= 3 Stunden im Wartezimmer gelangweilt nur für 2 mal Handschütteln.Sorry aber dort gehe ich persönlich nicht wieder hin!Jeder sollte sich allerdings seine eigene Meinung einholen.",
+            "time" : 1428521472
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eckhard M",
+            "author_url" : "https://plus.google.com/107001705303030837956",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich war dort wegen einer Leistenbruch Operation im Dezember 2013 bei Dr. Steinhilper für die linke Seite, und 13 Jahre vorher ebenfalls für die rechte Seite.\nDr. Steinhilper ist eine Koryphäe für solche Schlüsselloch Uhrmacher Mikro Operationen, ein Vollprofi.\nDer Aufenthalt auf der Station 5B war exzellent, alle Ärzte und Pfleger die mir begegneten waren alle sehr gut und gaben sich exzellent Mühe, weit mehr als von mir gedacht.",
+            "time" : 1392911717
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Gerhard Erben",
+            "author_url" : "https://plus.google.com/106834812018418924430",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "excelente Gefäßchirurgie, sehr guter und kompetenter Sozialdienst\n\nGesamtzufriedenheit:\n sehr zufrieden (Gute Zimmer und Personal trotz Umbau) \n\nQualität der Beratung:\n sehr zufrieden (Die Ärzte nahmen sich genügend Zeit für all meine Fragen) \n\nmedizinische Behandlung:\n sehr zufrieden (Nach meiner Erfahrung die beste Gefäßchirurgie im Umkreis) \n\nVerwaltung und Abläufe:\n sehr zufrieden (Sehr hilfreiche und kompetente Mitarbeiter, alle Verwaltungsabläufe wurden sehr schnell und unbürokratisch erdedigt. Besonderen DANK an alle Angestellte vom Sozialdienst! Meine Mutter wurde sehr gut betreut und die ReHa wurde sofort eingeleitet) \nDie Pasinger Gefäßchirurgen waren in der Lage, die Probleme der vorherige OP welch in einem anderen Krankenhaus schief gelaufen ist, wieder in Ordnung zu bringen.\n Die Nachversorgung war auch beispiellos.\n Der Unterschied von Pasing zum vorhergehenden Krankenhaus waren wirklich gravierend!\n In Pasing war meine Mutter nach der OP fast schmerzfrei und die Wunden sind auch deutlich schneller verheilt.",
+            "time" : 1346087647
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1336897628
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1312888387
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "establishment" ],
+      "url" : "https://plus.google.com/111175380285612750948/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Steinerweg 5, München",
+      "website" : "http://www.helios-kliniken.de/muenchen-west"
+   },
+   "status" : "OK"
+}

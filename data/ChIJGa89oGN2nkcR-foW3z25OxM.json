@@ -1,0 +1,210 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Spiridon-Louis-Ring",
+            "short_name" : "Spiridon-Louis-Ring",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Milbertshofen-Am Hart",
+            "short_name" : "Milbertshofen-Am Hart",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSpiridon-Louis-Ring 7\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Spiridon-Louis-Ring 7, 80809 München, Germany",
+      "formatted_phone_number" : "0172 8916881",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.174466,
+            "lng" : 11.553517
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "412b2fd50398e689cfa5b0a16b8c0063c89609de",
+      "international_phone_number" : "+49 172 8916881",
+      "name" : "Rockmuseum Munich",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 12:00 am",
+            "Tuesday: 9:00 am – 12:00 am",
+            "Wednesday: 9:00 am – 12:00 am",
+            "Thursday: 9:00 am – 12:00 am",
+            "Friday: 9:00 am – 12:00 am",
+            "Saturday: 9:00 am – 12:00 am",
+            "Sunday: 9:00 am – 12:00 am"
+         ]
+      },
+      "place_id" : "ChIJGa89oGN2nkcR-foW3z25OxM",
+      "reference" : "CnRkAAAA_nof_QzHfytX5sUAPDpTIKTREXP0QAovBOr4v002SDYKTaNw8uSc-GZ3E1Sb5umaJFpnQxTWlfD0lqsLB5ZyceoDbTe4xRY-lP8MMDOX6gwuDiWeKNlgO40zHPk_81ZlqyL7lepo4Uot_frvbdW38RIQPAUeinrqj-4fATxTdxj4wBoU5xvcUrocOfJBAm9USopH-xWhUQg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oren Yulevitch",
+            "author_url" : "https://plus.google.com/117953845793050407205",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Very few items.\nGreat view of the city.",
+            "time" : 1429940971
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Andrei Gherzan",
+            "author_url" : "https://plus.google.com/100633983167466911794",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Long live the rock!",
+            "time" : 1353602291
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Роман Кривцов",
+            "author_url" : "https://plus.google.com/118211442195832320119",
+            "language" : "ru",
+            "rating" : 3,
+            "text" : "Слабо, ситуацию спасает обзорная площадка. Слишком громкое название для коллекции билетов с рок-концертов\n",
+            "time" : 1399184857
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "김호중",
+            "author_url" : "https://plus.google.com/117020472233300943262",
+            "language" : "ko",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1429444576
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111170357032942588422/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Spiridon-Louis-Ring 7, München",
+      "website" : "http://www.rockmuseum.de/"
+   },
+   "status" : "OK"
+}

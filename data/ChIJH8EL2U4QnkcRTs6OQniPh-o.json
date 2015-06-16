@@ -1,0 +1,270 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1-5",
+            "short_name" : "1-5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Thermenallee",
+            "short_name" : "Thermenallee",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Erding",
+            "short_name" : "ED",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85435",
+            "short_name" : "85435",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eThermenallee 1-5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85435\u003c/span\u003e \u003cspan class=\"locality\"\u003eErding\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Thermenallee 1-5, 85435 Erding, Germany",
+      "formatted_phone_number" : "08122 5500",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.2908,
+            "lng" : 11.88608
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "485210571e3249aa95f74cc59ee3d1ffab7176bf",
+      "international_phone_number" : "+49 8122 5500",
+      "name" : "Therme Erding",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 11:00 pm",
+            "Tuesday: 10:00 am – 11:00 pm",
+            "Wednesday: 10:00 am – 11:00 pm",
+            "Thursday: 10:00 am – 11:00 pm",
+            "Friday: 10:00 am – 11:00 pm",
+            "Saturday: 9:00 am – 11:00 pm",
+            "Sunday: 9:00 am – 11:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114957173328636914484\"\u003eAlexander Maier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAARYCNpWvLfmcUZUj9vZrjPDwUcx5nHvmlzggg5o04p1GqwrI9jUK4Z1xAqfd3FfV7T4-B1xdW2CCShIziufJ9AvLM7pFCc8W5Uqi4iUMNO0HiUFJTmZNeci8wr0xa0GuwUEOVEYyurfPfz902OBIliBIQUH9XRd4QOBpzrYzvDGAcZhoUNGDaoK8THqMeHriLZwYD3bV6cJo",
+            "width" : 1032
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114957173328636914484\"\u003eAlexander Maier\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAUyc428ajLeIs9GuZLKqIyHN2dGAYhwHzMaL7u4IIXLIgNpihcZubNAxAxPAhxJ653j3Lab3jpW5g8bBt2rsyARZepaRcgr9hNFHQi6glukGDszNPMblt0CM67mK-bWlivTABpX9f724lU_gixb-DNhIQyWXwHNU0t5-dM1w2uNo-dhoUEz1zKt5HPQEGrXowItQbJB9YX48",
+            "width" : 1032
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113055347213527752020\"\u003eLuke Bischof\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAANMwBqEJWPw-FlDeCowduBYm5jKZMvmwkV3PTwNluRoXTzI-85EuXqfyZ_DKDvkhavwi5E4rI6_MrFeUKgpTao14dQg_GNcC9XD67uOud0E79L8nRBi1-IMBQpwgY-VlLDwOA0Ts5HXTBYzV-Jk1y9hIQwF9SdoNK82Xr5h64RTanvBoUJywkrNYOdNr9CByqsIbDb50p4Nc",
+            "width" : 960
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102961278572590222799\"\u003eAdrian Kuhnke\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAgvhhrCfo6mmu8iUmL8RMTgBx2Wo8FGNrIlxNM0BdTbCUWTKJM8X7d08bfyi9UU0ucU-7jP9FAThtMFZtfXMKjPJecq1ZV2pyASZ7Maw8srJM1LzhimfbrxIuRTHoM55hmF2v0vcIMzKfqsW_d_4_EBIQ51qCUz6gjNIeyki69VYT1hoUtbWhGgPsQWk4jyGZLBX6AvbudEU",
+            "width" : 1280
+         },
+         {
+            "height" : 486,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103711349730216536559\"\u003eMeryem Bacaksiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhQAAAFg_j2W_LCZXb00iJ_YJT-XL-_RLXyU5cXYhqbQQSzwotFC1x5MrwikcDsOwXfztXII-2yseuCj1CuS57sEolOz_ML-i9GXIGFkDj3h96lDc6GTanwOOPGIHLvl6p9FRjoV4_GOo2GLvp7q2P6HAIftVtSzY56yL3HQOyBtWJF8tN8dvn_PT3oKHQo3WRsutCxIQ9W7NtABHsVzUwcR7C3Fu-hoU1_Rpui9mu8TlZnQlbqYDRTt-Pds",
+            "width" : 648
+         },
+         {
+            "height" : 1102,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106559823276583954422\"\u003eRoberto Lamack\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAzI25gT7-PWYP08tWAjPhw5mfGX3JrZw-qqVEMuhlKGDSq7KdU9ZD-mJOi9UIKcSvtQ6hqGxH197czbEAYz0J32PZ4hGhFOJVl0Im_NDdw6BapBelAQE-jpsJDp2i-D4FUpqwL6pOa7Ah_qs5MfkFdBIQfQb6EzvwReS6YMeMpvH7xxoUyo81I2HZA0RnAhgV6ldboR0GEn4",
+            "width" : 1960
+         }
+      ],
+      "place_id" : "ChIJH8EL2U4QnkcRTs6OQniPh-o",
+      "rating" : 4.2,
+      "reference" : "CnRhAAAAaUoP2HGggYhOGj1duaJBTNYpHal7LCYA0xKFcfsgTKsie2zfsV40EPfSXDa93etQYuGYlNwTmw1H66bZMhJtbI6XRQn1N4MEFA55lzWKMMTHtjQIz6hRD8nD_BSR9v7cK8t1ALWE72h4pQw1viwOtBIQhVWzTLvrdNu_MnYUi7gcIBoUIY0B-p_LPLy1aZB9AZH3j9dXAf8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shacka Lacka",
+            "author_url" : "https://plus.google.com/110965485043225161109",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "The worst customer service and onlineshop. If you order stuff for 3 digits they still let u hang and ignore ur emails",
+            "time" : 1430311541
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manuel Poppe",
+            "author_url" : "https://plus.google.com/117747973916246976170",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very nice! Very crowded some times, but the wellness area is OK. A must see!",
+            "time" : 1420557628
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karl-Heinz Heiss",
+            "author_url" : "https://plus.google.com/115938125887238796910",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I went last Friday there. Good place to relax ! ! !",
+            "time" : 1415511791
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rob Spenc",
+            "author_url" : "https://plus.google.com/114015531941503509032",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "The largest & family fun water park in the world. I've been to 11 countries, & have never seen a place thats open year around. The food is great, the staff are professional, various spas to choose from, can bring any age child, free parking lots & garage, entry euro prices for adults & children are very low, free video gaming area for kids w/multiple gaming systems, a veriety of restaraunts, over 16 breath taking water slides, & theme seasonal entertainment for all ages. One bad thing is, drinks are watered-down.",
+            "time" : 1321703491
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "ali alfodari",
+            "author_url" : "https://plus.google.com/103162353537312335683",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "After much research on the net for a place to relax and have a pool, play and found this place.\nExceeded my opinion have spent all my time from 10 am to 8 pm.\nI hope to return to it again and worth what you paid money.",
+            "time" : 1368253437
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "amusement_park", "establishment" ],
+      "url" : "https://plus.google.com/116249140493744700481/about?hl=en-US",
+      "user_ratings_total" : 241,
+      "utc_offset" : 120,
+      "vicinity" : "Thermenallee 1-5, Erding",
+      "website" : "http://www.therme-erding.de"
+   },
+   "status" : "OK"
+}

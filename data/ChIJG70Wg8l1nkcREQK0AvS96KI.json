@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hörwarthstraße",
+            "short_name" : "Hörwarthstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80804",
+            "short_name" : "80804",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHörwarthstraße 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80804\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Hörwarthstraße 5, 80804 München, Germany",
+      "formatted_phone_number" : "089 3600030",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.168161,
+            "lng" : 11.584772
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "10264657661ac9e163545e95dc937b9d3682d65f",
+      "international_phone_number" : "+49 89 3600030",
+      "name" : "Maria vom Guten Rat",
+      "place_id" : "ChIJG70Wg8l1nkcREQK0AvS96KI",
+      "reference" : "CnRnAAAAXTzIWYPcSpRInAJJybHCnQcezqR5R0T2mZ6S9oBNpTjGcViXhi36sgAMKXNUehqBSx4tYix-EJy9clduc5Mrs3l94EJXUtm5SOVEte-fHu6yMveGc8cls9TGttjcBKIK_1TaN9d2bCwtKRd6iMJa6xIQ4pHiqfFqTn9_l_w-EquNWxoUEmDYJeTpsJszadc_uuYofLCiggE",
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/116107963837951697560/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Hörwarthstraße 5, München",
+      "website" : "http://www.maria-rat.de/"
+   },
+   "status" : "OK"
+}

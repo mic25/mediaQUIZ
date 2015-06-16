@@ -1,0 +1,284 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6",
+            "short_name" : "6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Neuhauser Str.",
+            "short_name" : "Neuhauser Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNeuhauser Str. 6\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Neuhauser Str. 6, 80333 München, Germany",
+      "formatted_phone_number" : "089 2317060",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.138899,
+            "lng" : 11.570499
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "f8a53dca3cf42ec6997ce822216ccd8549081da9",
+      "international_phone_number" : "+49 89 2317060",
+      "name" : "St. Michael's Church",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2215"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 8:00 am – 7:00 pm",
+            "Wednesday: 8:00 am – 7:00 pm",
+            "Thursday: 8:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 8:00 am – 7:00 pm",
+            "Sunday: 7:00 am – 10:15 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113611137727177930434\"\u003eVesselin Nikolaev Nikolov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAJqLaUMxsLXcmmK6P1fnD2RrMapdEPupDuB7SQnltfOg0uSFAoxrCEsbA9o7j0lGHzAWYwW8HCUD0p_xXYdHxuMZDx_Lbc3l7gGxJKMOeziO1KLaAfeUqef4nRt5ymurMj2M0JAp4q-HgDfSFS032zhIQuow8DgYwJIWkLw8uo-5WBhoU1SZS2vjB6T989rg6j2qa9tvSW9w",
+            "width" : 816
+         },
+         {
+            "height" : 1373,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAAYRnvRMSANBz1coQQQmEWqkpYcWpXfTD0gTHgM7Ewrug10EfDHxlxnQrmELTSzldAb5zw_uYvInbgJuR2QGh_elscLs-rUI4HCo-PB4ytRTSaNMYgnjYEPluncRNkY7uSGIVGUJ9OY9h-qwvhzl0iuBIQLJfgkYH1-lvFL3OsQm5wERoUqvGr_ByolHYNZ6M_BKR6AhierNo",
+            "width" : 2048
+         },
+         {
+            "height" : 938,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112754862813926288375\"\u003eClivia Bloom\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfwAAAJMqFr2dKcO7bsOHV41i8nlEY0Dj4YCEgfN1a-b6MJ6JiI6TELT7cjZ1XWnCBUTWsck5uZfYrMGQ7K3JXfoR-KOxglCK7asqQhCj5DrYXPUiuTdGsUiqnKQmzPUQG6enksVVv2mDJOJlRsck4nodY915wGJlhc7v3h50xS6yH4HJEhBMiNmQt8IeCd2JCfpahfcAGhQoTZDNkgB_w4_0sC3GX2sddRjs4g",
+            "width" : 1280
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105746571168347686472\"\u003efpamar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAObV5HBnnmKx9RBPppcm3JGhGmyN0TOX_tfL7FFYzCetsPCiEhmxxQJQDXEepu7Zgb-_-LnANFcmMKbBq7Wug-639JBOynymClL8QGw_L1PivEt5L1TRD4Vtawfe6x2kBkeVR1f4zfXqNaOLvEmA6TaxxKmzvFyjduisUgqyX7MuEhDgnl3xX-PgQPE9Qt16tKs2GhQeeWiHYZhreE6QaVJJ29j9ve0rLA",
+            "width" : 1200
+         },
+         {
+            "height" : 555,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAhu4EP3nq0udxWxH0gwfQKao-nQaSOO0RSHcC2fqYWxEekrKsva07nPCkfbjx2YXFF5kka1eufOqiDl_L0WmwKPKKGLg4a8ZvA_sg3_lzIq5asHBGHyG8oYU2vmmOyiqg-eg4MGpISgyFNF_jol24LhIQD2GDwrWM297gJY-t91zlYhoUA3nVy84mc3bebUcIpHgShkVtHHA",
+            "width" : 740
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRrAAAA5TedlodWEJ5SjMc8ZIMM-ZVaUcYnsdTnMYYucfrzJdaIrLXd_F1XdpkOWIBKT5C0AXXDySxRt9YZ6RMFZt5pdwxKpOfu8y5tWmVwiNRkXabJBCvmG7urk1Yz4hsrhD3T15V8KFDuHuVEisJ4MNUEDxIQQBQFyHjn2MS97aV18soYLRoU0DLy41k1Sf8-Dli3dKAWH9jEvrM",
+            "width" : 768
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107362127346203474515\"\u003eJarrik Vermeylen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAj7prOWvocL8ENnUo32mS89S1UOHdn7f7Xig5VOdS8Qbofn-fBYS_KWXkn0DHgjLdoTPuo4lVk0G8YdabURVk7uLa0nZUuUaLb6aAVNGsY8shjB37k48-SuDGiP7HCXv3VRqW57YkO2BCD3Ah_MjiNxIQri6ygUFGh8TG07kmYVBoPhoUtTlG9FAuMAdXBQOFttjmfA1uDmM",
+            "width" : 1362
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBegAAAHYkjztUOMfNWOOZKJTkPNrt4z60fK2Ls7flyPYnHE7iB54NkwYwsL_uLaDh2D-4Xmivp_Yi8SPXRwFbYZqC_PpagMMmCIC72CPRG2InKoaQgRhApKCf-HGH0LgAeZr-FOj63W562jxuIPoMEPuwWTcrrNKD0J56r7fYfxSu9DKxEhB1KxJE6ILHVRgQmIacYF27GhRV77U_C0KFqhcEkQoptpkZCePtKQ",
+            "width" : 2048
+         },
+         {
+            "height" : 986,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAALAn8ANJ1xT3dE3jzR-t2Kj2y2SkI5KAxMilneemyhiNpJgbxyE2cKFbDBxKXPXpkMAnx1_cGdmpgPGY1VT3bE3jlSmCikZmLKA3at01fUazAsp_hn-KeL4QJOmaTc1ZjpHoI1vtpEIE7ySi1OEmBERIQh6QddzNdfachoxEJYiTrcRoU381rOprTpQU10GyFs6JIBjcE5dw",
+            "width" : 740
+         }
+      ],
+      "place_id" : "ChIJw7zEPvR1nkcRsRdv1Zmqm7M",
+      "rating" : 4.4,
+      "reference" : "CnRoAAAABfc6GfUKPvUWhihywTElJQJDjhUrJpJhOiU4DZl264udp_p4mQo4tpm_PsreZNRS8aEPKXqcRpTJbWFdbEmWjSKxsphJ-NuuwGg9z_BGgFI5Vmvq4Vm-X7cHZewGqi309reNCo6cLCxlXS7c0kITWBIQkGPK63b8Htf9bpXB-jgSAhoU7AV6BbJsyum68G-e_dWVJKZyRWw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hui Yu",
+            "author_url" : "https://plus.google.com/100847546256460891320",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "闹中取静",
+            "time" : 1332281296
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rudolf Wolff",
+            "author_url" : "https://plus.google.com/100719019962339615524",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich war eine Zeit in München und besuchte ST. Michael. Diese Kirchen Gemeinschaft lebt mit seiner \ngroßen Kirchen Musik \nIch Danke St. Michael für die Zeit in dieser Gemeinde\n\nRudi Wolff  Bonn  ",
+            "time" : 1384961060
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Klaus Ritter",
+            "author_url" : "https://plus.google.com/104027164583729878221",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ein ganz besonderer Ort der Ruhe!\n",
+            "time" : 1416473014
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander Bierstedt",
+            "author_url" : "https://plus.google.com/113412958368101022586",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Schöne Kitchen, interessante Predigten. Jesuitenkirche",
+            "time" : 1411231602
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Evgeniia Pershina",
+            "author_url" : "https://plus.google.com/113718494971089425203",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "Super",
+            "time" : 1414364898
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/115686350565332779079/about?hl=en-US",
+      "user_ratings_total" : 18,
+      "utc_offset" : 120,
+      "vicinity" : "Neuhauser Str. 6, München",
+      "website" : "http://www.st-michael-muenchen.de/index.php?id=6"
+   },
+   "status" : "OK"
+}

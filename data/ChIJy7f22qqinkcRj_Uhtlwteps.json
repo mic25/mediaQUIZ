@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "19",
+            "short_name" : "19",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ulrichsplatz",
+            "short_name" : "Ulrichspl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86150",
+            "short_name" : "86150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUlrichsplatz 19\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86150\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Ulrichsplatz 19, 86150 Augsburg, Germany",
+      "formatted_phone_number" : "0821 345560",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.36187,
+            "lng" : 10.89998
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "36c1149fff02e92cce49fbc04709b0da4c351284",
+      "international_phone_number" : "+49 821 345560",
+      "name" : "Sankt Ulrich und Sankt Afra",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 12:00 pm, 2:00 – 5:00 pm",
+            "Tuesday: 9:00 am – 12:00 pm",
+            "Wednesday: 9:00 am – 12:00 pm, 2:00 – 5:00 pm",
+            "Thursday: 2:00 – 6:00 pm",
+            "Friday: 9:00 am – 12:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAE_3ospP4WgT3wZO6Sh1m2OIeckZ0ciPiT_Q74kqpeYe8lULg160Gso5LDUDHES8JaoMHuPIhl5UJ3rDCFtIi5DaQAd1FjZZ4hYwfLPfCsDUoef2cg_GEbJAJPV3rKWy7ebF5FcnJzFySbuZoaClobRIQ2Xz21M_UyPZpkJ9YGJr3QhoU9mroApU_rXln03Rqm4xvm_8-Rdw",
+            "width" : 533
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115847137628262179867\"\u003eBernard Chollet-Ricard\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAADR3v-e0vsUwof6mpv6RIqVBVHui_1RanRTOIROK4W7eNbasU_h5Bl_BicDO5LUg1LN8x7Xs6oYRUTNH5QE1PxIqscpr98DdnZoKhW793px3mqhtRZ1slC0rRAmJwf688bjvKp0lO_N1ct3pAezOzxi65L9Aj5Gped0wbiaGNwzoEhCkNoAycGH_kThgfCQzEV1WGhQvhdnBy9i1oPOlCeJjutFDQv-uNw",
+            "width" : 1348
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAP2ypDWSuBBc66_zUW-zjr7J1yaFwTvicJOHmkTepfubW0OMDPPhgqrraMr9b2u9gOBjLkQKo-CHqo_sjqX7SwPCW1pqiIm-B42aWJGT57B8GSx1yyWcfrQgmZtlJGreGswjZj09JaDCsUnUF13XVJhIQtJv6czlYl0fBeblp32tDXRoU4s_cmyjlEwElVFHvt6qdvXLasPk",
+            "width" : 533
+         },
+         {
+            "height" : 1362,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115847137628262179867\"\u003eBernard Chollet-Ricard\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAB-5eYPZR3g8Q4cTQR82S4LxLJlXM0i83lCUjaQqc5fGDtxSUVIvSE7HbtkEDpWYJ4vHppJmWnBH7XjKvl1hbIEe3dUDpU1X4VOKjHMIHu2GxA2aMYFrNUkfzw1yspYWq1U5qN_grGAmMiUeO75dRUNZBYUepOz2gu5Uilb8u0ndEhAPZdWSNsIlGJykWG-GdQObGhSxvjCxWYVFqeAZ6kIpRweOqTv8SQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118184740037999833046\"\u003eWerner Wirth\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAxv9wYKlnUohcOQ8-TjQktVI6tIFXOJSNXNCT8n7lH6bgrE4Mjg7lMhmDFXz5jNZxYt-ljJOqsJ-NHZq1Bchfp_lDeSEZmzzuZYmpwQj11NMO5a50Vl8VXE3PTzxVxUEiLD9xRIoQei6-ZqjafNe2QhIQ4S0X90fLwU7pryR7SeqXzhoURBOPQpkT-4I1_KAqSkCYc2NpQfI",
+            "width" : 2048
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA9MPAg-wCnvokok9C3S7kLuYxJ5YoL-ASyWDKxonXEH5vSiAF7UXhCGv2QgCBeQpjqHHy5VkAiBX7yrxC20hx8g-Y9avsycV0xSkJcGcDKmyqYV6gETV1rPSsKbmDQoygruQcSTUHVEyamtM9YJtWVRIQWo6-8gMP9_qgjg1mISVmaBoUhK2XZ2xfmVNYa2196Oo0JtcX7xQ",
+            "width" : 533
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118184740037999833046\"\u003eWerner Wirth\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAPGM3czNFgxWMq02fG4rNfrPMkoORqryAoa0t4NV1uADC8eXwupPKKIYBv9xuxC78kto2BvPNiPWbYACXhZfdpghhaaAoAl3Tuy7nTAJYmpcuNt4eSZfYKAElPRGMN2p1CeSNntAr1VfDoKrDW3ssLxIQhR6MTWrSHncd87V8gy6dxhoU1nujHEK2Gbv2uL3IB5s9UMF8uzc",
+            "width" : 2048
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAIpgL0D2T4FRdLE84BYPIpLohNUBXnZB3xq_FRiqR_nQizZGXYyGvi6U-_eHMByC54lPpfl_3vQLH2o32sev6-jKVptoLmUN9Q_cx779EXoqn6697PBNYodFiZx7FnACDrCbVWp5I2-101v0FUghZYBIQiEmKhrP2tjTZPbfp-3N1ZhoU7TOo3nQ221_1SpVjrexx-2D4Aq8",
+            "width" : 533
+         },
+         {
+            "height" : 1362,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115847137628262179867\"\u003eBernard Chollet-Ricard\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAJAvjguXJzcM3UNVTMBoJ_QV5wSgln4RKlG9OhqqJQpBXXFG4nyc9jaeJVMFIpogGvaqvFVvDtwN48zgvoC5u_O_5r5brEHlVSYG13X1_GZGqyx0qN8iZyw8iM3lQziyKW7whcAqzPtmEh5dO91nCHMaJvFykuUHXlTPunWpyOu2EhCbqsWU2TRSJ1ikyGQx0PsNGhRaUDH-IxhUivrrz-ONjJN_jy51iw",
+            "width" : 2048
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA4J635UFI4Fi8TfRhIUscoFApGdo5tJ6km8McjWd3EVSVX_GzkjjiVeK86ywohNG_kIbgK8tn7h1iRwOCrbBzSV1dNOFmtlm-aFqGnCv7pxo4CoY_3d3T-Hxqaw2--rxVYoiYSr9EumQWR6Rw7QRbCxIQsmNrpThlKl2SGLbs-6cBBBoUUzp1UiMBlLbfCRBQ9s9uDDTDeqs",
+            "width" : 533
+         }
+      ],
+      "place_id" : "ChIJy7f22qqinkcRj_Uhtlwteps",
+      "rating" : 4.5,
+      "reference" : "CnRvAAAAwfCppAP45wKKO6x-qqpIR--568zkODK5GLobIIBSte-6rXVVwt1wOFkis7lfXP_kFce3iEPqaKKoCy1hxCoiO5EPQY4pHi5bGd5PnrS5Uwjv0nnaxA6vHxxNrTDqVS4M54CSsABw5Ql-Kbl20QiSYxIQr_QavQf503E6ttCOXYJoQBoUTmaVQPEzKvR4HaCe-LeV9evkLzc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Werner Wirth",
+            "author_url" : "https://plus.google.com/118184740037999833046",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Das katholische Münster (spätgotische Basilika) ist wie aus einem Guß. Sehr schönes 30 m hohes spätgotisches Netzgewölbe. Beeindruckend sind die 3 riesigen Altäre im Chor. Einen Besuch der Basilika sollte man bei einem Verweil in Augsburg auf jeden Fall einplanen.\n",
+            "time" : 1385134401
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sebastian Vogele",
+            "author_url" : "https://plus.google.com/117130624936789496238",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1415911168
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pran Vijay",
+            "author_url" : "https://plus.google.com/101299776938820010455",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1426832915
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Feuer Teufelin",
+            "author_url" : "https://plus.google.com/107283629281264148349",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1422132490
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "吳Chen Che",
+            "author_url" : "https://plus.google.com/111448348640867042235",
+            "language" : "zh-TW",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1411925971
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/113138618518349671236/about?hl=en-US",
+      "user_ratings_total" : 6,
+      "utc_offset" : 120,
+      "vicinity" : "Ulrichsplatz 19, Augsburg",
+      "website" : "http://ulrichsbasilika.de/"
+   },
+   "status" : "OK"
+}

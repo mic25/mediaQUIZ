@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lachnerstraße",
+            "short_name" : "Lachnerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80639",
+            "short_name" : "80639",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLachnerstraße 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80639\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Lachnerstraße 8, 80639 München, Germany",
+      "formatted_phone_number" : "089 1306750",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.156397,
+            "lng" : 11.528735
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "88ff56349ca43ad9b32789972eef94aa1f59cd9f",
+      "international_phone_number" : "+49 89 1306750",
+      "name" : "Herz-Jesu-Kirche",
+      "place_id" : "ChIJ6X9YOT52nkcRtpTCFEuOE58",
+      "reference" : "CnRkAAAAu03qczeZyeLrrppcP0fWa1qW5RWles1F7QEtegpiY5JfSgZjnN_IFhEMf_XYBBQEblQmFJbqqz9pf-rYnGYNjAzvImnVP97IQuMTQJaWw7iW7cVaHAO5O9EPR3EF19PkuRboToIbbt2rRi8WnS6syhIQsUb5W-fZbKLF7aNWL4ce2xoU6Z9sEZsNJ2t8QrjeE-Ff7eiMqQg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pepa Vančura",
+            "author_url" : "https://plus.google.com/115304618005319331979",
+            "language" : "cs",
+            "rating" : 5,
+            "text" : "Superb architecture, must-see in Munich.",
+            "time" : 1395675834
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/112807174015292198581/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Lachnerstraße 8, München",
+      "website" : "http://www.herzjesu-muenchen.de/"
+   },
+   "status" : "OK"
+}

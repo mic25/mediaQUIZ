@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Schloß Blutenburg",
+            "short_name" : "Schloß Blutenburg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81247",
+            "short_name" : "81247",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchloß Blutenburg\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81247\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Schloß Blutenburg, 81247 München, Germany",
+      "formatted_phone_number" : "089 8912110",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.163471,
+            "lng" : 11.45698
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "2cd321949b4794890d98277dd6c6d3b92ec58d9a",
+      "international_phone_number" : "+49 89 8912110",
+      "name" : "Internationale Jugendbibliothek",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1400"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 2:00 – 5:00 pm",
+            "Sunday: 2:00 – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJB0vGs_V3nkcRzqE-qe-JFSE",
+      "reference" : "CoQBcgAAAKhjdAe8WNE-wA-_4-n4jxNrceayBRXu9UL1605ThUbwhVWkl_0MdI-XqTZKG4B8MWxHQV-fvgMa_Y-wTl8vsS5oUCQn3e5BpvmAtvCkQcCjVC047rmo0n1VPTvVfhlNWd_hz3MdvtNTi_wSHyeAcJTjWXXztUIWkq5humdnDhxrEhDBbRKjuViorwtNg27ZXLiUGhQj1R5_i8IjjQsQXtzLsIe4TgtaoA",
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/111962321553428143548/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Schloß Blutenburg, München",
+      "website" : "http://www.ijb.de/"
+   },
+   "status" : "OK"
+}

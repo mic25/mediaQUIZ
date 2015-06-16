@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Am Bavariapark",
+            "short_name" : "Am Bavariapark",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwanthalerhöhe",
+            "short_name" : "Schwanthalerhöhe",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80339",
+            "short_name" : "80339",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAm Bavariapark 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80339\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Am Bavariapark 5, 80339 München, Germany",
+      "formatted_phone_number" : "089 500806762",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.132592,
+            "lng" : 11.542063
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b7b4099a364ca4f58923de7f02a9df53b687fe33",
+      "international_phone_number" : "+49 89 500806762",
+      "name" : "Deutsches Museum Verkehrszentrum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 592,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAoR7KMShZ3C6outhe-7ZzZqkwcnpYXC79W3NLL3Se6pCDnl4_7yQBDJfp10qOlIrowBaMCsgMHTLJvn9k-uRz7gW0ucemV6GnpaktDBGi8pSs3VGVHrK0fQIfuVsv1bFzFqbowI1ueUidyi-679ghqBIQAEyfuQgmv7snwSLXdQPu2BoUkS6PP7GXnC3iguQOcLSg1zDO98A",
+            "width" : 800
+         },
+         {
+            "height" : 592,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAJaZeN_lqsiWsK5uTEo3SimuBiDICZT42l42PRbaDDBIfkLWFCs-xSiW_5hz0in42bQt0paJscTj2VcVV2iHrb2GQQKz2IS6QRXisNxpVHJkwgiHFZzG26XVBPI0BwBXlOFx0jTZh6jJoBxeZK3Mm3xIQxJVEphAvs_T8eGM_H2DoCBoUO7MwNbwX_K4GnK8WfvAR2gicGWo",
+            "width" : 800
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100473130219280397892\"\u003ePeter Simon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7FLKd3yVB2Etg-gwB8MtaxzuuEtSK_aBFAmhDBATkmFauYvNCuiKisBC2ggHT87XFFnPOi2HC4t5jnsONIIENt7X2bcuOAfP3G3adTVqFD4b4eDpUd6KRL8Ha6HY1H-UAzd8rUGssDuYNFAPcI-bNhIQBzyWtVasbGsmEyBoRzbwDRoU8hJb6Gr4pEHE3lbGukCvpAZ1TJk",
+            "width" : 1032
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100473130219280397892\"\u003ePeter Simon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAlYZcpysI_Ow8i119TrNxffKBRB__HTEROtjis0UZggidh0GhgORGeDx-0bdm1aHCKHlXnBgsfIQ6eu5AJK7lTiU6IHhaWke4PS_F0dWeRwi5ZOd3jUsyZDRbT8uOmIWQgl9AAXzyqr6lMYyOGgn-ZxIQLQyX9eKLEBphALDjVTSHoBoUxy0ChJ012I0XIK9MShnQLc3QZj0",
+            "width" : 1032
+         },
+         {
+            "height" : 592,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAs-YtlhPzzHrjC2E6glaYwpfZJF_JYm6ODFGwGM-db0CSpEKZoh1xjqpgGy2g2EoRvqVNzszULmcOhUgDU3McwMtLj7exkR_ts8XcsBpQAiOizwRLFIGajAF9oahGNcP5k2qu-c2MY18_dUkKvXX-FRIQHH031AcTOd-l4Yj52cHFaxoUmCpsGP_jyl9Sf5PSG5oefFWJIPg",
+            "width" : 800
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100473130219280397892\"\u003ePeter Simon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAK5Vi_5Rxs330A2Alyahy1-XXKgm6xf_ROUmk2McDx7nFCHuL4c6eDOzcgTgEsCq1ijpttFMEJa1AMzDu5tn8vStyOgm1BdSXeXaRZCGcCwIxY0PedLc5CFSa__jsSEyNW_KN48x8ACNDlnw9df7m8RIQJlqCbOG1d9sYJMBPxnjCURoUwXI1g_RK3sChoA907syW3T2AKDk",
+            "width" : 1032
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAXDy0o3x-XJy3ro_p7zEPujutz_rfR1N_P-YoQpGneYOGgxa5_6LLlJtfQ7qljr88Ulcf3QDaC3w06v4-R7Qve4McDVpf0Xm6QJXq34h0ByxqnFyd1Cn9zeiat-caIPbSqoqPL0zkKc18yoFyd3PeERIQBioEImrDFiGLy4Bio9hE5xoUWb-vhY8gVemAH1CmvMsGt6MkF0A",
+            "width" : 1024
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWhipcLhErguyUxFNf5fSYwlK5poG1-fEPPfVfZtWuEh-6RXv9s2DW7v1AyuN1u0ziOGP1X4MT2zSkxU9ana8AXmjftaOPcOZPWvoKRd33cr0VAmCX5UkaktTvFZ1qzIf1U0z_te_GhUrYqtFTCgVQBIQL69MMG870XL0htHNdUChXRoUTYLV-_NI9yWf5w0Kyp7MLwaQ1nQ",
+            "width" : 592
+         },
+         {
+            "height" : 592,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA6lFjJFByQ61r4dgquVeBb213FMjTBjT2p_yTHtok7tLhKLe0zJWaDqRk2kiC33Kiq3JN-2OcL7mwzcCddPfxDKMM_s0wEy_r4m9Hg8w6IyVZewV8MkZsivgGNB9gR8FZAaxQopfxwLFg-uiioJbQsRIQ7Bcv0HqO3CwErDsDE1UtLxoUm5vE_VErs91K4sqnjz69ILuUnAg",
+            "width" : 800
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAS-jrzUXb9pKyy6_uzj4_BvWR1lT7sSKKdcg1gfXNy5wbeppK1FyGPJz-kY87Yl6Qh83eQtU0z_h8TTOq6GNJj86wUPi3u3lS69Zhj8I4WoQKM62fF10DgYDFrS1EVPw7Q2oyhuXniNnCAL8kUfpHQRIQvNhGhb719-LKA0IpLrFVzRoUFLx1BdX-J9sCX2iLKHBUQhVj93s",
+            "width" : 592
+         }
+      ],
+      "place_id" : "ChIJLZsxWKvYnUcRFCAj2O8WP_g",
+      "rating" : 4.3,
+      "reference" : "CoQBdAAAAEussyS1_PJmO45_Xdp7y_X-rtGkDt-5rXdPuvd3w0az8FmkSCTD0Tda8V4VZsCLf1_hiDFHpsrOaPYrYCfxTbQYa2VFRtCcYpdSNSmMwNlYR2TDLC3kfSMpBC--eZr5a_sl5Bq5uGBP1PsezGq-M2d8A14ijIvTMNlHmJkg7j7BEhCj4tiSP2aNzR5KZLFcWnSFGhRFNnkwv4eXonj7sOCBt7wwQ2bUXQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juliano de Aguiar",
+            "author_url" : "https://plus.google.com/112374640014843860285",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "It wasn't what I expected. Good place for kids",
+            "time" : 1427804843
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anne Fischer",
+            "author_url" : "https://plus.google.com/112732299738630332252",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great collection of vintage cars and other means of transportation !",
+            "time" : 1390377198
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mathias Albertshofer",
+            "author_url" : "https://plus.google.com/104588527937799102681",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "Leider kann kaum ein Fahrzeug mehr von Innen angesehen werden. Z.B. der IEC ist nur noch von Außen zu sehen, dass kann man auch am Hauptbahnhof. Ebenfalls sind viele Ausstellungsstücke mit Funktion defekt. Ein Kaffee gibt es leider auch nicht. Dafür aber ein sehr nettes und kompetentes Personal.\n",
+            "time" : 1425495961
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joaquim Cebolla Roman",
+            "author_url" : "https://plus.google.com/117740423045650015534",
+            "language" : "ca",
+            "rating" : 5,
+            "text" : "Molt interessants cadascuna de les 3 sales. Un recorregut per l'història del transport amb carruatges, bicicletes, motos, cotxes, locomotores, camions... Remarcaria els mecanismes amb els quals pots interactuar per tal de comprendre llur funcionament: frenys, canvi de marxes, el cicle del motor de quatre temps...\nFàcil d'arribar des de l'estació central del metro (Hauptbahnhof), només a dues parades aplegues a Theresienwiese, on abans de eixir al carrer cal buscar les indicacions del Deutsches Museum.\nEn front de la porta de entrada, a l'altre costat de la plaça, hi ha un restaurant tradicional amb personal molt amable i menús asequibles per a dinar. Recomane la cervesa Dunkel Fass (fosca de barril).\nA 5 minuts passejant es troba el recinte on se celebra la Oktoberfest, als peus d'una estàtua gegant al·legòrica  de Baviera.",
+            "time" : 1408969979
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Peter Simon",
+            "author_url" : "https://plus.google.com/100473130219280397892",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Viele interessante Objekte und zum Teil gut aufgearbeitet. Diverse Erklärungen. Leider war Halle III geschlossen. ",
+            "time" : 1392556850
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/116860448767347425169/about?hl=en-US",
+      "user_ratings_total" : 13,
+      "utc_offset" : 120,
+      "vicinity" : "Am Bavariapark 5, München",
+      "website" : "http://www.deutsches-museum.de/verkehrszentrum/information/"
+   },
+   "status" : "OK"
+}

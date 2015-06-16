@@ -1,0 +1,253 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sterneckerstraße",
+            "short_name" : "Sterneckerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSterneckerstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Sterneckerstraße 2, 80331 München, Germany",
+      "formatted_phone_number" : "089 24231607",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.13529,
+            "lng" : 11.58022
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "f852f4c5c9070366b36a5f24fed60d6dcd17bd6d",
+      "international_phone_number" : "+49 89 24231607",
+      "name" : "Bier- Und Oktoberfestmuseum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1300"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 1:00 – 7:00 pm",
+            "Wednesday: 1:00 – 7:00 pm",
+            "Thursday: 1:00 – 7:00 pm",
+            "Friday: 1:00 – 7:00 pm",
+            "Saturday: 1:00 – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAxBmy5D0NCTLaGbubt3NZvhOGqfRPHrgqJFjj0mKnS1rG-VOPEJe9Fj8l5HkOdNa62wj3bQDq2cD4nFFxH-UYb83lGuS53sYSl5Gzw1C-Q3Cq6jk6c2Q3lzjgqcTMny1I9cY1zU_WPS-4IopbHED4fhIQ1p_gBcWdNuW44ruOEBJpRBoU9Whpcbw9jvuMR33jET5x3EQAcpE",
+            "width" : 4000
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBfQAAAKlL5I5YC1uQ-twBh_mofNicwwVpbKSwdiEjWQX1qKxCUV7Vy3iftNH5BbqzW62tETxZNG8Ck0ZzLBSvubJ6OYIRlRh2o9kl_DKkOT_veFKs2mSsXVLGogiUmRfxhWiON1ah11DGmsph4GTRHCaBsAi4akKGa37cfZNQiGPXrLllEhBMbnJ4ezo7PQjspY0To4MNGhT1kiaxE5rJtbzRhNUJIfEMw2_trQ",
+            "width" : 587
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAvAp_yltZxVaKvq0SRwboRiwiU_c0nxiU9uKEgRmcKJpC_Ge-wcUiZyqb5o9KvnB8g7P02mrwwI3DFlWqgNu8dokdLbyE6m3B3-JfRc4mPlJdmW_buveuRKl-nQRc_uQpELpnUyJcXuBwUs1SyPq7BBIQsDvccBNQVZi_fCjPerKU0xoUg57I88Qr9b3lcIyqr7RA24_4gos",
+            "width" : 3000
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117116518070965641606\"\u003eCarl Roseberry\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAArGUAzPiXiuWePkA1tFMJXpyTF9ryWpplx4IzpVhIqEpBQbIdKzuBysT2nO1OLTlLK93SGUK-f9_XOzaaGI5Pb38gebS9FJgo8ZBJveKhpFvE4Dro38tcIKh8Br6lhu4f3emWdDAnTE5K6pBQoo0ETRIQxSclO0p3w2AmL0OkmJPvXBoUjdtGTf97rTCSAN22i_3o6yLC-Ck",
+            "width" : 2048
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAjXSxiw2bKdDeYiudn6-DgK28h1S0NpZc-TYvSXyWSTUc93-7qg9YsQt8hnUdTvW0GH8ZrP2Ob-jqR_8okm_Z0EPubAdlcFuoMFzUAiYdbb_1nqlBGDHio64b615MObF2_SlcfAwFy8nVSXndzbt6XxIQm2HC8EokRcVm1xDj2aSgFBoUhWR89VHDqsuaB8N6t0HqGjGQnO8",
+            "width" : 3000
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAg0yMMaPf4J5pJrLg5A4KVAam2V6GIPMvbos22P3bDK5Q1-5oVLEXcA01s9k8WEhUxIMWTEGfaOG-qiMszYDQQ8ELB2hyDjLht5zOAU0jziNS9h75J9sbCarzXx9j3z8vYoDBl9cy0ziR8awqGDUiMhIQ065Y0EpOhJllyiF3X35WrhoUj5NfE6y-zMwkslJOFtHYPqJaRzc",
+            "width" : 4000
+         }
+      ],
+      "place_id" : "ChIJ-88eGYp1nkcRpm2C9-efi7g",
+      "rating" : 4.2,
+      "reference" : "CnRvAAAAEb67FS0O_7eepyBAokC1USR5cmAPZKeOX_AQ6neHUw3LV_n9sdkpWNBCtDA0KsOE1zshCHvvmOIExrVr4Di0FIbDbHAe-SUWhDy_Jy3OU0l5fbF_T0p29rAw2iDiJ6vAoW7vWPsUC_fxdJIZTyPg1RIQwzEI1LWLrCfkdGO6azjs9hoUhv5-ZVwAfoHtzMIJjS-9NdHDxTA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Bier- & Oktoberfest-Museum is interesting and not only for beer drinkers. I don’t drink alcohol and it was still great experience for me. Located in Munich’s oldest historic town house, it’s a hidden jewel and represents authentic Bavarian tradition. Tiny exhibition offers beer mugs and other Oktoberfest bits and pieces since early 1900s. You’ll also learn about the history of beer and see artifacts related to beer’s production. I got a feeling that this museum has a pretty strong focus on tourists coming to Munich from around the world. This is in no way a con, just my observation.",
+            "time" : 1352510141
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carl Roseberry",
+            "author_url" : "https://plus.google.com/117116518070965641606",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I visited in 2012 enjoyed the Museum vary much it was vary intresting",
+            "time" : 1391899070
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Philippe Bouchard",
+            "author_url" : "https://plus.google.com/114264007369614289198",
+            "language" : "fr",
+            "rating" : 1,
+            "text" : "Descriptions unilingue allemand. Accent porté sur matériel promotionnel.",
+            "time" : 1428150743
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander Anagnostopoulos",
+            "author_url" : "https://plus.google.com/100189366762453364692",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "Ja - was soll man dazu sagen?\nWir hatten eine Firmenfeier dort:\nDas Essen war schon relativ gut. Die Führung eher langweilig. Aber die Atmosphäre, die bemühten Bedienungen (leider etwas unterbesetzt) und die Bierverkostung sind durchaus zu loben.\nWenn die Brauerei sich schon als sozial- und gesellschaftsnützliche Einrichtung ausgeben will, so sollte sie wohl darüber nachdenken etwas mehr Personal im Restaurant einzustellen.",
+            "time" : 1389371431
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Felipe Lora",
+            "author_url" : "https://plus.google.com/108180169611582734685",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Went hear for Die Lange Nacht der Musik\" and the place is just amazing. Good beer and great food.",
+            "time" : 1378723945
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/115413395664891508074/about?hl=en-US",
+      "user_ratings_total" : 11,
+      "utc_offset" : 120,
+      "vicinity" : "Sterneckerstraße 2, München",
+      "website" : "http://www.bier-und-oktoberfestmuseum.de/"
+   },
+   "status" : "OK"
+}

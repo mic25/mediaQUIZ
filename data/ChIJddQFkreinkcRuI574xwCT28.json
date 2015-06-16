@@ -1,0 +1,208 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Stadionstraße",
+            "short_name" : "Stadionstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pfersee",
+            "short_name" : "Pfersee",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86159",
+            "short_name" : "86159",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStadionstraße 21\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86159\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Stadionstraße 21, 86159 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3249814",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.35486,
+            "lng" : 10.87423
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+      "id" : "237e30d76a1029fca0d192bbbc6a1779d2c65099",
+      "international_phone_number" : "+49 821 3249814",
+      "name" : "Rosenaustadion",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:30 am – 4:30 pm",
+            "Tuesday: 7:30 am – 4:30 pm",
+            "Wednesday: 7:30 am – 4:30 pm",
+            "Thursday: 7:30 am – 5:30 pm",
+            "Friday: 7:30 am – 12:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAWsuZrJO0vngAs-ahF6JIsPy1tmF5QefuFCXZzoUDeSSk-ku_z3cpZk44Jy5zO2GovkX7me02wVtCyPA-vhgPvY_qUEqv8PxWK5HWE4HsuLmVrPgzJ3eYZRHMUoEgxAF2jHBWMXkoDiet-dDmZ_Cx3BIQokfnu3UxdEOVzgMdEO0hSRoUtTp_mwRv1JZH3DLGSf3p5LMh_NI",
+            "width" : 800
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAZdKEWg7FhossOpH1P6fq3gOcJ0DcnIJ2DZVbh6P0gHWiNyvjLF8GXoX12scHJ5Fq_UksUhzhbNrgSeoMn4c_ayWUnq0GeUsxg7VX-cUrcLpXgUNl-AKhVzfOZI1PcehTn_73yoDNAqm7nwCddc3S8BIQJV6waQQv6uoc2L7yxPRqRxoU_LHgSdHJOWbVevSUQIRy8lfYZFo",
+            "width" : 800
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAvi21Gs-1llX6l9Q6ygLeCNXrK4ABldEZKlkeWUTeE22J_l-1SOdo1-pjGQ4Sp2MvMjubn3pdnxGiOZPUpfRFvOHy-DXXPxwgGtlcAnajkwpzLXkHaWRG_DAk8Ke3kWdD9zlFVz91cpmc_AWV4jl-2xIQpvrvQ-GaS5HPq4Tq66HgoxoU3RL65WcWz1FOsNK2-OPfjw6sIqE",
+            "width" : 800
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAlJoWo6C2AALoidAz0Na5yk7fiYoMb9d21zxCLuXyBAOG85e_oDgn5ge3i-Cik_ARo3-z2h5s7IVlTigFRDlpDdLlKt6_oA3RhhV1XnG8e6Wpg9glOE-N9-PeGzYtVHzP_S6t1twxD24hgrbhYnEerxIQRz5ufZi6tQ6q4RZDfrZPURoUwJHH8HraWUExatnkrmdf0_8tzhg",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJddQFkreinkcRuI574xwCT28",
+      "reference" : "CnRhAAAAgTJawxMAEVkDtA5qelHT8Eo9b_XTZOBIa53mQNQjgj1T_a9HHzYTAYAcF9XvW42OsaQ8lGsPaewB8qq1FQwmIU847aDIGAjbMqVLXTbFKXTzwsXmUDfqEcSua2zeRrnMHm4rOKSX_6lrSK9csjVFNRIQXGNuU7G3ZPHgJh41AumT7BoUiQZszQGVr_tahHYgGciE_BtAmX0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Hiro Protagonist",
+            "author_url" : "https://plus.google.com/102181005398363875069",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Das alt ehrwürdige Fußballstadion in Augsburg. Es hat einfach ein sehr angenehmes Ambiente und einen unwiderstehlichen Flair. Wer die Gelegenheit hat hier ein Spiel zu erleben, sollte diese Gelegenheit nutzen.",
+            "time" : 1355005246
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1333185919
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1323721065
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "stadium", "establishment" ],
+      "url" : "https://plus.google.com/106372746174910098335/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Stadionstraße 21, Augsburg",
+      "website" : "http://www.augsburg.de/index.php?id=7002"
+   },
+   "status" : "OK"
+}

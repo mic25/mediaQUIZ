@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Munich",
+            "short_name" : "Munich",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80803",
+            "short_name" : "80803",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kaiserplatz 1, \u003cspan class=\"postal-code\"\u003eD-80803\u003c/span\u003e \u003cspan class=\"locality\"\u003eMunich\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kaiserplatz 1, 80803 Munich, Germany",
+      "formatted_phone_number" : "089 3837703",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.161309,
+            "lng" : 11.580955
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "ee0771b889a1f1d35fe44524c55fbdb02476f3fe",
+      "international_phone_number" : "+49 89 3837703",
+      "name" : "Sankt Ursula München-Schwabing",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 12:00 pm",
+            "Tuesday: 9:00 am – 12:00 pm, 2:00 – 4:00 pm",
+            "Wednesday: 9:00 am – 12:00 pm",
+            "Thursday: 9:00 am – 12:00 pm, 2:00 – 4:00 pm",
+            "Friday: 9:00 am – 12:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJpz7t8cZ1nkcRtdVnQmaMdnE",
+      "reference" : "CoQBcgAAAGT38avD-Jkc2GFSjJ-maDVHo7QTHktPCiKWJIFxcY-ta2RX9LZN43LvrpfZ4Nq1qGA5GbQhCpbmlP6wW_HGRzAxAs6zJ1s1ru4Lf4zGEI0kzriGda66OnByURw5NyouX1SLNyC0VIBVn8ZEQAsQ_Ue0nWSrl9WflCIwg4A_WNJWEhAOafNkB63mUfg5fIe4TJYwGhQowv_AXouBSpM5jDQfrB7s4e5WcA",
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/113153553974304642965/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Kaiserplatz 1, Munich",
+      "website" : "http://www.sankt-ursula.net/"
+   },
+   "status" : "OK"
+}

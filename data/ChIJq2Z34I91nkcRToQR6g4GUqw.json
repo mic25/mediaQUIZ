@@ -1,0 +1,253 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Munich",
+            "short_name" : "Munich",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "3 Prinzregentenstrasse, \u003cspan class=\"locality\"\u003eMunich\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "3 Prinzregentenstrasse, Munich, Germany",
+      "formatted_phone_number" : "089 2112401",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.142984,
+            "lng" : 11.590938
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "9f38462a27f629df863e9d9efe4b958be9f4865f",
+      "international_phone_number" : "+49 89 2112401",
+      "name" : "Bavarian National Museum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAA8s1uWHyUi0B7sTXadoaxbcmCcvwrBP_jF6itAOajAJ1DWvBTVEzthWrohn2TaL8j-oaz1tkpRlcA8UpopT3UAMmyaO35XcNvVP4WHhGUYY5g3o1rb-_SwWbqC8xPFBe0kRaKlkQKwshjQhzG-3ct3Dp7gufJpBCGq8dyZXsThEEhAfX2AUvRdDeCr35qD3qq4BGhTlHgNg4xGbZoEISpR80-xuib2a7A",
+            "width" : 2048
+         },
+         {
+            "height" : 616,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAHHf1L3OjW7y5HArQl-0I9cRD-yJ7qoqfTbwNbEgMo0s---DyVAfkTgIMCYdBqyInVurJokm6Rzqj3ktvYfHMlCSPJCR8dvXeLPE7xAS26ldeCetayEONchHUaL0U3Bmi6LYffli1VPLyCOdEIvuC3xIQzR7GJ9RMOm8i0-CISyUvQxoUFvBRZO2WjCF8eW2FR7XgUfRPg9I",
+            "width" : 1024
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAnw9M2YZ8_iPGZxUlHq9pz4wUeX5vtygjtsc9bBASnEtPR2Bgj2IwZx0MR_JeX03RMqf79LLCpzli2rhV_CQAgUbbQMI4zrvv4p2kerkLzV1zgYQ22px_XD0Sr7NJinlOsrk2FTrRDd4m7FWK6j9z_hIQ0SXmDrxs9ukxqQeLT9l7wBoUxPitR3kc8PwFVx-N4W8M48qohMU",
+            "width" : 612
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAtf4Wh-ImeamXxVWT03oHdSHjSsigFLSL1ykBeRdJ9pQpb7gNn41IZ58qpWLfYHPpGycTyP0VNT9aAR07C13Xle9HF3wFyr5Gx4k5etQVjkd1QJYBMIJTAqg3S9WvaGvxTWjeXdbnWI3_VRG_qcn_xBIQhZDRHWFKDGOqiBVgNZETAxoULRAC25JJVTq8Nj6jRRLW6sWLiCM",
+            "width" : 4000
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWftPd_xngvXSJMlBwiBRhxRNvx6JdshSbByFPGl1nepjyn-bC-iLAD-1p8PV7dpDZ3M5h5xFriR2MgsneAL2pAKmWt5BhL9KCijKe7tmhK97oe6KvIbqEvNv6VZnlAFuA74irol68P_Rtk-xo1TCWBIQ599LEo8ZRazM-2bBOd4nKxoUz_nJOh-C2iD8iB0Em1-1tTbQSQs",
+            "width" : 4000
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAKMU1N_COFVbc5OxzjauB0yVlCG3Zw5nJ6QwcQ9MddOhYjW4nRLHqow-wxrd_CWhK3NCkg1ESi9BCMU9jLKEQHW1tCOEdeU-zJL0LWYaVO4EIRN69s2p0nZpscaEsc3Tb60Vh2tgsIMk5n38T7w-qLNB2ZSOqLrsqmAmG2SBxt3cEhB1wQeexlE7KckIi536L3RIGhQ_DdEv_tTTd-X_8ISlFjMPDwDY4w",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103448470776062694512\"\u003eDmitriy Kolosov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAOgn54jRilZGqSZsl4ANPp7weywvp_zv1pFqiOOAvGjpEw0N6Xe14ele7kGCT_6BPHtFts6w4Ph08vQdji_KDR2dR3Cx4N9zZVMEJpSJ4Rdpko9VOL5GojDgb-VoDpDVfvqd7VcCMHMwCFPPdhHvobEe2BaYcY7j755ScPWtkNrUEhDYI_WTfgRbuP1bCYQNXa7mGhSAteZz3iMGd1lWdTJQyUXlKDLFww",
+            "width" : 2048
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAhDeM2ZcEkkvb_J1rlOTW29Qdp5QB7O1JRZ0mwAp1CEidW3AGLim16qkw-wKs1YSMI8pXSNm95-pQUHRMpXHZcSFbHXQWVoq_zIB4AS-RHh9Osp0RpNN5aNXnmxplS-pSPXq1DgiwCi6mM17RfpOp-RIQY0l4F0K6tZGfC8KwuTEZ7BoUYaH0_ll49YZVfOxD9PZfqrlVuS8",
+            "width" : 4000
+         }
+      ],
+      "place_id" : "ChIJq2Z34I91nkcRToQR6g4GUqw",
+      "rating" : 4.4,
+      "reference" : "CnRsAAAAbMMK7MggvtWGNM7UiXem11ItPGcJHAdOdSkgKLhJnmnm_-OrpQkdqR1mg0iUw0dzozy0ijBrxoB00oho9HRGfHzwWy1MKJqvID6u8nQLJ9wElAPEwp6nfg00ctETsBS7q3dkwrl_yAOLjKqneCVyRBIQ0oysoSgG2FNdgmIqSPjb_RoUEG0EAEDM0n8iXqzf88h6ZJoF6qw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Natalee Armfield",
+            "author_url" : "https://plus.google.com/102932093766564697855",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Very nice museum,  there was a fire while I was there. It was well handled and I was able to finish visiting the exhibits after the fire was taken care of, though the section where the fire took place was closed. ",
+            "time" : 1415200188
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Matteo Serenari",
+            "author_url" : "https://plus.google.com/115982387172522333567",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Small, no excellent nor unique pieces except in the armory room.",
+            "time" : 1426342951
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ariel hsieh",
+            "author_url" : "https://plus.google.com/103355227766384233006",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Love it",
+            "time" : 1405922432
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fernando Castelo",
+            "author_url" : "https://plus.google.com/111129261563823732293",
+            "language" : "pt-PT",
+            "rating" : 4,
+            "text" : "Um belo museu, aliás como todos em Munique,  minha cidade de eleição. Nesta époda de Natal ainda é mais rico porque apresenta uma excelente colecção de Presépios na cave.",
+            "time" : 1416151379
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hussein Nasser",
+            "author_url" : "https://plus.google.com/107842648174674200441",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ist toooooooooooooll",
+            "time" : 1432385893
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/113721273275384708338/about?hl=en-US",
+      "user_ratings_total" : 10,
+      "utc_offset" : 120,
+      "vicinity" : "3 Prinzregentenstrasse, Munich",
+      "website" : "http://www.bayerisches-nationalmuseum.de/"
+   },
+   "status" : "OK"
+}

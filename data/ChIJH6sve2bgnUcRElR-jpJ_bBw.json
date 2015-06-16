@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "51",
+            "short_name" : "51",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Oskar-Maria-Graf-Ring",
+            "short_name" : "Oskar-Maria-Graf-Ring",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramersdorf-Perlach",
+            "short_name" : "Ramersdorf-Perlach",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81737",
+            "short_name" : "81737",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eOskar-Maria-Graf-Ring 51\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81737\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Oskar-Maria-Graf-Ring 51, 81737 München, Germany",
+      "formatted_phone_number" : "089 67942501",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.094856,
+            "lng" : 11.655589
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ee8e5b9d010409e0a429de4db3fe8c3f94008f4c",
+      "international_phone_number" : "+49 89 67942501",
+      "name" : "Klinikum Neuperlach Abteilung für Allgemein- und Viszeralchirurgie",
+      "photos" : [
+         {
+            "height" : 2832,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcgAAAB5np_Qr_r8FrnEk5diUNiikg04yAmq4JlMWkT33QqAzW5R612EsiR3aJ7Y9lb_zousWRew5fQbs7La103QnqPuCEWt9chfCedFS1QpwYDd124wMz3rzWQ60A1pF2IRZysbmzgzXtI4PvAW4gJPuF2-R1zjxUz3w9eF-HpXCFcUNEhDOUiDGEqlQfLrNLBY7cxVmGhQpP3wa_7n2r7QBiMbw_Giy4VyOIw",
+            "width" : 4256
+         },
+         {
+            "height" : 2832,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcgAAAHyadPRPAUxTW1bC6BWCC3yPOn6uvT_2W6LHmwO5WRiLo9Vuhoj5savSF6AIJOE3wr-XUW2dXzZdaEvGWqexCwU1jE2i9dNNSx2zhgdAjM7kPQpXcQoVhQC-zr-uRgEaYo9BQq1nvqAv4Tf0jAcv9fslqoE0LnRs4eHS6aHvkz8QEhDm0Ec1QmCBoShAT9-7v-q2GhQrFNnuvL_hLJIDzlzF7SBGHw4QTQ",
+            "width" : 4256
+         }
+      ],
+      "place_id" : "ChIJH6sve2bgnUcRElR-jpJ_bBw",
+      "rating" : 4.2,
+      "reference" : "CqQBlwAAABhKpB21nhTZgd6ed0c_HzUpyOSrjswGMjXk_T7Acpb75FcpynjRN1nPFzR9Y--r49i9Wc-VgOkNtJU5J6dxwvoMm9GryvqLWBLKAb_mtc-8qLwZr1GcUgRF08S6307TNC086HULXRWWVG4DOY3gPCzVPnX6o1f2gs5SoSRdgpxjzLQqes5eAcltuLsPLRJhEquaguPHMr-nD8-xsWfbvqUSENEumhEEKgWte5MjOcYbLRkaFEg1leArcVauI6ZLtCI6dqYszLYj",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jonas Brieger",
+            "author_url" : "https://plus.google.com/117716167874571975090",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "gut",
+            "time" : 1422034376
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "humpfti mumpf",
+            "author_url" : "https://plus.google.com/106204965125028241529",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Man kann froh sein, wenn man das Krankenhaus lebendig verlässt.",
+            "time" : 1368521963
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "anwar alnaqbi",
+            "author_url" : "https://plus.google.com/106070278372857874086",
+            "language" : "ar",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422333876
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Regina Schlütter",
+            "author_url" : "https://plus.google.com/101396796341401380552",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1398958097
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Einsatzfahrten München",
+            "author_url" : "https://plus.google.com/113045900964967693757",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1413278880
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/108119519867695955210/about?hl=en-US",
+      "user_ratings_total" : 7,
+      "utc_offset" : 120,
+      "vicinity" : "Oskar-Maria-Graf-Ring 51, München",
+      "website" : "http://www.klinikum-muenchen.de/kliniken-zentren/neuperlach/fachbereiche-kn/allgemeinchirurgieproctologie/"
+   },
+   "status" : "OK"
+}

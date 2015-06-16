@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Am Olympiapark",
+            "short_name" : "Am Olympiapark",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAm Olympiapark 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Am Olympiapark 2, 80809 München, Germany",
+      "formatted_phone_number" : "089 125016001",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.17683,
+            "lng" : 11.559097
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "94a10f51a287fced5e81b38a7fd99bd0b4a1d50f",
+      "international_phone_number" : "+49 89 125016001",
+      "name" : "BMW Museum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117289929823671613999\"\u003eAbdullah M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAjvaQ1iUYyoLyeF6j9cpBpwrrYFUlldT6eXMVFQZfMkRP4WGCN1QOLmMixctshfpR8Uq4_hbeJaZ4Rq_T2G_whEkEvOZFwOEW5BYjGCe0WFpeiebMYApwLsGqNNk57QXviLDhkQ8gJl1lGHzRPwgz1RIQFTM_loIgvbnw18w3BWd92hoUGDK9BWGbz7Y-1d2Kt-FIF3j2Ae4",
+            "width" : 949
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117289929823671613999\"\u003eAbdullah M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAIuGKXYM9abNgBGjkV5fQBxqEluDsDeluwlmHmRXcWpDQCeAuFIUMECGWs2l8S2jKDU76FF8I8j0U2TmePFDb6Mw56-k4MAa-uwuFAEWwibNgoEXoD5Pb7-LBMakAuxhRlmbgPIr5irjrCZNAXW6bVBIQPlt6OgqiX9sk3U3uzwFLHRoULpmrzwEhfxY_iqwpXuL3ZNYgg44",
+            "width" : 949
+         },
+         {
+            "height" : 460,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106216846153394724090\"\u003eВладимир Веремиенко\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAqCGTMsC-wMKFRh7dQSWCWxYV1GC5rGcNG_XfA_HoKFV6Tm-RefBwWuTXpqyQBNBM2V7gS0H-MsVXTDa2c3X8-1PivJNy0zLlnnggSG9LH9xyPvrWQ1JPsqt-JlKCpkYp3IIQlITDu90vTDxZR9iuqxIQRBJJFBCEwoZz_3N7ru0CrRoU2Z9BHrWhKJLoLg6o4E6S41o8riA",
+            "width" : 816
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117289929823671613999\"\u003eAbdullah M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAh-iZoe8eJ40XHGkU4jkSsBvqWPT0fgOfu-t48YH3HGvLSYN849FLyOk3HAuULKjEs7d59rfLk6ccBs8orRQaAjavJhLRhUVv0ueZ8nEebNy4QVB_jKnAGOGawUqAJ3S6JZ7yngm8MScMQHpsPH0SLRIQOvCkSxVGwNdH29c_tLtNChoU_HYqiNYYwxDNYOWXnfvjlGwg2zk",
+            "width" : 949
+         },
+         {
+            "height" : 505,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103699264248158277044\"\u003eAdriana Ayala\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmgIouq4r9IwIhxm7XpCYmza1uou8H8GBZax5B2TI1otPYE_m-hZauXx_xNa2WkF8alR14bzzErH5DYaqpU-Ad98YSAmcp5m16uG0nUu-yxBVyLRFUvSMculRimhrVASYMkjSUG-jMTYRVR97KAkf0RIQRu99ESYgIvO5sGQH1M6GZxoUwP-n4Ya1aeAj2HBYSsbXrgU70dU",
+            "width" : 675
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115902498466349628121\"\u003eCidonio Rinaldi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhgAAAPH6FbVr0RS2ZE6FfSFvvS4FBTPnssYqF7IPsc_v_tmv2Nt5PKwdzSHt3qN85ds208DFntiADg0mTEFYqK_iJmYc6XEenfN2nz9w3Q3v34vDT6sjNBGLSO1WcycX66Z6YUQbQmuR4uUMKE6nSH9QGrIsr17nKPUmPWKc8Z5rXcH3lP-r5mprl6j_QqlSgGKuUxIQdoJQqkGv71pxowPXHLouDxoUZCsdd-L0SRwONSrai8baznAShd8",
+            "width" : 1600
+         },
+         {
+            "height" : 654,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111933117156120070405\"\u003eRené Valérien\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAVanT5ZVmCUT0jmgSkMsX_495d6S6wnwyjuASTcHrM8tDm8-NDJ2X4amqtXBIPSaMaFX7l9C8cYQUdz4FvL717XWtgPyu_WaU7HLI0K7euGgHnt1vwUKZQQ-lIL7g_O0XBkwri_4_h8i9SSZ5me7DghIQJNgk6zhjpaco8xZc0DygZRoUkHcAXvA9YkWjZbuoWBiz8ClvKMo",
+            "width" : 910
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAAWP72-WvaMfgAKS5UKV2pLUTsy2XZuny9xmukFCSl8G_Sjc4_D1gAYdmNsRwVYsGBjqJ2VcJY_CQgARPzJ9fcV4EiQgjpP1qqY3fN5JFqTJVCpRVZgYN8e0KNZ57ZjCaA7DlZRzjVA9JKfTAZXQfl0sGrVMNeTlSzOmrEEDEueEEhD_DprgkLmbxG3D6IAYz09kGhTFNq_zNalyRrLbSeRMoaVR34GwMw",
+            "width" : 2048
+         },
+         {
+            "height" : 1368,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114226040875048244578\"\u003eИгорь Медведев\u003c/a\u003e"
+            ],
+            "photo_reference" : "CuQB2AAAACcmLp042xoSL-v3ECeOzhbroS-dpG0NOs6i0MGVy_PyAAYthPvBpHNpJKsSZXfCh1PmsaSm_MnE7HVeLj5U6MF6O3-oVrmioadhDoExcMQIGdUioemYaSXZxyr1HkVcg8wZyMJjHyASOSn6PHJ6hBXQ5f1TvjoYSL0-ATmozOusC0onmX-JRGL0-DgOZpmyrURrbiTVqJxO3TM7us1CYnc6Qzn1J8t4EHpCtGWItd_UnOzSRrsa_EHClJjZy5dESCLpdd7SW7fcWQo73gUaibq4d3AYiNGLUvtW672eFgO3EhB1qqgE6uCagmGElyS44d0HGhSVy1c5tzQffq7ldgemUwXdMRa7XQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1863,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106055134639386428410\"\u003eЕвгений Перцев\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhwAAAP73lxNuZhueC1lGt_Y7p32eQkvXXfAIDbbhUn1yT4N8-LrmAlwkhFslZhWr6aJRI8qKybAPplBPwZ5opH9OkMIh_9qr7KsT31utxR_xNXVMP63KUxPRM5LQmogYEokQPx5dSNqsxH2VijxjNtLT09o83vbgErGi8dT2o7WraxORbZQVflEQ2F-6qOYeMX5H9hIQ0i6zDw3i8lkaTCsXxA4zIRoU78J-wLsBlIseI7KPuHjZJysmkcI",
+            "width" : 1244
+         }
+      ],
+      "place_id" : "ChIJa0ubVnx2nkcRiGkSeL3MxpU",
+      "rating" : 4.7,
+      "reference" : "CmReAAAAIxfPYvc8yMFviuNd7MYFvGPTNUznwJsjgSfGD3jvffrvIkn3r49oTrlMwizZDdAFGpCNYuGfZQgINN0L9Mo5HzzQYYU0Rm2Ad5mo_Y-v1T0YRVSOwrYIP5P8vZY6zbkQEhCzRb0V9l1a6MTaDyYuHfyPGhRJQDQEauuMyCOJ-2h9d-V8-kFQUg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Krishna Phani Kumar",
+            "author_url" : "https://plus.google.com/105751985860480635693",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Simply Awesome. I really love this place. Good ambience, friendly staff, free wifi on top of it nice guidelines to help yourself. Fine display of vintage cars if both Rolls Royce & BMW ",
+            "time" : 1423350788
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juliano de Aguiar",
+            "author_url" : "https://plus.google.com/112374640014843860285",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Don't forget to present the MVG CityTourCard. You will pay € 14 instead of € 20 for two persons.",
+            "time" : 1427701540
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Collin Thompson",
+            "author_url" : "https://plus.google.com/110617388840215625736",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Great place to visit, especially if the weather in Munich is rainy. I love BMW, but i think anyone can enjoy the very clean and modern museum that offers facts about BMW that go beyond just cars. ",
+            "time" : 1428232369
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joyce Tang",
+            "author_url" : "https://plus.google.com/105985547749986921139",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This museum is pretty fantastic for the car enthusiast, or anyone who just appreciates luxury. While it's more like a showroom, there are detailed wall panels that guide visitors through the exhibition. Even as someone who doesn't know much about cars, I walked out of that museum very much wowed. At the entrance, you are greeted with a super shiny BMW car and the museum tour just gets better from there. Not only do you see BMW cars throughout the company's production history, but also their beautiful motorbikes, an explanation of the ideas, concepts that is behind the whole company's ethos. Additionally, if you've ever wanted to bask in the light of the beauty of a Rolls Royce, then here is your chance! The exhibition building itself is pretty incredible, as well as the displays that show BMW's creations. ",
+            "time" : 1417630304
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Suntae Park",
+            "author_url" : "https://plus.google.com/118010556532586272393",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Must go place. Perfect combination of engineering and art. I do love to visit again.",
+            "time" : 1428256120
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/116965488604698273656/about?hl=en-US",
+      "user_ratings_total" : 216,
+      "utc_offset" : 120,
+      "vicinity" : "Am Olympiapark 2, München",
+      "website" : "http://www.bmw-museum.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,198 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Franziskanergasse",
+            "short_name" : "Franziskanergasse",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86152",
+            "short_name" : "86152",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFranziskanergasse 12\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86152\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Franziskanergasse 12, 86152 Augsburg, Germany",
+      "formatted_phone_number" : "0821 31670",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.374586,
+            "lng" : 10.904451
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e5214505c201eec43d5dca5cd684573ff862d983",
+      "international_phone_number" : "+49 821 31670",
+      "name" : "Klinik Vincentinum Augsburg gemeinnützige GmbH",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAI1arfEvnQYUX02CBa6Zg62-R_fgQCXtMIQ8ffLtI3WY4wIHMcQoG93ILXxgPqaLOl_MUYSd3ZGidoOJfb3FGRdfjO8j9Ga7XsCjC_BZ2TFBEuTBVkkG3MG_K62Sl8cqZMAzMOmdZwq3a2YcmZrC6WtBfzgs3LYTJgD1n3ju3MKoEhBrkuP0-o2LpPfsBnLIIC_0GhS4e7AoUqjF3DiyqoDvxwNJBMtteg",
+            "width" : 600
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAKcWhP6YyOj0nA44iy0iPZyJt93b9W4faw3xrfdBfMiEuX3XGmUdA9_kpblha2QKqizgUsDKbuABDU2D2MXwXm8JpV8HNFQ90pK1Vr0FazbUm85z7TF99LJXCXeciGFVyhIXzPB8HLFEOFd1YsrrZhUOcrAwp8CariD4K3piWQRiEhAAI61ANoLNZ7KyUoeWBFHoGhTRm_lTEpaQhJSFIrp-6vkaziPBaw",
+            "width" : 800
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAPY_U0BeI0-iUH5jzfzbeO_144vtJxhHkaHfL2pdg-rX67poQKy8aeYgqdrGtTpPUqJcHOjN2ecDwjhvF7D_ELWxuta0qb3i5iDrwSJt7ZcxetVzpncLuAQ5UyAP1yVU0InZKtjXjn7xqR8C0CMDmoD60JprN6Z9BKWMpepEXe2iEhBbSX51fOpCoe-o0M4bTK3_GhTGQFE0nvNzy-Ki3i7jytizmbo8fA",
+            "width" : 800
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAADfj66h30zjFKKynZ764FfUw7QzmD2lLvJhP3uGwBDC5vKYXTZA8FP6kFmlred_JAYD4AmsMgMm79AYSD4ZEpnnrW41Lj-vk_jXsFGb82LqlDbxA-nbcmp1BgC5JA7oc6VtXX9CJu03k9-UClnZgGnZ7sHlFiSIk6FuJyxyfl7UZEhBwj4CKKdFZ_8lQsqdwJC81GhSPLqpkiozlwfd13MCHWX--wjc-mA",
+            "width" : 800
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAACIJL1G0cvBZs8I05nZZ7TIUKglI7H3MTSE4Ut3ahnyvZH6uu2z0h0GK1x9AQg2ZM1Jla-zoetLMJYvSDPt5b28bWHXhqCnkvIdICaABVLcThMUM3wEyPGHpwY1pFMYbjzwP0RqiyhOVQy99AwhSyk0KQfV5VCuln2mFQdrFCNj9EhA3SPQsNoCwT293u3l-69qiGhRdGrfxNikkt1fw5vhZmD8Hv8HMuw",
+            "width" : 800
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAHgzk2xXHJMcHFzceZFrBbOlYPePCX0YWP65zNHDH938cZWGXRfkcHx7Ity5zciTJnU9vGneRCzvbDCzSUA2VpttT1XmlYm00-PzScH-f5cpx52nf6u6b3hg3QJe3ZxL_iN2TGolQiWSF_G_SxgP1Pe7zfq24h2H2vV7yfUKlK4yEhAB94fY57ENKcC0NiVBGPHwGhQFX5YbwzuvlswiUBWZkh-IBLGvjA",
+            "width" : 600
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAP2BlfJY2lDePX2SA3t0UpYqjSoJTGoozQglfEzDdNaTwalPHzOmzSb2ipBfdR7YPCBVeou5Cz_NsylTb01oGxRKYqavQ7M14emGU14eUj_wd9j2V4ArbLzOt1T8d1pTEfHI25Axncqei5UxQK5Etayp_YLHQ7eNQ325g2VVZOrgEhBpLWKSQTkaffdF2ykJ9JzlGhQB4_D0e4mzHIHHdn5We0QOtd6EFw",
+            "width" : 600
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAADn0F-9bNvfUqnzJIAUHwaGvSoFBPYfHG2k-aU006tF-l2hNWvpgkGPOH3kuaSFkFtD-do8wDbwx3Wf97lH6I_7uaTd7PzeC2QgBQ3Kjdw7V_gF-ORYVYBEdUFzMxtA6BmqVpgFCRhsyaZucIeDezQzabZL-eRK_E4Yslc7VyRgpEhCq2Lx95YUZUtzTmGWt4uHNGhTVGRuat_mA4o2Fct8RIew2sUHgzw",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJHXoXVFi9nkcRtruofcg9-3I",
+      "rating" : 4.1,
+      "reference" : "CpQBgwAAAKjytYz4F5YMJVhoYTquwC5OpgbGdhBATa1XDuhvf2GOFiNpQKc2q8mSVt6C3pd2YInDTYjpWtA1COUa-DeFR6tRvU3pBm9N-4z5sTxDVYJ2g_vd5WMrowNUkqDZi6PQfM_G2dXEijrENnS6Bu58v4pomPmwjJWdVuPasY28xmygjPwx9ipXg6Sf11uXUCWqKBIQkmt8ZBYe-mIyqYJzoo5tvhoUhjX7dsPnsljEPlJdfab9zxysDCE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Thomas Hagner",
+            "author_url" : "https://plus.google.com/112433289506290998191",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich war 5 Tage stationär im Vincentinum und bin ausnahmslos zufrieden gewesen.\nVom der Pforte bis zur Nachtschwester waren alle sehr freundlich und überaus kompetent!\nEinrichtung gemütlich (für ein Krankenhaus) und zweckmäßig. Es hat mir nie an etwas gemangelt!",
+            "time" : 1418646560
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "kidaria",
+            "author_url" : "https://plus.google.com/101363855669019799119",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Obwohl sie eigentlich nur auf Termin machen (was ich nicht wusste) wurde ich trotzdem noch dazwischen genommen (das lange warten war daher okay) und vorbildlich versorgt. ",
+            "time" : 1423502824
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Conceição Pereira",
+            "author_url" : "https://plus.google.com/106403751334133776212",
+            "language" : "fr",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1419240334
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Muzo Döner&Pizza Döner&Pizza",
+            "author_url" : "https://plus.google.com/110437778044323362677",
+            "language" : "tr",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1362333404
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Hiro Protagonist",
+            "author_url" : "https://plus.google.com/102181005398363875069",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1347808058
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/112165357220602191343/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Franziskanergasse 12, Augsburg",
+      "website" : "http://www.klinik-vincentinum.de/"
+   },
+   "status" : "OK"
+}

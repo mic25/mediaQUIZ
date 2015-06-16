@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "36",
+            "short_name" : "36",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lazarettstraße",
+            "short_name" : "Lazarettstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80636",
+            "short_name" : "80636",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLazarettstraße 36\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80636\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Lazarettstraße 36, 80636 München, Germany",
+      "formatted_phone_number" : "089 12180",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.15294,
+            "lng" : 11.549
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0d73010ac008ab3fdc68f78b402c63c25d3000cb",
+      "international_phone_number" : "+49 89 12180",
+      "name" : "Deutsches Herzzentrum München",
+      "photos" : [
+         {
+            "height" : 219,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA0Jg3mwTcUvw2I1m_wrwCrxb_aEILX-7lG3xHUM3Zw7Mf75cJQZh1K_WbztY8UnNmkHxmIh4EZGjQFdwF0JFFbJc3owSK45CRg8wWFqBQyFDLJfIqM7dw4oGhcPWAqi-mNrxee1Uot71Eo-KndmK0-xIQzA-yLx8ejFo_H9OCEaejVBoUKijevYC08NxDqbhU4ku5cLQ7W5w",
+            "width" : 286
+         }
+      ],
+      "place_id" : "ChIJt3DG5Qt2nkcRKSzAlHCpO6s",
+      "rating" : 4.3,
+      "reference" : "CoQBcgAAANvmmvceWbLqx8QbzHplIh4_nbA1jMbn8QBgOHlGsdaVeTT2SOSf9pKP9OMHw75CEdzn4O69FPdFT_L-VV8NndcioO_YqXtQI8WSybtCil2cvAf_nHwoWpED27Zg8rCId0RUP5XeaRhDhnMTZ_ZLordwXGEePDUmvwqR11wZFSHOEhCI67rjkndPsRsrX88nFuSSGhQYlRwFKRmHG4XqrApBNuE9YBba7A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ralph Mann D. Lik",
+            "author_url" : "https://plus.google.com/106822311807044115916",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Die haben's drauf!! ",
+            "time" : 1364160422
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "مايد الكتبي",
+            "author_url" : "https://plus.google.com/104310386748742743342",
+            "language" : "ar",
+            "rating" : 3,
+            "text" : "\n657\n\n",
+            "time" : 1380700119
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tony Klusek",
+            "author_url" : "https://plus.google.com/103598145151919830702",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1408986293
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Richard Hempel",
+            "author_url" : "https://plus.google.com/112886718150790065813",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1412463623
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1304035077
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/100752773267864743643/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Lazarettstraße 36, München",
+      "website" : "http://www.dhm.mhn.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,280 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3",
+            "short_name" : "3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prälat-Miller-Weg",
+            "short_name" : "Prälat-Miller-Weg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrälat-Miller-Weg 3\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prälat-Miller-Weg 3, 80331 München, Germany",
+      "formatted_phone_number" : "089 24216890",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.13586,
+            "lng" : 11.57727
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "cf4d88e19b5345f7cebbf2b13276c8b7ad97e49d",
+      "international_phone_number" : "+49 89 24216890",
+      "name" : "Heiliggeistkirche",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 7:00 pm",
+            "Tuesday: 8:30 am – 7:00 pm",
+            "Wednesday: 8:30 am – 7:00 pm",
+            "Thursday: 8:30 am – 7:00 pm",
+            "Friday: 8:30 am – 7:00 pm",
+            "Saturday: 8:30 am – 7:00 pm",
+            "Sunday: 8:30 am – 7:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAjbb5SiB8Yr_7vLOgAgIX4HO5NC7wKsFHAZCmdTJgtrXKlSb9HYkP1ax_S2hTtjJOEGhwlRUWchXQB1lTX2dGbfAKTU7n8cT6PjP57UN0kmlROAFD1uN4nkz8ssXEJsgJ6AcKzwW_DtFRhp6VdGLRmhIQ66v3EDE7dPSW2BglHAKZYxoUHXsJqZfm8oOv6eiqETg-_pU-LmE",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116877659370436484109\"\u003eMichael Jiroch\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBjAAAAKoy92TBU6Xhmi9owJ3M9Z7do2Ogn-tfBSTO6DvJ2pEDkkHSxMOqG6pqt0hiyi4OI3jxjtSfA2vxapRclfgRVc_xOfgLFM-IVRyz4WwlRb5tvK_lwrYGqFmP34Kgenu2gVFqnZdMf-jx6ul4wMbS9BO3HvXLLm2maKKrScOxNgqzewfMgwOLX7wX4MkyLSGSlxIQnCWRX1vSvv2awp5fN95KihoUk7eWyVd8McOMuJ5Jdf-RDMZvcBE",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAXm3Rg46rVQvHA0VrivtYEH69CPMTaDsmVStI6PAUwtsrZAIpX7rtnEud6c4sI8c2v6EWHjQ0O20Iu9ldpz-rkDVO3CPjFqDWeuPJRVb2r2ijfz3q5cTXgWxvcxnEBUMu9cK0vNMfqSF9YWj4uJ2hWhIQ5WQa10bU4FpUtbmw-8kGxhoUav2QFV5uu37gce7jMtHTGRvfuAg",
+            "width" : 1536
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAA6v5CYdw4i7_0XrsNtipkramTMETD218Q4HqmPkYoHRVAsDIm1qqbhb2g5NK8-YKx1-2pK38zqHiSPPA_4JGdRiAqN5El574fmw3DXYwacZc6kH2WLcPvYif5-kUVi_uLoFPay4Vvy1hV92fdnzoxUhIQagJxfMdX-CPSEzhB4G3iKxoUuShBMEifb8p-nt2FUPZ7mK0rnO4",
+            "width" : 1536
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAehN0COe1KXbBJsmrCIopcZh7AvYZ0uSBgeFQWo70THifRaGvbqM_Vhf1S0dWSuBa8ZmzcKdf66cPr1M8H_0eWlUFYXm0VRCds4vL-gTObkbTd6FfPAPPba87BNvQOxNmNiHd_UYJ5I5fH8LbYcYrchIQQ4hWuGA9Vu4Oy1OP_MRuRhoUlOtTCDO3PrPw-w20IgCl9J5dz-g",
+            "width" : 1632
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102538928201147167364\"\u003eElaine Gao\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAkXAG9PykC1d6oHJN8PhI9sf2O05BRa-wyUt4mEeKeb0W2t_1TDdN6l2cw4wYZaZJTr-YG12qfnwsZcVAN6Rxt2R-pmC1LIg9nErMXWjsEQuaqb6EzZEcJUkUqf8mKf00RkFIg3WFdVl3WkRmzcV3GBIQ9-7qsNcXmYf_pTDZzjp6KRoUB4aVIDrTxg6egIbY2XLB8c5LUbg",
+            "width" : 984
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAjTTgyzq7QBOLFgIpOllqpAqpykBBY-ymfKDI2Z6jcESIYl1a-uPLvlHcrPbRAyx3MnKdmR8sJb6DMBMWEl4hnFpk49WxTUiBTnjftu3sSUmN5Zg27xhirApgVQAFmwh95hcs88TLL1t0mEvpHUDDiBIQpqw9bvVby135IWJ2P6QH0BoUGzS0EkI4RmV544EW4ztWOoFvRB0",
+            "width" : 2048
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcQAAAAojd-1drT4aFD_3QxcJUidpdwGNblEJZ6a-WwclgRL_7VUzeW-z-qtZshsRsS4X8FFmW1Iuif1aDKJPNt0YPiMO12nH16Qaby9oGPiQ2FBcjkn3FS2IKAgl0lOXU51Cel8ICfz-PJtiuvx8hW80y0F45iGdDAel7SOVH-h1Lp6wEhBl43jeKP_vgN-8m5SlWeW5GhSR2Y4NB74d71Y9ZfbjCgv79whT_A",
+            "width" : 600
+         }
+      ],
+      "place_id" : "ChIJ75Bh84p1nkcR5AWSfjxHmlY",
+      "rating" : 4.2,
+      "reference" : "CnRkAAAAeu4Frhk-MlbluasaAHmklKZDDuCdeuH9eHR508fZMn6Nc8uQNAP5XDA4WdbjTikYTSlq_oMea3y1cBGeu1ogW7B8yJCXbe9tFGLWeSoxgYQWXKkkZVo0ztW1XtfnmW7PqQ0FE_BGkcfA7RMyVeSt3BIQH73HZPzaExM6F4Y8myRkMRoUVpG02JGQMBNS45JYzuLmgYOCp-w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Andrea Zambo Zambelli",
+            "author_url" : "https://plus.google.com/114088169107060116082",
+            "language" : "it",
+            "rating" : 3,
+            "text" : "Un po di riposo ",
+            "time" : 1366991216
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Иван Дорошенко",
+            "author_url" : "https://plus.google.com/104589181015808976883",
+            "language" : "ru",
+            "rating" : 3,
+            "text" : "Церковь Святого Духа (нем. Heiliggeistkirche) — крупнейший и значительнейший храм в Хайдельберге, расположенный в районе Старого города (нем.)русск. посреди Рыночной площади (нем.)русск., недалеко от Хайдельбергского замка. Его башня господствует и формирует — вместе с восьмиугольной башней замка — образ города[1]. Построенный из красного неккарского песчаника (нем.)русск. готический зальный храм с барочной крышей и барочными башенными куполами считается «совершенно уникальным строением высокого художественного класса»[2].",
+            "time" : 1368812983
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maria Jose Quintero Ochpa",
+            "author_url" : "https://plus.google.com/113618344510942935809",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424806176
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "333 philip_lau",
+            "author_url" : "https://plus.google.com/112391727411021413603",
+            "language" : "zh-TW",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1417954158
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "ru",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1317404616
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/102197140858073732905/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Prälat-Miller-Weg 3, München",
+      "website" : "http://www.heilig-geist-muenchen.de/"
+   },
+   "status" : "OK"
+}

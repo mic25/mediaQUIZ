@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3",
+            "short_name" : "3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Konigsplatz",
+            "short_name" : "Königsplatz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Oberbayern",
+            "short_name" : "Oberbayern",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKonigsplatz 3\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Konigsplatz 3, 80333 München, Germany",
+      "formatted_phone_number" : "089 286100",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.146343,
+            "lng" : 11.565703
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6510ea3ccb3e4f2fa2151574e9f80872dbf3da70",
+      "international_phone_number" : "+49 89 286100",
+      "name" : "Glyptothek",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102407994683661554810\"\u003eFernando Rivera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7PcDX-WfDvoLmQuoIaJKhggoAuWvxRnO8aUDVLWq3pd9ZZxCkNiEjuRpUEi4J2FCQ-JmCW4_7vVSyBGuHVYRHItgIU9HpdyOyk04-wy3JSl4KhTFf3Qdyne0_qo6Ji0PTF83bro1smley_c3rXg_5hIQdEIzeYMY9tPGbbKigJ1U4BoUWNVJv6O_td8W32_q77U9_4-Wdlw",
+            "width" : 1265
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWDFAefWorX2NRL3YDBfQgz3DvwyskHtFvkNWpQNKcRmE4l3hoA5e4E7C8_yvaBGOXA3HYc-HE951qDAK-pUmMgc5ndr5MKWSjfX2Q_sOWUeg2ADB5wWFrBInfq3lCNYMSRdqvIX6vn4AzRyITOPUaRIQoPWNz9XdTjK_7H3R3-ugWBoUc9cbDxPlNaeHA7sGcxniwTgYhCE",
+            "width" : 1632
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104174385141772149562\"\u003ePia Kleine Wieskamp\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRpAAAAQxDDRvdO1_2kyIb4TS165m-GvMJpxhjEOo7W_IM4eatAlmVHZ8Wl4LnibWjCRd-OzpfGv9qk0KvADqhOabFnwzEaPDnmN9zW5susn8cskYYhmlR4ORVKywcT49oCHEeZ1Vx0leWNL0vJl9-4qy8AGhIQlOs6I98CZhdCMSeRN3JaTxoUTjno5xGlIKuDIhCn3b2Qi4DNZcU",
+            "width" : 640
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7cZ3cR-i4q9W-o2Y_iSj-t_SEoE-CDburyL_Dg8eo9XZireVfsQxZNOmfztrkO94tUk2_0cyDRrteL5Ehn2SL3pUWgh1cUjbdjmMWc9_hrQxYX_HIKXDPsUGR3XA_W4M3lnrPWQMV06Vwx8LkTvyExIQPlU4PU6SqC0l2rOfAvhX_hoUJephjZqxnxZDlCb9d5rAyyZBlAk",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA7GHiLA5TPLYiTgQ9V0EJNXXeRC-IehpLmYRq5X9IZ_cXdc_U7fxnO0L2Zv7Y1u7Lvz8-IjR0pDfHyW6j54SkJlve7MCO7Ny9omF51VbDX93df_WGU6mTd_MghL8nui66cYjNoBrV_Z1_2NGzVo1lKxIQhu01UR0KsGYyQ5mNLxRNrhoUiiBiJ0Ny_TMkRMFkQwob4vKWap0",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA1HWcZKV22RLjKch49ieAw3v6B68D1SSarp4YdVre1SszTQPfwNK_WoQmkkoLaRVyLn-_TO6WhTHQ3yBAyXesBwQRhd_rOQWTiIccxmKJWVqXANx3k7Tjn4s3gyD0shGu-Z_GNkJc9FI4wJwqCfpPAhIQEmH3sWBrXNRX0dBVE6jxJBoUUIqPsvz6x4t3dNMALUiF-qramG4",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAckN-NfubY6T0_RkafBx0vMjyk4gyVFT-1XrGorZGAfBijTB0GHdi42yelcTFQohegLZ9KEhkFO_yIkF9cbhBPKadP0jyGhwDw30squNheXtZ0UaDV9sQOuxNuCeBiv7xq13YKrM2QT_MQnhfjxjZBhIQ3vK3p3GFHErNHOYOrKb-qxoUuDsIWVyuMwzx9nIhBzvZt1x8gss",
+            "width" : 1632
+         },
+         {
+            "height" : 900,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104174385141772149562\"\u003ePia Kleine Wieskamp\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAANCvWw1XoRu_cyRTRMQcmMcwQ3o6uwXzcTgZc2TwxYQqeq9I_G21RCxhRLOWcOWCH0YOpobXVPOLzQuFpKJEKPeY0fmqkBu3r7iq0UMUu9lbrgP_LbKCPhfqRWYAWodhdK5ldFPFCXWhDAQ_NYyaWBUOgZMy0ysB1oHNP_yicdTxEhCjz2_UcF7IF3v1AG90nouJGhRUrBujFfyRF8-E1vfhhcpVs4fIiA",
+            "width" : 600
+         },
+         {
+            "height" : 416,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBfAAAAHg-eAvn6gCv1EzoJbqXdkxi5Dm2uCcNx6WNjmXpAhxUCSHFJHXK1BiBltk7ygTR_FX7IWY4zU9nWvt-yIgNYi2wMlZyQQ9BSNOQR9iCN6Cy3nneME2nyokPirytBDPfEkUEzxF1lOa3kDdunkpCKRBKh48f-ZyunxOEAofX5x5-EhAixHmpkOUOTxO3nSiL-nZLGhQ0bk5prT0VmSBH5_5c33mWEz8XRg",
+            "width" : 1440
+         },
+         {
+            "height" : 416,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBfAAAABTwkLSyYr0R4PMpk4NCbAVqKrqqMOMrZObcoqQgw27Uu1KL-fy8zO9idSUCh3axqP9YNbwBR-fXqemXwcCyN9Of4uUto2al8miDmP9IC8qGnilmHx6VucrNSuB3faW3G7EJu9yf5QeP9t4qdAa6hg5t7ysWDrVghAA8OO9i8jsaEhAdPae56Ik2JIecx6NRGaPPGhSFT4ZJAYkPYolEcsQLiJemOc9elg",
+            "width" : 1440
+         }
+      ],
+      "place_id" : "ChIJEYxtM2FynkcRWOGFnTNyiNQ",
+      "rating" : 4.3,
+      "reference" : "CmReAAAAVnQk0HHpfSiYWSPghZNoL_GSiWIRaN1JGHCFu5A2P_FR9ldIaLgAQfpQNHkBjKpl9dPqeXvwxFr5hCJdZniNr1c_K3uUWMexq9zWthQW5svFN982kamUJJk7U9EyDfq6EhDxDS-kI0C76SzU9udFTcIyGhSRSBgCpoo6m0IYHcbcDIT5IY-vQA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Glyptothek is definitely one of my favorite museums in Munich! If you're love spending your time observing and enjoying ancient Greek and Roman sculptures, you'll understand what I mean. To the major attractions belong also a large collection of Roman busts, several Roman sarcophagus reliefs, and mosaic floors. During World War II the museum was bombed but thank to reconstruction is open for everybody who understand and value ancient art. The museum's atmosphere alone can't be beat.",
+            "time" : 1352561375
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "beautiful place to visit for museum lovers!",
+            "time" : 1292353212
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johnny Kuster",
+            "author_url" : "https://plus.google.com/102885284379918356404",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "So schön habe ich Skulpturen noch nirgends präsentiert gefunden. Ganz entspannt kann man durch die wunderbaren Räume schlendern, wo Kinder und Erwachsene an den antiken Statuen ihre Zeichenkünste erproben. Zwischendrin ein hervorragender Kaffee in dem kleinen Museumscafè. Besser geht's nicht! Endlich mal ein Museum mit verständlichen Erläuterungen (deutsch & englisch) und einem Audioguide, der keine Wünsche offen lässt. Ich komme wieder.",
+            "time" : 1430647740
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giuseppe Settineri",
+            "author_url" : "https://plus.google.com/116000377913403123239",
+            "language" : "it",
+            "rating" : 2,
+            "text" : "Se bisogna venire a Monaco per vedere una miriade di COPIE romane di statue greco, preferisco andare ad Atene e vedere le originali. Considerando inoltre il fatto che le spiegazioni delle statue sono solo in lingua inglese e tedesca.",
+            "time" : 1415352938
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marisa de felice",
+            "author_url" : "https://plus.google.com/108370262706293001656",
+            "language" : "it",
+            "rating" : 5,
+            "text" : "Ho finalmente potuto vedere, mentre all'esterno cadeva una pioggia battente, ciò che da anni conoscevo solo dai libri e dalle foto:......i frontoni del tempio di Aphaia ad Egina, è stato emozionante.",
+            "time" : 1376398031
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/109231708096786965562/about?hl=en-US",
+      "user_ratings_total" : 23,
+      "utc_offset" : 120,
+      "vicinity" : "Konigsplatz 3, München",
+      "website" : "http://www.antike-am-koenigsplatz.mwn.de/de/glyptothek-muenchen.html"
+   },
+   "status" : "OK"
+}

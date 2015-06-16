@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "36",
+            "short_name" : "36",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Haunstetter Straße",
+            "short_name" : "Haunstetter Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hochfeld",
+            "short_name" : "Hochfeld",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86161",
+            "short_name" : "86161",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHaunstetter Straße 36\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86161\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Haunstetter Straße 36, 86161 Augsburg, Germany",
+      "formatted_phone_number" : "0821 576018",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.353205,
+            "lng" : 10.899741
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4d0aad2d68437b71fcb70f872bec2d95f489e0e5",
+      "international_phone_number" : "+49 821 576018",
+      "name" : "Augsburg Protestant Cemetery",
+      "photos" : [
+         {
+            "height" : 1542,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102613156783191527867\"\u003eRichard Mayer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAKKpL3mI0EW7Y27Jty8iVwhOeqLvqSRJFJAiH4kCkhMdCEd4MiFqRzLLzbXAbbMM6z19T19sZmv9TO--5LiewZqM8CgLE_u2NljK-4crJufEYhlkhz8TeK3P8kme8vHCU7-Ux80lso1aI1KyiUuo48D8WRCo94_Ateffc9Adzz7aEhAjNOYyONZ5FosAwNjnhXRoGhRcqOH0zLTXpwy0FRX-T_P9Mvhkow",
+            "width" : 2048
+         },
+         {
+            "height" : 1542,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102613156783191527867\"\u003eRichard Mayer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAAAMopd2NaC1knrf7LySivKVZch1ywU6F2ef8wWIjl5E0yKyokxXtkua71q8VPeezZZuoK2y6X4S4902iu4fY0Sucd4kAr3hEV7lwr0fvqsMIVcn0UR3ojsjNJSe_w4O3c3HpMqnTZzv-pjskyyLjCL0rpQNtZiVlS81WBleWdHvKEhDIPZPmzv_2ZwQRNYsRua9eGhRvvWDPFpfINbIXm7dska353ic00Q",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJddqCoQeYnkcRi_PxM9Xo2W8",
+      "reference" : "CnRvAAAAK6DKffIaei5xzBoltiyT5AMTuyQegrcALeLMTnMdhz0pBH2Xr079mBSjsssICz12_aAKyysYw-LpxuRF8yHdM5YFgGTa87Zuw339eUkkryphbvBMSkVf4PcwghUmj28L9hdYCw-8ytP8Yxk5TDgSyxIQ6lW7gBN4UlRtjwhSMaygCRoUmEMpqROZRTv1vLnYfM3IPW_feiE",
+      "scope" : "GOOGLE",
+      "types" : [ "cemetery", "establishment" ],
+      "url" : "https://plus.google.com/107498356884760967189/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Haunstetter Straße 36, Augsburg",
+      "website" : "http://www.protestantischer-friedhof.de/"
+   },
+   "status" : "OK"
+}

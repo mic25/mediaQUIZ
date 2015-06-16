@@ -1,0 +1,272 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40",
+            "short_name" : "40",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barer Str.",
+            "short_name" : "Barer Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBarer Str. 40\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Barer Str. 40, 80333 München, Germany",
+      "formatted_phone_number" : "089 23805360",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147156,
+            "lng" : 11.572302
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+      "id" : "aab0372d9595419f1240423f7a3b66dd601be34f",
+      "international_phone_number" : "+49 89 23805360",
+      "name" : "Pinakothek der Moderne",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAACrVziEhbKLIAc1ayLkfn3W0ZzAqOSGZQzjyzu29RuZhPVWBh-VUSPWskSfPw-GV4AmMpsSFCBic8kR6Pk1NgW0HvtHxkeKM0l6skPSR72XJAXpxmPmUYpTBETddgoZ2OpuOUMGI0Ck9LtEpkPei9cRIQZpQpyCc0HcRTJQAel2xZyxoUCG3L6Lb5AmlJckAMOC18o1wxLoE",
+            "width" : 2048
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBoQAAALTxtsGtsALGHLkeB8ymTvNpXJoRxP_wVN8m9dOGwyVrgDVGQnvIWj6pOPMhmoJp7XbclqkpabXmJFV7gedRXYBPl3U0UWfkj3aD_njS8wIAC80nnWkSGqim1ywE58Nwq-0_O3bAVQgbLmX-Qrr5ool_5VhXNfyfUmtQgV6FKtddzF__hRNnYahpFF8LN_6zOUk8juMi9m1u1ycFBImZigyZYzxjX3-rMAjNyNauVVwtEhD5nxFC5eanfma5OCveBJEGGhTwgTkH4-WES-lWQKmy4OWk1h46nQ",
+            "width" : 3648
+         },
+         {
+            "height" : 738,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105501174889040423191\"\u003eWilliam tw\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAABCAbL5OAnrPvmEjtFCyITy_3SdrHCvjQu7bax4CNJ-xygAvS8S7LHa_5LdlmYe9f9Rf-QWQetI-KWYsD2ye6A-AXgBJi75nNGo9CAkZ-DTpIrcEOwLjOYrOrI5uoc1_4Wi9bkmiv_Bg3LXtjiMPQxuZsVVNJAjHs8ml20BDCtzJEhCfAU27FwRjImKSD5leJQHSGhRsFpxQQxKxzt3Vmna4P_iD2zSWSA",
+            "width" : 1312
+         },
+         {
+            "height" : 738,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105501174889040423191\"\u003eWilliam tw\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAM7Rj4XPZBHOAgPdGCNC9ShCGlBE8dQU3XZ1E_4-eGFGBWrSqsn9mZQHa7mEl8NtzqcQAI2G6BLPtlN-yjW5AGkAp4ZoxbxATnGwF-ypyowaeN0HbMaHvWhRteGBN9ZAvGV6tWNAxKspemHtTI2bfrKmDwcuL62iL9ZVQHuz0SRNEhCzgHET0YMGq5_5OlK9iaUVGhSd4SDPY7NOc8SCpriQi2UEB4BKVg",
+            "width" : 1312
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBoQAAAPjYwob4MMHmNUWfwCkORRcsePqxJAnIWZHHAulaGGDna8OT5VUoRph3PI5T8uiypa8K4Wmd9uXmXAJ4vITrfBPF96rgMUTlaIveRwrF0XHaeEV3ZL4C4TJkyoiZup8wm0HSHgQJedFqf1Hl2TmsAaCRPB7XXyNg9_8qOqfnx1hFqBb0V5FLqbCeZrcMgYpilxJroYb00VurDYlT7-nia5PejPSMbloPzL9eeYoKZnFhEhATICl1I6fEi5Q4PDju5M_5GhTxlOPM3BHW02hXttgkeZjkTyFwEQ",
+            "width" : 3648
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116986249604235708455\"\u003eFrank Hageböke\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAK-udIN2O8vxYDqSgMDBYJSclLZHdSmmGmlp9rDt59GZFy_LnXjp4mnVeB57zQ-GopgGPn5kgP1h4co7i26JwTworJKzeLt2JdsiWYom2bnfZ3DP_L8dCr2bpjijsFtI6qeJoB6OA7YAEPKx8--8tO_d5DkZx-JFMWdkt3Ej6VhFEhDlsaI-7EFRATlZCIt5X8hRGhQQqEg7O0zyddZzjoV3eW6MA6bxfQ",
+            "width" : 2048
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBoQAAAAZqE1yexoEGG6JyrY9Tj_D1jKu39Rpx8nXmmEtv4K7kT6_ONU5mjcLvP3G0-PG-AtULXTrJCAoZnHMR8GIXhkVGU4VG7gxS4yV0741BU7RmkzFfmmHzSoXSFHgUZh0rujQyBheuD6otxT4_kQAC-uAFRiIlSJzc4Td6r9GATSQ9O-Un5s52eOMOi6hJwCdrhYQHlDzdtq6keWQ1nEVP4n5LJgA67l54ovbODZ0zrDogEhDw8vz-dZaobgMOZw_pO9z5GhRnKmf7ABmipR_IEYjyT7g9PcFJ8A",
+            "width" : 3648
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAe6wyYY57kbPAWU611lBn75zJI_MdiPPmH7ub3T5nTxu4V2SUfXAu5ShzbKP-6anvzH-WF-F5EpQO1vngjDsZ5WDRXPqdzCcUPSs3dyn7H6MbDp8efu_9nr43jYzut9zKIP3833QeJhXZKpJP-1SYOxIQg4vfxuZAti07CGSGoYSS4RoUFPKtAnHd422--fqtiYgWk43JLE0",
+            "width" : 1632
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBoQAAAEm4HUJ1xq5uGzCM7zsmnpFbTFRs31KSERoNSWTiv-As5v9t_IKTfEmZjb5-sIs1mIyOYokQgFq9DDCUTahz4oQSagL61MIYblARytYaupfXxJYhrMj-UyCsYdJTtdMDS2BS-XTcQbjy4CgiHcd_MEVVdNzlHA1gLfi2xzrahugtAFghzueg3qSJQ2z-tG_9SU4iPclBhD9sVVhhOUX_NHfegKFXPPqY9PWBsPKuvLUmEhAOxgW0l4-By4QyxsOsf5UbGhRDmb4BTd1wZjKuwvfE6K8z6wLkJQ",
+            "width" : 3648
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBoQAAAMpYD2Hh9tjJRIDe9d4tbqtGZCQ5hjIfsI6t1IKnJJd_EQtJCelO5jNdNH1PWwrnqYu_y3MIYPOjnlSqssVj62g_FKz8gn2GLEabib2535EAmlc3U7fbzKlEMljYfw-aq-RxZ_cW9eNMip8iiPOIk9G1GHoIcPraNvUqTzD4qtFGWAdvUQiOxUsJADlCrNNybJ79sNRm3VSDTQ_uyQP2NzqTUKSN7mDCq5e7SIo9mvjsEhBg-Kg5XpLDFV5UAZl_AQh0GhRF0ZxgL8V9RFakSAC0vL0se2_QmA",
+            "width" : 3648
+         }
+      ],
+      "place_id" : "ChIJW8LuYO51nkcRZqoW2f9yn8c",
+      "rating" : 4.3,
+      "reference" : "CnRqAAAAeR9Xhe7MtzBIL6tKtNSloOCJXjCykPo3guEqPsQuEJbY4Dby-A-PaDt22gFbvMCAPPmBVPTja9nlTZz4jcSkvq_3sdQeVv-91KwfZ0aOi3oJI9uEfkEkejRSb7vpUUH2LM8O8hzKjPI3Xbp1TGbyQxIQ_WPeapmtWdpMozxSHhhMkhoU2HijiNHV1xFQONhivX9rcRRGqvE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carl Andersson",
+            "author_url" : "https://plus.google.com/113940708029337061784",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Beautiful architecture and amazing exhibits. Very rude personnel. Most of the bored \"guards\" having loud conversations on their cell phones that makes it hard to focus on the art. Others just rudely come up to you and yell at you where your ticket is. Overall not recommended...",
+            "time" : 1423976802
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alessandra Lo Basso",
+            "author_url" : "https://plus.google.com/105202808780196321316",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Be prepared to see MODERN art. As in, rooms with only two pieces of string, paintings with nothing on them, weird film, etc. If you're into that, you'll love this museum. I, personally, did not enjoy the art in this museum very much. That being said, however, the building is beautiful and the collection is very large. I wish I had gone to the Neue Pinakothek, which has 19th century pieces, and I'll try to hit that museum the next time I am in Munich. ",
+            "time" : 1395206935
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jav King",
+            "author_url" : "https://plus.google.com/117632375031567835945",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Overrated and pricey. The range is limited. Will not take more than half a day to complete viewing. ",
+            "time" : 1416657993
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paige Mason",
+            "author_url" : "https://plus.google.com/109690722910615726454",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I enjoyed this collection, but I was most pleasantly surprised by the design collection on the bottom floor. Really great collection of furniture and decorative items throughout the last two centuries, and it was presented in a way where you could really see the evolution of design. ",
+            "time" : 1408803455
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joanna Cooper",
+            "author_url" : "https://plus.google.com/100148874869958514666",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Wow. I could of spent a day in this gallery - so brilliant! The cafe is gorgeous too, and it has a great store ",
+            "time" : 1390838919
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "establishment" ],
+      "url" : "https://plus.google.com/106614230987269249585/about?hl=en-US",
+      "user_ratings_total" : 52,
+      "utc_offset" : 120,
+      "vicinity" : "Barer Str. 40, München",
+      "website" : "http://www.pinakothek.de/"
+   },
+   "status" : "OK"
+}

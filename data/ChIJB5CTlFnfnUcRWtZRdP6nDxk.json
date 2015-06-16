@@ -1,0 +1,183 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20",
+            "short_name" : "20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Nußbaumstraße",
+            "short_name" : "Nußbaumstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "short_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80336",
+            "short_name" : "80336",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNußbaumstraße 20\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80336\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Nußbaumstraße 20, 80336 München, Germany",
+      "formatted_phone_number" : "089 440052511",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.131823,
+            "lng" : 11.56038
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "265ad92dc0d6e8aafa157b42a242f1fdc19cd824",
+      "international_phone_number" : "+49 89 440052511",
+      "name" : "Klinikum der Universität München: Klinik für Allgemeine, Unfall-, Hand- und Plastische Chirurgie",
+      "photos" : [
+         {
+            "height" : 845,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117958168772652238593\"\u003eD Römer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBnAAAAGueOz9JmY7N8A2LWCPWrTbrbqof5miYIkYS0JBObFXLSfvLiHp5ZkhSlJUZj9-mxpnhwi9pIm2CwszXpPBoLAtdmuY1vNmdwlJL3X7FUZ2Bv7JsGqCFUCnGVhozfm_9BqopmQwkrhxuS8c682Hcegasuw6xcf8j1w9kIHCo65PyEIoovvOU8lFx5kJkS7PyKlWMeX8ZfQTCYilY-HvryD4SELqvGsYTJBzI6XZwP4Dsh38aFBkarcIr84Y7px3rwmWiOXyiFQLI",
+            "width" : 1126
+         },
+         {
+            "height" : 845,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117958168772652238593\"\u003eD Römer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CsQBwAAAAGevbCmJm1yJqnobWnR1R7xxmuO08sXbYgmxyXrWcVsTAN4aitzF2c8GXLF2P5HapIzWlrfniBd23gftyjYukWSYZOBxsHDabg7G-zwhACJ6mLxuigbzHYXM0Rm2e0lqcMDflSj9trNGz73H4xqIJu-hMrfm_m9WKTErPyLRvri83EJoNgVB6cH7-7auNPHhCtMhGPXgbofmnkRm4XdrBiq5MxrMmAbdq7dlQNS756hJKhX-XK1iqrXUgSHs14m8nhIQZ_aQjMqY9cN0IE4UBaUUYBoU1Ai5lgxcf33tIsyBvCLNKVgzQN8",
+            "width" : 1126
+         },
+         {
+            "height" : 845,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117958168772652238593\"\u003eD Römer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBowAAACgdN8b5d1O6olnop7L6qcBRUmojNkY3GL_40-AXbOBf74hrcQJksIK-zKzwGrPMpDE__T9Tst4VaO-RYtr2OEjLGkn7AP8BrgblKsSsN36pPaOCQXtY-2riu06fveHDtmhKkIkvnLwF3RKfatsJ-6KwZV3DFF1eW4AVc472VduamWULvSlgio9dlVg62gfJiPKEiZTc7gjsow_41cehEN92yMu_t3JkxoKCHwceTG83EhCWWDdzEoaUm8gDH0O2VEqoGhSQWymB0o5htaC81XJ9ZH3_47FQhQ",
+            "width" : 1126
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112368052806871195721\"\u003eAlexander Schroll\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBlwAAANww4t2n1-rzVRUoAYvdzb_qvkx5p7pCgo4Nbdoz6uOhf5cMVXrJGj5JEdwEZWN2eZN3lS9sUQ7S_Pq8Gs387sW-5luAXM0B92dsBG4OeAlT-ks8lCh8ajUemS0Jk5Fz6LmdSGGtwz5LU0rod8mSUVQwRWMYkae9JGDGep5nHJFwg_ImR1AqTqnIBZDfwhLmnK9KoM-x_NlFqG0Pcvs3ZU0SEOX9CeWwd2hQgrTm9lAe0F4aFAmVTNa2_5nHJRrajfvnyeZnL0OR",
+            "width" : 480
+         },
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105023935167277703328\"\u003eWilder Gonzales\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmZx6vsa_PoaF-fre9uO05bvSV8LX8zhTkB1u9CQDz9Tq2Yu9H2aVtHsJitc7ardYYVc9Fw6my27dAD2xnymeg4GqrwdvwpJdp9I-lcX4ab5qX7hk-2znVGnzux-giUibwEubNZrTy0qWkz7jK6mrPxIQ2NxBJbTNe3CKyzSSIJxiaBoUMpOqnNuYYfc8uHhTwYffA9PExt0",
+            "width" : 1296
+         },
+         {
+            "height" : 845,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117958168772652238593\"\u003eD Römer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CsQBtAAAAPaTFVP2aRB5Tku4zwR9i0TRURW6It7_UMv-zq5nnSZny3zbMB342V0epj_lkOoDSrbrJChgCyy9lmSjc_YgJETx-Jtw6OFkCV0aE9z-bLYX-QNmfWpgmplPdEs7yhwLEtlGjaLwJYqDA-amjka6Xmo7VQNGILM7ATbQx3Qsz9J0h396pB2VwWd4DQDgP1Q42k1NYErIckbxmy38RkiFbKK4prCVfnTOMhElEkW2YhJouFDSpYoZAOTRWRfUKvtvbBIQst9eCNMoabyLh6eZvICp6hoUEYExR_R7zqwyh-JhupjmcGNh9Fo",
+            "width" : 1126
+         }
+      ],
+      "place_id" : "ChIJB5CTlFnfnUcRWtZRdP6nDxk",
+      "rating" : 4.1,
+      "reference" : "CsQBtwAAAK9Yrma1hIguMI7TW635x-hxKB1OHOSNKU5ssHzRRIKsW1GQKRnclo7gsOcSHHxoYkNFe30yHUAL-iae-y34hRjj9T4t34YiXvls7tX7tL-Cagu4Wd7VrPELsTy9at7j0_N0W0gJo5ZoeTO0Hf4O3ZgzHJfJxPxisp6gCbScYSx7tGVve0Ni4Bv5YiJfXZ7wp_SrIwXQGKXY5KeaGKcAJohcmKZ214ZXHG6Lw91fQlRZiXmtlum5Z2l5Pi8zSUYLIhIQgpVUj-O8PIa_kHFRXVja2xoUZ1Q18b6yc6UGXKN5rIA5YL33GIU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "muhammed alsuwaidi",
+            "author_url" : "https://plus.google.com/115599206205218405481",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Amazing nurse and doctors\n",
+            "time" : 1362041090
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hans-Peter Breuer",
+            "author_url" : "https://plus.google.com/111374092251734563461",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Meine Freundin wurde letztes Jahr in diese Klinik gebracht. Sie war gestorzt und\nhatte Hirnblutungen. Ihr wurde das Essen hingestellt - nach der Methode friß oder stirb.\nWenn sie nichts gegessen hat und wie soll das jemand, der mehr tot als lebendig ist ???\nIch finde das skandallös. Natürlicjh habe ich Hilfe organisiert, sodaß täglich jemand da war und sie gefüttert hat. Die ärztlichen Leistungen kann ich nicht beurteilen. Auf jeden Fall tun die Ärzte, selbst wenn sie exzellent sein sollten, sich keinen gefallen. Wie soll jemand gesund werden, der nicht zu\nKräften kommt ?? das sollte eigentlich einleuchtend sein. Wer auf sich gestellt ist, schaut da zimlich alt aus. Für mich ist so ein Verhalten, noch dazu an einer Uniklinik völlig unverständlich.  ",
+            "time" : 1422531599
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Siegfried Treitner",
+            "author_url" : "https://plus.google.com/107136698414150596577",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Zahnklinik der Medizinischen Fakultät in der Goethestraße\nNicht umsonst gilt die LMU- München als die Harvard von Europa.\nLaut Presse gilt die Zahnklinik als Number One im Ranking.\nEine ausgesprochen sehr hohe fachliche Kompetent mit einer sehr gewissenhaften Behandlung.\nWas Heute im Labor erforscht und entwickelt wird ist Morgen am Patienten.\nMan bemüht sich und jeder Zahn ist eine wissenschaftliche Herausforderung.\nWas ich so toll finde ist die Tatsache, dass ich in Science Magazinen Dinge lese und in der Zahnklinik das medizinsche Kollegium anspreche.\nAls Antwort erhalte stehts, dass dies hier Standart sei.\nMeine Krone ist das beste Beispiel: Wurzelfüllung aus Portlandzement, Glasfasserstift und die Krone aus Silizium-Zirkonium-Keramik.\nDer Zahn sieht einem echten Zahn täuschend ähnlich.\nZweimal im Jahr. d.h.pro Semester erlebe ich eine Pa-Behandlung vom feinsten.\nVieles was nicht in der Regelversorgung der Krankenkasse ist und daher auch nicht bezahlt wird, wird hier ausschließlich angewendet.\nSo wird kein Amalgan, sondern Kunststoff verwendet.\nMeine Kasse hat für die konservative Behandlung /Erdgeschoß bisher noch nie eine Rechnung wegen einer Zuzahlung gestellt.\n Auch das Preis-Leistungverhältnis ist in der Prothetik/ 1. Stock  ausgesprochen extrem günstig\nDa Behandlungen mit einem hohem Aufwand betrieben wird sollte man allerdings viel Zeit mitbringen. Mit einer Sitzung ist es nicht getan und eine Sitzung kann bis zu 4 Stunden dauern.\nMan ist auch bemüht möglichst schmerzfrei zu behandeln, so dass meine Mitmenschen mit einer Zahnarztphobie hier den richtigen Ort für Ihr Leiden fingen.\nIch darf auch mit einem Vorurteil aufräumen.\nWird man in den Studentenkursen gut behandelt ?\nMit Sicherheit ! Sehr erfahrene Oberärzte/inen stehen mit Rat und Tat zur Seite und die Studis behandeln den Patienten als Profi. vom Fach. \nWas mir auch gefällt, ist die Tatsache, dass es nicht steif und kühl zu geht wie in einer Praxis, sondern der lockere Umgang an einer amerikanischen Universität.\nSie sind nunmal die Harvard von Europa !",
+            "time" : 1401883206
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Linda Eicher",
+            "author_url" : "https://plus.google.com/106546544844373611627",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Mein Vater war in dieser Klinik und musste erstmal voll lange warten, ich war selbst mit dabei. Als er endlich dran war, war die Untersuchung die Höhe. Mein Vater leidet seit Jahren extrem an Schwindel und dachte, ihm könnte da geholfen werden, falsch gedacht. Sie haben meinen Vater den Kopf geschüttelt, gesagt, schauen Sie uns in die Augen und: NEIN, SIE HABEN KEINEN SCHWINDEL. GEHEN SIE WIEDER ARBEITEN. Das war die ganze Untersuchung. In den Bericht haben sie Lügen geschrieben, dass sie irgendwelche Frenzelbrille benutzt hätten, was nicht der Fall war. Wer sich professionäle Hilfe suchen will für Schwindel sollte diese Klinik unbedingt meiden. Besonders, weil da Privatpatienten eh besser behandelt werden, als Kassenpatienten!!!",
+            "time" : 1390814760
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Jenny Simon",
+            "author_url" : "https://plus.google.com/111075314189292102876",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Nach einem Fahrradunfall wurde ich vom Rettungswagen in die Chirurgische Klinik gebracht (an einem Donnerstag abend), da mein Fuß dick und blau war, wurde er geröntgt. Keine Fraktur, ok. Die behandelnde Ärztin meinte dann nur, ja gebrochen ist nichts, aber aufgrund der Schwellung kann sie nichts weiter sehen. Ich kann aber weiter laufen, soll kühlen, den Fuß hochlegen und fertig. Wenn es nicht besser wird, soll ich wieder kommen (da schon mal die erste Frage: was bedeutet für mich als nicht wissenden Patienten mit Schmerzen, wenn es nicht besser wird?). Sie hat mich noch humpeln sehen und meinte auch, hm gefällt ihr nicht so richtig, wie ich laufe. Das wars aber auch. Nachdem ich Freitag auf Samstag nacht große Schmerzen hatte und auch Angst wegen Thrombose, bin ich Samstag wieder ins Krankenhaus und wurde von einer anderen Ärztin untersucht. Diese schaute sich den Fuß an, machte eine Thrombose-Vorsorge und meinte nur, ganz sicher ein Bänderriss, so wie der Fuß aussieht. Klingt wie eine Verkehrskontrolle früher in Österrreich, ohne Messung zu sagen, wie viel der Fahrer angeblich die Geschwindigkeit überschritten hat.\nSie meinte dann nur, kein Problem, Binde drum lassen, weiter laufen und in 2 Wochen zur Nachsorge zu ihr ins KKH kommen in die Orthopädie.\nKein Hinweis mal ein MRT zu machen oder gleich zu einem Orthopäden zu gehen.\nAls ich in der Woche darauf vor Schmerzen nicht mehr auftreten konnte, bin ich dann zu meinem Orthopäden gegangen (Dr. Bonorden im Tal) der wirklich gut ist. Er meinte als erstes, warum ich nicht schon eine Woche früher bei ihm war und schickte mich sofort zum MRT, stellte meinen Fuß ruhig und gab mir Gehhilfen.\nBeim MRT kam natürlich was ganz anderes raus, Peronealsehne angerissen und die Behandlung ist genau das Gegenteil von dem was die Ärzte in der angeblich besten orthopädischen Klinik von München gesagt haben. \nIch war echt schockiert und enttäuscht, dass die Gesundheit der Patienten mittlerweile bei den meisten Ärzten schon so egal ist. Ich dachte immer es ist die Verantwortung eines jeden Arztes, das Beste für seine Patienten zu tun, allein weil man doch auch deshalb diesen Beruf erlernt. Aber in dieser Klinik haben gleich 2 Ärzte ihren Job meiner Meinung nach überhaupt nicht gut gemacht (auch wenn sie persönlich sehr nett waren). Das finde ich wirklich traurig, denn ein Hinweis einen Orthopäden sofort zu sehen, wäre schon hilfreich gewesen, wenn man so im Stress ist, dass man selbst kein MRT machen kann oder will.\n\nDaher der Tipp an jeden, geht nach einer Unfallaufnahme gleich zu einem Arzt eures Vertrauens, denn den Krankenhäusern kann man als nichtwissender Patient nicht mehr vertrauen.",
+            "time" : 1368512613
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/113552933054795271069/about?hl=en-US",
+      "user_ratings_total" : 13,
+      "utc_offset" : 120,
+      "vicinity" : "Nußbaumstraße 20, München",
+      "website" : "http://www.klinikum.uni-muenchen.de/Klinik-fuer-Allgemeine-Unfall-Hand-und-Plastische-Chirurgie/de/index.html"
+   },
+   "status" : "OK"
+}

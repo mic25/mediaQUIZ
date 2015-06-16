@@ -1,0 +1,265 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "42",
+            "short_name" : "42",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Maximilianstraße",
+            "short_name" : "Maximilianstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMaximilianstraße 42\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Maximilianstraße 42, 80538 München, Germany",
+      "formatted_phone_number" : "089 210136100",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.137526,
+            "lng" : 11.585888
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "975e35887ec436a785350fdf2d4dee8b5c1d4c7c",
+      "international_phone_number" : "+49 89 210136100",
+      "name" : "Museum Fünf Kontinente",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:30 am – 5:30 pm",
+            "Wednesday: 9:30 am – 5:30 pm",
+            "Thursday: 9:30 am – 5:30 pm",
+            "Friday: 9:30 am – 5:30 pm",
+            "Saturday: 9:30 am – 5:30 pm",
+            "Sunday: 9:30 am – 5:30 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAYWj7Z-gWh7NowTgUw5RRttaftva0E25Yz_H6lK442Ag4roj-C-N5yLL6IhLvdlUm1AH2fUE7O5vZgWeK2eVHnPhiyrwtuyQrogrK9HeLvKAn-86TlcG3kW2fE_YNw3ARb_xP8M61ANBqv-kBc8FL3BIQvU8b4uzhOJ5dRdZMMa6TiRoUpK4wrfpylOHBQabW1W2cYqIDllE",
+            "width" : 1632
+         },
+         {
+            "height" : 984,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAOCY2_--bXW_odHJ28VnP6yHzOW6x6-DJ6xEgPodz1EOfrIR6uTk0Whziy0G6xNCtr3KbcoereTvKvXhqQLUnuPNoLMyjzGtuCKlqt9jf3nuBlXFdQAeG3KKC3bOpolEYEjKNvO_Y2lHaELQPDliWThIQMzhkPEUbT4deYotoSu8cdxoU798kiig9Su9PzbvvUXy5HSjHB8Y",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAPQ882hGL7qblPJiP2j_En_htCRD-YAxdjwd9miG6xx9wRCWDHJ_51Xo2k4OTd9TGsDulbkQtp2NRmJnKmAQFq_BXKsewaAWZfwaqbpvD6IX-IPikRB824z9Aktn-Glg2HXtcoKUojVpuy6U0ma3g5RIQWKu2CRw5o786J80HypdzWBoUWTGr8P07izVMYEIRYLwVLQrS38A",
+            "width" : 1632
+         },
+         {
+            "height" : 984,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAKm2PTOvI_FMzeUjD1k0wRgFRVgK1Dqtq4Ety8g-7nFw28zfQWEz6alcLa8fg00HohPkE22dI5flc0iTDENKHJL8JL1Vy-35GLsQRkYmOM5JQZU61VqdoYAFPsdwqPj7uphBy1-VqKRwdaOPHU9Ev-hIQkH_PPcwMnGjsDfEuDcRr5RoUPWiRQLCPDJcmKK6vQ_8ZJHfsJwg",
+            "width" : 1632
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdgAAAGGzUmMQevHH1dzTrCmvWnx2rwG8woF6sDxUTyUqXA2WjWqB6AzCB4wW5uG-NL-f1Y12Kiw63z4agOSdP3Wc0xBAS7tP_T7AlkGlTE7MOKmFgDFvWe7LV_64XfwXRu3u1zISBlQ1D3NBrH82mRRjL-bMHBaeq3iyjnwjhARHQku6EhCGgwBDr-4oHPCV_dqXh6NvGhQtKfQd896MPXEloxolU7jeB4flIQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJibrq3Ih1nkcR_eAu8n9LhV0",
+      "rating" : 4.2,
+      "reference" : "CnRqAAAA0Lyqjdyyu6YwutTQC_pnQTeaCqDhlyFgiVputobOGQgd8bxXZl5e1SWKj7G0AVrOq1pprMnQ7h7P3AG9XFKU_R7vsXuqqjSaHjslour7YW4f5ngOwAkY3osZGyRTmS8anmoerAm3NMvtG4LlyRn4WRIQhy7OFW4516hx6T-zg4UbTRoUjP9ClCWxfBBkGYf9xvTEs3E86sQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marijn van Oosten",
+            "author_url" : "https://plus.google.com/107493926292609636581",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great overview of different cultures, lot's of inspiration and we also enjoyed to draw on one of the drawing chairs!",
+            "time" : 1425148380
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Benedikt drossbach",
+            "author_url" : "https://plus.google.com/117423060317824770329",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Astrein! Sehr zu empfehlen.",
+            "time" : 1433669167
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Franz Beckenbauer",
+            "author_url" : "https://plus.google.com/112724390499270596789",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Das Museum ist eine riesen Entäuschung. Es werden über zwei Stockwerke einfach ein paar zusammenhanglose Gegenstände in ein paar Vitrinen gestellt und fertig. Keine chronologische/epochale Führung bzw. klare geographische Struktur. Es gibt keinen roten Faden der einen durch die Ausstellung führt. Es fehlen auch alle relevanten Hochkulturen (Römer, Ägypter, Inka, Maya, Atzteken, Pueblos, Griechen, Kambodscha usw. - Australien wird komplett ausgelassen, ebenso wie Russland uvm.). Wenigstens Verweise und Einflüsse derer könnte mann darstellen. Schaut es auch an einem Sonntag für einen Euro an. Mehr ist es definitv nicht wert. Leider!",
+            "time" : 1389010037
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "verena eisendle",
+            "author_url" : "https://plus.google.com/110193078743364829460",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Das Museum hat verschiedene Dauerausstellungen zu Afrika, Amerika, der Südsee und dem Orient. Dazu kommen Sonderausstellungen zu einem Thema, die jedes Jahr wechseln. Das heißt, man kann immer mal wieder kommen, es gibt sicher etwas Neues zu entdecken. \nAn einem Tag kann man die Ausstellungen sowieso nicht schaffen, es gibt so viel Schönes zu sehen. Das Tolle dran: man hat das Gefühl, eine Reise zu weit entfernten Orten zu machen und etwas über andere Kulturen zu erfahren. ",
+            "time" : 1359236120
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Pouakai Doe",
+            "author_url" : "https://plus.google.com/116331863398432007762",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1360149681
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/110170767144768513670/about?hl=en-US",
+      "user_ratings_total" : 8,
+      "utc_offset" : 120,
+      "vicinity" : "Maximilianstraße 42, München",
+      "website" : "http://www.museum-fuenf-kontinente.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,228 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hofgartenstraße",
+            "short_name" : "Hofgartenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHofgartenstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Hofgartenstraße 1, 80538 München, Germany",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.142778,
+            "lng" : 11.58
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fbf6cd830d40f355df45933e591f66db05ff5608",
+      "name" : "Hofgarten",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106595534716823156561\"\u003egschwandtner bua\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBmwAAADGlJK1X0wkXPTTd08c2QKoeI64wz69A9y9JOHfAcrqD0pG6L0IDhAa-WDhHUV7_B08w_RkSNPtQnR_G0zk-ZB8WEKKfNGU0O0d5xBZ0_nivAZdN_g5fS2cmvPE6fyaScm4XTTn2L8EJbEQriQ0u4QYa_YkiKXfq7MtARsPCcRjd3UTYeGkY0oPWEB5ZAK0WYWGwcoo_dN03yFt6o_F6df0SELGRkoECksopYk0akqAov3kaFOS9AOKRVQZR-BLfBtD3U0iWwkL5",
+            "width" : 2048
+         },
+         {
+            "height" : 822,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118054618146164502214\"\u003eMarco Lozano Z.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAA6P2IQ8P2z2MUul0PwhcxGPol07WNLahgbB2DIH-8EuYoz-5ghHc-S_NOZ1tR5CVe_Kt12H2OuszppvjRlkWVRqEvYDA3Bm-9KIs1MzUQh0LlWDHdJDhPa6GfUk0uSshpl5--NjkLh7CHLNmKS8SjBIQVZfVxZlYQVHiBy2wJjj3iBoUAIaBx41aPlAqriUxLqg3FNR2eT0",
+            "width" : 1461
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115929208779981201173\"\u003eBalog Sándor\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAbdAFZWWoL9MEyrKd6DJSqf59TuTCXpvXcl4zl19mNzzUeQ3D64vemTEmrXWPxJsQVIgG0sU2OzXA1NU7iaUcpuBlBrt7D9ptIJoSE1CfX7I6NS3d8YEKrDhno2s0njBWYlPwe-8FP40hlk_eZ9tiRBIQIMxxq5GFMN47JFKYQ41uShoURCjuwhXrsJau_Yzt7jK-vY1L1L8",
+            "width" : 1024
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103152457383419002621\"\u003eJuan Carlos Cordero Malo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAnEJQZp_m_BP4b_GVDzD787mPrh_7BCGBcQ8WoY6YK2Rp1Xv_uiD_gBXiQn_9cnwffkO6Cj_waUoVnsE6uq27PLiHdyVAKuDolYTF1PnixU9jNSGpuFm8znONoJAvNaDTz7CD4CXQSF9VNsSppIKzGRIQ1HIc6sGUJgBsP_ZmGDz5QhoU8d0b2u8Xy9Ey_r6duOJG0QJbcu4",
+            "width" : 1024
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAW_cgebiI1YodJoVuWkhkO2idSyybj5JrK6JOxfGIRcLOKzO7Gn5Jd9WYAG2yo4hv_dvt8VstbGSN3HpWJH5fSVz-bfuJajOtykuXUTT9p1ZN08tBzhmp3zTUcbRssM4x3XLdLadHBn_KIPlvJDF2kRIQkmqvQY6SWlRmnumaNLorGxoUwcIx2G6pBXzKxttj-YB5YJ8VUIE",
+            "width" : 4000
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115929208779981201173\"\u003eBalog Sándor\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA3kHez9y-hcTnRB-wAR66u5gXiYt740UksQy3uRCWbEhLVf-9Wp4iGxxxCZSlHaCq3UGJ2P65_TqomZMTzCJ5kjIQyhaA-d5N517tQxK0itF3sZVc1-xSx6vEq-_BAigK_xs-NhUUGccLhynlGUxyWxIQ0nSwh2o0go154Cof4J_wYxoUGzpGb05dE7MPLTvwmNeQ8t5Zkok",
+            "width" : 1024
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103184540592652819196\"\u003eAlexey Khokhlov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAG1PSN3l2Cwu7pM1zs7P_C7OkZyCDJ9DYEHhFVoISWI0t55CutXjUdWIHOFHlgdxDG7Y1d7CXgZseKKFC4qmTXaS-iv5-BFsQLBrtHpOfFdFSNNReqkUq6auoyPmh3ToTBxEhizFus4NUZA1V5vucwxIQtRK1FB8H52EuDZ78pv2fDxoUUJuPVynRX0hHVkpJYjgozWr59Xw",
+            "width" : 949
+         },
+         {
+            "height" : 900,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118235352038121428837\"\u003eIgmar Grewar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAeuat_YcGBf0vgWNbQzcJNxhwGiijpny4aA7-1fcl94ZUjNt-7zQi-OMLV9Qx3jTZokNKubwBfuqHz0ozBk0DJPvCQusoKyjy7UWBPUrhVhJv18V-cwmyIphn58h8YJZi8lFbMfQKjCqlvfkmSPHemxIQMIkHcTk8jQcD1RICgEaLghoUab4OMYiwdhNXbHmf4QAWwYqsmfI",
+            "width" : 1200
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103152457383419002621\"\u003eJuan Carlos Cordero Malo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAANirLo8u3D5Ql8mOVAR_wpfKEC4HG95O90Xns5xJ-NrfJtfCn4x8PY6SD6mqQB_lPKgXKpWGVd0mlSzUvglJgkbt3npVn2L7oU28gY8g9sEa98PvzJM9vBs_mRF5pXsVLip1KOF58Y9928_wfl57YjhIQKeQCTUZ8oqzTz09RpR1SmxoURVw5luH5qBTZrH3Kk845pEwO_yI",
+            "width" : 1024
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103184540592652819196\"\u003eAlexey Khokhlov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAjt6JRGqN79KYc8lTRjOSCU8z9t1jjS3_aNP6Uox16FJ3kUa0eTFbLjGk-dWOJ37icA4ZPLNeTDXPuNDuklxJLs8vKaASt3f8Ka1q6t3fANar05IzCAx_RILtkgUj1RYNRdHo662zsr5_jUBc5Dh-vxIQSrrx_Iad5fZMy03rE02ByhoUaMUFBwJwNFEEmpoPlVkBg81dOFo",
+            "width" : 949
+         }
+      ],
+      "place_id" : "ChIJySIbSo11nkcR6g3VmgfXU40",
+      "rating" : 4.6,
+      "reference" : "CmRdAAAAFpGmbaljQn1ireyqnHv_IQRD7Q6LIU9Y7wpmMWLPo7I6gkZhNAY4tu_1hveBExRSFLC1UpGLMCxA959ZcEaNe0giNQa1L4hN6s3g01fsV7BMJU6SlsVe1-33BtuJWoRaEhBIEHCmXyuBaDCDhuxBMsyaGhRCVP0xO5afS98Zvp20B2_Be9RT7Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jens Sophie",
+            "author_url" : "https://plus.google.com/103305661313291641503",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Beautiful little garden to pass by on your way to English Garden. Also very close to the Bavarian Parliament.",
+            "time" : 1388324924
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Druidsground",
+            "author_url" : "https://plus.google.com/114710519529607512511",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very nice, calm place. A lot of colorful flora.",
+            "time" : 1378658312
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Brian Long",
+            "author_url" : "https://plus.google.com/105575559603319426691",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "It's a well maintained park.  I guess great for those who live the urban life. ",
+            "time" : 1376774772
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sheunesu mavesera",
+            "author_url" : "https://plus.google.com/115182805374563617249",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great peppermint tea. ",
+            "time" : 1402854940
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anne Fischer",
+            "author_url" : "https://plus.google.com/112732299738630332252",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Get away from the hustle and bustle of Munich city centre: garden previously reserved for Bavaria's royals ONLY ...",
+            "time" : 1390377293
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/108729556993924239923/about?hl=en-US",
+      "user_ratings_total" : 41,
+      "utc_offset" : 120,
+      "vicinity" : "Hofgartenstraße 1, München",
+      "website" : "http://www.muenchen.de/sehenswuerdigkeiten/orte/120231.html"
+   },
+   "status" : "OK"
+}

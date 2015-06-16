@@ -1,0 +1,259 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3",
+            "short_name" : "3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Arnulfstraße",
+            "short_name" : "Arnulfstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "short_name" : "Ludwigsvorstadt-Isarvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80335",
+            "short_name" : "80335",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eArnulfstraße 3\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80335\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Arnulfstraße 3, 80335 München, Germany",
+      "formatted_phone_number" : "089 54046440",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14116,
+            "lng" : 11.55797
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "29eef8255c024db5851be1736defe24c244ea1b7",
+      "international_phone_number" : "+49 89 54046440",
+      "name" : "Kindermuseum München",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 2:00 – 5:00 pm",
+            "Wednesday: 2:00 – 5:00 pm",
+            "Thursday: 2:00 – 5:00 pm",
+            "Friday: 2:00 – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 864,
+            "html_attributions" : [],
+            "photo_reference" : "CnRqAAAAtlgPbMXLqUzG0NMs959QmuTFsLMffxc5rEeU--cWEozBMv6l-6rtuVH0uEAMmIDTwsu2NKqcBKF1aJeVG4TQruKPM7fx6MRO4Ec0mGXcdcp9QqoxiHhnBkwLcf5WLmiRNgzcTeYC5D_veAt36_z-EhIQWQJWCB_GMhlnZywh1G2lURoUkQX4tousuJlFzHnshzJ40m7HHOI",
+            "width" : 863
+         },
+         {
+            "height" : 1028,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAdgAnfNiW_rEM_gvJ-qvcu70n9A279UwzrI1jOWb3KYDYadxe50A2XTTUDyZL_oqkkPcVMS9F5ohcn1XVpBVfPMdjxk7iLA-AvzISzCXf34HlFbsq2ZkAGHB6ab20A58Hd_n9arV-10Z1jRhv8V1rGxIQCGQ8R6ttEJOdN5Lo8tmN6xoUmqizbYOEk3gam8bOnB-d0ekQuxw",
+            "width" : 1080
+         },
+         {
+            "height" : 925,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAw-gklS8oiXNTrmUrMUBRhDdYO3LISc_MeYY-f1aKQkllANSg2GyF6t_8Uy3BUHgknIEhcD6HGc3wN9eqzeAeuX3Wt4B2ztKxGb7CxA_Dd04fn2URlRkbpWN76elz8GHdHdD9QGECIQx4x1oHJ4PgixIQ-8aX7tib5swvt6qPRoDnFxoUQEaBZLoZ6Vx-x2Eeq1XxCqffD5Q",
+            "width" : 720
+         },
+         {
+            "height" : 426,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAETZPxhRL74oPRjUH_948lhoBd0j9DMSSupXCUvXza5tyEkFoLCVPWv74Fwq9QQMoBUJUgCCIYn9fnZOuq1eGnLc3JAzXqt_yNcOPqIFoc6frQcKK2Rv8GMkI_wh5HlpkuVYVlRUR15Eh1PHbeyu_BRIQ3-ulrq_SZlvgzxK-ONauRhoU9trBvywa1rOs7ht8X_ivkNzptzg",
+            "width" : 283
+         },
+         {
+            "height" : 1183,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAagaPJxMu1ytNqhzFYsH9dhzlx4_oTa-dUwYwxrvpyttanvUhAcrax6qHMUKtyu-E5BPDlgH29yZeU1_T23GTRUSxFx8nvboqwaA9buDJUhwcthF5quiHrE5Zbe__LOWDHydjuXYmP2QA7DmUPgAUuRIQki_Cve15MUHke9kxlR2nqxoUtw-TPLlycia9X-XbCA2Hka091HA",
+            "width" : 720
+         },
+         {
+            "height" : 943,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAXiwVYtJGev95AdI6b1i_JdziJOXc6POY3vU8CiRmTIkB5go1tXcbn22-BsFbsij5jF5hRDKAGMMwyyseUo3abfFpn6fzbtrr9t2Ier7gse8q8I09UiWaLYzgTOveiZ3YJbSplROhf7zt_QyID_VIwRIQSv-yaIkjwwVzSh4cwbhH9hoUGtimvUOLyq9-UCEMjZewe-mEBU4",
+            "width" : 596
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAfXSUjJOFFtR-Xgqr_6zRjcJFYPCNfRLzeeD53Yz3MEg29MEesrWGwrPaevPa3AnhBX5qbK4LK7zb-tV5x8iwmPzAIe1Cwfo7tSH9WiGQFUiIyPP8JKf_emeUbfENun-lZMRnhZv0JMlD89q3QxCX0BIQKQnR6CAw5SGGXLKKNmN4XhoUjN5CVGLE-g73fT8IJ0FQppleEJI",
+            "width" : 1122
+         }
+      ],
+      "place_id" : "ChIJPSnkW_l1nkcRTT1lxQO7-PM",
+      "rating" : 4.3,
+      "reference" : "CnRpAAAAYrL_egEjIo0YYP-8Ph0UA5-bt4WofmwM5U1i3uZqS9Hzctx4wqYFYs3n03tjgN_-U9A5SyN71Tc6fjjq-bcYJl5aiVL20EamH9JJguxNeytXKtw-pwHK57g2lqPhidX6j2863XfKp9tWNL8N4YdDSRIQf287qe-U9BO_IJsgZ9MUAhoUsP4tXUOS0H2aR-ca_xurk-qLODg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Patrick Flinner",
+            "author_url" : "https://plus.google.com/100368707147001909361",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Veraltet. Field displays sind heruntergekommen and brauchen ersatz. Wenig spass zu haben. ",
+            "time" : 1379057979
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Jörg Velletti",
+            "author_url" : "https://plus.google.com/103680979940985624958",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Gute Museumsalternative für Kinder. Durch die überschaubare Ausstellungsgröße können die Kinder sich auch sehr selbständig durch die Räume bewegen. Wir waren  bei den letzten 4 Themen (Salz, Seifenblasen, Alles in Bewegung und jetzt Dschungel) Am besten haben uns die Salz und Seifenblasen Ausstellung gefallen. Hier war der Selbermachen Anteil aus unserer Sicht am größten. \nDie letzte Dschungel Ausstellung war sehr \"Film\"-lastig.\nWichtig: in den Schulferien abweichenden Öffnungszeiten!",
+            "time" : 1352039312
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aylin Koç",
+            "author_url" : "https://plus.google.com/115484967938224758779",
+            "language" : "tr",
+            "rating" : 5,
+            "text" : "Harikaydı",
+            "time" : 1407344678
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gotti Feu",
+            "author_url" : "https://plus.google.com/110583910563732363950",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Echt toll, was hier für Kinder geboten wird. Es sollte nur öfters ein Themenwechsel stattfinden.",
+            "time" : 1335541054
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Naser AL Romaithi",
+            "author_url" : "https://plus.google.com/112034695602564113940",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1425817557
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111412170792139535903/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Arnulfstraße 3, München",
+      "website" : "http://www.kindermuseum-muenchen.de/"
+   },
+   "status" : "OK"
+}

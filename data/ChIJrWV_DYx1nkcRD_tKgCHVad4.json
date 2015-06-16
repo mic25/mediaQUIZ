@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Residenzstraße",
+            "short_name" : "Residenzstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eResidenzstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Residenzstraße 1, 80333 München, Germany",
+      "formatted_phone_number" : "089 290671",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.141798,
+            "lng" : 11.579486
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "09e5625eb450d737cbeb1e52e3acb5a6d4e2871d",
+      "international_phone_number" : "+49 89 290671",
+      "name" : "Munich Residenz",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1400"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 2:00 – 6:00 pm",
+            "Tuesday: 2:00 – 6:00 pm",
+            "Wednesday: 2:00 – 6:00 pm",
+            "Thursday: 2:00 – 6:00 pm",
+            "Friday: 2:00 – 6:00 pm",
+            "Saturday: 2:00 – 6:00 pm",
+            "Sunday: 9:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118054618146164502214\"\u003eMarco Lozano Z.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAN7qAWfDSVstTKipl7Hqh6zH3OfIW9Lt9D6UAxEDH25xTZ9mdgQwa-j3IFa2z9EldStMeY_EaghKhcHpuOGsqoTFrxoWHj1dLBWgsiCY5wy1V0D2GB1Y2F2jx-edM1GCTS95GCMq9xKz1E5f9HV7XRBIQFgGxgWI-W3AT0BJ6NdpNERoUjrC41FUoZwUgl9SDkmRtm81uShQ",
+            "width" : 1265
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114964118647565756131\"\u003eMillotaurus Grzegorz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAC2FZyDOqBCwkcHgb6Wz9j5tumeG_f2C--7tT24hKSrsPx4HRZGih0x2uCGtbDZ-mWcMAd4VcfaaEA3OWOnu_9tnnGPmIZ1Un_zaE8zV-XyaD8kEiaZQ7QIO7ajg8ET39SptZRQmBUZTtuL_QlFWeAobNUuLfaLIE-wJ5pATxl-rEhAEKY5NlLP9Ei92Vc_yo13NGhR4I5mA8sXJwmxqSU-wVt51PVvqMg",
+            "width" : 1200
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108595669572177723137\"\u003eAndrea Dalla Francesca Cappello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRsAAAAA6HS43y4_OArlkQMFecYLw_HpvqOXnRcPXhkW2IZw0LHJyC0JYE4WFgbyaGzBTB5q_9YCjIsfx_63p4qPFkHCnS0zsKTVMSEd_71B9sTOkmJyMFNAHKk3xgll_wb8U0n45ljc3fX6zRuiT9LLQd3JxIQ-hJG2L9sm067fPC1nqu3vxoUB3ugQ7N0lrDap2Fv-XTFomDNfCk",
+            "width" : 1024
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111305151780411595168\"\u003eRed Oleander\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAAEWNThDNjPI4e74v6Yp6PzU1smZNbW1Hzn56nSgGaheQYouRgd1cvOJlHjDWNG3BX4Niu9UlAFBW9eE15erO1bf95GyUBSiXjAX19iaR7ZzWJliIHdYs4JtsUBkUENIBmBvOzRNJtGTOsqHAQhlz4PkCxcwjZINfnFtqvxu_-e84EhBJgmzw3qyGgkGx-agnF92LGhT5W9bqJTxJd9I7f4UHnqp_uDcwQg",
+            "width" : 1200
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111305151780411595168\"\u003eRed Oleander\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAALz1vmY1UvCMgX7iIT2cbba-uzAGIef5B-7Zfc3icazKvk3V0ymZrai_KEKumWKinMMGpqIDBX6lU9puMDWqLKG5Tl0GXGs50BwYkpHVizFtVrdNNavseLG68TVpr2pRLp9qRolzzH23AI5mn6R8Mnfb6l8cZdCpT7ORooGCX9VPEhDgIrQLRnTjuz4s6l9DY_dJGhQqCh2pOTF8dYS7Zn-iuJY6uvgz3A",
+            "width" : 1600
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110551492081725704752\"\u003erey perezoso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA8CsWQl2XgcIGRHVpswpWQDkGpMT9Y0ljPTkLgnncbOlCsPkE9KPP9yARRY-oW38mzNGUuQVe1EKLaYDh64xEGPjDyi3JGHstUjHE-1DlqsSU6rJU2W-EIRxulen0_42aTsI6SJZVzKzXhpcqF5y3ChIQXKErKARjFVGgO5DJ63zgaxoUgVxzNEGjZhUS4-ashSgRYJal9FA",
+            "width" : 5184
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111305151780411595168\"\u003eRed Oleander\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAALyvnyaOA5F-Jo0xRxAaI-cjNO-ibIfDyutwsYDlC10mkgrVRTxt_NyweLhZ5-I1ELCKP5qPymM8ywPO1B3Eap0oa8LbzzJ-taO-5a5RiprA-VqzIIkTAVuBT2NyH3wciwww53MXVjza2oNCH_S3g9NJ8SfAsVml8ogltXqtGXX_EhD3t3xf5tuEplKExXjNwRrwGhSE596S4ADpPGYEuxRi2P8ntNoQlQ",
+            "width" : 1536
+         },
+         {
+            "height" : 822,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118054618146164502214\"\u003eMarco Lozano Z.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAzc97kDPw390nTfPhioIchzM5CvrMFHkV5aoYzg58BJ-yamftmRWMEx7USy5AsYpz_DtsdIwH0mfPIzSg_u8Wg61AmrT8dhgIVX1-cFBXjSUXxgYrEwc1tshstnGALTwM6KkohSIH8jIcboqBhOwAmRIQ_UdCbGSrZk37wmXVzyjnTRoUbFvTxb2tqemEwlT5hbc7o0Pb5-o",
+            "width" : 1461
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108595669572177723137\"\u003eAndrea Dalla Francesca Cappello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRsAAAABEvSRGIGjMjEqjlTJ6xo7AVaYqSouCkIVPaMNcn52V0-wXO_Q7URDyFgYJdIFgc9qKCJXhXWyZHRDtbvNtHQFuMsPcFZhUjpKhc69csojwF_juzRAX9UkLizbJ2kr-87qYEGTJrkzAOnDJvyuuNsoRIQf_x9QOcck4sJg6qvU92hPBoU0HLQySWaJozxQjtEn_QNXR4BUMU",
+            "width" : 576
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118054618146164502214\"\u003eMarco Lozano Z.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAyAzTT2dRjgvWXV1qtOEXuRWfltbAtj1BHzisL9WQv7r-uvGLLxqrRJLh6BaRGceOpM7g8el8OiutLTeeFSZJiZFdEoLh-FTAhjPdczmpiRTxCDmumYizLHsmm8IlE_vDTcZymNjj7LHfqTJZcBF2BxIQuLO-dxUFAQeU_camZ2F1mxoUthxQpPe574yY_tDhY8mVHtCbVyA",
+            "width" : 1265
+         }
+      ],
+      "place_id" : "ChIJrWV_DYx1nkcRD_tKgCHVad4",
+      "rating" : 4.4,
+      "reference" : "CnRjAAAA1BSAX_KDt3cC6G-kaVQXNPVTDRkF5xyVfD1F_Wc5B6M3uBdrhMMtbPft6Zz0JUggJvXs53lNZEmoxlbna6EhSHWIDmVq1BFNBURdR75Ve-BCjJ9zuEt8lGBgRsqdJhAmW5LI9nNAyrwWiYH0RPFNHxIQNyOyk0i2XPXkm5ZFkA2bYBoUFHTLJD4JxLCNjcVBSMZEb3ABsIU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giò Job",
+            "author_url" : "https://plus.google.com/108548141673444258877",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Awesome experience. The Italian language was precise and accurate. There was even the choice to go for the short way and the long way. I would recommend it to everyone. You just can't miss it. 😊",
+            "time" : 1428173644
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joyce Tang",
+            "author_url" : "https://plus.google.com/105985547749986921139",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This palace is beautiful and enormous. There is the option of free audio commentary, but even just walking through the palace without stopping to listen to the detailed commentary took me a few hours. Still, there are signs in German and English in most of the rooms, so you're still provided with a brief but informative history of the palace and the significance of each room.\n\nSecurity regarding bags into the palace is very strict—only a very limited size of bag is allowed to be carried in, that is strictly measured. If you plan to visit the Munich Residenz, then perhaps also think about purchasing a combination ticket, which allows you to visit the Treasury next door and the Cuvilliés-Theater :)",
+            "time" : 1417726115
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "O01dude 45",
+            "author_url" : "https://plus.google.com/102079429009749371691",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "The building was very fancy, but it is very risky if you touch something like fancy decorations.  I accentually touched a gold object on a door frame, a staff member told me to not touch the gold, my mistake.  The place was okay, but it was not a place for any people who are not mature enough to avoid touching fancy decorations. The rooms looked boring even if they were fancy, because, there were lots of repetitive looking rooms that make the building look boring.  This place is not a fun place for adventurous people due to consistent looking rooms.  I went here in September 2014 for a 1 week trip.",
+            "time" : 1424213079
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MovieBuffReal",
+            "author_url" : "https://plus.google.com/114429696528269916714",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "An awesome place to visit and it does not finish in one day. I stayed as much as I could walk, probably more than 6 hours but admit that did not see everything completely. Make sure you plan for 2 days of 5 hours. ",
+            "time" : 1414716913
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Natalee Armfield",
+            "author_url" : "https://plus.google.com/102932093766564697855",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Ornate, extensive, and plenty that dates to pre WWI & WWII Germany/Munich. ",
+            "time" : 1415115575
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106131903213671261973/about?hl=en-US",
+      "user_ratings_total" : 40,
+      "utc_offset" : 120,
+      "vicinity" : "Residenzstraße 1, München",
+      "website" : "http://www.residenz-muenchen.de/"
+   },
+   "status" : "OK"
+}

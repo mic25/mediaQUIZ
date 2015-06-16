@@ -1,0 +1,116 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "18",
+            "short_name" : "18",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hesseloherstraße",
+            "short_name" : "Hesseloherstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80802",
+            "short_name" : "80802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHesseloherstraße 18\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80802\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Hesseloherstraße 18, 80802 München, Germany",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.162665,
+            "lng" : 11.589624
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "882b5f6e3b545ae7a49e49dfd732f3e459858b9a",
+      "name" : "Rationaltheater",
+      "place_id" : "ChIJH9UWxbl1nkcRo7N42F3cdv8",
+      "reference" : "CnRjAAAADe94jY_d_OyXglMVCECUGKC7uAaQN_8xTQEHOZTtDRoab-MPG6mHhEcRSw42qAynKleHLlJYbWs6Qse0Y--1-FiK28wBTpL2ZSmWyQ9RmopNF7HVrQoRIgPJdbeKaeEhDXsI1nvZe29bGo9vnRAW_hIQwF3CrRkqAlyCietD1iAWJxoU2wl1MGRd5wyf7UZgf1ok4CGmctg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Flaminia Schäfer",
+            "author_url" : "https://plus.google.com/115778516102677504810",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr witziger Galileo Dreh im Rationaltheater:)!",
+            "time" : 1432810204
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Franzi Butz",
+            "author_url" : "https://plus.google.com/114785222728461180091",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Wunderschöne Athmosphäre und gute Drinks ",
+            "time" : 1431875140
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erich Schubert",
+            "author_url" : "https://plus.google.com/101988970685633977359",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Blues und Swing-Parties im RT. Super.",
+            "time" : 1314918712
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miriam Melchner",
+            "author_url" : "https://plus.google.com/114865538336687069741",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430605841
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/100078196318525058214/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Hesseloherstraße 18, München",
+      "website" : "http://www.rationaltheater.de/"
+   },
+   "status" : "OK"
+}

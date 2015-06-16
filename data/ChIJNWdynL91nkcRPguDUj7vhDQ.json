@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "15",
+            "short_name" : "15",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Leopoldstraße",
+            "short_name" : "Leopoldstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80802",
+            "short_name" : "80802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLeopoldstraße 15\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80802\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Leopoldstraße 15, 80802 München, Germany",
+      "formatted_phone_number" : "089 381960",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.156546,
+            "lng" : 11.583416
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "193892c41f926569bec1fb84654dd86a18db186e",
+      "international_phone_number" : "+49 89 381960",
+      "name" : "Studentenwerk München",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114789481917892154200\"\u003eAgustin Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA0l_AeK_PftzYolq5zRstwukNACZTqPrED4syBs7ChrdS1R9Qc7Ux5HZG4BUJJYqUKp29HOVMn8tEs09QsIVWHKKmrKpMpKgWioz4whqTMwFl8OfHsKzKbqkz-1P1uFLUR7KWe74gyYrZfFppjrl-GhIQvA0VBQWCM5FomnTUEIDPehoURPDzvbqqaWF7XwbwZEB1bSV1gCk",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJNWdynL91nkcRPguDUj7vhDQ",
+      "reference" : "CnRpAAAA89OWoV1kxh9yhXLV911Z9YKOd2QCfINUQWS5vh0wBHEz2E6ikJXm-bDmRJg9TSbvxzxMUde6nMqHbs7mkkTLNtoMgQhmiuJC-eAVf9GptHeiy76ho1zo3jT2ABmDvbggw_cKLm2stG2VhQ7cb8iG7BIQ3IQYYUVwEBsXrcZNQWX_EBoUz3YL3KIHzHmClamF0a0qH4DaumY",
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/109396543436030291463/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Leopoldstraße 15, München",
+      "website" : "http://www.studentenwerk-muenchen.de/"
+   },
+   "status" : "OK"
+}

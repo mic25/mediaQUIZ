@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Katharina-von-Bora-Straße",
+            "short_name" : "Katharina-von-Bora-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKatharina-von-Bora-Straße 10\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Katharina-von-Bora-Straße 10, 80333 München, Germany",
+      "formatted_phone_number" : "089 28927690",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14435,
+            "lng" : 11.56634
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "ddceddc91f96e45d233aa71210d0c04236b11993",
+      "international_phone_number" : "+49 89 28927690",
+      "name" : "Museum für Abgüsse Klassischer Bildwerke München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJyaxrFvB1nkcRvVLtBDdyCyc",
+      "reference" : "CpQBhwAAACIxj9LZiZ_46Rxk3spKtCw6lfEUS6zw9w-Rmy1XXcm0LYuCSQc8O14WDDjXk30rRObgmFQ964ahE93Vl-D7wZHPXWS42K9YHmmD7q4idRu_rK1v6eqRACfm2oEVq7ts2GmW_Fo1eMf3v_T4BcXJ6EOobfgsLPVH3uoKwWPsXQGBMDngHahQbxIgLr-0YBB_gRIQvenflCJibn1fDVrrv9LpZBoUTZRujg7DiZu5ajl8EuQwYTO075k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andreas Fischer",
+            "author_url" : "https://plus.google.com/113049622296000376141",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430233825
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/114978422872814726403/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Katharina-von-Bora-Straße 10, München",
+      "website" : "http://www.abgussmuseum.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,257 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "9",
+            "short_name" : "9",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kaufingerstraße",
+            "short_name" : "Kaufingerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKaufingerstraße 9\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Kaufingerstraße 9, 80331 München, Germany",
+      "formatted_phone_number" : "089 21269541",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.137553,
+            "lng" : 11.573329
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "834d093902bd1e2ec40f40f666a716782d794c1d",
+      "international_phone_number" : "+49 89 21269541",
+      "name" : "Kaufingertor Passage München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 9:00 pm",
+            "Tuesday: 8:30 am – 9:00 pm",
+            "Wednesday: 8:30 am – 9:00 pm",
+            "Thursday: 8:30 am – 9:00 pm",
+            "Friday: 8:30 am – 10:00 pm",
+            "Saturday: 8:30 am – 10:00 pm",
+            "Sunday: 8:30 am – 9:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1150,
+            "html_attributions" : [],
+            "photo_reference" : "CoQBeQAAAINm8BEa_rb8AeoeavHned1xz6KGjpmpZI3l9rtGiuXhkryD_V7vCUjzTrKs9qNURvP2bJ4M2f3xpMltg5eyZ-r_7SrIUFMgBRVx0wSs2GbkJkSronUHrzuyH2QrdCcvQHxtcaqEBibANpkYMFKZFKGBlsEtUjXLwOihvWMCHGEnEhDJ-7G87Y1Pb839jMCRTirvGhSKpm3UNGuCDxPP67vC_o8E946VGA",
+            "width" : 1151
+         },
+         {
+            "height" : 787,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAABkLoM2LCCZzZf0CzI9k0xo_GhPBzpChe2r58JOq03_qnauk-63sWI80F361rbPiiFlwZub-CoiUFLs-gN3BsCWoQNt33HBs7_zGXO950HwK7A0-iaII_ekRpQP2JS2yF41vQp8jlOTxUYLfuy5RA8xIQGZ9MS3ltQp-mgViUy-aQrhoUoZnFBnpxyMhfqVLADY_d165sd4o",
+            "width" : 1181
+         },
+         {
+            "height" : 787,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAtCo4s8AE2tQIGsOoEtCBpJCsHq5NocaBQRkCMR69RzWIVAeifPWFuJIpBebyJyVV8C7c8I7azvB0WpPqFumbEogTLGiHySD5LlxjXuYOVvkVTC5dB81a7jt4GVRETDBlZCa4-XPmehQ4qgDhIWUzpRIQbFE9kzIggnuUoqWkR4HcahoUYNNVr2WgohTOoBa9WGVTmVAOjQM",
+            "width" : 1181
+         },
+         {
+            "height" : 650,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAcIzHx7o88aQNkYiVVWScPkoGpv4_sTTg3m823PlQzk5KEp5WCCLy_PYVeDr5eh8fE3-Y0cjnmnGTkTxWPOP5oz6C_rm15JXgEoQoEgmt93wUQ1IJ-9lsUe6D5THBeyFRsTI7VEVY-ceeUb8qwPanHRIQ_RiMgfJVgfv3f-vjIatQwhoUZSGf26rxi6MgBToMqkABo_N8LTI",
+            "width" : 1500
+         },
+         {
+            "height" : 650,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAFeU9bdufs70t3_EbXeb0MuRC1kyhYiVGvhjpnfdpT_s_2DyFz-8B-hB1X3fFehvi7ayGFWifnBr4HItVRaO0w5LDUhhPt254aPJkkZ_seFgEtot_OBEWwKyHX72SwdQIgCXrAsENv88330sbhd-f6RIQMIixl9Kaol-R1prIUREUKxoUr9YD7x0xMLb7nR3szT76h7O6n9c",
+            "width" : 1500
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAqCCegMwZT1Vuac4w6n0YxGhGL07qw8N87curMteNc-zUBgaKZyuYb-FCHScA-Wt-VhsUXfXv96RKeAQzxA1twQnJWm3LPRm17nGeu9aUduyAcFuJHp3-ACWZoXni_2lBpMVtYuRNv9uEUcC7BQZXFRIQAS424GjdqD7931dkI4XIbhoU1sREgnYQqyGfCZKU50KEuRiYAq0",
+            "width" : 2048
+         },
+         {
+            "height" : 650,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAJ9G9odY0pd-YHmMkkagoBGzEhLTLzI0X9caTtYHhiN7I2hyRYYu_TNh9OrZA1wixpsgVWE1EL49VbNbJVRhLV1ZdgnS5cs3-YvTCeLV5YJ4rlFBDWphxJc7ZXDRsgy2tPUSzCEnl_GecQbqXJpB8PBIQb9Bp9nYFJoHSQomy8V9qLBoUFhaV1mMfchskMe-PZafSr7dN23k",
+            "width" : 1500
+         },
+         {
+            "height" : 1280,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAsH-l2PZRXh-mn91gmZgAEuM82Pd_JuXr5wxmT613Faf1FEmZIQz5w-dwnpoB9UdiufoZFGUz9Cnk4kNGfj6Ap26wDgMzH4udQsDCMwZRavbUvt6Pz8hDWQbnbd-u3t7xv3ympvRUFqYUjnKcW-0R1RIQMnsxo_1AMi14yxkWuLIMERoUO81k0jEwAEuN47tjXFeuwarHM5w",
+            "width" : 853
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAObWIyMdUDQuHh1vZhoRtI4jW2uhAobg6tBGuu4w4bpfmppUqGuIbAx3sdQ4l_UifxVxjqq4H9CEerX0oGVv1SxfjAfLfEeOmgKYkaOxDHmRgJY769SFt7kj-1ORsADeM5IFFbg0zfTmkahVaH8SFKxIQedn3zaEJz55BvHZItmJfdRoUZ13-XNA1_TKK-1t0waQHsXB9PeU",
+            "width" : 1280
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA_OP6AKMpZNQ-OGsP_EXPE1QxBAFfKSvxKptrwC4sLrBw8XaLAiUblI99Kf37itrqa1pedrz6J6qAFdVoADGk0MvrOe-cugts--jclEgYK6n9yipTdenznDQ3nRp2LWpbGaWLyTWEyYTkZVzlTxBhvxIQNnKMGQcVKdIHUW-r3n4SWBoU_OIqMuBHHqtpm_fXJ3-eIkrg_hU",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJTSaT4fR1nkcRxbGh-3vbwos",
+      "reference" : "CoQBcQAAAA0ZF8Jf4mEMwOF3wzER2FF-yy2a-xfIe-K4K98_3ZAKDawZljbFBRvJn7Mnvu6YMwzeChnDsI_P0pJXunwDweIoBn3bljTAgeUH3zn6UU7Y3SFI31lcW7tPoKSQ3bR4sJBVQDXBJeYxm4Ajd9tEspmDNVCq3eqU0W9V4B6uDUpnEhDkIapBWm7ThQZI3IVqKujYGhRLkwCu2SZpszXWHtgxb2fqN86hkg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Alexander Orlov",
+            "author_url" : "https://plus.google.com/102299455092306269473",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Looks great",
+            "time" : 1354486999
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "فيصل العتيبي",
+            "author_url" : "https://plus.google.com/110949343663938752139",
+            "language" : "ar",
+            "rating" : 5,
+            "text" : "Its very nice",
+            "time" : 1376847496
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Abwechslungsreiche Läden, tolle Angebote.",
+            "time" : 1337607036
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/102031904581592302158/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Kaufingerstraße 9, München",
+      "website" : "http://www.kaufingertor.de"
+   },
+   "status" : "OK"
+}

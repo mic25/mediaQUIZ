@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Alter Hof",
+            "short_name" : "Alter Hof",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlter Hof 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Alter Hof 2, 80331 München, Germany",
+      "formatted_phone_number" : "089 2101400",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.138073,
+            "lng" : 11.577827
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b71f39fc12f3de3772835fdbabfd15423dc76204",
+      "international_phone_number" : "+49 89 2101400",
+      "name" : "Landesstelle für die nichtstaatlichen Museen in Bayern",
+      "place_id" : "ChIJYTx4DYt1nkcRl_olEvbPHXM",
+      "reference" : "CpQBiwAAANN49_J0HilaEpwV9kbiWrM9g8JH9C2EPtfPCVbURyS4S_33wZrAsXBNdbIUIkoqzKlbeOINp1U6e123u_PnniJx0m9ya-LRTiNACZVcK0Xm5aSnCDMeqFiXAqRTnSoe4AocT9vPemjMT7lxIZUR1QIIMMlFEVApQ7y6fPVTQFcA9ub22tiijw-bKfoD0bqXkBIQ-jmAkN15fFoTfKKO4MZakRoU4JVjXtDftWY3_JcI09-3VEEnSv4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Stole Varga",
+            "author_url" : "https://plus.google.com/114314488059059693442",
+            "language" : "sr",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422101445
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/103674800876299014770/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Alter Hof 2, München",
+      "website" : "http://www.museen-in-bayern.de/"
+   },
+   "status" : "OK"
+}

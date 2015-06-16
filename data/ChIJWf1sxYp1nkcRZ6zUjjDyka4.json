@@ -1,0 +1,215 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rindermarkt",
+            "short_name" : "Rindermarkt",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRindermarkt 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Rindermarkt 1, 80331 München, Germany",
+      "formatted_phone_number" : "089 210237760",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.136491,
+            "lng" : 11.576047
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "990526479192ea7c5989245496816d6328a21474",
+      "international_phone_number" : "+49 89 210237760",
+      "name" : "St. Peter's Church",
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108215191071305563623\"\u003ePascal Poggi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBowAAAE4objkYNlYnVAXI4sELhNj4Av2BOff-5GDuQA_qho6qrUXW5GcS2HCR_BD2xJ_zUuzvZc8EkR9n6CE9SpF5WznL7_Xj531r1sPc2T1xush7c8RAo75vIo9vJtD5jgHHTZhTMFTDj7aRs7Rx3Ly6yRGL1PsG3i8tI_ZYqfYLPKfAdBQmy5m6Pk1P4PCqWtIeaFHPNFoXvZueqoJILMXZBggE0Ua7fnLunOiPqwDkJfmkEhA35E_QEAIWWl0s88Vq4xexGhTn31BUhPPeOsXE9iZLD-f72vxTjQ",
+            "width" : 1356
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAALJ_RJ5K_ldnA3Nrn25e_up6lFN3o2--Ff4xUR18iGfHePKljgW7HvJdIninb-mYz8eRDnTEmvD8icWvh8qnNDsZtBgUI12pzqL8Sw3cQu-0RpYl2w4JAtmzS8UZvyEM82VdkByIckMaUhWN0FXbvrdAKT2fzwaxvymaVBRxSYg7EhD-gIRzPDO-RY4sbFf_2glzGhR8ww72PTQ1lbJgDYeoCI6JhhpulA",
+            "width" : 2048
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAL6J7AbXPXnV2Xq7rTTs2hmBiW9kxbAx9uDoifBczoq7vKsbywjjN5aHXIzKA3xANyGDHkazNg_OJfAX3gHckMDmgpwhfAQQ6bMh4p_SNfChzgtLJoN6_fkcfUJXJlv9HrUXslsq5VK-MdmqSpnndpBIQtXHcvFr-fNNIzfycrTyH0hoU3mpTextg501KR8nBD9vZRbt1_aM",
+            "width" : 1067
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBjAAAAKIU_kOl0vtI6cobodRKz7ShEkTNHWW4pi6tP3SJg5s5aQDNrcIDKGJo42ZbowlcuzhL6bJwz1HZYscm_OIL4SFqTlmri9kQeFFfW24akaGeJT7bAEESFUCHx1UHe6uWF_6XJIvjp3An88yRsv5iVxq5vVAkb_pTINQdC0rdQ9JphvbcJtjls6pne7PZlgblfBIQykyX0pdg4AnI2H_o_m1wkxoUl-2VQ4KKb9VDqTe966W5OPfi1gw",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAqiOK2acpJEm8YHCMhWST_c5Q-nSY7tExHbzYcOADtx51q6Y7qakNtNwddp3NBm_fbKZ79I_Wl2D3HJ_9OzHqE39yEkveIAOrYrWtn-iT1o73oz5QbKgCQfNeBi-s_NwY0taRzXCHTNGIavmjJx6f5RIQLKY_LYURdUWf1DVYryOpAhoUUxGkdLRXX337891YbVFTulM6i5o",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAAZQzxzaqYy3ze8vmVozYi5fj_asnV8-hYyQQ1zkYRha35km8Fp17HImZ8TEnAzN1gtBJ67xQU_8jlPSeJbpZLa9v6wu8gdFGu8voX421m5cCgz44fBUe4Au6UH1xfJfLZBbUfVH1yyQbS3aiiYP55-xIQSy1k9AjZq4f7fHm5ZFgZaBoUau0WW4r-SHRDx7RtaAQaF4CKFG0",
+            "width" : 2048
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105746571168347686472\"\u003efpamar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdgAAAFSUIr96_GovS3tMinDvJPU388296pYLNOcVyIiykUe5u2dN3smwjSMqH_g_xHgXUOsNiR8eBdhBcJMTEYSz-pjLuOjWLVcAx_vIrkiyLoodDoy-p2wtfnTb6ysrA3tWkwjBxpqgIwJbYVFpKrHmzyc_0nG5udWVp9_92z4diwMmEhBRoSz2O7kRQMKsGqLgQ1UfGhTcezgx17-_F5wEfYLCdvXEHiUGlA",
+            "width" : 1200
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108595669572177723137\"\u003eAndrea Dalla Francesca Cappello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRlAAAAt9zPGnTTeVwtsf0uXelAQ7EbiPxeU6it5FUZhdueTrpQNYW1FOjFLq46xd_YhMsUVmjLnGiUAfiPHI3A2GQzP6i-UyKaU9lGesHs6CS2ZOnW0DNJ4YZkvYBVWP2rNEqaC5Qe89qUFaOS7jHvJ2vNNRIQ7TmC6Ns2c8LjGr2em4CdUhoUyg-rkV4wcvZzqcI66U-FaOxZxtc",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103160020423874855730\"\u003eBjörn Haglund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRuAAAARPFlEwrFE2iS-_MLMR2LpO2p9Y9ciGw0KUWgoPNYD_NYcFi9wzPNeVRBNG2Oing2NN6a2kGJME5wyaPc6kQ26GLHLg8JTcyT4Oz1LLwylQ2s20lv25FWVesQ16lVwJyaF5ZXipOiCUEt5c9f7zyHERIQ04xpgThnmajaleDVMTwssxoUVJQUe9KuXw0FyoYofBjRmoys3Kk",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116858675111526704008\"\u003eThad Hughes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAAMcS0dUPCa3XtEsNgwykXPunCGnrHaEJoJTcqkqUTQDdqmzoDIKH1ymzkMbeoGgO0gTIdr2YxyVnG_oh3IEvPN4_Vk2XN17lBt54JAuadKc7LZyj_ADbwjv0jwUApzxWdFbRCHkJqBWGCcpVRkFkdJshxF9HJ-QzyS1YiCpHbAGLEhC3Dpf1FWKzK-EtQIoU1nC3GhQBCvtnAsB5zeIz_nLIY0xs3oPFSA",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJWf1sxYp1nkcRZ6zUjjDyka4",
+      "rating" : 4.5,
+      "reference" : "CnRmAAAA_fR1RE6DiTmQXQSo4h0t6brexXxLPeWnpwvV9GgbmCPhZ8-Pjx3mWLAKqLa5uVISUFh9vFqV7Yh020-lWCzzhYLnKkheWffaXRBeeur9WQBanOojgktOZoDU6CPTLE_WF7lFhChZK6dAvEjxD9b6oxIQvJC-8M19KSyXlChRI3SrRxoUd8Z7tbbtm4iJU66DbiZWilDugHE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Barry Gould",
+            "author_url" : "https://plus.google.com/109256739648574549665",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice views from tower for 2 euro if you climb the 300+ stairs. Church interior is not as interesting as some others in Munich but it is free. ",
+            "time" : 1431850998
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Dippel",
+            "author_url" : "https://plus.google.com/106937735891544768783",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best view in Munchen.  But like someone else mentioned.....the stairs will get you.",
+            "time" : 1420741427
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "john erickson",
+            "author_url" : "https://plus.google.com/112900421491129881181",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Highly recommend the tower for a great 360 view of Munich. Well worth the €2.",
+            "time" : 1420306824
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "anastasiya rubanik",
+            "author_url" : "https://plus.google.com/110148731219713028874",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Great view of Munich from the top! Just 1.5 euro to enter. Stairs are extremely narrow and ppl use them in both directions. So if u r claustrophobic, pls reconsider",
+            "time" : 1384008345
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yiyuan Wang",
+            "author_url" : "https://plus.google.com/113839332891669839010",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Oldest church in munich",
+            "time" : 1430491262
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/111347195298106071282/about?hl=en-US",
+      "user_ratings_total" : 56,
+      "utc_offset" : 120,
+      "vicinity" : "Rindermarkt 1, München",
+      "website" : "http://www.erzbistum-muenchen.de/"
+   },
+   "status" : "OK"
+}

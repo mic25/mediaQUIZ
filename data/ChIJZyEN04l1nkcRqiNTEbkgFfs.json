@@ -1,0 +1,213 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "50",
+            "short_name" : "50",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tal",
+            "short_name" : "Tal",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTal 50\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Tal 50, 80331 München, Germany",
+      "formatted_phone_number" : "089 223266",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135199,
+            "lng" : 11.581409
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "bcfebd8082ab282fb9eac43181166872b6b131e2",
+      "international_phone_number" : "+49 89 223266",
+      "name" : "Valentin Karlstadt Musäum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: 11:00 am – 8:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100691532589992441159\"\u003eAngelika Li\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAvrIm6uvE0FYbtP9fyL8CPBEx_xwMaKWqghiwrdTyb3U4CTWoiBbcHgVYT0-6vRQ02iPLQfXvyciUve7knyl6wfiWBbT4auO78x9wa5D2bApUROM8SQMvYBZilwjnKYM45b5_Ngl8SnHGrRFtgQtH_RIQ9x7w4RBR7-h5NDn9WRWwWRoUA4CL1b8Jm-gRRHxz08DDf0ysCEM",
+            "width" : 640
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAg93gELA3j1_C8uU-sHKno7jeqz-NqPQW7b-MbHAwslAU0IdYLVKvDpe67v0_RQWB7eSBt9xNSsIUmcvJtDYoPrmvdNO2D7kw6YF791f3Yy04Mj9B5x7X5rHAs47DbIke25dMaBDpXGCCQij4d3Pk1hIQ4n9xWbf5MNk1tV-lcBrWERoU63TTFZ8-pM4QrLg1VRPXA-EpLjk",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA2wzps8DRjz0-rK1-FxOULAfLIVTza6XccvHbj19l4N8lWYjm7-j1V22cfdS1B4iUdoRaD18T7p0nXehrpAYmAAe3XO0-r7YwibRW6JEOH2gwyuc913NjB_OcEO2tV4fFMIxsoaqVaHSWSzmE38P3TxIQl7h2Scv0jW50JqRSZK_9HxoUP6y0wONgvotO-9-bH1v-16ASUlQ",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJZyEN04l1nkcRqiNTEbkgFfs",
+      "reference" : "CnRuAAAAWX5dmkc0anH2e8_zDX4rCPhmm97icffQGyDQq52fKvPH9w_ouC2lYRg9ErE5dnvFNnU7mn8dgx3b3m6hr5K3PbNv2gJOpaqIguib-T0E6SCwNrlaWt1GsjwIhWw5CpULT6WbB_rDXKZq4qsQcWAavxIQoRNTsD9KMCwGKokBA4q-uRoUOllWwMIjU8tQy7uIuu2o-7JxzUM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "E Kam",
+            "author_url" : "https://plus.google.com/100715660899267284895",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Was für den typischen, retardierten Münchner \"Kult\"spinner. \n\nWenn man die Spieplzeugkiste irgendeines Kindes inkl. der Abfälle in Regale stellt, hat man schon das was man im Valentin-Museum sieht. Mir wurde fast übel von so viel Krankheit. Und Krankheit ist wohl auch der richtige Ausdruck, sonst würde es nicht auch die angeblich intellektuellen Verehrer dieses Erfinders und Kultivierers der Münchner Einfalt sein.\n\nAch nein - Musäum , ach wie originell und intelligent ! Ko..z würg",
+            "time" : 1333981758
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Thales Daniel",
+            "author_url" : "https://plus.google.com/116913913062471985491",
+            "language" : "pt-BR",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424646517
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1329485270
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/102571983694505634836/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Tal 50, München",
+      "website" : "http://www.valentin-musaeum.de/"
+   },
+   "status" : "OK"
+}

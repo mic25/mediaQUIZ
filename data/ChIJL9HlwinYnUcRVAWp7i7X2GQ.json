@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Stefanusstraße",
+            "short_name" : "Stefanusstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gräfelfing",
+            "short_name" : "Gräfelfing",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82166",
+            "short_name" : "82166",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStefanusstraße 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-82166\u003c/span\u003e \u003cspan class=\"locality\"\u003eGräfelfing\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Stefanusstraße 8, 82166 Gräfelfing, Germany",
+      "formatted_phone_number" : "089 858050",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.11505,
+            "lng" : 11.43524
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "1599f483c8d67e17d72a86fc6b4b06a26f9494f0",
+      "international_phone_number" : "+49 89 858050",
+      "name" : "Doemens e.V.",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: 8:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAuJtoJbDPBdpvby4GNwcGZjyqlyICYrgVG41RCzfi0Wr23C4xA07pKl5ro-QNWFl1A__ryk0PgvOPDDtRzZQbuygF-iSQxKsHrQ9XfMYB677RCH8SJ9Z5aUwGUzkVmlRFjvMibshYDae_O339--ehbhIQ3VRC58UjIZTLg0p_5zvjdxoUnsmxvmxrbuE2Xp53qzeifg8uBtk",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJL9HlwinYnUcRVAWp7i7X2GQ",
+      "reference" : "CmRfAAAAwoI8nbCAQYqUFLIMRJ71UglEyZMXEI6yqr7i4MoKBvgtd3aZr1v1hN5Jyav76w0CCMpf4dZL0JuvuI8KgGJG2bmRd_OeBCVerD22Cu0ZEmYu6JAbk1-c4sUkeTXM9EC3EhD60MDpR_iaQuX0dzRXSbAEGhQihiwl12IyvGECbyz_raxkm4tv_w",
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/101654656672034161595/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Stefanusstraße 8, Gräfelfing",
+      "website" : "http://www.doemens.org/"
+   },
+   "status" : "OK"
+}

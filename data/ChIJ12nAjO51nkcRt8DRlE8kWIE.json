@@ -1,0 +1,307 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "27",
+            "short_name" : "27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barer Str.",
+            "short_name" : "Barer Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBarer Str. 27\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Barer Str. 27, 80333 München, Germany",
+      "formatted_phone_number" : "089 23805216",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.148291,
+            "lng" : 11.569985
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "88f98b44155859fa2d73f4c3b5d7bb355e2424dc",
+      "international_phone_number" : "+49 89 23805216",
+      "name" : "Alte Pinakothek",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAwOfX5PYz5Kdhjm09esbId5xZHw9Y2s4WyRAvhESTsVYdz_G5oDjizc3THe0dvFU_dtjufzYHOq84SUz7MhNgcmhqx22291ucBRMTUWouoTUULEaZrpNRoUe8ftMSEmZ3-4JZxnbgxPBiNY3KNjHDORIQJ4L0b2NZd1BhVYA1f1B9pRoUxy1gjTmNjJzUUYpSQ-gMhYr5jtM",
+            "width" : 1632
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfQAAAKp4ITsI6-VTQ9TLALQDKyYJKrKYcJbqkPn1FfGkWCP-2BDXWiLXBDXit2auqkrqaw7GDmhQCny0thHEjAA6BnVEAgGF5r6hb5rm46NDFOWEDhy1Ay5S9zVnqtxHBjEovj57A75rq_I2BpDJXmh2GYHVcGH3Prm8bAcXRIr-QKCXEhA3ggnwCpBfsILvZ5YUuYgnGhSD776ZJegVtWN4G6x3BKF5XhBW8g",
+            "width" : 2048
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115721144720842462069\"\u003eRita Holland\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRvAAAAQMQynGClh1AiODNMRlY1GmTQ53WXOvUkoZlQXAfr3lRdqMboMdbp66-AR1hoNpf2e4Wiaicc1lxvWK_thC1IYteXykwSlTdHqW-G_Zrw5yQMFsPLkvMeyaYeIIoAIeqzfPeJCRDfjIfIdCl0C-IKDBIQclUZVQAFocgjc6QdiazELhoUXVVWTpt8dBss-Ny0yyLofaPJ7yk",
+            "width" : 460
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA-aC5eu2oj0KboNw94O4t_UedDW7KCL-Z---saodZhl3WSQvQzRBRjo8gFM0UbbRUh1-FR8JqX5afEt1OIgVR91-Cc-Q9Q6o869iDn0U3H124R_8a5W-pPB2isMtk3W501mLk6i1e4h1yLH7efo0J8xIQ47nA-9NZ3KMDOTEPxpdmZRoUS4eIU520G5OD2nWALanjk8k7B-A",
+            "width" : 4000
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113611137727177930434\"\u003eVesselin Nikolaev Nikolov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAwLll9xsXlL-IBApFe_-UA0DUGfJPxus6ZM_sGf6KlEfP5QHPzsR6AiVG0FHX1TRq9bZhYRX-smt6RuGEUm8ZpZ1IGQbOCGJZbmykrYFCym0vm1GQXd8ckb8qB3aGz8EE_px77dgrWYh69deRoR49ShIQjL_0P9VRVL6uhay3jLp_yhoU55Lb1xMB_QPPJvuMJHWeqpTnUrQ",
+            "width" : 816
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CtQB0AAAACGzMqvcRTbmAQViQ7Owi_JxFOjKk0FC4SLCAq8REq6HAk6z6Fqrs_rfZRZ-WMdduWzvraRyIT9Ir_LXHIQhD_TB02ulm84F8vxaUx083pIrIObUQmfXQzwch1aKXi_-VRmSqlc7aeB9-fQULZ-eW-9uUZlBqK9dptZvTr7UGN73L2dxcjHKgfbQjLgx8QqQAhEFs6lrnGpAK46c6cV8Z6IY1SIO1A-0ErGd_0_9YonbOyVzQFxynoDmON4o1GBvzhQC28i_RjlfwF86QbYJDXcSEJIYkvvFP67VT4qDgtNYMksaFMu1uxAyEn21DBIh-qWxJ0ZutH0s",
+            "width" : 2048
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAZgyL38zkJjnRUlhfJFBGxY7CT_4u4UeDlPlCOB74AnDp4rZSuTziRr4DLnzzO7Do0bolmBoi1Av_a99NxBGZDyNhiB0chbYf-6_ZdtsbpM34l1O_gBUaR2yysMs69zODWyMNY4iOD69wwShNmvDxwhIQa785tyljdDR9E4ddFjhfIRoUwmIVb-33Vlx03eAhevXgDKpVm3k",
+            "width" : 4000
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfAAAAMJBpMtQz71PGddKj8pFXqXHHu0J4pbTzQG_6PgSo-42h5zmHXRgGRDCsZKDkKSXVvsrH9VkiEc8AuSx5kbwRle9XQp4h-rLYuqqYI5Z6SFVC4SiBipVYI8sueKv-Tza21Kn3LnV5VXhxbT8EVmt9N-91dWLYNmsqRJmBsxkENz4EhD-3MwapwY2MzhqzI_DS48DGhQMY26-LNapOfGEmCD71FxKLn7Amg",
+            "width" : 2048
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAX0n4FoDkQkOO4GkrvSOX_pBhR9fKIiqUh8U-_uk2aweeXxjEugMeX9Df7_tY8Q-Jcx9ilp19bWhGgP0_YfE5OBXW9J7V8hMpoGsc5Dwb1A0JR1H664GLMaNmz9bur6Z04KbQSA6sK3NKgUffKS6MfBIQ-J5JMMOEC56aXoPkSUi81hoUzYUkb4Yic_tgisI4Zww5Wd0iWB4",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAaQk-a04N5RRCqXNH5OTezwx8FiCw2VaYfSAV_0C6BJCbG_H0m0rExqV8AeH5IWE1KiJhYjnW5_By25bQwcTe0CdSuFxg5YNwp8287x-ZfHmh8esM7jneEXq8vcVay3Jyr50f7LYoVGfMBR-n8rTSuBIQ-tAr2RnTuhLyJcMyB7Y2thoUHyIOEEWewzSIUguyD8WEZfJziQc",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJ12nAjO51nkcRt8DRlE8kWIE",
+      "rating" : 4.4,
+      "reference" : "CnRjAAAARE2uKkrJcsK7YmZxAa5kGjj2Hu1XEHIAtkGPBIw3w_elR_Pr38YgZXG2xvCG0l5vzn63YRAAHywlb3AevNHFnb_WfsZ0JwqZYlb399F719KJfF1MZTlhtoNts1xCbUUoGnjwRJ8eoHQjGHBk-tjllhIQDo_SB-CahRxF2yJTibaL3hoUQ0zGDuFNwFToReIijKGe4ihLHcY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "One of the world famous famous museums, Old Pinakothek is not to be missed! It offers artworks from the 14th through the 18th centuries. The collections, which include but are not limited to some of the best of Sandro Botticelli, Raphael, Leonardo da Vinci, and El Greco, are magnificent and will take your breath away! There is so much to see here. The building itself is extremely beautiful with great hall and stairways leading to the upper floor. The only thing that is clearly missing is time to slowly and thoughtfully appreciate the complex beauty of every single artwork. I’d recommend you to get the day pass, which allows entry into all of the art museums in the area.",
+            "time" : 1352502803
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Darren Baker",
+            "author_url" : "https://plus.google.com/114975089313784174790",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "I went with my wife on a Sunday while visiting Munich, and I was glad we only paid the Sunday admission rate of 1 EUR/person.  You can get through this museum pretty quickly, as there are very few placards to describe things (most every painting only has a little tag with its artist, title, and date).  Most of the works here are German or Dutch/Flemish, and I think they are all from the 17th century or earlier.  While there are a few interesting works, overall I thought the selection was a bit lacking, and I will almost certainly skip this place if I go back to Munich for another visit in the future.",
+            "time" : 1301916862
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Jonathan Juhn",
+            "author_url" : "https://plus.google.com/108936774943972703553",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Lots of Baroque and Renaissance paintings.  If you're a fan of German, Dutch, and Italian art of the era, this is the place for you.  Some fantastic Rubens on display, as well as some choice Botticellis and Durer!",
+            "time" : 1372619138
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Patrick joos",
+            "author_url" : "https://plus.google.com/117785062513569239609",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "101 ways to paint the crucifixion, inbred portraiture and a touch of sixteenth century art school dribble. \nWith sponsorship these artists illustrated grand dogmas, without they chose to paint bar sceens. ",
+            "time" : 1352821366
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "great collection!",
+            "time" : 1299736673
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111286471501113024544/about?hl=en-US",
+      "user_ratings_total" : 34,
+      "utc_offset" : 120,
+      "vicinity" : "Barer Str. 27, München",
+      "website" : "http://www.pinakothek.de/"
+   },
+   "status" : "OK"
+}

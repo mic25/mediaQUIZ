@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Germany",
+      "formatted_phone_number" : "0821 4504470",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.348344,
+            "lng" : 10.894336
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4a2ce97c7f329bb00362f84922801b5656b1f1cf",
+      "international_phone_number" : "+49 821 4504470",
+      "name" : "Augsburg Railway Park",
+      "place_id" : "ChIJ6cFn06CinkcRwxvWeXG5W6Q",
+      "reference" : "CnRpAAAAbEAOXWMr1vhnldphdG0LiLi7bD9nb6ggjecy0N1X-tajE7_OWaP_wysEUGK42I5N7SYBH5j59E5Vd-RF7Nlao_qHeSa59C0zs2uUzCxt9ZvvNGHGW1Pqq8Jg2ULnYySJzERynhGXk266wGaMPkNW3xIQOYdrhYvP3G33l7AnDf6fBBoU9JU0MvjbVLXIXl0FufCpOM9ZU2k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Peter Schneider",
+            "author_url" : "https://plus.google.com/117100934689869598055",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich habe 2014 meine Hochzeit im Bahnpark gefeiert. Es wurde eine Super - Sache. Es wird uns allen ein unvergeßliches Erlebnis bleiben. Ich danke Herrn Drexsler für die tolle Feier und Organisation.",
+            "time" : 1422421132
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Michael Metzger",
+            "author_url" : "https://plus.google.com/106347756372341121478",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Tolle Lokomotiven und interessante bahnanlagen",
+            "time" : 1426156190
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1323960997
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/110226690205948885199/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Germany",
+      "website" : "http://www.bahnpark-augsburg.de/"
+   },
+   "status" : "OK"
+}

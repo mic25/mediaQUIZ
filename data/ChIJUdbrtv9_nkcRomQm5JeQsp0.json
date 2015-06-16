@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fürstenfeld",
+            "short_name" : "Fürstenfeld",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fürstenfeld",
+            "short_name" : "Fürstenfeld",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Fürstenfeldbruck",
+            "short_name" : "Fürstenfeldbruck",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82256",
+            "short_name" : "82256",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFürstenfeld 7\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-82256\u003c/span\u003e \u003cspan class=\"locality\"\u003eFürstenfeldbruck\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Fürstenfeld 7, 82256 Fürstenfeldbruck, Germany",
+      "formatted_phone_number" : "08141 50160",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.170296,
+            "lng" : 11.24904
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "e1fa42225d430da0804829b3cc9cb83671e19b2f",
+      "international_phone_number" : "+49 8141 50160",
+      "name" : "Fürstenfeld Abbey",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/101015043342241054828\"\u003eFranz Erhardt\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAACzhzPWvMI-tait5E5e4lxn45pn_hpMc7wNmiR18yFAGn4fzLN7vK7Y416eFFmMwspn6mnfNzu0-_fN5aWpMAQD2ELlyM_FvMJh99CQuT-VGtkFXuxMM4rauFD1F0BJCi2pm6_x8RG4j4qXdtbkmdIxIQ11I52bPwn-HnRxS_InvCWBoU9xaTrsc1lZbo4qn0eQH7ALiYtws",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJUdbrtv9_nkcRomQm5JeQsp0",
+      "reference" : "CnRmAAAARtVJPtZZngxDxiVXwEHSG4pWa6ILDdCDVXFwXh0L8Q_5Ckxib3jwuQsI9eGhgCHuVtBhecBkFUZeRSlNaFbZqbA0gViwKgiS_g-14x9sGzNbRkiWz3N9OX1UiosLE1CQiXxN2cnAJwuYG80FZOdg4hIQ3K2g7MqD49tHPmxm5RKC2BoUCoQr9EPTCwtMQzdfxTyZ1yAebLg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pouakai Doe",
+            "author_url" : "https://plus.google.com/116331863398432007762",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1369285116
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dominik Schmidt",
+            "author_url" : "https://plus.google.com/115235135241325020540",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1421285814
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1332863037
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1333790763
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/106407526573207092766/about?hl=en-US",
+      "user_ratings_total" : 4,
+      "utc_offset" : 120,
+      "vicinity" : "Fürstenfeld 7, Fürstenfeldbruck",
+      "website" : "http://www.kloster-fuerstenfeld.de/"
+   },
+   "status" : "OK"
+}

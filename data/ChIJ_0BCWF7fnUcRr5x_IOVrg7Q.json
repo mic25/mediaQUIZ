@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "An der Hauptfeuerwache",
+            "short_name" : "An der Hauptfeuerwache",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAn der Hauptfeuerwache 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "An der Hauptfeuerwache 8, 80331 München, Germany",
+      "formatted_phone_number" : "089 2353001",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.132554,
+            "lng" : 11.569928
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "acc4d286538c27f8938392c8a40dd633c28dadc6",
+      "international_phone_number" : "+49 89 2353001",
+      "name" : "Münchner Feuerwehrmuseum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ_0BCWF7fnUcRr5x_IOVrg7Q",
+      "reference" : "CnRtAAAAbUQSFqkSKh83p_dH7N-JDilpEZlCvwsWlxr0d4vla3wjgtd93wjNbDDZRTlUaIQatFFhS6jv84R-fhlu5WThTL1QTKcLN07vtBKzqOJhuUv7DM0SaDHg_3RsXgG_heJJj3OMr1Jf48diVM_bfvZXbBIQv9sildelHVVvwggaCkGs-RoUYjdT7DZ8WqKpHANXf_2X7pGqgss",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rich Young",
+            "author_url" : "https://plus.google.com/103364129837001872911",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Great museum. Plenty of history and information.",
+            "time" : 1379208668
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Hörhammer",
+            "author_url" : "https://plus.google.com/104436051474179262634",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Klein aber fein",
+            "time" : 1328551341
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Einsatzfahrten München",
+            "author_url" : "https://plus.google.com/113045900964967693757",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1411812424
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/117671182646854976087/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "An der Hauptfeuerwache 8, München",
+      "website" : "http://www.feuerwehr.muenchen.de/"
+   },
+   "status" : "OK"
+}

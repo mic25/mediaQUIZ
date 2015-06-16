@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "29",
+            "short_name" : "29",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barer Str.",
+            "short_name" : "Barer Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80799",
+            "short_name" : "80799",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBarer Str. 29\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80799\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Barer Str. 29, 80799 München, Germany",
+      "formatted_phone_number" : "089 23805195",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.149887,
+            "lng" : 11.571114
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "595d58dd46a5380615b1c6f16acfc61b9d816328",
+      "international_phone_number" : "+49 89 23805195",
+      "name" : "Neue Pinakothek",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAlDKYIPkMztmGHOM0iEJWYMeDiIA1HRmjUmLNRbrrc3Qapo_VLGjI61uaVjfhpcHinJv6UPZaeRlS-Q_C3MBBz3qE8V2Dt6l7ROvSSbmPJfDgX1-ZFE1gMsAGxvdceUWD7A3GjALxvs6PFYjATapRkRIQmJa1rBVkBx9T2V64aUAyuhoUgRCF6clGi9LpYX9XQ6WgpRhsWpw",
+            "width" : 4000
+         },
+         {
+            "height" : 3549,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CqQBmAAAANUGpOHVOlfLRssnS5pGNk1a79TyGcoUR1I-b5zIkLERiAVYFUP22hGDZbHFLieFV6ABcyPx7KpNpkju5codiX9EMPI1K1BmUMkimMu0EyMgAT8T6aqo4uHLc-_SZIduC4bfv7hPVXbePp0r-7sty5uOgh7iCEeQlQTMwmeHgU3Bowr5wR7mGnRHVyVS8aorL1j97hJwHYzrNpYKQFvFC6oSELDUoL9DXfS64JEM03m2dmIaFCgcV5zo36qYHsAsZapptZRAbQEK",
+            "width" : 2629
+         },
+         {
+            "height" : 1362,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110312197493884322762\"\u003eAndrei Stoffel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfgAAAGInLp2-UX7j5C9JCbNXlGkxX3ioZ0oxfhFnT7hiud9JxRrlmBpZdTmOc6rV76q0XbM27UiHJssecanmpWHymyfqzhlczyUgu06NGKqarZk9eX73Vt-xyMpVTPRg89sCxlx5cqR7kTtxYjdu4pJB__77JsYIluk7vuOf1VSob-0zEhAk_7LD_BzSThdCr6MSt8-vGhRiyJ-LqozihQGk_J2gwzylG1FXYA",
+            "width" : 2048
+         },
+         {
+            "height" : 1362,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110312197493884322762\"\u003eAndrei Stoffel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAss5iaIjNOqJFooTwmzKRopzMnj7eIFfqOcls84I3kcHwTxvdgWj2KM3OWcIhgTFfr6BNsWlMPLtg2dVQ76SsScKwwxeoBKgQcnyIr288PbzgZsLEuKY4CU9t3zIEpe2s8vGzgyUtvktubTki5iv5rxIQ2yZpCKVTX3WtA7ocJgcD8hoUz0rvPRWGwUkqqLBoZ9W2Thrh99Y",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110312197493884322762\"\u003eAndrei Stoffel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAs8OZhXU109QM-P53gSK5H2qe8uPtqKTn_bKI8V8ssBk6gRg7VGlFJHq6sSF8AvpYL8kcERymD1SUdSeSmmKqYnG2jOhdv8kc6A_VNWpq8xMvvplERbdiFB8YucMZv8TCvy_8vPI8sWvzh-_Qu7NO4hIQ9WcVOIhM9emq4Xns13OQFhoUUyFhJ0I9bl3F0GtpShxK-SljA3I",
+            "width" : 1362
+         },
+         {
+            "height" : 1333,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111690381383765215001\"\u003eroberto marongiu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAqkdsK1O8JXfpYWiaNavGCnV85bYQ82L8O_REJWw3lRXs72QcEJsOo551z_JsDA1qpW2CihK0NpEXVCEdVQIPyblOmoLwVYR7LEFcgSUP0tXVPxRgvKAWzviGlYV3ahqEzo5b2qW6r5cv4XxtF51O0hIQcXwmxKw55T4544deOHGW5xoUeGLatw0oetjvaVqsWFfXPY0KrDs",
+            "width" : 2048
+         },
+         {
+            "height" : 1362,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110312197493884322762\"\u003eAndrei Stoffel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAAX2-2QleAMBFdFlzgrAU7xj7ZS0BdfuLws3dHnBSrN2jXMexjbKzzOrMPIz2rFjvwZgRQfzcUo8YP2TVhbwsVj5Bus4OqOvyqsB-BsadEsWPcUokruAGtCVJA0Wij--S0ktJdhR_tEvEk-VKFHgRzVBIQq-pA-_bnihg0Z8cONYy1pxoUu-w0OaHAFSJAeLoKGHLB1Yr7i4A",
+            "width" : 2048
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CqQBmAAAAIJbidqRH1c_o_q-qZxk_JYAqB-kryPc0svk1N0X-MQrDrSKQBfse2Ci6etPLXwAERwLBcNnrtACi6gxJxn2URyMijaPmUf-AippAYDeGUxWX7jd5jHSnLgJxHV2S2QqLlCVBwXPjslwyoYvLs0RS7jnGZm88PO-LizXHskCbCAguE1ImTjKJaYeIHsWiYkwzEy2LjySmTQ59g7RaMy9TFoSEE__mWC0Yx-MNWp5CRLb8l4aFJTEA1LHtAvuxnLkpMtSQiH_x9v7",
+            "width" : 3648
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100776879133523310873\"\u003eS. Murphy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAteZMDXf3OlDwY7ZwG8VkHcM_IR5JNmukCZf68tyoPvEguvIhd49juQITdyI29E_qfT63NNBNBwxwoqPxXYzOTftfkEVwm2KkiuBuWrHTsW3BsudK7FuM2nCWajt_JYD9Ddw8bbUd2_6OYab_IWOFnxIQQKIv1jCNdJRuu5hrckp-_BoUdi-bVcxWVoWYlAEXPlGBQoFRisk",
+            "width" : 4000
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111690381383765215001\"\u003eroberto marongiu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAALqiW8WHljhjP80oDOxFslb3sN16-14MWtGQ_z1swnpekHmqBWJZ7SGLnlhpai-n9FD6hhvFGb89gtMGjXkWDbctXnzYi9_BSob8RhNJyZbR-LHkpBr7efa9izAY4NrbY35NTfbcTAgffkNMXqDWsHlXUTm2HjC4rvluSVN9AZeoEhBViuH9-q-4e-LP4KeEM5-BGhTJS9l2fT-KV2XsF2LeytnAFEFFyQ",
+            "width" : 1536
+         }
+      ],
+      "place_id" : "ChIJpxwTuO51nkcRFd7xxn8IYpA",
+      "rating" : 4.3,
+      "reference" : "CnRjAAAAzD8cavHiuboZCLFfOaQd9q_grzt8YKO9HKaOZEmtoNSz2NsSqmqdUXJwqdZRlR_oA87BAc0yy3Q8GxIWQgsnwGTcKw-rsZ_8Ma--3zE2Pwqw6mveneFujVkWPJu4XhNC7Ui04NSRHQ1nedA25t74GhIQRpb1SXgjEHSpljcO5t0UWhoUGJPOwlsrvfLrPA9vFl1VrcgzufQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vicent R.",
+            "author_url" : "https://plus.google.com/110845130831038504412",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Careful with the arrogant male employee at the ticket counter! He angrily  and loudly refused to give us the student discount even when the university card clearly stated in three languages that it was a student card and it was valid for another 7 months. All other museums and attractions have accepted it without any hassle. No student discount at the Neue Gallerie if your card is not German. 😡\n\nApart from that, if you want to go there to see Impressionist paintings there are not many of them. 90% of the exhibition is devoted to other more classical styles and portraiture. ",
+            "time" : 1428015477
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ilia Ternovich",
+            "author_url" : "https://plus.google.com/115144948377355532202",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "My new umbrella was stolen here. Hate this place, security near wardrobe is ridiculous. ",
+            "time" : 1430666044
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Really delightful museum that focuses on European Art of the 18th and 19th century and offers an impressive collection of paintings and sculptures. While the artwork is stunning, it's very well organized space and friendly personal that make this museum exceptionally enjoyable and provides excellent experience. World famous Claude Monet’s Water Lilies and Vincent Van Gogh’s Sunflowers are worth the visit alone. Take your time and look at every painting for a while, it really worth it. Also, location itself is perfect, with several other museums nearby. Don't miss it if you live in or visit Munich. Please note that you’ll need 2-3 days to see everything Neue Pinakothek has to offer.",
+            "time" : 1352502837
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sharad Patel",
+            "author_url" : "https://plus.google.com/106950462193863461634",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Fantastic collection of 18th and 19th century art including Van Gogh and Monet. You wont be disappointed if this is your kind of thing.",
+            "time" : 1282573531
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marcelo Ivo Martinho",
+            "author_url" : "https://plus.google.com/117344587654359219398",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Just beautiful a great view to German and central Europe history and paintings ",
+            "time" : 1380404686
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/100640214090115419368/about?hl=en-US",
+      "user_ratings_total" : 28,
+      "utc_offset" : 120,
+      "vicinity" : "Barer Str. 29, München",
+      "website" : "http://www.pinakothek.de/neue-pinakothek"
+   },
+   "status" : "OK"
+}

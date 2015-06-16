@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Museumsinsel",
+            "short_name" : "Museumsinsel",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMuseumsinsel 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Museumsinsel 1, 80538 München, Germany",
+      "formatted_phone_number" : "089 21791",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.129871,
+            "lng" : 11.583452
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "da0031ec88ab0cd81f78f37b9ab62b5875824893",
+      "international_phone_number" : "+49 89 21791",
+      "name" : "Deutsches Museum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106532870676217954159\"\u003eAlessandro Critelli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAz3HyA-YYtifuS3RKhp2caxiBjqfF2JzLkcvVKVn2NoTngg-Bwd7VVkEeS0pwnRa1MH5-zoevkhyWFsu0_X247dWqgEZ02qbc1lDpHQxPbVQANgz5anoEVGY-VFMAxjQp9WTKyV6FaMHcuaxzDrbcxRIQFCKA66hisRnCpjrGP27DYhoUX9b8faa0zEWnyu-61cDltO6AaoY",
+            "width" : 1032
+         },
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/101074315449339637747\"\u003eAlessandro Girotto\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAuADeTLSgQpE-sEPS3GxudtyxBEf06J4SUa46_-YavnWnKo8ZGI9tMieMovV2BUN3iw7Wf4JoNWHBxGBJSVaC4WNGPs6WzzdIFvuaD2C_Gy8X4hdRW_U0TU__L4b3LKjthdw9Un0LULR6sTHTDg9R5xIQJ7ng_nZ1Twzc8AicPfGzPRoUrasRUOtmYJkGZL_ynUwFGS_dO7k",
+            "width" : 1296
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA3Y4l_nybuDRePELrisrYryBDsfLQhsQcsLKnF3jEBqa4TYeDk8LonPowbDenoHQpPSldJAbAm_88GZzEW87IFFvgEB3mdPJKCLB75cVNQFPbX9GDY6gWtLlQkn_cfmGN1e9Jn6wtW9MacB0xgt-J7hIQzSkslGn2epIhuHsa_yH6QRoU_x2fpg7bqAlXKpa0M6Hx74iiVyg",
+            "width" : 2048
+         },
+         {
+            "height" : 240,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103144995802608932491\"\u003eВячеслав Большой\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAA3nbpM7lJ25ynpG1K2ErTsdQa_qZPVXjfIaLEDqH1c6Q-rYpuI6pOlc2r2BIesGD010tG4gO_fy3bbl0GcE__aICsMua6av-i1xVd79C5JbGds5yIV-Gm0AgzTxfpxX2mkwDvmnwZrHm0aapABEgTABIQHbJfSC2TdQlPFaGS7KTZDhoUUOm1JQoPz_Ij0iEOpNz5cPYtpIA",
+            "width" : 320
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106249077384481148053\"\u003eK. Asiu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRwAAAAdQAEc0neok3CaBXNYOQzH5NHCMre0Jh6PISJBIdspDM_TSfxXXhnuI8MMsKmX0ug3qMPQYTlIKONgKJ4ur142Rgtd8pl850rJ9kYBZ4uIrbgpNvxKeIQMwd4EILoiPvVNQjAcfa5yzx3PmNXHZVsKBIQxHZL4pvy2Vqd50jsdadsURoUpr48-vmQBGIEw3vNs11H1akkErY",
+            "width" : 816
+         },
+         {
+            "height" : 240,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103144995802608932491\"\u003eВячеслав Большой\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAAE721i1mBnAKe4uxo-uo68Reziewj37sbb00Vgc32wAo4dhKFkookgxxkbApl4yRw3xbuzY4g6_Br2CDYLUi3r2uE3Im2gomkavU6Wm0uFW3dB9iXSTabXN3fQh5KFIFIYKtpqkqHr4D4FYrfPk_z7hIQhh1_nr3D7E38Z39Hn5krwRoUn1GJnkDxEt6w12PsqhmTG5QNSnY",
+            "width" : 320
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106249077384481148053\"\u003eK. Asiu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRwAAAA5bOCcbj8L1W9pPnxCd1vqimQbO0sLCkD4ZU4PEyNgPJu56qfdIAnXh_PEbEvHTk0WksZbE014bFnlN7jaOI8uArXCRWZZAtA776zlcmxBqTsY7Eoo9_PCc5aFyLp5uY2mJsbvbJn1dKyV6zWlYvLVRIQHQfS8I-AMCMI4YRUBtpqGRoUZ0f_JrOzbu72uZLOfZAklJSRDig",
+            "width" : 816
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/101131820508870088627\"\u003eAli Egal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAqfWmQkVq1yN2GjIYpEEwICfSsLmEKiNCWXdml6eeS1ZkTl-SrlFz35_AxFZq04hlqVIg2SgNiKlYvFk-m90lW_bWxs9RmxsQ5WY1asWdJqF7exQ2Eu2ZNz-ViVWns6pWIQjut4KyRIqiXmBh0CsGOhIQfoCawBSofeu4Re-PcTJpFBoUu_jNSGyE_aTFew3pU13-Z-BHwqk",
+            "width" : 1280
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116880211078703334950\"\u003ePatrick Poerschke\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAxWH4cQJ_wVwOql4tqrWQCnv0_kr5re1gcxQuKrg5VnD1C7ovjMPNVNYLWAXV5435_5oqfE9wNv1xPaYn65WVShlPBfxJYYCc-WBVD7wCU7j8qAtOVwzPW9IZPxajucnnFc6xAFMxdc7pYPDfznut3RIQW1ebhvg7O1aXHd94TOel0RoUsLK3V1Keq04MQpicZHRRJCZFyr4",
+            "width" : 612
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAGMEJApKrz49b9KrgBA_JCBtI3sEPYAYcXlU7z8id5O3TtJxgnkzRHTwffYRvmXzMn7A4ZJGE6Ff5JFS-dNQ2FMxAIdwmA6cJOmEXhLjodTtDWxCnBOfFgAF_h7_Ix-bcAB7Wa1_uIOCVO30H-F7qShIQxhDDXu9qJYIWEbMkwUw0zRoU_ZOW2L1u2XQ9ctghNRsZPZ0k1EI",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJ01CaE2PfnUcRUpb8Ylg-UXo",
+      "rating" : 4.5,
+      "reference" : "CnRjAAAA2L19nuUtXOwe6U8I0iGVMuChWi1ECMee3PdCJeAaBG1Z9wjl6w0PZ-087oVe05R7PkM5Cwmxn2Qks0vuwOa6eLgETIorn_6f2Vj6F9S-gDFqXeMmaUjvpDzfcoPyIZz0BHskVgxWBgNDhJ2ZI74I9RIQGzr_-83OI_hbqwQaLPBQKhoUEXYv2N1p0rLSNj_DfLOdTpeCN9w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juliano de Aguiar",
+            "author_url" : "https://plus.google.com/112374640014843860285",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "The best museum I went in Germany (if you're an engineer, you will be delighted). But expensive. Please, buy your pass for the three Deutsches Museums in Munich. Although this is the only one mentioned, there are other two: one focused on trains (verkehrszentrum), the other one focused in airplanes (flugweft schlesischem)",
+            "time" : 1427788854
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "J. Henning Buchholz",
+            "author_url" : "https://plus.google.com/103181491051440302934",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Stunning collection of a wide range of exhibits, including an actual multi-story coal mine. A number of exhibits are currently being modernized but the wide variety of items on display will make it hard enough for visitors to see everything in one go.",
+            "time" : 1426108350
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erik van Woudenberg",
+            "author_url" : "https://plus.google.com/112817005110718022506",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "The museum has some nice exhibits but it is outdated. It needs to be properly cleaned sometime soon. It is a maze of small corridors and it is hard to have an overview. A museum like this should be ashamed for the restaurant on the top floor. Expensive food which tastes bad. If you have some time left in Munich than you can visit it. If not leave it and find something better to do!",
+            "time" : 1425223637
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Claudio Fss",
+            "author_url" : "https://plus.google.com/107880127729486605741",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "One of the best museums i have ever been to. you can easily spend a whole day there. it is huge and amazing. ",
+            "time" : 1426676335
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Heithem Hafsi",
+            "author_url" : "https://plus.google.com/100674491019109596008",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "It is amazing since it has all sorts of technology but I would recommend coming early since it is HUGE and eat before you come since the food in the restaurant is expensive and once you are inside the museum you are not allowed to exit and come back in again ",
+            "time" : 1419593591
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/116273145903661040557/about?hl=en-US",
+      "user_ratings_total" : 257,
+      "utc_offset" : 120,
+      "vicinity" : "Museumsinsel 1, München",
+      "website" : "http://www.deutsches-museum.de/"
+   },
+   "status" : "OK"
+}

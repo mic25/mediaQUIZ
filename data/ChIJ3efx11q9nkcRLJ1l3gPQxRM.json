@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "30",
+            "short_name" : "30",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Frauentorstraße",
+            "short_name" : "Frauentorstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86152",
+            "short_name" : "86152",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFrauentorstraße 30\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86152\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Frauentorstraße 30, 86152 Augsburg, Germany",
+      "formatted_phone_number" : "0821 4507945",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.375596,
+            "lng" : 10.895638
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a54d122bb79c3ec37e788996abf754dc7c59a1a0",
+      "international_phone_number" : "+49 821 4507945",
+      "name" : "Mozarthaus",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 771,
+            "html_attributions" : [],
+            "photo_reference" : "CoQBfQAAAIsvhCPMnuVIJywFKUmkZelE2312b6m3VXNwHCFDMOtlcFnM9qrz7TCTtJ4lTJo59gYtIuvTLnkzw3S7QRBS2OX0p2Pkm1NOsYiAWR4upbdf8bleAAbnf6yBIoxr-DII6lyuK8_3T5u7m4PSD4EQJx21ikMaw7NBmudto-W-wS_6EhD6bIpj7NrTd6FQv1Ci7MawGhTWfni-alDU9rfSTUCRPDSuEWk1QA",
+            "width" : 768
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAHRTNJsOlhuoQe1YSXm0MZYcZXK50kCzcltiRpFNWfkEfTzWEEtJ0WnMSSEHqNahjsNK9IkHk1Mn4-ZJ1K51i4DD0kjcEsE3MewAyXqzsD3PoFKUdKpG2TEeChk7GU5CzZEWclw7GYFxefYwkRA7DURIQqE5cGvmCeiLmfvuRfmENjhoUw-sqM3xp_2JD5DGuiGFl9OgeV00",
+            "width" : 2048
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAARg2UGndsNkQClpNHyJViPMIorJ9bHk9crc2SdF5TMH93uFhJxWh1ebnQ0IX2R1X2VDcUH-Z7-Oepnek7RiDnAc3EBPHmEN3RXfmlkZLfY8XYZyfHSr0dm8S8ewhlN77T0xU2YkomP3A4GHoHM9IKhIQArzIMnVquvAMyTejZYyuYxoUNmn1rpG7tYj4RUyoDMoo6YDnnSg",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJ3efx11q9nkcRLJ1l3gPQxRM",
+      "reference" : "CmRdAAAAQznWqMCcBFh86Uww4Jezg27ZBoVVG56VABBdcxjETfMLcgOvoh8NFWgQDgxEwumXSLtOfKYKe8qghI5z2s1Jl4SzpMNOLghb_GvgQQOy4PKe0kQ-TRKFWsGhk6p19lZaEhDKTJ-zIJvoLK78Bmun7smdGhRHRW5oikM1jDtAMGtZpa0vu7ZZ_w",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106629804374511944969/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Frauentorstraße 30, Augsburg",
+      "website" : "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=19792"
+   },
+   "status" : "OK"
+}

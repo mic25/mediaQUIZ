@@ -16,7 +16,7 @@ $responseArray = [];
 /* web service */
 //$json = file_get_contents('https://maps.googleapis.com/maps/api/place/radarsearch/json?location=48.1549108,11.5418358&radius=500000&types=(airport|amusement_park|aquarium|art_gallery|bar|cafe|casino|cemetery|city_hall|embassy|establishment|hospital|library|movie_theater|museum|night_club|park|place_of_worship|police|restaurant|school|shopping_mall|stadium|train_station|university|zoo)&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
 /* json on our server */
-$json = file_get_contents('POI.json');
+$json = file_get_contents('data/POI.json');
 //echo $json;
 $json_obj = json_decode($json, true);
 for($i = 0; $i < count($json_obj['results']); $i++){
@@ -193,7 +193,9 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                 /* web service */
                 //$details = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$i][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
                 /* json on our server */
-                $details = file_get_contents($json_obj[results][$i][place_id].".json");
+                $details = file_get_contents("data/".$json_obj[results][$i][place_id].".json");
+                //echo $details;
+                //echo "<br />";
                 $details_obj = json_decode($details, true);
                 $name = $details_obj[result][name];
                 //echo "Position: ".$lat.", ".$lng."; Name: ".$name."<br />";
@@ -204,7 +206,9 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                         /* web service */
                         //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
                         /* json on our server */
-                        $answerDetails = file_get_contents($json_obj[results][$j][place_id].".json");
+                        $answerDetails = file_get_contents("data/".$json_obj[results][$j][place_id].".json");
+                        //echo $answerDetails;
+                        //echo "<br />";
                         $answerDetails_obj = json_decode($answerDetails, true);
                         $singlename = $answerDetails_obj[result][name];
                         array_push($availableAnswers, $singlename);

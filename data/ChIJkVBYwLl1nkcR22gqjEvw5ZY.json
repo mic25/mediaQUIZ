@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13",
+            "short_name" : "13",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Haimhauserstraße",
+            "short_name" : "Haimhauserstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80802",
+            "short_name" : "80802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHaimhauserstraße 13\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80802\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Haimhauserstraße 13, 80802 München, Germany",
+      "formatted_phone_number" : "089 345890",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.162324,
+            "lng" : 11.590158
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d0397b521a5892aab7e13af3902e2535555141a8",
+      "international_phone_number" : "+49 89 345890",
+      "name" : "Tams",
+      "place_id" : "ChIJkVBYwLl1nkcR22gqjEvw5ZY",
+      "reference" : "CmRYAAAAK8D3YR1rsx4iGN7vuwh7FjDOif5GnhsjDvMLL-BdJw5Sb_vsb3JLlYzAxJBc1Vx76NAHrrs4NiWjqyTtZYJPaQfSaB2nXKAujBR1VekpsLhE1tqCzaCIXVSswMt_XxVZEhDtATzKJo6v7juT53qFbLJGGhTHfM_8c-hMJi8cyUf7eROiwwoByg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/103597387526031174122/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Haimhauserstraße 13, München",
+      "website" : "http://www.tamstheater.de/"
+   },
+   "status" : "OK"
+}

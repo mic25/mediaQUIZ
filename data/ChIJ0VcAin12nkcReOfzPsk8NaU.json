@@ -1,0 +1,274 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Am Olympiapark",
+            "short_name" : "Am Olympiapark",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAm Olympiapark 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Am Olympiapark 1, 80809 München, Germany",
+      "formatted_phone_number" : "089 125016001",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.177198,
+            "lng" : 11.556296
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "14f0910423d1cad6fdcba816497466a0681c331e",
+      "international_phone_number" : "+49 89 125016001",
+      "name" : "BMW World",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 10:00 pm",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: 8:00 am – 10:00 pm",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 780,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAG-uLMS9OXF2moKQyDtiZeYCljTh533P8XydoPN7wVpqnZL0yGA1n70JapTzXEmw-OKxYRhCdpdauzgBDEFQq2lj-oggecKmlj9U5a3b_f1HHDdLtCscU8VL4BmmFOCRnmCUQoq1oEpxwzl3pdm57TRIQAVucGojMoXavWNW97fVMABoUdXnww8gd1Q74ncooA5CtzUAH4XI",
+            "width" : 1280
+         },
+         {
+            "height" : 784,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAblX0drgjabN-IFZyo_Je7eOG53NRGmbM2u1b1_jqFu5d23_cyoUVXoaXbSfQutDmI7mDY1o6LsCh9K53mPp7LBInzWoplmNyLx7h1OiJmqr_hy1MuQeGxP9OFQATjlbIHXV60_hdq0_NjDkSHEek6hIQbSwqxLNFjwirnKG6_gQawRoU3cG3ETWdA6XNGT3OS69IL6-KmFg",
+            "width" : 1280
+         },
+         {
+            "height" : 882,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAMKGWwbuOxwJO2_NxEH9IwxqvgoYdCaUlvpymJDHEGHuM3T5LCHLH6Kn0NUiHxRTHMmNtLxmSCEOL5MknEzAm6RiYY7bmDz4vr6hNnGqctwEwci_uBoSfXt-7QtIVHfxW4be2YiXkMFyR6bdTVyMLfRIQXt61E2ga5lTN97Ominf7thoUJl36Fs3xs__8-7x7dPNBPqidH5o",
+            "width" : 1280
+         },
+         {
+            "height" : 732,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA9w80jinSwfTdiw-o20EoT-kOmBmfWbSWI-w3msHOE0yjXEGmOlGx0yn2-7bbiJi2i2lRqnBgSmZccLkvqs3-5jdOsidaYuXGD65iob_xU2m0aduQERzHUAQub44xsSZZHpgi3O5J0zLPSIJm4U1bNxIQJwRRLMPmPFQGmJJWs6HQIhoUEsK8mg1a1UcTtK9Z_1EAF4NfT7s",
+            "width" : 1280
+         },
+         {
+            "height" : 923,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAb2edht4CYkJNQyWY4XvZoAzmrkbA-An6e3fVhlAu5sdNfQWYGCeoLD_vaVdlQ3UNsbWO4mDJD4AnYMc270whn9YIky_9UqiYXB1Tvx4spNAZByipS68SjdznpVEamreNcG9WiOs26XriipOl-6r7PRIQCrLKc5tw8gVwz1RVQwvBXRoUKCX5bupnUgqZfecghSOCgkU0_u8",
+            "width" : 1280
+         },
+         {
+            "height" : 529,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAaiozQM3MSHgCR6qDnOPEs1laROKsHOGhUxt-x-96yPY6jBUzdKx19BTwT6FyqXbMbUxP-h5B7p4JzV_CSVsWDOVZc7WOZ34O5mUXdX6rrMc9v3ib6NAHT6X3avcFssK9OfWjZuQ4W2jYFZFepDdWjhIQLmo4QYfUWrOB0T2ZSab-5xoUjQg4nDpYJQrqNrLBE0GKcs0Uols",
+            "width" : 1280
+         },
+         {
+            "height" : 896,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA30Zs72-pIa3Uu4xMxhwa_L9u12yLx3-oW1ko2v4gEg18pil_adfCwLkf4Jpu3DLtNw__v8HejYCWd9mShHDIcgQWcTiripEbs309ZhY7Q0eOJ4OzDlzM6UTt5lescqlE62VYh5fTwsPUZwfNm7D4ixIQ5yUX9piC9gdJNKRMZR0YDBoUWt3JWjt001Uv2TLwRvnshTgbm9M",
+            "width" : 1280
+         },
+         {
+            "height" : 809,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA2JbYEkxdETSpR5EWniGqU-OkqnHwyJCvNWzYDXh3p1dgxRT7sGN9yxq24hggeBJZdrbYE73A6nmzgzitZmIF5WJxkQI47_GvSUu2_Ptbte2Nv0OU4QQAohKNOSUoIHaKaCNttr38AzbY4h5IZFo3WBIQ11vpoZ9GweEMioXEJU2m4xoUzLq9tp5gUTC3n7dSKRVqDSpAA-0",
+            "width" : 1280
+         },
+         {
+            "height" : 886,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAADiBj1zPbzJRMgHXOd0LpG_4U9CW2mJpjAVQWmdWXABksHVnEmBSLw57Xy5eYeNRP12fN1bMopsh2o4wQQRWhk2oEs2QvDKgAML_EwUO6Ywk6leSKgstyO_JPrgcJM6Yl07nwrS5uIOm-hASslGsz2BIQvIvJB5Cl2tTgRzw6u3MqThoUuMZW0YtEjTKRR1-61eWw3YK75DQ",
+            "width" : 1280
+         },
+         {
+            "height" : 973,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA7mJY8ps7BFHKL8X2xTwdVCrPmQquc7kJCvQ7_PWPlje6ypsLQT7nP3djfJjqfeba12J1HP_-V10hMQ1m-sxd32_z5Pm6wgyzBsSedwmv-sDZ0bllURUU29yRyfWx49xZho2qs_AihxmBDJtstGymrhIQP2KPA3WZJmrmWJTSRUFj3BoUpPqbRZnX5UX8inpbThwg3GFdQZQ",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJ0VcAin12nkcReOfzPsk8NaU",
+      "rating" : 4.7,
+      "reference" : "CmRdAAAAHXbS523Ilj_QRIeP1HlSMNsXrQumzy8AXNPCssF7o2JJB77as1t4Mz2JbXq_1paUQK-YUHdTSwTYkgYYr-7obrmuEXhZPsZW7T-2PK6WaYlmNYPLYlbLY6UsVwZ1yuSxEhDFNnOt_sxAPAEhaw2msHWXGhRBRNg-k7YR1YvNx1fcEwpYm4IWQw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nem Bog",
+            "author_url" : "https://plus.google.com/108540657033958682674",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Poor try to copy great arch. Gherry. I see it in this way. I don't know where is leading today's architecture. It looks very average, déjà vû, but it's nice inside. Pay attention on the metal edges everywhere inside not to cut your cloths or scratch! That's absolutely not acceptable in such a luxurious buildings of today!",
+            "time" : 1428056435
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ľuboš Šanoba",
+            "author_url" : "https://plus.google.com/106032967428513693299",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Perfect place for great day alone or with your family. Lots of BMWs all together and really beuatiful architecture.",
+            "time" : 1429441079
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joyce Tang",
+            "author_url" : "https://plus.google.com/105985547749986921139",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I'm definitely not the type of person to go and buy car magazines, or spend hours and hours admiring cars, but the cars on display at BMW Welt were pretty magnificent. It seems like a silly thing to say, considering that BMW has long been known to make top-quality cars, but there is just something about seeing the newest and high polished BMW models up close, and freely being able to sit inside them. The Rolls Royce 'Ghost' on display was magnificent as well. During the time I went there was a show of a motorist riding a BMW bike up and down the stairs of the Welt—oh my! My favourite part was actually seeing the motorbikes; absolutely beautiful they were! I'm particularly in love with the 'R nine T'– it's perfect. The architecture of the Welt is also very cool—sleek, modern and clean.\n\nMake note: the BMW Welt and the Museum are two different buildings: the Museum closes at 6PM while the Welt is open for a little longer.",
+            "time" : 1417638452
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Collin Thompson",
+            "author_url" : "https://plus.google.com/110617388840215625736",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Had almost as good of a time here as i did in the Museum! The fact that its totslly free makes it even better",
+            "time" : 1428232525
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "WhereIsCat",
+            "author_url" : "https://plus.google.com/117858573302804197376",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This was an incredible place to stumble upon when exploring Munich,  This place is any car lovers dream and it is so clean, modern and abstract. Definitely worth the visit!",
+            "time" : 1417522786
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/115572333779555878366/about?hl=en-US",
+      "user_ratings_total" : 181,
+      "utc_offset" : 120,
+      "vicinity" : "Am Olympiapark 1, München",
+      "website" : "http://www.bmw-welt.com/"
+   },
+   "status" : "OK"
+}

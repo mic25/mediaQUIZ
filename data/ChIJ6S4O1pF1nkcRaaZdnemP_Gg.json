@@ -1,0 +1,259 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prinzregentenstraße",
+            "short_name" : "Prinzregentenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePrinzregentenstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Prinzregentenstraße 1, 80538 München, Germany",
+      "formatted_phone_number" : "089 2111140",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.144313,
+            "lng" : 11.584767
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "9694e6f38fa6daf7021bb7de5c94dd0f72d8289a",
+      "international_phone_number" : "+49 89 2111140",
+      "name" : "P1",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 7:00 pm – 1:00 am",
+            "Wednesday: 7:00 pm – 1:00 am",
+            "Thursday: 7:00 pm – 1:00 am",
+            "Friday: 7:00 pm – 1:00 am",
+            "Saturday: 7:00 pm – 1:00 am",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 299,
+            "html_attributions" : [],
+            "photo_reference" : "CnRuAAAAWBuJsxp0-i1VBwSLzzECUmhn5OoOLQuadaWFeB1hQW3GAuLzF2zLbRWdGjANn_X1EBfSM44F5be_EhiMEK4ca0PYLwPB_4AMK2i0CkHxSsVfzBxlKXMakloDGO2wuo6aHDfObHjlwbBgUQsrjOc4nhIQM6czWu4BoHt21sX4oB6a5BoUJDxx2NzxtAoDXUS6F7LXv-44w8k",
+            "width" : 299
+         },
+         {
+            "height" : 333,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcQAAAMFRlKFOmMmn25JIFU1kOoN_dhf1650AU-haxBgHSIB0k9S4Rvbogd1KNj0An_bdL5fmii-_tYXHjEGbI_MY5kGSGE0Wwm5w5GBVbRESAw2z9jBqUljqsLLrmCwakI8qpNlrUj8B3Js1C0R2fIw5Q22hc3QVugKvnsNFtnWqdVElEhAvWO9TmhYC5M3SQINPsg1SGhQO0dW7KHfCsSO_7aQBVghAeoztfg",
+            "width" : 500
+         },
+         {
+            "height" : 1340,
+            "html_attributions" : [ "\u003ca href=\"https://plus.google.com/116387795659498660841\"\u003eP1\u003c/a\u003e" ],
+            "photo_reference" : "CnRwAAAA4TPm5JGp2tdkPC0D6DOgPUtUdhJREZwkEvEmxoG4h4m_BzAwwUi0HnwqmxhXy41Yu907KjFbaUJTIFR1S6pjcsn9E-ULVb1Prf-0TKBhb7VaXSn0_3JvEuaiVbYeiKzk9GzwPwej3TJ4B0Oi1Sx2QhIQFA9d4m6sAa2CiUL8gTgeURoUtmNsnBLp8GRI0zaV_DarEx9R7YA",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [ "\u003ca href=\"https://plus.google.com/116387795659498660841\"\u003eP1\u003c/a\u003e" ],
+            "photo_reference" : "CnRvAAAAdatq6twLxLWU9FuJy7n5sn44gt8iFagwf_itVyVHmQoP5OcD2YFtOLZJ2dPJUMxJH-qhYqt5AavDYnwNCz3K-Xjk3jNM4p7l7LBOHfLoxUwbATwYU-nLr1mtpcTLe4LBLu1KqzxH4BJ09YcNQ8vNFBIQNyiWHfvgHJtpBPBvRd5w5xoUhWys1ABi-NPBzMgeYYaMHcgHZVo",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [ "\u003ca href=\"https://plus.google.com/116387795659498660841\"\u003eP1\u003c/a\u003e" ],
+            "photo_reference" : "CoQBcQAAAFEcH50ld4onuW9adlI1J7qi6xvJzQTM6WL2lZg7S0zogIb8hP0qmUBq1m6vOuXK4eiQNSwYe7G5fp923VHhknpdYvwQiPHdIGopoXNer7GNrCXE5ZRV4T9NCdbsMs0yFztSrt5xMrzdVqxuVHs_f7DVsLgSCNhmn-z-iXxq_LsFEhBGhrsrF_8LzBeRdTABcQyZGhQazFoqeUmkfzpmz5zYXGUUUUjk3A",
+            "width" : 2048
+         },
+         {
+            "height" : 802,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104341401482288313018\"\u003eDimitri Barkov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBoQAAALxNmQPq6HvpUgxwLnJnAVfqh-68VrMctPCcDzTPmbSwEASsDnraPmtz4vvQIxIXkPPfIlgkyIvaNjXRg_82MSNWwg1Maxukv51lCu3E8gZm6gcTrGJeaOw3l_TpLioPzjHCbcmPH8aJLeQvvpJGzTIT8sJMaRtMWidPLbcveF23AWEJa77_i6bS5kBKwDm26lkAEYBZrDgsVSyiRUrZyXabEEPt7re_D2sRGTz_jS_XEhDmOdO34l0clHCmss8KqG2mGhQq2wDCx2m7dYEVe7TQD_9ATiWT1w",
+            "width" : 1202
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [ "\u003ca href=\"https://plus.google.com/116387795659498660841\"\u003eP1\u003c/a\u003e" ],
+            "photo_reference" : "CoQBcwAAAHTK0lhnmd20We68ZAsKYyvhaSItIiWMtkGkHhB25emVzsmcLZbfXjIzR2HpTw1Ay2mnzy5zcUk9aW9Qq8B6uLvLO7HP94eihr02LIL9goj2ISNPxNQ9wVah87YjflnHzvK37Tv3P6V4NzZsz-m30DCZZj-eykxGps1GKo5jExxtEhAr_0Z-liLEipsD8iwshg8lGhQgtY9aghExFAJEC7p62UTo7Y15Yg",
+            "width" : 2048
+         },
+         {
+            "height" : 400,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcQAAAP1bwWvpuLhsSe01kktXgVFSgLUoNggIgc8ow7pcfOUN3N06qBSGJUoKDv6D3hPxkn8GV1I64t-nUPxYXzdm_oGNYZ_len3Hmg2V5tSdD-jtz8s-zfX_wZZZ4hUfd_H0CO16_L26GvubLfwIkitJD7XgxUiW9yCfBXgwmLE0TUdUEhBhPqxPJCZfZZMSWXv4RbHxGhScxJ5cDTV8n34Jvq1TBCZHoJsSaQ",
+            "width" : 300
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAPx8a31IFf9OVL-52iAkk11h8rLx3TyMyy9Re9Zvf2uWy7bGvcuUONXmTufxLpQ_UAi7NBYmfk9hvwKZfd0voLTH3isMt6BKw1AuV6_gvP9Fn6zzW-wfBe6kTwriY7CCRbMjjs1uSObwTgrkqLJANIhIQFrZyBl9shqeNi4qk6EUUkBoU6SzJL-fv6CwjAQyHa0WxO6Ar8xw",
+            "width" : 1632
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAArAHfGE6n-UV98N3yVqq1F4qF-g_wdOzrDjSi87phM62Z-bDsrfzIqHTtQg1CXSJ-A0ncDhpy15k3TtWS0X5iSNU8tnDN0athzgIeXD0YMCurbMZnhm1cMcKcl-1R-AM7w0ERJByJ0JPESgjDF_sQrBIQVp8OHvGXjZ_-VbncoAsXkxoUnD67o4lSgltGLprilU-yUwFnDAA",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJ6S4O1pF1nkcRaaZdnemP_Gg",
+      "rating" : 2.9,
+      "reference" : "CmRVAAAABVsEoWDoLwu7wEmYXKtfY0hweGra4EXj8Cja7XVQplAeFSFOlxsYTndpiIKh6qsvrf2h-MdTE0x5gLLxiu3z5XPXj8WBVgSZJRW1h2szj98N7Co0YxuI1TtxeJ1lHFqxEhCf9GC6sI7o8FLF608_OTZXGhSXbpRJxQWdlcBzCebwlgWZWpY0wQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Benedict Ratcliffe",
+            "author_url" : "https://plus.google.com/112240815342160691986",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Very crowded and extremely expensive. I would recommend it if you are willing to spend a lot of time waiting in line and a lot of money on drinks. However dispite the 'stuck up' qualities the DJ was very good, tye atmosphere was good and it is easy to get to which is why I give 3 Stars.",
+            "time" : 1420038763
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "José Augusto Vullo",
+            "author_url" : "https://plus.google.com/110860440774131651377",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Too expensive for not a great environment... the music is not the best neither... wouldn't recommend to go there.",
+            "time" : 1414948391
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Simon Tennant",
+            "author_url" : "https://plus.google.com/101190913792731232738",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "lots of sad people searching for an answer. ",
+            "time" : 1415258997
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Benjamin Habbel",
+            "author_url" : "https://plus.google.com/106847367230454340946",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Legendary Club. Guaranteed party.",
+            "time" : 1297917165
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Wouldn't really recommend go there....I've been to a bunch of clubs in my life and this one doesn't really get you what you've paid for....fairly young clientele, all around 20...music is quite good though...I think the biggest bummer is that they try to be elite by asking high prices and forget all about picking the right people to get in...",
+            "time" : 1318877741
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "night_club", "establishment" ],
+      "url" : "https://plus.google.com/116387795659498660841/about?hl=en-US",
+      "user_ratings_total" : 48,
+      "utc_offset" : 120,
+      "vicinity" : "Prinzregentenstraße 1, München",
+      "website" : "http://www.p1-club.de/"
+   },
+   "status" : "OK"
+}

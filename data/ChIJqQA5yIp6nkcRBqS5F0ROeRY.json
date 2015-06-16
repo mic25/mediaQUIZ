@@ -1,0 +1,309 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "75",
+            "short_name" : "75",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Alte Römerstraße",
+            "short_name" : "Alte Römerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dachau",
+            "short_name" : "Dachau",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dachau",
+            "short_name" : "DAH",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Oberbayern",
+            "short_name" : "Oberbayern",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "BY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85221",
+            "short_name" : "85221",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlte Römerstraße 75\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85221\u003c/span\u003e \u003cspan class=\"locality\"\u003eDachau\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Alte Römerstraße 75, 85221 Dachau, Germany",
+      "formatted_phone_number" : "08131 669970",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.270124,
+            "lng" : 11.468272
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3022da23c141ebae34580d8af45dc96e83b51b4c",
+      "international_phone_number" : "+49 8131 669970",
+      "name" : "Dachau Concentration Camp Memorial Site",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1492,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA6Q7y67fLTDCLnHbDbJFIngX8KXJjSr1tfO-T_RS1weyg_zFk3WhkvQGHH5U8Oz7nRZ8ipQFEzYWn8yFkc_AlsYXwGmqK8fCPoU_OKN3l6YdtgoTO5WIfGMmn6rzgN_ABH4DWB2NLIlnJW0rlxAesqhIQ92x7fL1dCOfBuW4RpLKbwxoUfJeRyaTs93U6EoZGQ90fpVVk4bg",
+            "width" : 1119
+         },
+         {
+            "height" : 734,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114024534950803325441\"\u003eAlexander Zak\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdQAAAGzPqg1MorsR0wSU5ny5DousQwRT4ti6PbhpFULXzV6MLbzdfN962-6VmzJ7h-GFskAFmB2NU-5MH6yBaKElEB2tUS1GueIG7pbHcJcAya0wQAScXyXdBh2KVNt8k6H0-m9DILRENGnOcJ1s_OF2j2mk1myidmV9RdRumllsKx9fEhDleRrSpGHSU93c68pQVV1VGhSoOGShtf4YyalW-tPDMJJCKtLSsA",
+            "width" : 979
+         },
+         {
+            "height" : 979,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114024534950803325441\"\u003eAlexander Zak\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdQAAALH9igu62gVapEnROK9ktWUWOwcGMP7GZYT0m32_RKbZmlaVmwB9H1FBSML4c5nZyjGwNGragMM6jaDfCq3tSpz19p5ojykZD4UacpFA2CQ-zqepmJLl5ao37PSEkFg8qsuAzb9ttaokUDczWLZ6BK1vzch1cMupyuU_ZtJ3xfHVEhDLEFeHRIg9LnFkmfBOy10uGhRKw_Iq5StfXf0xeMr34j-iPSLo9Q",
+            "width" : 734
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103552406130246457980\"\u003eAna Isabel Fernandez Brandt\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAIowP7ndSdb7y8vgAAKuE6FcyDTIErtZIfxvOubUwamDU9Gf_7VmOTATCsGmPpmAdSsFptL_BrljcEFK_Qq3rGE3ulAOgwoGZGgfZosrp9EGuXJfKeUDjAlqI1LPI--gSP4PgbSveZ8txSqbVs-qc3BIQeflvTo5XN6asjIPSmajUgxoUrU3qdpZPoa_9IUOvP8MDlIZkEOc",
+            "width" : 1032
+         },
+         {
+            "height" : 1119,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAlv1AE971YQx32nstRbkElZ8oVUeEQtPfzHcGXQMAHEgzKgYm3lI0iS_bhER0mNefHtM_jG2ZoXfNF8DsgKOD2pIL3JDZZho76DmHEyCdq8BrbftIPOWnq5uyVE1H1lZtQ5iLwHeaHz7lnFbOKdlO9xIQ_pAas-t1oEEO9Kzi1_3XKhoUkzzfmAxgmBugw3vHn0phqNa35_w",
+            "width" : 1492
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAt51rG7pOr5QiKd8nCioV0OdsLS_mU25UYVQrbzqb3fInO9BBVKg0-M6NpEfyLfadzEDSApiQvDGdywbYzPOXM4ZD0xAhxdTpb833wGlTV_HUs14GuOnTr-XjWFZQGsUfPOLadNUZEQV_5Mu3XOrSPxIQU9YYrK7jOyuSS5nnTNOF9xoUsaDSrMohjoxMhrgRsGk3rL4DS8M",
+            "width" : 3264
+         },
+         {
+            "height" : 1411,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100413262394816003096\"\u003eSergej Aleksandrovič Ivanov\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRpAAAAL4aG5Oz7UkwAv7mhkNBL7dejxK_iVozZKOSRpyMnCiUJVJShG3rBdEC2ODFrJ8O42l9wV2S7w1ZOXPn3uE8LyqE96VPdO90nRpsihmj7OdnnG0qIflhODTuwNaaRUpYKxkBq8Y4bm-dW-iPmMQMV5xIQMWjQ19qX60mLTbwVGdoF3BoU09bRNKojgift5B3gJBqRhK-bWyk",
+            "width" : 2048
+         },
+         {
+            "height" : 1119,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAQn_LNx8VNGw6f6u80g01TOlB3Cu3IP1EzUiVS2qrslLXdH-6pGR8WbFidKS4if1OWKzMudA8vFJSNoQV7vaKAlpkFg1rSvG1ShKs4XYgyp7Ky6kNgb0OKa42vkN65eL9DwOb3sKsXsyuz9aFqx9PhxIQFTpq8POm6rw78_bx68n2jBoUX-Q-aM59E_Hb3k0l_BCCfnHAADY",
+            "width" : 1492
+         },
+         {
+            "height" : 778,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114024534950803325441\"\u003eAlexander Zak\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdgAAAN0EDHIA9ohy60jhhQlHDcZ3wY_YYPlqyLIb3WVu9oJm2OSKWzSwNNRRjRrgf1s1vkfHqRMVW3ZV-rjLwEphtgkQZyy1WVK6qM4KFnWrtflqAWdK0iKYW7Kv0uuVAYDSlkVRb37aWPJ9AVIWMF8CykSy1_Vd6-N1YdUXIXP-KfApEhDYKrIOjhcr5xGChFDTZCsPGhRCr_79rNSWeaP_PYTfadJke4Xvmw",
+            "width" : 1166
+         },
+         {
+            "height" : 734,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114024534950803325441\"\u003eAlexander Zak\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdQAAAI1UTlOoVp-NpWSKInFwdeCELFHJHHrvqF38ZzydVnAjZv2jSe6qecveev6p-hBXbd61fYb9nk5kK1o-CeovmI4jL2dDFTYKen1O-XVZHifOP31_GdCS6YYWcsn7SDV065fGF9RLpT6juZmRxnvEf86W_Yawih1Up1JtLs_I85rFEhCg85oGn7lfaV7MGv4CG6AcGhTj84Kp3QygXsx75N2QS1pv3WbsKQ",
+            "width" : 979
+         }
+      ],
+      "place_id" : "ChIJqQA5yIp6nkcRBqS5F0ROeRY",
+      "rating" : 4.5,
+      "reference" : "CoQBegAAAM124IdlZj4VwSe9lXscy8oSf7Jh5M2Yy1B_BA_QzjkRBhky9jwHJ4LHD0yRAg9ei2UHiuWXCgPw_uhu707xtN4sKIqTEJtxqVK9d7d_kNdO9Rh2qJ8Ekpbr5RM_Qk0DvZ9tJZPiQVfl18y6mwgQz5gYTwr47j_C0IG3JKLzJDsBEhCabaYxxZ2OhCg6fsZZMK8KGhQpNWrV-fyiEx5k5En0qY3LJ6yOfA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Matthew Burns",
+            "author_url" : "https://plus.google.com/104546199851452757913",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Sobering.  Every student of history and should visit Dachau (or another concentration/work/death camp) to fully appreciate the depths of darkness mankind can descend into.  Allow five hours to fully soak in all that this site has to offer.  The site does a very nice job of mentioning ALL that were persecuted by the Nazis: Jews, Roma, Jehovah's Witnesses, political prisoners, etc,",
+            "time" : 1432134782
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mari Marleen",
+            "author_url" : "https://plus.google.com/109027362504495243935",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Its eerie that it happen to rain while inside the cells, what's more eerie is when you reach the end part of where the cells are located at ( This part is locked up cause it was used for SS Guards who committed crimes) it's dark and hallow ... Just gives you a idea on how the inmates were treated in cold conditions while raining ... To talk about Dachau is one thing but to experience it is like no other , I felt a bit sad and felt a presence there. Good for educating those and who want to learn more. I will forever remember this trip . Highly recommend it.   ",
+            "time" : 1429296074
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kingsley Yu",
+            "author_url" : "https://plus.google.com/101964299049844689701",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "It was big and secluded. Very eerie place to be with kids. The death chamber was bone-chilling. Worth the visit.",
+            "time" : 1433515162
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jon C",
+            "author_url" : "https://plus.google.com/101445491344556082753",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Came here in 2010, it was a overwhelming place. Very educational, also moving place to be.",
+            "time" : 1428887806
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sergiy Byelozyorov",
+            "author_url" : "https://plus.google.com/115928866317852872320",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very sad, but also educating. We as humanity should never repeat that mistake.",
+            "time" : 1428238504
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/108513263820476608657/about?hl=en-US",
+      "user_ratings_total" : 81,
+      "utc_offset" : 120,
+      "vicinity" : "Alte Römerstraße 75, Dachau",
+      "website" : "http://www.kz-gedenkstaette-dachau.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,165 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4",
+            "short_name" : "4",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Grünwalder Straße",
+            "short_name" : "Grünwalder Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Untergiesing-Harlaching",
+            "short_name" : "Untergiesing-Harlaching",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81547",
+            "short_name" : "81547",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGrünwalder Straße 4\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81547\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Grünwalder Straße 4, 81547 München, Germany",
+      "formatted_phone_number" : "089 23383710",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.111311,
+            "lng" : 11.575587
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+      "id" : "2370c5efd23257fc0dd2a7d3470d34fb82e43ad4",
+      "international_phone_number" : "+49 89 23383710",
+      "name" : "Grünwalder Stadion",
+      "photos" : [
+         {
+            "height" : 1374,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA9vvXDyTFhgcmi29fkL9ApCWwsoU1yx6I_Tp-cozt3Zh6WBhumuBnj_Z0Co2Ftk189zFHB7L2oN2Vyv9lyF4XIEjE8wjcaSQG7KJuDAFMFAr_D44oDyH-WihOv40ywiEoEs2HWl2MCxaDgmY7BqdTyRIQ2syJOP1utWNVvoi-b_bwLBoUOO-WbfJ1d9ufR5jxbP6GT7RoJOY",
+            "width" : 2048
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CrQBsAAAAPiNGLDjR1Ei_mulzvSDfZUZvIxffNLtSNRKeFRJ8EE4vSttOT1ZRKC3i67QxG4In706xNi03seNN7iFiUWm2Zm1TEmBGwPuGgJDcLl3ztcMnjuKWIWgEi9KH-d8WleVLiT8tZT-mZLwisu69ghB9pVq6JeK2Pj1w3VBOHIbadBT7H5DU4E7elyQOh12AYbXRh0HfZCcSaMy0wHgFT7KJJFgr-3Dd1y-LDMWFMUTst12EhD79i-KzV1TSOTyfK-kJMUBGhRqLfyO8uSMCz0C01ibYY5puAHN6Q",
+            "width" : 1280
+         },
+         {
+            "height" : 570,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105274992767129138448\"\u003eKathi Obermayr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA9EOR5VsaeWcHhaXH5R_Tl2IbnjO7VL3GrXm_SuOsElxRwVVncFSTQPLvyRKYKKf_rSfAUELOcRVZZ6d6cnzYG686Wk1Jzp1ygtVQX0AAHfquJsv2o3k9mw154E18RUnvU20eANwdU_tWIlQpQq5m5hIQH8ZeM11F6Pd8zJK4Bh-DIBoU0noozTaDpDigFqsdMIVotVcZJ1s",
+            "width" : 1200
+         },
+         {
+            "height" : 239,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109794777166837560247\"\u003eXaver Schuhbeck\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAj4cCnLAISoimIYLHab7sC8gAHDXl0EdRx00crlmvDlxaq2tmp4nQFyxSPxro2sunJ6CDsYthQufKGBfix0_4rsfAnuTngKiY2WuRnxxicHAL7vegVLfSpu8rI7lxE0UGaqsZ4EIIubqdDUfjbG3vlhIQMOXIu8GUSahnyx37cIkMhRoU12LdVRHAankIhokUyAUiRIDzJYM",
+            "width" : 1200
+         }
+      ],
+      "place_id" : "ChIJmQFoMRLfnUcRd3UY9MHAh8Y",
+      "rating" : 4.7,
+      "reference" : "CnRnAAAA14zx2GIrqOE_79L-9uHZL4HIXuISLx4nBcWqSk1O4UEPfSgQ0LCsYwakCz7gFYKEF3sVd1Kl5TIJZqMPkqv2JBWd4GbGfQccpbG00cOsCCEhCXjJGEdc9MU7zdLv829n1A9ClHo7g91gF4bLjFte4xIQgl0F98a8WvzkMIk7fJwihhoUXBcCLTnQNPDJEDHgmdMPU4nyLCo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Benedikt Obermaier",
+            "author_url" : "https://plus.google.com/115400285556828815344",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "SECHZGE NUR IM GWS! scheiß auf die Arena!! ",
+            "time" : 1431322136
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andi Steiger",
+            "author_url" : "https://plus.google.com/111257683496172818312",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Das Traditionsstadion. Besser als jede Arroganz-Arena der Welt\n",
+            "time" : 1432483813
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "daniel hans",
+            "author_url" : "https://plus.google.com/106255419813312532313",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Ganz schlechtes stadion!!!! Tribüne is gefühlte 10 m weg vom platz weg  und bist zur 12 reihe sieht mann gar nix weil der 3 m hohe zaun im weg ist und wer das stadion von aussen schonmal gesehen hat kann sehen das es eine echt hässliche dreckschleuder ist.  Ein echter schandfleck von münchen meiner meinung nach !!!!!!! Neija soviel zum stadion und das die sechzger darin spielen machts auch ned grad symphatischer.  Die modernisierungsmaßnahmen von scheich ismaiik habens auch nicht besser gemacht.  Sehr schlechte sicht.  Nie mehr.  Hoffentlich bekommen die 2 von bayern mal ein besseres stadion.  Das ist das unmöglichste stadion in ganz München ",
+            "time" : 1408134523
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Schwarzer samurei",
+            "author_url" : "https://plus.google.com/117689907243272558738",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Bestes Stadion in München",
+            "time" : 1433069165
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fifakio 3.0",
+            "author_url" : "https://plus.google.com/107754664433099698167",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sechzge",
+            "time" : 1426863277
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "stadium", "establishment" ],
+      "url" : "https://plus.google.com/112913008333524886271/about?hl=en-US",
+      "user_ratings_total" : 18,
+      "utc_offset" : 120,
+      "vicinity" : "Grünwalder Straße 4, München",
+      "website" : "http://www.gruenwalder-stadion.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "109",
+            "short_name" : "109",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Wolfratshauser Straße",
+            "short_name" : "Wolfratshauser Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+            "short_name" : "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81479",
+            "short_name" : "81479",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eWolfratshauser Straße 109\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81479\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Wolfratshauser Straße 109, 81479 München, Germany",
+      "formatted_phone_number" : "089 72760",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.085537,
+            "lng" : 11.534342
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bb71c17be10285c5b7f5bcfa87dff193edc778c4",
+      "international_phone_number" : "+49 89 72760",
+      "name" : "Krankenhaus Martha-Maria",
+      "place_id" : "ChIJn2ghic7enUcRhvsMBvVcFdE",
+      "rating" : 3.9,
+      "reference" : "CnRsAAAA4MNw0Yhkb_IQueR6jxI0ywCYD1VCg2sad23YTSKns1wB3c_weEs1JgYL11ME1qYXfhNriuxJdf9rqBKQpJefG0pOwXDfFiSiEYrAGl-qnA0Uj5u05aEz2wroS-8MtbirHMArHXSRtnWQ4qzsMUGx8hIQLj8Fs2pO7nw9pb93xuAlABoUNST4wrZ2Q20GoFTK_VJ6EFafYsM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Claudia Anonymus",
+            "author_url" : "https://plus.google.com/117693318446202274484",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Positiv: Ich war wegen einer Schilddrüsen komplett Entfernung in M-M. Mit dem Ärzteteam war ich durchweg sehr zufrieden. Auch mit dem Zimmer und den Schwestern.\n\nUnzufrieden war ich mit dem Essen. Ungeniesbar!\n\nFerner muß man allen Ärzten jedem wieder alles neu erzählen und die schreiben alles mit der Hand auf. Computer und Datenbank sind noch ein Fremdwort. ",
+            "time" : 1428424154
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mursal Khan",
+            "author_url" : "https://plus.google.com/116572128588547034475",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Meine Mutter war mit 94 Jahren TopFit , Geistig und Körperlich .Nach einem Unfall war sie in Martha Maria und nach fünf wochen war sie ein Krüppel . Die Arzte gaben erst jetzt zu dass sie am falschem Platz war. In dieser kurzen Zeit hat sie Ihren Lebensmut völlig verloren, durch die schlechte Behandlung und viele starke Medikamente wie Morphium usw.Die Arzte meinten : Sie hat ein gutes Leben gehabt und nun soll sie sterben.Als Gesundheits Orginisation sollten sie dafür sorgen dass die Patienten posisitiv beeinflusst werden um gesund zu werden und nicht sterben wollen.\nWir haben eine ganz schlechte Erfahrung mit Martha - Maria gemacht.\n",
+            "time" : 1396988393
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sigi Schuster",
+            "author_url" : "https://plus.google.com/108504472465048479462",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Super zufrieden mit Schilddrüsen OP, Personal sehr fürsorglich und freundlich.\n",
+            "time" : 1417032941
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Roman Tuzhba",
+            "author_url" : "https://plus.google.com/103114238774839991940",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Ganz nette Personal... Aber zwei mal falhler bei Operation. Oh... ",
+            "time" : 1411584457
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Alexander Zemter",
+            "author_url" : "https://plus.google.com/112008741502094375685",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "Super nettes Personal. ..war auf Station 2",
+            "time" : 1368090921
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/108948571705291847769/about?hl=en-US",
+      "user_ratings_total" : 6,
+      "utc_offset" : 120,
+      "vicinity" : "Wolfratshauser Straße 109, München",
+      "website" : "http://www.martha-maria.de/"
+   },
+   "status" : "OK"
+}

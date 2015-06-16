@@ -1,0 +1,60 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Germany",
+      "formatted_phone_number" : "089 143346030",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.169646,
+            "lng" : 11.527063
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bfec8f78f5bed91b33dfe34ef11f372f8fd40d00",
+      "international_phone_number" : "+49 89 143346030",
+      "name" : "Westfriedhof",
+      "photos" : [
+         {
+            "height" : 616,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAZdSuMAr5AOT2S0GeR4eLuImkXA10rEpfRLcxQTvXKBxjPpJI1zAUtQNkqOfGxgNcxeaKAthWnYfg8gcm9Z-hkw3eCn-BMDSaRoej18n1QFNfo95csJCynpDKcVn0kaow1-xgBZ4RuCyrINYhlYkXSRIQ2U-HIVtg1GyRDOCRXQKKLxoUj3N4bK5Puo6bL9jb_y4xOMYSz2M",
+            "width" : 1024
+         },
+         {
+            "height" : 616,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAP83-bKKzNdLDzfgRwxjeJLx3DGZAkLe0Aj_oH_hCiBlbwoxW0eLIAQ7tNO8OR9dR6bteOBP74mOYMgE04moycCc_mH1CSRlhNLLTyR4hJOpWc0bKZQpT4gguKzrrBc6oCa4bIUJsnfMRc61b8MTqvBIQo_AtWAapuYOM9RsU05SibBoUncODBQKPl22oOcQ7e1GHtnCq_e4",
+            "width" : 1024
+         },
+         {
+            "height" : 616,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAwJRV1xbN0gaZxK-i2Pyv15lN6q8lgNechmnSyUe7uTUKuqFXTdlKeP_A1WUvz4yglXE7wEbGAfHdRk1J6bNP4GSEt3py37V3E6uiITVbv_Y3TDFBqDlY-jEwmCjlXocL6r80CfafxGikTKqjICuMpRIQre6-I5uy2xoJ9FIuFyw6bhoUzw5RDCDpPpRBDoWPQpYwhDj9UG0",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJ9wgmRVt2nkcRxRIfXhsi3QI",
+      "reference" : "CmRfAAAAavB19NOAuMG_6vNgbl_ckDCYJ9FpdJM2SxsySsfD7_4ydXj4w4JqQS-_OVRFOb47raZcBp6oEsSiTT5s1Lsm8CVzD0KqQRpFKHVvh8PEvz9ntyqlJgQdhIqbh8NdGkhOEhAyMi243rnjEsWLBLkJ16sxGhSg3Yu4q2qBv_-B3rgvufifaQGJ0A",
+      "scope" : "GOOGLE",
+      "types" : [ "cemetery", "establishment" ],
+      "url" : "https://plus.google.com/101182728446902367974/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Germany"
+   },
+   "status" : "OK"
+}

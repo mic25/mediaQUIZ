@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4",
+            "short_name" : "4",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gollierstraße",
+            "short_name" : "Gollierstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwanthalerhöhe",
+            "short_name" : "Schwanthalerhöhe",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80339",
+            "short_name" : "80339",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGollierstraße 4\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80339\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Gollierstraße 4, 80339 München, Germany",
+      "formatted_phone_number" : "089 5441510",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135741,
+            "lng" : 11.547096
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "3ce8fe389c08b896d1314fe54dae89d52f803abd",
+      "international_phone_number" : "+49 89 5441510",
+      "name" : "Macromedia Hochschule für Medien und Kommunikation",
+      "photos" : [
+         {
+            "height" : 236,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAgJpT4ESXDAiFULQBjL3sW-9G80nDBZBxPylhNWXB49-E0XD9RnyFoiyeu7QHai6-Z_OYKbB_-hlyedzgixEr-nfeh-5XxX_2CKTRKq73UNCMtL_0CIQWgjQiy6UwatPUc_vgd52SD1H0Sfcc9uvocBIQwrffxZS-DfEt2r9eelLxYhoULejO4Fb0fL3bLIbB1iL0KN6RQpc",
+            "width" : 548
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103072014711585457943\"\u003eHartwich Maximilian\u003c/a\u003e"
+            ],
+            "photo_reference" : "CsQBtQAAAEhOo258bCb3Uz70mud665Hw1VsQrz_ZFM0M9iNTQWa6oxSI7-aX25dJbOek1dH3juyCc7UQCgfYpHD941ToWCYjTi5mM2WrOSw5WuuRLtW45Fw3_KyCbNQHugVIUDvUSCFnnvefJ6CSZwHKkcgb8IPK-7pfHgtrk1le0qY7zjElglItkc1RJGCml_8iCPbJ00Fs7WLXvmd-jzpNVvDDTKzOfub_mMMvgW8Sl5jHEaIy9KdUzFyoIjTy36oZog90thIQLh5fQO1prz6WggIWA7mpwxoUP7-4xNwvoO9v-GtNOYc9_eWyBYU",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJVV4c0KrYnUcRmqdHOixtu6w",
+      "reference" : "CpQBiAAAANQBHN2vwoN8Esr9dqAat61Kdn6UdFZUwJs8Wmm2FRqHjP4TTc89qE-ZQ6InByGjNSQssq7cxbzZvt3pwSieAuwhuDJgRMHLPbatGFpgP6W0w97yaSqufW2iZ9MxV6g4sWkwg6h3Vr1evKy2rUnLoby54Jp7KiSgevZ_CeGXpVKO5ZrvntSq8LLEaXxJYoaH9hIQhHbF9yFQbde8vkY6TsyrcRoUa8K5pcx5Cw425FobNyyXmp8ZjWc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Hartwich Maximilian",
+            "author_url" : "https://plus.google.com/103072014711585457943",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1371148229
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "school", "establishment" ],
+      "url" : "https://plus.google.com/105656181599168206068/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Gollierstraße 4, München",
+      "website" : "http://www.macromedia-fachhochschule.de/"
+   },
+   "status" : "OK"
+}

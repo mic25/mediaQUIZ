@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bavariafilmplatz",
+            "short_name" : "Bavariafilmpl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Geiselgasteig",
+            "short_name" : "Geiselgasteig",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Grünwald",
+            "short_name" : "Grünwald",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "82031",
+            "short_name" : "82031",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBavariafilmplatz 7\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-82031\u003c/span\u003e \u003cspan class=\"locality\"\u003eGrünwald\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Bavariafilmplatz 7, 82031 Grünwald, Germany",
+      "formatted_phone_number" : "089 64992000",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.06474,
+            "lng" : 11.552526
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "63694e6b2727a0404ce7b529635987a27b7a6348",
+      "international_phone_number" : "+49 89 64992000",
+      "name" : "Bavaria Filmstadt",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: 9:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 447,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAI-J_afYIFHEjISzew4iJSooFEUpcv7OySQfctXm8Wwo_86nVLM2Ohf2DTX1PfdQQXmYYGYamPmF6pyHLyfsSpMZQdLet66di6nVdgitLzsZ_5VQ4vQJEBSIW9iO5miZsBoIINj7qYTqjW8m70jgCXBIQIqlZFZ6WWxblP0NaKvWG1BoUNuXcDq8S1JeEcSC3I8QUrJScPfc",
+            "width" : 671
+         },
+         {
+            "height" : 1535,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAtxaBPEGQUMoklC_XzbkN7m6hMqXwSfJAArAsM_d1h_NT0ylR1CLqJx7nUflkWS1Uxh559uwI-Dkcy2mJClEbs20aXeNfKMzTjGr01wA0l2II4RKodIlhC5XjHMFlD2sWViiRZDKS5OJoHRWdNxEKjBIQRH2tobiNN3oaVh3AllhITBoULC_OcNG_Cg6hlbtslNVnMD5sNfQ",
+            "width" : 1063
+         },
+         {
+            "height" : 341,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAOCmjukHu56R6g_fZXPlTCjh7NARlq6pZ8rIpn-KQP4HCsmX-m78vU9kpctNHRjAjUFHvn-0P6CXd2MxJGg4dojtXSnsedypxvmi5B7e1s-xKYpW2lkXGiGFMIqMg4yBapT7LgS3WHfnhszvvrXGhVxIQkUQMSNQWitfEE1tFY_8ijRoUpDd52Q0_gRvPjgieXn6zKImtSxg",
+            "width" : 512
+         },
+         {
+            "height" : 447,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAATLvOMy28K8D6Qk8MNdU_5ILQmc5t6C-BtJE2hhJ3zV_O00zNYoVFC771ZjJUQ3SgbLwPGZ5d8XmgcG5I9K9Nww_2bmYvog2y0siXjVk1VmFRKljWWCCQwWEDwfISDdOGh0ZSWfJWLeLwQJQHA8VEYxIQhLUiRxk43IlXfOpxvCtpLhoUk-cB1pIpYCNxjImdg6rhHb3GreI",
+            "width" : 671
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAcsoy5LHm4lu6sRc3xGljSZhfhyl_Z06fynUt1eLZWFaFFhrTvKihJAYEAuor-63YbL1-20A1NKJj9tW_r1MOfbpxfYQCkoQSNMGhrkxVHU3Jw5ZEadz5tyvhSNqDlpKGKkYA8-iN0pxlsSVVHVi3FBIQlwRy3hqLsIFomu5VzjSx5RoUpLNDDnVBBTaWcsWDeyBQhK6lN4k",
+            "width" : 2048
+         },
+         {
+            "height" : 447,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAASRWvDIW5Rqzplw5olK0zk2XIMyqqmygkZArYERGzltJQWqdQfsVhmZZGheBe4mF4cwnKHchheb-srZrL5s9VJs96aJdyAJEPnmRNJjt2KMybPy3eWJ2gjqHnTkRgMxMCZzDraALfJ4fb-XsINM2wxBIQNXFhFkD4uFTD1JCrB1HTGRoU2iHYecKFfIXIN2CitxJgHxCaufY",
+            "width" : 671
+         },
+         {
+            "height" : 447,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAdSmqsPCv91SZfqxnY5QmngfowagcJohzw2DQ8GGjmA8e7GHNQPl8RYuVwn4iP1zCYtWeZW28PtLBriPBbisF-SYbD8QX7CBHxjJ9z3sYRYKCabD3pQnBT5pC62mv7qNcxmXs1kT6rcPX2X5ENhqKgBIQ0bq3-zj0fKrG0pUPk-VVTxoUo1Pxz6q1Dst9r7JHmtViOKSZ4R8",
+            "width" : 671
+         },
+         {
+            "height" : 447,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAmQnL_OZspZkyhhVWpZhrtV3ZJS-naOyTt3IZrD5tjOtlT7TXxEfHcwN_rWcyaEyI4zR32B5crNeNxSbcayFvOiPvXt0e-2-_JcdXKQaUXjp_PqEt3bTBYj1kJcAYwn1U9MaBe7ginDiklc8IR8EPjhIQfA2V65VUrPdTwSvh0DBAiRoUHxJ2mW52JF0P3hsyjJ-HNRz-Vxs",
+            "width" : 671
+         },
+         {
+            "height" : 2000,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRqAAAALhXy38lQppfFuu1XezdgZHJiYptJ2cxPIvm0gfHmzqt1GFBm3OZB8XItSiiclBYAAgreMvIp4PeZx205Fo9hi9k-UNhYexL5hp8JbhwC99ZDdzSSkn_wVDS63TTMqJfnhrLQSuA3ZgX9YDBj9FDe5hIQeJEhPs58hgNzdoCTNKlJ-BoUQ7qcbSE4CJ9Gy-FOps81i0S5t8A",
+            "width" : 3008
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcQAAAN43ss9jcsRhVgshOfwE-rZGkSub7yYw-tXMuFSdGEiO5AT217XsHORsN2j2OUB8wdURKlzWQOWf6L7n2ca53PwL_NR0LElbOx447KagmRcERmXMGM4nvOa-KyOkkT9d7prvHgmDNvNPPiD91pqlqS7WzYUZuMtkw5xncTV11MLrEhC5IJLXWu_iGCzUG-CxKJrPGhQLyqEdf12IebKl3EnejooYCkK7EQ",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJ3wzsI5renUcRAFQPdZCQV6g",
+      "rating" : 3.6,
+      "reference" : "CnRlAAAADCtip2YtjdeopVACTV0sVnJpqGI5BztHON6M7br5m6QnLqyxSng-h2B0cGRalQq0LsTGZcebtQglPg4WR7UGTshozd2G_yyg9R_HUACBXtuNRw_6BrzC_0RQ4eu5-hqQR8UEvBORvdJr2WHH-FFf1RIQqX3_ZB4zskYM1QOItYAl7RoUTIzRiQRqfVWP0UD-x3dyPtFFdkM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "ahmad zubaidi",
+            "author_url" : "https://plus.google.com/108636526930806743039",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "ما يستاهل الزياره مره",
+            "time" : 1371195228
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christopher Wegerth",
+            "author_url" : "https://plus.google.com/102927525005277236696",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Absolute Geld- und Zeitverschwendung. Nur alte Filme, nichts aktuelles außer Wilde Kerle... Es wird einem kein Studio von Innen gezeigt, nur nachgenaute, kleine Sets...\n\nBullyversum: man sieht nur Gegenstände die in seinen Filmen vorkamen und seinen Werdegang, die Traumschiff Suprise Filmszene zum mitmachen ist witzig aber der Teil mit Hui Buh is entsetzlich armselig...",
+            "time" : 1400865621
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sonja Meßner",
+            "author_url" : "https://plus.google.com/112302372603546202868",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Die Bavaria Filmstadt wäre grundsätzlich sicher nicht übel ...\n... aber warum die Führung in einem Rekordtempo abgewickelt werden muss, wird uns immer ein Rätsel bleiben.\nDer Führer hatte eine Sprechgeschwindigkeit, die kaum zu schlagen ist (außer von den anderen Führern, wie wir mittlerweile erfahren haben).\nKinder konnten dem Geschwafel kaum folgen.\nAuch zwischen den einzelnen Stationen war es kaum möglich zu fotografieren, da man sonst die Gruppe verloren hätte.\nLediglich im U-Boot konnten wir den Mann ein wenig ausbremsen, da man hier nur im Gänsemarsch durchkam ;-)).\nWirklich schade!!!",
+            "time" : 1402855682
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sindi Heufer",
+            "author_url" : "https://plus.google.com/109744423001067871187",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Dort ist es wundervoll und sehr spannend und es gibt nicht nur für die Kinder was, auch für Erwachsene.",
+            "time" : 1429302945
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lukas Kohberg",
+            "author_url" : "https://plus.google.com/115786747117025585231",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Cooler Blick hinter die Kulissen ",
+            "time" : 1428931478
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "amusement_park", "establishment" ],
+      "url" : "https://plus.google.com/113442318565634295910/about?hl=en-US",
+      "user_ratings_total" : 52,
+      "utc_offset" : 120,
+      "vicinity" : "Bavariafilmplatz 7, Grünwald",
+      "website" : "http://www.filmstadt.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,217 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "61",
+            "short_name" : "61",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Elsenheimerstraße",
+            "short_name" : "Elsenheimerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Laim",
+            "short_name" : "Laim",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80687",
+            "short_name" : "80687",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eElsenheimerstraße 61\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80687\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Elsenheimerstraße 61, 80687 München, Germany",
+      "formatted_phone_number" : "089 5476780",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135871,
+            "lng" : 11.524518
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "fbfdda3749000029aa6449ebb7a414006d65ae38",
+      "international_phone_number" : "+49 89 5476780",
+      "name" : "Munich Business School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 522,
+            "html_attributions" : [],
+            "photo_reference" : "CoQBdQAAANBj2xihWY1SuvDRVRwNo9QgAyfGZRCkEMLi73KHC0fgGMdHsEuk1LJOVjQxn55a7pOv67al35ASwpEsbJfI8oWMI_BERxuU932GMFNdSuAG1zp_9gMh0TUedboO0J2AY92TGmdCyrDR76J7OmHY9tY7G8c4m5666DtaPn6C-l92EhBETdeYpsvrbwEdszMjEL0UGhRNDvV2mJcSi9UB3Byb1ulkb26ciA",
+            "width" : 522
+         },
+         {
+            "height" : 285,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA2XW2Sux9UxRE-sc09ZEFvMlGwS0bXTgHITgtVyWYrIQ9sBPXrBbVhN7iGNmjECLKuhQ7odhuEEBtzFCZmQhTw78bG388dGXn1RfbU7kaBHrs0YV0vVB_lO30IH5CU-Lp8kTNBK2N63IYpRZ5D9MeUhIQBK7Z1F_YmOA8_YsfBBE1ERoUbLXdHdOypnASNwhAlJ7uwqQefXs",
+            "width" : 580
+         },
+         {
+            "height" : 400,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAWbIqKsBAU2-H7XXSvrrmM5znYl0nFIfINp5uOjKQHXaVwTmXmgo-tU4F7qPeOI5JRQ1rPA8KPCGXx0va70ziqbjFomvabwLFq094J-_fCOlD_8iKbdYNS10AngiA-iefd5L-HObW_mYgxM6gy0V5ihIQ5iLokGsJLKeRpoCfmUDLERoUNbAFIg1oqD3Tn_NvvIerxjh3BZ0",
+            "width" : 400
+         }
+      ],
+      "place_id" : "ChIJ5Wo5maHYnUcRvSfHaBnqeCc",
+      "rating" : 4.3,
+      "reference" : "CnRpAAAAjnn19qkQe41HJyxI7H3KFlihV9a0PQTELqEYclxDUWM2VZnq5-S9D_-givLiFA-CzVQx6ZvjBLYiIs7dNPlRHjvH0swCq3Plk9HAf_9D9xASl2YixiwXzSn0L25E5l8uinrLbqn4YMbmmLc9fJvNeBIQCbF6yLYJdrxeG7nakbbJIRoUZz_MxjhoIyUxciT4z2X1ZCThykQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ranjana Sinha",
+            "author_url" : "https://plus.google.com/115689568362731263313",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Course content and teaching modules are excellent. Time table is not set properly and lot of student's time goes waste because the timing of classes are with big time gaps.. they should be either in the morning.. so that good 5-6 hours are with the students to do other things like going to library.. understanding the city.. especially if MBS wants to have International students, it must understand that a part time job either in the evening or in the morning hours is nor possible for International students if the time table is not set properly. Secondly, the issue of rooms for students coming from outside Germany is very critical. MBS must have a tie-up with Landlords for their International students directly and not just leaf out the details of the websites that may help in looking for a room.\n\nOther than this, MBS is a very competitive and International Institute in nature and it will soon be a globally acclaimed business school.",
+            "time" : 1359787745
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Devid Pavliček",
+            "author_url" : "https://plus.google.com/107502577280714173148",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "I was not satisfied at all with Munich Business School. This is my personal opinion:\n1) The private school is in middle of nowhere, no restaurant, no Mensa and no library nearby. There is nothing of interest for a student near the Business School.\n2) Very bad organizing. Because of the big breaks in between classes, i had to spend 13 to 16 hours every day at the school, even if i had sometimes only 3 lessons a day. Often i had to wait 3 hours for the next lesson, because the Business School could not afford enough professors. As a result after so much wasted hours i was exhausted and did not have the needed time for learning, not to mention my personal life.  \n4) The professors were the biggest dissapointment. Some could not talk reasonably german or english. For some classes there were no scripts, you had to remember everything during the 3 hours long lessons. Everything was taught very fast (60-80 pages a day). \n5) Very expensive for its offering. It costs 6.000€ every semester. In my opinion it was too much expensive for what it was offering. Not to mention the money needed for everything else like buying books, eating at restaurants, traveling card for the public transport and so on. Overall a very big disappointment for me.",
+            "time" : 1338461978
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Knut Hut",
+            "author_url" : "https://plus.google.com/110550071519578196618",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Sehr Internationale Business School! Top Verkehrsanbindung via U5. Einfach an der Westendstr. aussteigen und in die entgegengesetzte Richtung des künftigen Asylantenheims an der Zschokkestr. gehen. Es sind nur ca. 5 Minuten. ",
+            "time" : 1428782032
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "nilyufar karatas",
+            "author_url" : "https://plus.google.com/105877992947588666991",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1432855665
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tobias Massow",
+            "author_url" : "https://plus.google.com/102315300039404015020",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1378460601
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "school", "establishment" ],
+      "url" : "https://plus.google.com/109581285260257031688/about?hl=en-US",
+      "user_ratings_total" : 8,
+      "utc_offset" : 120,
+      "vicinity" : "Elsenheimerstraße 61, München",
+      "website" : "http://www.munich-business-school.de/"
+   },
+   "status" : "OK"
+}

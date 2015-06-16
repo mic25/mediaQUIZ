@@ -1,0 +1,204 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "90",
+            "short_name" : "90",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bürgermeister-Ulrich-Straße",
+            "short_name" : "Bürgermeister-Ulrich-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Haunstetten - Siebenbrunn",
+            "short_name" : "Haunstetten - Siebenbrunn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86199",
+            "short_name" : "86199",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBürgermeister-Ulrich-Straße 90\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86199\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Germany",
+      "formatted_phone_number" : "0821 65040510",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.323312,
+            "lng" : 10.885629
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+      "id" : "c2675d52e249375919b523071ebb98433d933108",
+      "international_phone_number" : "+49 821 65040510",
+      "name" : "sgl Arena",
+      "photos" : [
+         {
+            "height" : 700,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAs4fqbViBSo0uAs91CcKmY-saaT_H2cgyFnGc1i6rOD6RuuZn4gZdBBaTXKnmjxHDJMobw4yBm1saQR55ncE-pm14vmJm5dti7ybsQ_8LHphFihENPZGYje74eDVzRJWTG2vFfVBgygZDeRZaEWiVwRIQ9j3u5lq_PWu_KTHDNP48lRoUTbfDCViyveaeSlHLl-yxG7gXOcg",
+            "width" : 463
+         },
+         {
+            "height" : 469,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAigPHBsqVkPS4UfLwfYufGBfnOUuwCIqRNYh6RwYSGzv_0_66BEhnotT3m4Mmus4loFV424dUPWnBlKSzKnXuv-AaXAgzrcwQyEoG8AO0wRscIZNBDFGn4J2nmOKTnsfWUJ7mM4ynY5lF3NbCVc2KLxIQhb2tUZeA3sjhuSyCRcUckBoUH8NIqIdm4kzmugMYCh8UxTgqBYs",
+            "width" : 700
+         },
+         {
+            "height" : 466,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAykAlNU4VVdH1wMWTSSMfi_ftCEjRYww_DmebkOL4ggmn81ziiEJd5KPWupvDg8iFH4-nWySu00DkqwG-dVw701-5JmfK43Mgo_dHCFwOmo7TEhY2OuUFVHicyj4DdvMhc9xdYmXEyBozQ_6U4bH9ZRIQmjpwhXkk2U3qTDMSLuTPlRoUO7npHqeGbPY7FtH2twpUCd1w_m4",
+            "width" : 700
+         },
+         {
+            "height" : 467,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAh1E52VavV8lfZP6Y0Fp0LoEbxYZzKaT3_aBCt4SBT-E3r7Up7IZd-Zvnh5R4PHyp65N3Btr1Dqlj2uU631vUVRb___7X7GKNLHotWvARQK307J5hGiHndWQTEz_w4C27HldUEe3lPktMUBZKQTtnyhIQbxcHbGh6xw5qOXYolMdVhRoUSzLGg-e852rKJtKr3PHgW3BHF_0",
+            "width" : 700
+         },
+         {
+            "height" : 469,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAC8xmQCRvWpB1_PAANsdXPy4UvPmxt2jJzH1IEX5G8ScE7kTamhNop1CkEvtRVnRnkJD8hZVac6_sFeAxOIBR4uKAzWhJszkq-WKUbuKq-X_hUaDd2l1PWuIaOH4GUf-KtL1TLmaXwrY8139EOvKiSBIQ8hH2JT4SegKAlpxTGFKnmBoU9uKjNrmS_kq4dnIoKjH8k0SYmqw",
+            "width" : 700
+         },
+         {
+            "height" : 735,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112508311495832964628\"\u003eKonstantin Biberacher\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA0iSN8yCXwZnGqxg8KCtR1jpKv7aeqHV6kIlnn7cBStiCjbHR-oZM3zdxGmCa55HUE_lpDLUi_DC0gUXG2LLMYeH5XFMVzGr63OV1QMUSaEeBOjNMOMpP0RL4qHM7KXZZAieA0xYG6lF8rhVAfIA6VhIQI0pxsgqNmG5EivmtU-jVTxoUdIKq-k54nsC_yFg38iuDpA43_KM",
+            "width" : 980
+         },
+         {
+            "height" : 486,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107197404776211249929\"\u003eFritz Gordon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAguPXGakTCSuzhq6aU-0V7Q4GxCnJuO6-h1CbTTa2K4pNtphGXZLaSp5LXRek8l5wL31yKuV2Ndq_KVhPzibTz2q7eWX9oTA1NyW6XYs8IXpUbmfDJZu4UOylIrN0g2gbnK-nf-PHVpqO-ibMyH463RIQQtet6XQRofZ9_FR5Y4oWcBoUYc06xvQZUz_NFJaq5AO7-wt3Obs",
+            "width" : 648
+         },
+         {
+            "height" : 486,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107197404776211249929\"\u003eFritz Gordon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAcaGRALtVeE-rlUaoAZkihQM6gMJ8DQIk5U5wfQ_G3eJ55-nhxKK56ufTOsK4eeGHc_3Qdc_-encwk_YJhyqJFdHD84vMnY9b4WvSen42QhGrMcmY6QI9V2SzWSSO67YGerPRAAPS9oMfLI3Ori_QQxIQOWTg4mzLGUhWamqxtKK45xoUFvTXDI1SmStN38hvv8daFHQSl3Y",
+            "width" : 648
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105188618578823368403\"\u003eHeiko Pieritz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAMz1mmBcW9UqbRU8gfJx8cATvLKvqTWSENYdKheiKrP3Bjd6kTEydR7J2B2N9jgwumiEGxoQPRwhrRTQwbcqkEtIxiy27tLXo426G6CvwZSiTozDNHG9j5O0NVGkoWaHOPB6AHAqM7lorv6MhntV1VxIQYNGxY_Kjl1WreDOCB4h7whoUSczSu4OBFdw5He4XrIfS3U8Pcgw",
+            "width" : 816
+         },
+         {
+            "height" : 581,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114769160775826676073\"\u003eFabian Haas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRpAAAAscR_chZZfKbbNcL-ijxgubE6l9rPLgXJkH6Wamf6QO4xoKdeNz4P8pURm9TLVY5JMkD6oRWIVFgvHeZLqksMkpmMtu65iJck8nz0C8cyisu6U5-FzkTF9Ar-5XseRgXTnO3PbDAix2AZFuMm6bYbnRIQgXx52Ch8Xle7W-yL2MbBchoUQYMao8rwAHH9GhxizlmOhzCVIK0",
+            "width" : 1032
+         }
+      ],
+      "place_id" : "ChIJW4Qr2H-inkcR9Zr6w2Qyu2c",
+      "rating" : 4.5,
+      "reference" : "CmRcAAAA9vFIsXVCdDsnQwSNh1WhD1p_hxDaHmVLJ8aI7B9BuuRjpOPl4qLaorlSJTes0mXfV65Y2LmoHzXea6JZVvYU9eNoxuOwFrTBhGsagt3Mb_5Ibn0GhYC-T7dxBE5NykroEhBFt9g6PqmFn-T-x3EuUYILGhTIhgZi1_fh0mKK8Pnn-EyFc492XQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hafizullah Samiullah",
+            "author_url" : "https://plus.google.com/106461205796100882748",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Fantastisch ",
+            "time" : 1415908492
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "M-Block",
+            "time" : 1333185966
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christoph Gruber",
+            "author_url" : "https://plus.google.com/105129406833423988031",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Nur der FCA ",
+            "time" : 1426317659
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maximilian Zimmerly",
+            "author_url" : "https://plus.google.com/105727435336054424898",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "voll geil darin",
+            "time" : 1416000816
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Olli Brunnberg",
+            "author_url" : "https://plus.google.com/117704045346778023254",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Lachnummer hier das Stadion. ..steh seit 45 min auf einem Fleck am Parkplatz...Katastrophe die Planung des Parkplatz. ..",
+            "time" : 1430582555
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "stadium", "establishment" ],
+      "url" : "https://plus.google.com/102039139696621440532/about?hl=en-US",
+      "user_ratings_total" : 44,
+      "utc_offset" : 120,
+      "vicinity" : "Bürgermeister-Ulrich-Straße 90, Augsburg",
+      "website" : "http://www.sgl-arena.de/"
+   },
+   "status" : "OK"
+}

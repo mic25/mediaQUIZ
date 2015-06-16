@@ -1,0 +1,185 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "46",
+            "short_name" : "46",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Maximilianstraße",
+            "short_name" : "Maximilianstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86150",
+            "short_name" : "86150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMaximilianstraße 46\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86150\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Maximilianstraße 46, 86150 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3244102",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.364886,
+            "lng" : 10.899232
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5026446f9aba138a62af1853b79a45f8c7e0cf4a",
+      "international_phone_number" : "+49 821 3244102",
+      "name" : "Schaezlerpalais",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJe3Uv9FS9nkcRPQyF2izDSEg",
+      "reference" : "CnRiAAAAkPHBjmwzKS9is319gjLITZejLIwO3M5b8zUJCbdYxA1Y7UNOKLCiNA9NcLjCNr3ZJ99tG9WUncnC5SbQydEofMF6VdgkJEuuo7JJ_umu0A6JUVj3tP0fAWx3wuQUGVgN86VnAbkTSaRujKf3egpdIhIQD8Tk_H7dw1eVkR3FzDHGsBoUFfgy_Wmsz6oGvfV4NPeMEA1inXA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jody Roberto",
+            "author_url" : "https://plus.google.com/111501244570124582258",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "After hearing about the treasures in a magnificent baroque palace very near our hotel, we decided to invest part of our Saturday in Augsburg there. \n\nThe first disappointment was not being able to buy the tickets with our credit card – another sign that those in charge of some tourist attractions in Germany are still very provincial. We opted for the audio guide – a big mistake. Audio guides should be a help for visitors to see things they might miss, but this guide was full of names and dates without nearly enough info about the actual pictures we were looking at or the rooms we walked through. \n\nToo much of the art museum seemed to be in a state or renovation with poorly lit paintings in the gallery part and a weird kind of open heating system spewing out smoke in the monastery part attached to the palace. Distracted by all the oddities, we ended up missing one of the most famous paintings: Albrecht Dürer’s portrait of Jakob Fugger, a very rich merchant from Augsburg’s time in the limelight in the 16th century. Only from the outside could we appreciate the length of the structure with the palace-monastery extension taking up an entire big block. \n\nAt least the rococo ballroom with its mirrors and gilt walls was impressive, maybe especially so since we were there alone on a brilliantly sunny Saturday in early February. At least we could imagine the room also impressing Marie Antoinette, who evidently danced here for the palace-warming party a few hundred years ago.\n\nAfter an hour, we’d seen the whole place but then had to wait for someone to open up the room where we had to leave our bags. The café seemed more a parody with the couple of small tables and very uncomfortable looking chairs in a room next to the bookstore/ticket office, so we chose instead to rest our feet and our ears in the sunshine outside gazing at the gardens, which themselves seemed somewhat modest for a magnificent baroque palace, but then we had lowered our expectations sufficiently by the end of our hour in the Schaetzlerpalais.",
+            "time" : 1412079053
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sebastian Geißler",
+            "author_url" : "https://plus.google.com/115368470563160024115",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1353501506
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1335707437
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/112359508639598850136/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Maximilianstraße 46, Augsburg",
+      "website" : "http://www.kunstsammlungen-museen.augsburg.de/index.php?id=20164"
+   },
+   "status" : "OK"
+}

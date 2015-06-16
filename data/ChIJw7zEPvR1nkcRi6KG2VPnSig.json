@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Maxburgstraße",
+            "short_name" : "Maxburgstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMaxburgstraße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Maxburgstraße 1, 80333 München, Germany",
+      "formatted_phone_number" : "089 2317060",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.139679,
+            "lng" : 11.570647
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "b33e22f46b5b7c2dccc8559afcd9da4c95ff08b1",
+      "international_phone_number" : "+49 89 2317060",
+      "name" : "Michaels-kirche",
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBegAAAPHNScp0_MEk1P6G6CKhZLkgEmzFyb8XclZAUCk-Q7JzRDm10sjgkEAK4y5hcEeHbdFOn4KrBkQXd-eSTKZ9tigzhuhrU4O1junbsw6JIZvyRP1N-aVT3lCRbFuBFnl9s2NxnEUfPOY_7hqjlL6CTpZ6tZAU5O979aiORdIpFeVOEhCSeb5L2X_6T6WzjXiN80RdGhSGl9Ok9VmdfJP7Gxkpk6I7OQ9Ygg",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJw7zEPvR1nkcRi6KG2VPnSig",
+      "reference" : "CnRiAAAATM06cz6fAtg_PCAnPeqAI0byxb3ip179QMQpWIy1-eskSx2I96jVWFoPZFRgAjf7L1WEi1UwqunwyVepxrdk41ChlUxNji_0Dvw57F__zqGvJz82rdQNrGsE2Tn0hcsCKZxw6wYcnINEHH7xW3JYERIQ9vHWaWQgn75f0PrawzAUkxoUnwG9GmFYUliUFovP7q8LznmNe6o",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Виталий Коростелев",
+            "author_url" : "https://plus.google.com/100713524665418922379",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1331772679
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maria Jose Quintero Ochpa",
+            "author_url" : "https://plus.google.com/113618344510942935809",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1428274667
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "pt-BR",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1309485737
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/105139414183995264330/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Maxburgstraße 1, München",
+      "website" : "http://www.st-michael-muenchen.de/index.php?id=27"
+   },
+   "status" : "OK"
+}

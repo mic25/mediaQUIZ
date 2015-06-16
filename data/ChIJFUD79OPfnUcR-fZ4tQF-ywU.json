@@ -1,0 +1,164 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Feichtstr. 19",
+            "short_name" : "Feichtstr. 19",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81735",
+            "short_name" : "81735",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFeichtstr. 19\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81735\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Feichtstr. 19, 81735 München, Germany",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.11378,
+            "lng" : 11.638604
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "47c7bcd50b875c776cba12eec0eb1333059286dc",
+      "name" : "Ostpark",
+      "photos" : [
+         {
+            "height" : 427,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBegAAAGY1Fq3zz6C9c8VDVQSMuibUjmNwOoJ6G-CXPmWXYv9MAbwpVVwBu9xYkSyRlCtRB06GG0dnbhCaCu8eS1xZpw1o0b13pJ-ftQc025_uxlK1mc07aN7565EiEuSMha_gqOrUtmI6arJP-L24Du5V0UurygIb_unRjVq4tnFIcQ-5EhDkuHN5Fvvfmrmc1Tzp0BxQGhQqvwEq0yydi7RT_Ioc9KZUruLhjQ",
+            "width" : 640
+         },
+         {
+            "height" : 2848,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdAAAALR6lLNR0CtOgRXUYbX2cELmxfbyKN7_7MyCzns_Dlzccyag_dvuhO2K_Hb68EaLBcO8MKSzRnMTXQLY3LY0TrArawINkkoBk0RmpmZPrxN6PjmkeZ7ng6r9xKTbcZdjLyw4qTSedR-h_Bx02giVEcR37St9Tue5oIlyOKeK-hWXEhC5WTa3Hrfig-YFLBobxnSmGhRIEHL-ZlimcUX7PAY3uD6ifuD2-A",
+            "width" : 4272
+         },
+         {
+            "height" : 4272,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdAAAAGEe5GFSiRp4IvzB6AFwSgjsALy3tXmiAVWnMDGgvqeuFIJ-IUoQ2baoYabUKuRVYZBOOKT0r0DPhL-8vxp5uErSd35lO96A5YWACK8mfKi5DRq9HgvsUUXKRAeluZLdsBtD-2tFGmqTt_BG_tdyR9nDBEU9j6fs0pMPpy9BmGPAEhA2_zT0ZQX9rNwrHLhe95fJGhQhiVEiQGm9Sie3hjmI-4j1a93IaQ",
+            "width" : 2848
+         },
+         {
+            "height" : 1248,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115123075549120059413\"\u003e霜成\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAZ1GlDZpgefUOemCefwW1deuatFDtwLZt3zF2kPR_KC4fKc4DR9ntkcsaDs6mGTP1t7GpqacTAxUeFw-CM4TzK6lKROuOVg8H421COLVZUL0ZfwnGUra3rpsd316q-_uUubdfL9GwuuB0AOD5icofGhIQoFvkJiLknTXj4-LBm7TObhoUhi2tzo-F_lVAalj8ejaJm7dA3_E",
+            "width" : 936
+         },
+         {
+            "height" : 1441,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111962939755125088959\"\u003eDenny Kluge\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAFa8p_khzKhWLkqd6VSt6FEImBQL9bE2QkLVQPP9R8tejBJH0lO3oFKuJyK49VBi8XRXwL15SGq73L4Me4NtUfsGZR1clcEklvGn6ZNo6tIWWtPbiE61ryVqOIIuPkLg3p29uc_HepRgKTWoXnK2A2VxNUw5S1mUW7IX6XxmpujxEhCEL06o7tOjVL-GboXbGNcwGhT_RiRHBZHFkNQ3OPLKpMwqC5fEiA",
+            "width" : 2048
+         },
+         {
+            "height" : 1248,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115123075549120059413\"\u003e霜成\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAOrFuglZEkC2p9WfvDus0WXT60N7UQ3JZy7N0tycqal-8NiMaI1CKdOZ9RGdiG2zawbapvkRPdV-DWPdnQkmVot3MRZ28flv5tursOaQXyZ7Nh-_OLE6GRpCLReLXNkwQQFsEdXkpvjp2htnOGZ0cuxIQcJk81SlcUJ3UFUR_9rLMTxoUN39cdoEwe1In7yE-as1wkkN1Q3E",
+            "width" : 936
+         }
+      ],
+      "place_id" : "ChIJFUD79OPfnUcR-fZ4tQF-ywU",
+      "rating" : 4.4,
+      "reference" : "CmRaAAAAETXtDKn4am50oANcOS3MeAlcWtzdrcXmp7mmXBx9JradhFLOfYYjnc7D85Lm0r_Jenu_MCsKjE7MgLONY-_75pYq92nPVfTHuJM77rwOdv9BzIBkWOeeQmGiXEM21oQ_EhCbgOxgzTsM8hLOYGHujp8SGhSkxiMwo1B4fp_FSKOpxk0BrOCvsg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "sehr schmutzig!",
+            "time" : 1332253352
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Robin Brunold",
+            "author_url" : "https://plus.google.com/106067672539150681884",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Toller Park. Wir wohnen nebendran und sind sehr froh, jeden Tag dort mit unserem Hund dort spazieren gehen.",
+            "time" : 1429885900
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Koray Efe Kemaldar",
+            "author_url" : "https://plus.google.com/112841216612152231183",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Ganz schönes park ",
+            "time" : 1413206289
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Julia Müller",
+            "author_url" : "https://plus.google.com/107255013594025823579",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Also der Ostpark ist schön vorallem hat man gleich das Michaelibad und das eislaufstadion da. Man kann gut spazieren gehen und außerdem einfach mal entspannen ;)",
+            "time" : 1394279802
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marlene Schleiermacher",
+            "author_url" : "https://plus.google.com/112111705474983202580",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "Der Ostpark wurde vor Jahren künstlich angelegt, hat sich aber wunderschön gehalten. Ich muss sagen ich bin gern an der frischen Luft und lerne, lese, treffe mich mit Freunden etc., da gehört der Ostpark zu meinen Lieblingen, ist nicht der TopStar, aber lässt sich sehen. Der Park ist um einen See aufgebaut und bietet sehr viele Grünflächen, die ideal zum Sonnen sind. Im Winter kann man auf dem See Schlittschuh laufen, wenns denn gefroren ist und man sich traut. Ansonsten kann man sich dort sehr gut mit Freunden treffen und gemütliche Nachmittage und Abende verbringen. Schön ist auch dass das Michaelibad gleich in der Nähe ist. Also einen Ausflug ist es auf jeden Fall wert.",
+            "time" : 1325851411
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/108428528775090526840/about?hl=en-US",
+      "user_ratings_total" : 20,
+      "utc_offset" : 120,
+      "vicinity" : "Feichtstr. 19, München",
+      "website" : "http://www.muenchen.de/sehenswuerdigkeiten/orte/120226.html"
+   },
+   "status" : "OK"
+}

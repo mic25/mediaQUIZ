@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ludwigstraße",
+            "short_name" : "Ludwigstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86152",
+            "short_name" : "86152",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLudwigstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86152\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Ludwigstraße 2, 86152 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3246740",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.37078,
+            "lng" : 10.89548
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d3504d4d2dfb4d96424a42b7472b0cccb7563841",
+      "international_phone_number" : "+49 821 3246740",
+      "name" : "Naturmuseum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJQxB-UVC9nkcRlTuV8PK_2_U",
+      "reference" : "CmRfAAAArbZ6rfILctB-g4TMo9crcJXK_D59Mvj3IruVvwhuZtzRQ24jPRx34t0LkROXwd8CU9a5jQosAUlNYM4zNY9wY7AR_h0t-w3HUT2SSt8IG79svkNoqqAkO8z2BhYoE3QuEhCXu6BQ7pcFuVSloXKFufRHGhRpATH0nzJVHSVrxgKaFce00McVbw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/117256763325972403484/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Ludwigstraße 2, Augsburg",
+      "website" : "http://www.augsburg.de/index.php?id=30098"
+   },
+   "status" : "OK"
+}

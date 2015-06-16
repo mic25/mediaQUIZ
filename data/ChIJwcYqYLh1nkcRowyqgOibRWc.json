@@ -1,0 +1,109 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "82",
+            "short_name" : "82",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Leopoldstraße",
+            "short_name" : "Leopoldstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Schwabing-Freimann",
+            "short_name" : "Schwabing-Freimann",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80802",
+            "short_name" : "80802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLeopoldstraße 82\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80802\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Leopoldstraße 82, 80802 München, Germany",
+      "formatted_phone_number" : "089 3838900",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.161362,
+            "lng" : 11.586832
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "f9e720a5fe0a9684d5614409894b52a95cb07f0a",
+      "international_phone_number" : "+49 89 3838900",
+      "name" : "Kino Münchner Freiheit",
+      "photos" : [
+         {
+            "height" : 180,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAr5zItcUNLqY466KmGP6VYAbNa0O5WRnjz2IcNMrnAjv2-Y096sjGnwSXuoZFq3o8b9co7wwE_GPTKomKM8imGQLy2OdEX-gk_LV_QMpr05Lu5EoujiCPCuhB4wn_8tLlZQHubZ60MSi-xBmWemLoihIQL5QHiOHN9dWTDtqh3SjPvhoUdjLn-KD6GvngU-bNafksW-oDQiU",
+            "width" : 240
+         }
+      ],
+      "place_id" : "ChIJwcYqYLh1nkcRowyqgOibRWc",
+      "reference" : "CnRqAAAAWTVyx0cTP3MF9ZfiHQQKbI2CmiWXk0I8YcoZ3JEV0r2EuP8yQFSh8PK_JOORcEdyEvbGvRvlNIbH0J9SK6K6ACrA-gRrWCSt8iRrSouBc8fcobyiuqvNb61QzQkNhGlTMj71CbqR0s16Sg-y4DlvsBIQ1CzUPl7KOZyUA2ujWtA6exoU1OhZWTIZTPq4LrrKAaagddw85kE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Billiges Umgebungsgefühl aber  dafür etwas billiger als das Mathäser",
+            "time" : 1296766441
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1332191529
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1334476423
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/110623629345479945347/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Leopoldstraße 82, München",
+      "website" : "http://www.kuchenreuther-kinos.de/"
+   },
+   "status" : "OK"
+}

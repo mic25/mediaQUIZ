@@ -1,0 +1,208 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "288",
+            "short_name" : "288",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fürstenrieder Straße",
+            "short_name" : "Fürstenrieder Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hadern",
+            "short_name" : "Hadern",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81377",
+            "short_name" : "81377",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFürstenrieder Straße 288\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81377\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Fürstenrieder Straße 288, 81377 München, Germany",
+      "formatted_phone_number" : "089 89899340",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.108838,
+            "lng" : 11.500685
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "98bfce264c243def53e37c7dd9b4a7c0222f9593",
+      "international_phone_number" : "+49 89 89899340",
+      "name" : "Waldfriedhof Alter Teil",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 12:00 pm, 1:00 – 3:00 pm",
+            "Tuesday: 8:00 am – 12:00 pm, 1:00 – 3:00 pm",
+            "Wednesday: 8:00 am – 12:00 pm, 1:00 – 3:00 pm",
+            "Thursday: 8:00 am – 12:00 pm, 1:00 – 3:00 pm",
+            "Friday: 8:00 am – 12:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJW1cE9-TYnUcRdRX_SpdXlKY",
+      "reference" : "CnRrAAAA_gGjvUhOQhfkzpzBcb-TXt7VKl2o-FLdUAHsl9uqI9w6J-Ya4iEp2YEtlwKJizlzQ-uRedQ_mh2glezIBJ9i19O59oP0fKef3pGuW_wLoALsTq8UvIUjugHYXxbKfNNkxeV72OSQHQv7h6_4egMgrBIQBQJsXRuIe_uDtnOsE7m7ThoUz3jYqcHCnYGeQO6aoPkiRe3glMo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "yusuf mohamed",
+            "author_url" : "https://plus.google.com/104012449964544760702",
+            "language" : "tr",
+            "rating" : 5,
+            "text" : "werdenfelsstraße 58\n",
+            "time" : 1347514197
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pouakai Doe",
+            "author_url" : "https://plus.google.com/116331863398432007762",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1375466692
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pavel Dumitrescu",
+            "author_url" : "https://plus.google.com/114708369990611616633",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1428602723
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "cemetery", "establishment" ],
+      "url" : "https://plus.google.com/104005795985041486754/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Fürstenrieder Straße 288, München",
+      "website" : "http://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Friedhof_und_Bestattung/SFM/Waldfriedhof.html"
+   },
+   "status" : "OK"
+}

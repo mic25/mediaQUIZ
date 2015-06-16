@@ -1,0 +1,161 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "77",
+            "short_name" : "77",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Englschalkinger Straße",
+            "short_name" : "Englschalkinger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bogenhausen",
+            "short_name" : "Bogenhausen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81925",
+            "short_name" : "81925",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEnglschalkinger Straße 77\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81925\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Englschalkinger Straße 77, 81925 München, Germany",
+      "formatted_phone_number" : "089 92700",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.15585,
+            "lng" : 11.62355
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9aa6395d4a07820d4391db5ca93e86ecca8d84be",
+      "international_phone_number" : "+49 89 92700",
+      "name" : "Städtisches Klinikum München GmbH - Klinikum Bogenhausen",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 618,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAFDCfRGlKt5iG_Qdd_btDlW-MHfYIdnaQspuDyTqNmT_XlabQlLa-shlkx7UaZyCm0Tu1PdCCW4TdGmkzum24OGF0CzATI_EFvW4_DZWKvG0k7UFnqO6q4dXaMEvDHb91-mi2owW5R9X88Hn-chttcRIQ39ET--NH7WEF3fsnRyoE8BoUOjpQxBzS4aUxJkZCEcFHLVLk8Pk",
+            "width" : 1000
+         }
+      ],
+      "place_id" : "ChIJsaipchJ1nkcRIa_HXbtFeSA",
+      "rating" : 3.5,
+      "reference" : "CpQBjgAAAKpLaKBZ6muoYi5G8aTA-BptPHmUNTWnlMMY6FyZBTM67ZUyphdi4WOOaLUpkcs4H8dz4RvxHl2CNpXRhFd_7sY5EFWuW2ZCfvlxz_8yHCX6FdGR2fWKzLwvnXJYEGfLU45SnWz_ajIpgCGaBxuXiBNXgkYxNvXMdQv6CPOOBSWLMgJkeFe2A4U9kDblKnsKzRIQAyoJ9FzUNOLfgjgzlSYD4xoUMIg9pvw_eurwPFhOwSn5n2VLK6U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Baskan Sükrü",
+            "author_url" : "https://plus.google.com/106754336621093101093",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Wahre Frechheit",
+            "time" : 1433713201
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christian Mayr",
+            "author_url" : "https://plus.google.com/106201831427407723318",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Hallo,\nmein Vater ist seit zwei Wochen im Klinikum Bogenhausen wegen Herzprobleme (Verödung). Seit einem Jahr schon das 5 mal. hat mehrere Probleme gegeben. \n1. Haben nichts gefunden.\n2. Gerät funktionierte nicht mehr bei der OP\n3. Hat endlich funktioniert\n4. Wieder nichts gefunden\n\nBis jetzt wurde er nicht lange im Krankenhaus behalten, max. 3 Tage, dann haben sie ihn wieder nach Huse geschickt.\n\n5. aktuell steht er in der Warteschlange (Bypass OP). Man hat die Vermutung, es sind nicht alle Betten belegt, dann kann man ja alles etwas in die länge ziehen         ( kommt Zeit , kommt Geld)), da es ja nicht akut ist. Für eine Kernspindtomographie 1 Woche warten in ganz München, dann eine Termin in einem anderen Krankenhaus bekommen. Am Dienstag dann stand der OP Termin fest, am darauffolgendem Donnerstag. Problem aber nur, sie haben vergessen, die Tabletten zur Blutverdünnung abzusetzen. Termin natürlich wurde wieder verschoben. Termin nun wieder offen. Bin nun gespannt wie es weitergeht. Aber ich werde jetzt dementsprechend was unternehmen. So geht das nicht. ",
+            "time" : 1414001091
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Stevo Stegerer",
+            "author_url" : "https://plus.google.com/112520894065078491095",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "wenn ihr oder ein nahestehender totkrank tot sein sollte, sucht euch ein anderes krankenhaus. im falle des todes werden verwandte nicht benachrichtigt. schon des zweite mal das ich sowas erleben durfte. ",
+            "time" : 1397855377
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Isis Negele",
+            "author_url" : "https://plus.google.com/110590418948663505164",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich wurde morgens um 3:20 in der Notaufnahme eingeliefert und wurde sofort von einem kompetenten und sehr freundlichem Team aufgenommen. Die diensthabende Ärztin war sehr fürsorglich und mehr als kompetent. Die Schwestern und Pfleger liebenswürdig und zuvorkommend. Ich habe mich sehr gut betreut gefühlt.\nAlle meine Fragen, Ängste und Bedürfnisse wurden befriedigt und die Antmosphäre war trotz der angespannten Situation locker und entspannt. Da kann ich mich auch als Patient entspannen und wohlfühlen!!\nDANKE!!",
+            "time" : 1387487841
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rajko Cigoja",
+            "author_url" : "https://plus.google.com/110639445426651884194",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "\n",
+            "time" : 1428967008
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/103179085427027550273/about?hl=en-US",
+      "user_ratings_total" : 12,
+      "utc_offset" : 120,
+      "vicinity" : "Englschalkinger Straße 77, München",
+      "website" : "https://www.klinikum-muenchen.de/"
+   },
+   "status" : "OK"
+}

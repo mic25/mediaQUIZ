@@ -1,0 +1,229 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hirschgarten",
+            "short_name" : "Hirschgarten",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80639",
+            "short_name" : "80639",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHirschgarten 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80639\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Hirschgarten 1, 80639 München, Germany",
+      "formatted_phone_number" : "089 17999119",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147823,
+            "lng" : 11.514263
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3b8d95790131c00e18bff705cf55c6aa77620811",
+      "international_phone_number" : "+49 89 17999119",
+      "name" : "Hirschgarten",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 12:00 am",
+            "Tuesday: 10:00 am – 12:00 am",
+            "Wednesday: 10:00 am – 12:00 am",
+            "Thursday: 10:00 am – 12:00 am",
+            "Friday: 10:00 am – 12:00 am",
+            "Saturday: 10:00 am – 12:00 am",
+            "Sunday: 10:00 am – 12:00 am"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106629888339217910849\"\u003eMaxim Kachurovskiy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAAvNewN9mkylF1fdzAErCJb8phX42Z6KqOxFO4jBG5kdeZ9snitlsDDNp3GZh2gHaO4gjKa0j7CvOg9qg5zIL7ykrg-NBA38pcQNaGXKDrY9WpXiG3Tny9pl3BzfVIdhgbuZ-nh1sa-8JruT8ZKIF2xIQjb6u_QhUBpezib4FTvvK7BoUjTqmIVSX6tWtzhfjOqsvkQvFNH0",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJDcGVMC52nkcRYSGaHm491IQ",
+      "rating" : 3.9,
+      "reference" : "CmRgAAAAhy07tXnE7QqC923d00twlfFc9SnAPVG31EDEYDzu89GhWxhxq2kghMOYD4eQbabByi42R2Yhvfs-_4BrvMmr611aEQuCwjs2L5Av9LGRQI3GHpPyym4hoaLo8kz0CEi2EhDZqkh_sgpbU-x1M7ClTCohGhTLOe0poDwVv_fl0KHBzn4eYyQfCg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Billie Bell",
+            "author_url" : "https://plus.google.com/113634769399025115577",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "It is beautiful",
+            "time" : 1419712020
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Claudia Rupp",
+            "author_url" : "https://plus.google.com/108699223309317037254",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "schöner biergarten im sommer...essen durchschnittlich!",
+            "time" : 1353024000
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "schön gepflegt und sauber.",
+            "time" : 1332253450
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alizza M.",
+            "author_url" : "https://plus.google.com/116799051573965355514",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Die Lage ist einmalig gut und wunderschön, im Sommer gibt es nicht Urigeres (: \nDas Essen ist natürlich leider - wie in jedem Biergarten - nicht ganz billig, aber dafür kann man schließlich auch wunderbar bei einer Brotzeit und einer Maß das Wetter genießen. \nDie Größe macht ihn nicht ungemütlich, sondern lässt eher eine ausgelassene Stimmung aufkommen. Zu Events ist er bei gutem Wetter die perfekte Location und sehr gefragt - wer hier Public Viewings anschauen will muss mindestens 2 Stunden früher kommen. \nEin MUSS in München! ",
+            "time" : 1389283031
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luka Rothe",
+            "author_url" : "https://plus.google.com/116120312859465296453",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Toll",
+            "time" : 1433670967
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/116067485645035096238/about?hl=en-US",
+      "user_ratings_total" : 41,
+      "utc_offset" : 120,
+      "vicinity" : "Hirschgarten 1, München",
+      "website" : "http://www.muenchen.de/sehenswuerdigkeiten/orte/120223.html"
+   },
+   "status" : "OK"
+}

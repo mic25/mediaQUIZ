@@ -1,0 +1,278 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rathausplatz",
+            "short_name" : "Rathausplatz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Innenstadt",
+            "short_name" : "Innenstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86150",
+            "short_name" : "86150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRathausplatz 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86150\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Rathausplatz 2, 86150 Augsburg, Germany",
+      "formatted_phone_number" : "0821 3240",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.368765,
+            "lng" : 10.898703
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "e3734688a9b8d8178e2708e0aed43e39b4c1e6aa",
+      "international_phone_number" : "+49 821 3240",
+      "name" : "Augsburger Rathaus",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:30 am – 4:30 pm",
+            "Tuesday: 7:30 am – 4:30 pm",
+            "Wednesday: 7:30 am – 4:30 pm",
+            "Thursday: 7:30 am – 5:30 pm",
+            "Friday: 7:30 am – 12:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104414839116996449166\"\u003eDer Stuttgarter\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA2AfIMCk0zJSFunIcQOAg9Gm-GwWftciSNVYyb5f4pJrgxktijN9EHQUnt3lgEA20gJLY3u3yMzPEvAvJhK37mcnL8Lmaeiy5Vc_5Tpj3qbMtvYsVcBM14l2Jz22vEre1Tyd-qdrMemobZcILwUdjoBIQPa50nTXFM9mgJSYurJ1O8BoUOqHey0Kowd8YiD4Zqf4I1sYXJhE",
+            "width" : 5184
+         },
+         {
+            "height" : 709,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103644325183753396548\"\u003eAchim Siegmund\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAGwvC4dPsFJNkAdV4o7xLwkmBRfhJyYGR4ELC4DsEziZNGAgOfUqP46gBbOdBy93F_x3mFuD4oHu1UrQ0icBud1TIkQ-EvI_SfThMq2vsPrpL6qQ8RBntBM2Dn73dJcyxeMonH4l3FCDK_Ss5_2ZYLhIQI6v_ZRODeXSvgM21M-wZYxoULNAMhazM6KZBfvrNbaWQufd8AVo",
+            "width" : 1024
+         },
+         {
+            "height" : 1158,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104960627500636184276\"\u003eCaleb Chang\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAkBuZXpmNEbqWKTo0nsVU8LceBabItW06yLVS1j-lU30ZXsHnu0jbdrPRJ2fRjGsJosvwPub4BIMrN_4v6CJNtc66qyBjgV_3JZsgGB7acqnGFAudYG9Wx1EeL98Pn2hotJ9J8mzyLbZFCA-Z1A_qKBIQpsul_j7RD9wDczUoVIqS2RoUWAXx-nVYNXNQKnbASZrskK6HZdg",
+            "width" : 2048
+         },
+         {
+            "height" : 1021,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106139522317401659203\"\u003eMarius Klemm\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAABLZ3apZak22Cuf8Q8Tzp3-cY5vg0sB9UIf06VpE2DZmcpGkqv-5zgEXumIc6lYqXkkV1HLbDx5hbdwPRTCZBYHKDZzj21ppyOjiOoM9ECczNb5hHGf40wO8SIcymlCKLQlgXAa3GDwH6Rf8WuCl5SxIQWh54r8850eM_vX2w7zoKlRoUD5M3gBWOU_8u5Il9HgzcgUhDi54",
+            "width" : 1600
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109628313054375988049\"\u003eLuis Henrique Oliveira\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWAmVk3DSMtHMaRzcrBcdcS7NOK9jlOoGaC-ZeMIoCzCsu_lRkzBlWhG_3GcOt7--sxjuIAVBKialTLONRgk-p2cAakvy5utf7zFsFI4McO9T_BdOYeFWeu6mAsD6AeN65GH01oH2sAKr5Qx-ddgVHhIQOcWyBaoIJMXtF57Pr7FVlRoU43I5_UwxqKot5g_kU_ENdVb9AhM",
+            "width" : 949
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104414839116996449166\"\u003eDer Stuttgarter\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA7K6zGUi11WIQIX5uboARuew-RJ0zL8kVhXJrAroyfIDPv1E6rsVEX49qNMbuxe2CIRHOxD5k9UP0EnjwkPlQ1IqI-tBcoULsCd20QII9T--cg4Wr5T_PFyae3snCtGD5eM-Rf0UlNqqDnx62iKH48xIQwNEzR7qBy7MMRaaybDM44hoU6NQsBxU3R7HLJU89ZiIvBnl7FAc",
+            "width" : 5184
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104414839116996449166\"\u003eDer Stuttgarter\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAyQZ5rl3050TCFR2vV5CeXx64RzzD0mP0u2RxYMlGrvD56IjMl_0UyYWDJeRvRJVbNRUcpbN7NgkNnp2nRV_Zv95e7CtMNG03setKskR9P1TnO2DxKnoP6fTxzMF_TtoRLizHvDVT8Q2bU22qd-TOcRIQKeszw36QjXHV29VMwkVMJxoU4LResReR2UiLjTLfJU1il8PONwU",
+            "width" : 5184
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104414839116996449166\"\u003eDer Stuttgarter\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAxNEaAvHRHBTG6nZhmbQEJLelqYIegPrKRVCLil3LMahpNJE-TA2LupDO9V7fFEI67nyrQS5ohdSASqmQA3dvE7T8f55TqNuIb69R7sC0OTIftHgFFnaprrtVF3H1S-iJRWqwF4LuoYdqLLPet296uhIQffnfZMoY4d1ALB5plQSjRRoUVrl7Lf51F1faUgIN_RuiUgvVWC8",
+            "width" : 5184
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104414839116996449166\"\u003eDer Stuttgarter\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAASUHxedI5_WpPf4_RsO86yrbX_qgpszhbpzFXNbXUWnLSrZu_FtmuCJbn-H3ccYH4MV5Xz6tWkBbyG50Gfm4g1wkloq4rBu86KEkssvQT-vEEH7uJ1Z8cug-0BperouJf-g0kvzYV3BwYW1QLLKzFWBIQlSOS2rBnze6Tv3R8qkcYFRoUCxVomV083Fj23DfRBHtOAoePdo0",
+            "width" : 5184
+         },
+         {
+            "height" : 533,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102181005398363875069\"\u003eHiro Protagonist\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAASFkzPIuPk107DwZ3Z4RNPwxWahcukIDzG6SezXcMHSJRM9k71OH5BkH08AafH_jE8PKrRJUGJLCS_4zeXSYmik3lqzV7nRkZw0JyMpXiA-1FLbT0y8rbfK59aA8DgOoSMFlRgrGvv7YrtU0QldQRlRIQUjT057x--fWY7GCtVJzkGxoUkegyfED0Jk9ERkCIeiiXcrmzozQ",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJHV0PTVG9nkcR8WlxovWQ_50",
+      "rating" : 4.9,
+      "reference" : "CnRmAAAAzmUqsMvyXHqvw5XSTZwgmkAQPPZneSVge8QYP-g9PtQY1YPAv5HaBcWy2WNbz1UCO1LqWQf8zvu4x1fznlh06VtZvZnSwkFcOSy6_f1zTpOVJV-PLwZJMyBp6teq3m1eiI4y7IlYM74ayhBHlIW7-xIQ8lwE91-uSsbks25Di1F-ChoUdrg5He9B4SKzFBQf7Q2j3y8S7K0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erich Weichselgartner",
+            "author_url" : "https://plus.google.com/114321319651697846306",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "One of the most significant secular buildings of the Renaissance style north of the Alps. Don't miss the Golden Hall.",
+            "time" : 1424807815
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Innerhalb des Rathauses Augsburg kann man den goldenen Saal bewundern. Ein Muss bei jedem Stadtrundgang. Am Fusse des Rathauses liegt der schöne große Rathausplatz. Im Sommer kann man sich dort in diversen Kaffees an heissen oder kühlen Getränken erfreuen. Im Winter ab Ende Nov. bis Weihnachten  hat der wunderschöne Christkindelsmarkt geöffnet. Hier auch leckere heisse Gränke... dazu übrigens genau zwischen Rathaus und Rathausplatz bringt euch eine Straßenbahn sicher nach Hause :-)",
+            "time" : 1322050753
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Achim Siegmund",
+            "author_url" : "https://plus.google.com/103644325183753396548",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Eindrucksvoll und sehenswert. Glamour pur.",
+            "time" : 1399152930
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Caleb Chang",
+            "author_url" : "https://plus.google.com/104960627500636184276",
+            "language" : "zh-TW",
+            "rating" : 5,
+            "text" : "購買門票上3樓時要自備零錢為佳",
+            "time" : 1413604519
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Hiro Protagonist",
+            "author_url" : "https://plus.google.com/102181005398363875069",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1355003685
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/110118012264746875000/about?hl=en-US",
+      "user_ratings_total" : 14,
+      "utc_offset" : 120,
+      "vicinity" : "Rathausplatz 2, Augsburg",
+      "website" : "http://www.augsburg.de/"
+   },
+   "status" : "OK"
+}

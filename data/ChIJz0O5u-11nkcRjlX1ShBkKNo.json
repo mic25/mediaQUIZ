@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6",
+            "short_name" : "6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gabelsbergerstraße",
+            "short_name" : "Gabelsbergerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGabelsbergerstraße 6\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Gabelsbergerstraße 6, 80333 München, Germany",
+      "formatted_phone_number" : "089 2867690",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.146129,
+            "lng" : 11.574394
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "a72bd13f44bb2b6860c12264ce8aeeb4fc8d74bf",
+      "international_phone_number" : "+49 89 2867690",
+      "name" : "St. Markus Kirche",
+      "place_id" : "ChIJz0O5u-11nkcRjlX1ShBkKNo",
+      "reference" : "CnRlAAAAiAEn3IB_aOmRzqYh7SAsr_CZ_SV8AgjLwGKL5axJWQpnummsPp64e4XR6UexvrOuBM0I0-QvWwjQOI3tpvkBqORMaLU2G0ZBjX3pCT6nZPb3iPRIoOp2-RejaHJsLEQEMpbNqD9A7QU3HxRHly_4ehIQDu0cp_F3gyVHZJUwUP-UWBoU5luV8Ku__c1H1PTIBUhDQIiY4bg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christian Römhild",
+            "author_url" : "https://plus.google.com/108806032844860630450",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Universitätsgottesdienste sind immer einen Besuch wert",
+            "time" : 1397574227
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/113024813970820380350/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Gabelsbergerstraße 6, München",
+      "website" : "http://www.markuskirche-muenchen.de/"
+   },
+   "status" : "OK"
+}

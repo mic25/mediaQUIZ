@@ -1,0 +1,292 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2A",
+            "short_name" : "2A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Salvatorplatz",
+            "short_name" : "Salvatorplatz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSalvatorplatz 2A\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Salvatorplatz 2A, 80333 München, Germany",
+      "formatted_phone_number" : "089 2106960",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.142124,
+            "lng" : 11.576644
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "430cf654656e17e2ca24a34c3c7d24d44991d410",
+      "international_phone_number" : "+49 89 2106960",
+      "name" : "Theatine Church",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 8:00 pm",
+            "Tuesday: 7:00 am – 8:00 pm",
+            "Wednesday: 7:00 am – 8:00 pm",
+            "Thursday: 7:00 am – 8:00 pm",
+            "Friday: 7:00 am – 8:00 pm",
+            "Saturday: 7:00 am – 8:00 pm",
+            "Sunday: 7:00 am – 8:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103338341818627974115\"\u003eMalachi Mansfield\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmTt2GynScZHWCpuZyJlqK2RyzX05hLo53xEDrIbJX-Hw55F1pWF4YmfD_WpJxEEJoS9AQldJYvdVFLOEXHLWc1sHQXzE0JLBczpy3TPInlbnmHCLGJNvOoFxwKBofkSiPqwnAq2OnBmKj2Rr2iEQcRIQ5rzUimu35AH3etPvf94puxoULqVDJF8zfmFKWxfqEUTP0HUpgxo",
+            "width" : 960
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110551492081725704752\"\u003erey perezoso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAwZRKBIfckj5L6XIb46AQrXh7Je6AHCKuiA2IOJQsGSf04zb-cju1CLYCyvE08Y4Ra8YINtdW5DxCZDmVi0bvBALhzzFXxVZZkQofmA1Gtujc4zXDOtXn1qZRbrwhXusWvM2XNgeDb6staATOty3zgRIQoY-F6s0hGsPzlU5C_6s0yRoUxpPaHt_I8jEpr196_GMbKLYWfbE",
+            "width" : 3456
+         },
+         {
+            "height" : 1067,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAUVfa-O2MLAJR7uusnAUXUdDFXBeWTGriGBvFhEsjlcQ4hEo3FJCF2RYoHuVIXgoTHND5NnOyqXrWkGcU1XcIo3qeI8yAlQsjD62FtLR8c94HwjZ8YxP7mtwqc7ijg211riiE-XHY5a7dUVevW95k3BIQkkizFv_2Nk1CiZradNVl1RoUS_PKoqF45lWLI4Rkl05H2ypjkZc",
+            "width" : 1600
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRtAAAAGYRXyEXqitMUC5NzVR2Q7YXFQVBpYvduo28D1shZSLp6dGtu1zLAUYCvvqfoiP6z7dC6RsKmzpy3pqFQyZ7AeOBCSCwFSguuYnqyRh9eFAw6FLsQO5n2LffTDmSSMqM8QYWPGZiIZYTdjBC1K6vMtRIQh-UdSkkZrUtgTMwKnxEcsBoU_FBQ2QE2ZpKQHa4mE0jaPJWlSRo",
+            "width" : 1224
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAADboAs1zTyv7VJdTD41rqVuymbCQdJcvlv2tDIaE7Cuu9lwLMU9a8-k1Dypr4q-2jnkaBf-bGyoz201zP54CNShTFTDi-EyRHwMnCXgDuE22dmEHesZWF0IHBxH1KZrx_ZuNLed4HokBBY_nH7MJjUsRRBsOgGmKx1HWlj9t7auLEhDryHRugsaDcCdAoofrGYOsGhSTAs6NZKoWyMkKGE5KUI5qc1j8Tw",
+            "width" : 1716
+         },
+         {
+            "height" : 1067,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAI5r1S7Q7gLSsmVrkytX5xpvSOiXtdsb-GaoTWRVHYpckkQdz3znUx6QzSSHFs7A7Rwzi7iUEUqljskU9CwPlXtpjlNPVK90kQg4kXPcKtI8QRgENgy9pHWuWkMhH6enrR2ZNV3kaOjy_k1McQEq1IBIQgCrr7oQqvfW69EgfPchrJBoUj7mm5_2tc1blUXttkkCGIzCaUqk",
+            "width" : 1600
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107362127346203474515\"\u003eJarrik Vermeylen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAnL0GIbvS6ulhFqN6V--jIRu1YHpeJf1UngAE2IAWIHzdF5__MwPLuyQHOCQqUevGl1rA946Jpdq_bq4Px2UzLh7PuClZiN5imyoK53g4rx9NxR74gDno571qNvQVp0VYPkihpQwG6Ufb1cUKlnGKxRIQqp2jPSxZGVpeHkY4f9dRvRoUS77RypaxnVx9npn5Hai2vMujgF4",
+            "width" : 1362
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBewAAAKm6_5e0FGA5esWra9cO2ZVQVMaQ8qNVraz_23gfE2rWk0e4cPCwXuXvPWBJDH4k7XuT3mL6WDHqAFTe9gwBNCB-6EdOU9UGA30DhW0vQXvl_gI2k456b5o7T0na342iML5A1Rjy7dF_MiBLBfxWEv-xsOi9YExaY2EJw76rSmW9EhBqwoyj6n5PzabJTo74cX-xGhSVCrtAwMFf0mwGf16Vr_LAIYHhvQ",
+            "width" : 1154
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAsIg_1xEDuTqCYqFrbBD3GGsXdZBwtt2EXGENjH4K8BNVP1M9Oh2lj7D-4kT1JQQLjJ-MPxFc88kF3KNL85Yo40A4sdnkprixMS4DH0l11CYECWV7Tx0ArX2YAhPCYxinf24tO3D-CLDVgNR8A4soThIQRyC3QZL0-hfj0EzerES-2RoUADhGuE6Q0Zm3-F8TOebxvxJhvN8",
+            "width" : 1067
+         },
+         {
+            "height" : 1067,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAMn_yDQ3JMFa0YLhSIKRaerHkOob3Kagfos3UqUn2_9DgYnPLNit7dsjSgEyA9FsZuLpPPmct8r2byoqTNkOYjAygX3Wu2x4QSaINmuDlkZyCEV3MmAbflrOjohL1QpHJYNv1NsJCWpWLS7Xp9xus4xIQ13XOf8e5lqO76Su31WkKthoUArzDM5NIr0FHKL0JvBVhlQ-IbBs",
+            "width" : 1600
+         }
+      ],
+      "place_id" : "ChIJvZgN1Yx1nkcR-znS8AZWiBQ",
+      "rating" : 4.7,
+      "reference" : "CnRiAAAAyGDyEBpi-g0K9befeL7P-9NyUEj6QQHRv274XN1gYF-2-WW9XBsrUHWxOzx2XnGMakPQAypcz03WN1Tyx6GPrF8w2AYzksax0WNRxAgwvUw1nWhwxSOhxXYsudQYGjyNptPWK6dUsgeWsyxn327mxBIQa3C96wF8tqvXC3H_jgsZRRoUTQPIQpaG6T9Of-2WvZ0DojXvwDI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Being magnificent example of Italian high baroque style, Theatine Church is one of the most outstanding architectural creations in Munich. When I walked in for the first time, it took my breath away as I saw how gorgeous it is in all its pure whiteness. Impressive interior and lots of light inside create very peaceful and calming atmosphere. This sightseeing is definitely not to be missed.",
+            "time" : 1357506253
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alex Fedotov",
+            "author_url" : "https://plus.google.com/116473350687561399300",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "There's a really spiritual atmosphere inside.\nStronger than i've ever experienced in any catholic church\nMakes you think really deep thoughts.",
+            "time" : 1326279239
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexander Bierstedt",
+            "author_url" : "https://plus.google.com/113412958368101022586",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Kirche der Dominikaner. Ausgesprochen intellektuelle Predigten, in der Tradition des Ordens (Albertus Magnus, Thomas von Aquinas.). Lateinische Messe am Sonntag. Alte Musik",
+            "time" : 1411231972
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luca Scheiner",
+            "author_url" : "https://plus.google.com/105685688391666032030",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Tolle Kirche mit Beichtgelegenheit!",
+            "time" : 1429386354
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Markus Reuther",
+            "author_url" : "https://plus.google.com/112949568062868957788",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1413397837
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/105338511388141425915/about?hl=en-US",
+      "user_ratings_total" : 19,
+      "utc_offset" : 120,
+      "vicinity" : "Salvatorplatz 2A, München",
+      "website" : "http://www.theatinerkirche.de/"
+   },
+   "status" : "OK"
+}

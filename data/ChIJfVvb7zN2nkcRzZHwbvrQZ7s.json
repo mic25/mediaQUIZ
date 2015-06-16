@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "93",
+            "short_name" : "93",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Romanstraße",
+            "short_name" : "Romanstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80639",
+            "short_name" : "80639",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRomanstraße 93\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80639\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Romanstraße 93, 80639 München, Germany",
+      "formatted_phone_number" : "089 17970",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.155927,
+            "lng" : 11.510125
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1e17056f7ed4547af430ffdea5a9c2ebf029a213",
+      "international_phone_number" : "+49 89 17970",
+      "name" : "Krankenhaus Barmherzige Brüder München",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA62Jbf18YLWUidX0wg99ujhsDmLYsQcyqfwgqLMIMk1ABz3qPD8PW1V-0GSOKpOejomhnnMXPHzo01JruHuk1gOaCY1CymTpQziG9_NyZ-_YjhSDCiUr2BtwUzulb6RfDqIvKwGXFyO9rlnSSiWkXNBIQUANxwWTG3wmbTayw64LStxoUJqdNuhn6J_6REryudYDeqDaTjTE",
+            "width" : 966
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CqQBmgAAAJZ-5b2Engmot1w9TgYC-BvN1b36yy_JaZAfCwAVHQE1-RqtK2QZfe0FaIVU0M0EVOXEu9rhLHh07IqZZrMxqxd4ZlBBDqDqquYdKbPNtFd63GwqMoPrVAcvTaltyW4CloWVZgAp13FIISLr9JmYJeHwrITv1ae7l04MK9I1ZJOiRMQXnw29z2BiilVBgoxrwULDQ8vtdvxbklJK3ydS_aISECh8wi4PZAjtwg52KbGsjc4aFGu79rzddfysZlsyNninS2DDBhap",
+            "width" : 920
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110719958041793118173\"\u003eManfred Wiench\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBnQAAAP0eLawcLByM9aadZ8C9vqQU9CTeSX9YcrdUYcIe6fPHbpY8GEvxbhFzxPAZeo9gjXiS4EJgAUegiYIQuA_mrky2uL9o21G_oR11CXnUL-hZqeFblvNjLjrRDekRqKjB-IlKTsF4JnRat56nKy7l9LXRCOpgi55Uk01x9fpJDucUv6z-BPpeCrMOLD6SV5Y3jZIQ1Ng3EovANXeXl5a1ok8SEBLwfvJmJulWobqYOGCukCUaFOryuwYJl4AqpMux1YFne8XKX0ms",
+            "width" : 1632
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113320114392960080441\"\u003eGino Russo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAARoUaIW8zgGie5V9PkXtCpR6qnYqWNe5-TpijOkV0DdxJ_wDighOFFCh2k-Pnu5qJnG947qylAAsZew0m5XuwNynKVRwDzRSklw-ZF2eTPJ82BiuHGaj44nLlJSboI0yeIPvKLbcJXbAQM7dY9l68FBIQRKFueFhCl2NLgXrxY2P_6BoUCfnoDJ3Ogt0-Y-YUro1O-7S5eOU",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJfVvb7zN2nkcRzZHwbvrQZ7s",
+      "reference" : "CoQBfAAAAAOesPhBR2MFTj0Z429FPhmQkTzAH_6m0bL9eROqVw_xQIRXbJ4tObcnMPoVY9JDM104U_i61bVEDAgDXDSxMoWpwjr1iPFCxWKFY3w8lk0aqFXhcsWDUqbWG2UDvTYpO2a4jVE8cMyEV8dB5pXukwBjEBF4IgE3NHDo7SQjoiftEhA1e3hWGnwHNv8rJRz0WagxGhSwhedD4Ls5kPeQfwHtlSlhEoXy-g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mathias Maresch",
+            "author_url" : "https://plus.google.com/101807667030971244248",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "sind sehr nett, aber man darf nicht betrunken sein",
+            "time" : 1419624041
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Swen Wimmer",
+            "author_url" : "https://plus.google.com/107488199908048143471",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402381101
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Peter Mixa",
+            "author_url" : "https://plus.google.com/103461009975651882424",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1386436775
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/102599840963402764255/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Romanstraße 93, München",
+      "website" : "http://www.barmherzige-muenchen.de"
+   },
+   "status" : "OK"
+}

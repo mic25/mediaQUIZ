@@ -1,0 +1,131 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "163",
+            "short_name" : "163",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Nymphenburger Straße",
+            "short_name" : "Nymphenburger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80634",
+            "short_name" : "80634",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNymphenburger Straße 163\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80634\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Nymphenburger Straße 163, 80634 München, Germany",
+      "formatted_phone_number" : "089 13030",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.154192,
+            "lng" : 11.532669
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "743ca65dde423ebe5cf569ee370641d9a97fcb4d",
+      "international_phone_number" : "+49 89 13030",
+      "name" : "Rotkreuz-Krankenhaus München",
+      "place_id" : "ChIJXSoQehZ2nkcR3RVPLD-N5Rs",
+      "rating" : 4,
+      "reference" : "CnRwAAAAPAJBOOwPV1kPGQFVoT1hVFfgtZSq1GJaorrzqG17vrO_vXAv_i6xAPT4xckN3TDbKjLwH77_9qbKQYlFjX-91TKhLUfobw2yxP_hEm1X_TypKPtMfdVFCv-v7kVA7kJ0TWZyJJQx_7zj6rCqNqtX5BIQjcpJXzvM-DisvWCi_7EtIRoUJSKWfqy1rn-G8A4wkpncryamtsQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Isobel Macarthur",
+            "author_url" : "https://plus.google.com/104067851061838257468",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Had an accident and came here . excellent care quick and polite\n I was very impressed. Used my ehic card whole treatment only cost 10 €",
+            "time" : 1368890631
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Roberto Détrée",
+            "author_url" : "https://plus.google.com/103631632161552861341",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Ich wurde am 30.07.2013 operiert. Die Gallenblase wurde entfernt. Ich wurde von den Ärzten wie auch von den Krankenschwestern sehr gut behandelt. ",
+            "time" : 1394011180
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Katharina Mighali",
+            "author_url" : "https://plus.google.com/117027177964813666680",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1370199962
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1307557395
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1346412685
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/106555111692706012647/about?hl=en-US",
+      "user_ratings_total" : 5,
+      "utc_offset" : 120,
+      "vicinity" : "Nymphenburger Straße 163, München",
+      "website" : "http://www.rotkreuzklinikum-muenchen.de/"
+   },
+   "status" : "OK"
+}

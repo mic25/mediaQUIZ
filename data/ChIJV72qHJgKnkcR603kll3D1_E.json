@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Germany",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.135152,
+            "lng" : 11.679328
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "63d4afaa736dce6595ed2e6023c5987a80cde624",
+      "name" : "Friedhof Riem",
+      "photos" : [
+         {
+            "height" : 684,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109312627733810394966\"\u003eGuni Abel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAABRQ3n9SKrfMrgBeFpNrvR26UHpZ0dSC_5k4ET_Rd0lTQhyv4JK1XGi2sg_X6Aa7X4xX2yw_RvwIN8dSrB7x58TDRRd-rRy-NLNRI10V2Zwj3nKx5o2DlhMTUAyTA5ZfNVpyVyoWXWtCoiSbrOs8Fk85yYAmjXxopb9JPW03tMdFEhAeVDWj8jdNQqsT1Dl-1Y4jGhQvdlvmWvIEqYShnn-8e407ASq9LQ",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJV72qHJgKnkcR603kll3D1_E",
+      "reference" : "CnRhAAAAQltkXF8jb27Ov6wRhbW3E0RjHi80qtOfxAHA_xwa4Fu7_jouHF_q7vnJbYPa69LM_AoefZqquRwDz-XsHH8zRUOH5CG4EsX1J4azakgCbR9PZDqkfQ2zA1B34yvb6Kg0YsVSbLQYaPTR4oBCnGFOkxIQm2OtuTa0Nmobz4Mzyz0RQhoU-2z-tBjJQJibfSFDQQ7Y4wyYqos",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sabawoom tanha",
+            "author_url" : "https://plus.google.com/101592640592743885498",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Vilshofen",
+            "time" : 1433542459
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "cemetery", "establishment" ],
+      "url" : "https://plus.google.com/101921484422146415953/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 120,
+      "vicinity" : "Germany"
+   },
+   "status" : "OK"
+}

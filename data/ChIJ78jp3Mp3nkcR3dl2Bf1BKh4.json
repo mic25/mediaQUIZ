@@ -1,0 +1,228 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Neuhausen-Nymphenburg",
+            "short_name" : "Neuhausen-Nymphenburg",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Munich",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80638",
+            "short_name" : "80638",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Neuhausen-Nymphenburg, \u003cspan class=\"postal-code\"\u003eD-80638\u003c/span\u003e \u003cspan class=\"locality\"\u003eMunich\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Neuhausen-Nymphenburg, 80638 Munich, Germany",
+      "formatted_phone_number" : "089 179080",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.155578,
+            "lng" : 11.493571
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a1d2f874066d986d30f9a477715e2702f3cf1209",
+      "international_phone_number" : "+49 89 179080",
+      "name" : "Schlosspark Nymphenburg",
+      "photos" : [
+         {
+            "height" : 747,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102726632557824852241\"\u003eremigio perinel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA_U7VmJ2sv8aqhFJP-b4bhkFdV34dYPyXJH1z7D1JcnymkUuSD6cs6d8qbZ8SnSGKpekY25SAqOLONCxIy2bFPTP4hUf5KBY229mBfE5foCVJ6WhpDIo7Iy47y59TnPPx8KSiJEC1ssjjRxE_rFjZYhIQQZQJtNXL1pLkBMPHn_SCGxoUrDALbB3evdeuZOtXn_dG64RqU6U",
+            "width" : 1328
+         },
+         {
+            "height" : 1363,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105883820024987257038\"\u003eToni k\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAANbXd9HolGnIxeGWJXQfjs7-gOC1ETwDLbOwEZm5eXawe5oM1_NPCjGgLeeUtIQ3WsIDPlbIe-tAKwQpyqwkBh0k6cewDTXppzM8lzFIn2Wnoyp-xoxJG2SvAC8u1NfULsI93NhJ18PgssuMDCcfI3VCQBCJdk0IbWiJmHYYCnylEhDPdhX1H1B0Ej6q70-IQWzJGhSKz97lOq5Nh6H_ila-UwBP3MzcMA",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAADFAJ4yF2ytsZ5Vrjelw4ASD0cK77Z6ePfwCgrXfstIM7NDTxXe71cFa4kGEK-GwkuYSWc--5mEx9fAIRoPCDnf7JXLhHj7aaTLKwIcdNA_DEEs-RpoZVcLYElZcVHabNerf1hSrdbyHmfbourdenBIQJDbOMjq1prPl3VopnOH4axoUsRcVIPoRPXwM3gxuRQDNlay18Vk",
+            "width" : 1536
+         },
+         {
+            "height" : 3863,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110994388374022692154\"\u003eKarim von Orelli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAnQ5UWDT-097O6P3-z9EXfS90f1KN1gpNt3VKsot-0bkRMmC3NTeDLlEKj_Lxc6nopQu2AyVjXelZMSsSqgBzN44MxHegwABsAZRGMcOaARrQ9tK1r1jiBkoKRFDOIN4pJyVgxidLIi1FftnLhMwonRIQ7ginQDSzI6yaVHPN5aIqwhoU421eHN4qWwm58gxb8PE68T0HTSU",
+            "width" : 5810
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115609401161919010962\"\u003eWam Kat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAAE1cf42zD7aUcYgr-BB_MVQrv5a97XyECuzTzCdfXiVRY5G9CSoB8OSlsL9nvVAkgZ8bc26rBFcdkxej5QM86SNRCidGwbXU8Z3dxmJKqzheLXJNByXmCqUOBXRVwTIcgjVpXoI0syEVM4OVr03mYocIZ7f0vpmkhAqnXysuPWChEhAYBcOX6MJwdHSdhFUCAVeCGhRKgZOCVEHByz-RQwZYX2cf-tHj0g",
+            "width" : 2048
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117972231363572700437\"\u003eChristian Braun\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAuyqxXKmSnyRTQBlzCXY8NlaoK6Y-HkY-WV4QjPsS3bwQTwYc89phVLzmzxl2pCkUoTti1cFh01XWogCqmF-izERA4sIBS-kfwbGthSASO1DGW5jBrS2cyIUJFEBGGm10DUkgPjJGrmBGs6JHVheONBIQEob7u3_RuyTb3jlZ2GOFwhoU4M4P9_eaM_TyTgmunTRuJuneZhE",
+            "width" : 1224
+         },
+         {
+            "height" : 747,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102726632557824852241\"\u003eremigio perinel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA1Fn7PvmFV81nDGrav-4W5S6ucaDBs0sHeK7mEhpn1YhmNQ7DSvjKiTxBBXy2zRuWzgZxAAMBOoM1qhFt32zFU7GW-SwtZaZA0EZ_5aEYohMP3NEvSMZM3R7DvBX09xM8nE781DjoeFhc9qPrvowhqRIQne1nZuNj7rD3SJivfm6rGBoU-R2Abx65hCngs30gYry_CqoWPV0",
+            "width" : 1328
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAH9nCiGxaZNVK54mPkUSaqCCFVDra8aPaMwBO4nxQ_NuxDD2nTdUG8aTqMq-pN6HchP9WkMOn0fV7JBs4HjdvPkLhNqz08exUTVK7-1h57KSy7tshvqkmeO1WqxyRFpIdts3v-IIzRx4iPiAweBle_nZjWJwc-YpL3afPoHAwUN_EhAo8SJ-p5rqQjOqidb9kodyGhQNxhtYKWoNvHGIXVuBesXMkMnH2Q",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAP0E9pZwOyzPOF4DvpHZFNeyBkXooTak4kL0f59vcWs34yDSRKVInC_Q9BKcoW5S9s9I_yTWmQVbyGUUVQFZfJG7HKevERBx3yz8geaMaKuzWEnPi0rnaD02mKZWt2Fy3xZxNHFNOgZ_C0a6noODd7M7rueleoF_3JxlT5FAUczqEhBmTeaorVLgOV-bkrGqimVhGhR4-fDxtZceuwpaHeEBxzKRJyCwvg",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110058848532626643974\"\u003ePaolo Platania\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAFLeDU-g7ENAY9hRleZzJuQhC5n9S8DTloMKVLKxtOaPjPRKhun6WExRkZKS2SrO7UuTRn_jYPrdAhbzR7mSE0dZi5vfHDpmunb5MOsMToWS5Wn6UGsz_g3v75kDySbg6d2LS3ENV4tSQ-WsOoNl-CvUQoNeP5CkIOST0-mHGE2rEhCrnlakLU1EaipwXsgE8-VNGhTOphLPKKeH0yokAI9InGktjvWhPg",
+            "width" : 1536
+         }
+      ],
+      "place_id" : "ChIJ78jp3Mp3nkcR3dl2Bf1BKh4",
+      "rating" : 4.8,
+      "reference" : "CnRqAAAAk4iNUvMbA19Mw0TQ1u94OhN3bu2_trENbetIixGsYVz5lcj8TU3XiEutByyoLCxWVJKTlCKs9WEb3P1MFMvGP6PWDsUoZHrB0vWqOjNGHoebr0ZmLwjTAJ3lEb4mU8QpIVKTMI9Q-Dki4J_DQJ9prRIQMS5sQqiDqwUcPbJ-OWejsxoU196y97B8ib1dQlndk2RwAcYl8Yw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "What a stunning experience! Schloss Nymphenburg isn't just another fancy palace out there. It offers a truly fascinating trip into the past, including the legendary Nymphenburg Porcelain Factory and splendid public rooms. The park area is really huge and very beautiful in all four seasons, ideal place to relax with your friends or family on a sunny weekend day. Once I've spent hours there exploring its expansive grounds. Highly recommended!",
+            "time" : 1352559256
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Vitali Kopp",
+            "author_url" : "https://plus.google.com/114804360784887626722",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Unforgettable experience. The Nyphenburg Park with four park palaces and the Baroque palace’s rooms are stunning! Make sure to join guided tour - the history of this place is looong and very interesting (everything has been changed here so many times because of the numerous historical reasons). Tip: plan your time ahead to stay organized and have enough time to see everything.",
+            "time" : 1351583766
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Emil Bayazitov",
+            "author_url" : "https://plus.google.com/109644682401576675400",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Живые бабочки зимой! Real exotic butterflies during winter, awesome! Picturesque scenery!",
+            "time" : 1357666590
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice museum and very beautiful castle park ",
+            "time" : 1326643461
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hans Meyer",
+            "author_url" : "https://plus.google.com/117057384884727893713",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Wirklich schönes Hotel mit jungem und freundlichem Personal! Das Frühstück ist ansprechend und angemessen für drei Sterne, die weiteren Dienstleistungen sind auch einwandfrei und gut. \n\nDie Reservierung und die Abwicklung an der Rezeption verlief schnell und unkompliziert. \n\nDie Preise sind angemessen bis fair für ein solches Hotel. \n\nDie Zimmer sind sehr sauber und groß",
+            "time" : 1375133179
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/110708675397817399153/about?hl=en-US",
+      "user_ratings_total" : 31,
+      "utc_offset" : 120,
+      "vicinity" : "Munich",
+      "website" : "http://www.schloss-nymphenburg.de/"
+   },
+   "status" : "OK"
+}

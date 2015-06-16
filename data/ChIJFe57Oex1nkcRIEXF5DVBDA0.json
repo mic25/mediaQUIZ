@@ -1,0 +1,273 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35a",
+            "short_name" : "35a",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Theresienstraße",
+            "short_name" : "Theresienstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTheresienstraße 35a\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Theresienstraße 35a, 80333 München, Germany",
+      "formatted_phone_number" : "089 238052286",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147781,
+            "lng" : 11.573989
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d475604102f957ab5ccf4c4e6d7a923f75ce502c",
+      "international_phone_number" : "+49 89 238052286",
+      "name" : "Museum Brandhorst",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105558052831842224313\"\u003evon crystjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcQAAAEIAXczf1HvDs7p45a-PctKqbZNxzxPJ_LkqVXKk2uQH5aDPY4zRFV7d3Y-RE1yrOYzkMwcLEoPDThtx2Y3rqrhpCHQuZvs5yChqQL-9fHiIUbOdeLbmRjnAPgWdvUTVGocovN63IV30Io9iHLoKMOPOUIHLeIR22aJSUV9Rv1kzEhCj9AaABsTvyUxGiT-2RADfGhSLRES-ph-yphYytQXmEIj2nbI5hg",
+            "width" : 1381
+         },
+         {
+            "height" : 5124,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110551492081725704752\"\u003erey perezoso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAG07kGZKTjEJ43fxk_m9HYHJYeNHT70kCDguAersZv17h4MOUcfxRQEGca3H7aKXNurwEIqnnbczPuSSv7M10Sv1HNz4eeoamFb_o75FOfZssVanqVz1JivSg0BukR_RckVjPV-2lJjtoJcByiVtPuxIQ6DvPev40glLiH5Dgsj2_SRoUj0x82leeW4Xr-KgwOdMLgwOrIOw",
+            "width" : 3456
+         },
+         {
+            "height" : 1154,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfwAAAEMOI5sNnUHniB-JGWFFuen-cAzKvWp-10NFwYnQG_YNEbo0oqunoiy90cWih_Yspngn8M3BhStbj5zcWRtTULjvsidJC0GI9AtbdQj2ewUazWunFHQZloe4LJpgz-FzEr39RbHytNG6ExVAjXdj2S9eaqO4fqMKDPDf8qhfwkSEEhBBvFQdKSNkYq-X056nrG4eGhRxhWnRzdFoltrdert2clr8XMmHlg",
+            "width" : 2048
+         },
+         {
+            "height" : 750,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102755192480447970933\"\u003eGisela Plewe\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcgAAAN6kZcsih2N4qOIzLCjcFmMHNFmiChDiSt7tLfUFXqasVPhX41TyKMumyZfZzl8ZtbEjZkIC9sJN81XO_WQxB_1-LCOw8RxmlQu0f8qADmruvySfb9N7cFnAteXkE32th3hwDK6te3e7zBzj2S1oh2Jzz199CZlvACFhv3W3tXLEEhAca-WRvuXkn1N1vm8hyOQ5GhRUf7LR4ZD_AS0i-Yie6ZkNcpiUsg",
+            "width" : 1000
+         },
+         {
+            "height" : 1195,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106595534716823156561\"\u003egschwandtner bua\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBiQAAAA4z-usc-KhZfRBpcTOLv-tignzP-LaEIhWFWtU-rWzeSOG0DwGq2C4IWABDswdggfvPWPOb3AuOfyFFWeGj2ZbwD_MPgrFzSDCQQ5myG0Mi1CKJ2fUzrEyMKUim0Gp0RRJb528XVDyGC4QAFYI6sXOdyFgBnKBl6bCMzOhKpm-20CczbeBJyDEQrZMPCIlHRBIQbhyPVbQEYdW_08fd5XMLTRoUg2TDdPvcUa2Z-XiTZcLqGo1Ke4E",
+            "width" : 1800
+         },
+         {
+            "height" : 1195,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106595534716823156561\"\u003egschwandtner bua\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBiQAAAG4hOE_z32vH5zOYKiDw8nBwhO9kpCtgGyk9l2Ncq_ELvMa3WE1969txW6xfle3df5ust_5QYA6KQGWcMFKtRkNvmnvGz3gbSEjYmqF8WuO2hbHA3t-G1dAxer2FRtomvbrMQzj2aJkQqrEN_Ka8PXRZvtoP6sJGg4mX7e96GevcKBJjNwzEcF6ZkRj9T-CrsBIQxdJNI2Sp1BqKreQ8RrWx1BoUbuMzhbZKzoqX3sIxnys6IpIxiYo",
+            "width" : 1800
+         }
+      ],
+      "place_id" : "ChIJFe57Oex1nkcRIEXF5DVBDA0",
+      "rating" : 4.5,
+      "reference" : "CnRkAAAAcAqf9202LJaZiyobfFT9VPZTbDlOXg-C0rE2h3NZpCOrNpHdipmIj1z8dfgWsPQ3pWd83O2pat0LQuthdOE_rC1arShEsuvSQG_Pjh41iPOMLx3_600A6uKj-DPRav6JlyCI8zeuoeEaw-y_la0hdBIQL9JpYVQtuFG6vO_Zn77pIBoUEuQ67pirV2jINg4h3mLbUsmm3BM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jade Charette-Côté",
+            "author_url" : "https://plus.google.com/113336442278387440756",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Loved it. There's much more than Warhol! I wish it was bigger, but... it can't be perfect!",
+            "time" : 1422814179
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Visiting Museum Brandhorst is always a great memorable experience. The museum is based on the Anette Brandhorst’s private collection and is an absolute must-visit for all interested in modern/contemporary art and architecture. I could stay there for hours enjoying Andy Warhol’s paitings — I love looking into myself and seeing how perception of his art changes depending on many different factors, from time of the day to my mood. All art works are very beautiful, and the audio tour offers just enough info to keep the tour interesting. Tip: the museum has nice cafe and art book store in case you have some extra time to kill.",
+            "time" : 1352507174
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Liang Shen",
+            "author_url" : "https://plus.google.com/114566337490912682470",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Full of so-called modern art with title of \"Untitled\"\nI should save my time for PINAKOTHEK DER MODERNE. ",
+            "time" : 1345400947
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johannes Tabti",
+            "author_url" : "https://plus.google.com/113240466648208094858",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Schon das Gebäude selbst ist sehenswert:36.000 vertikal platzierte, einen Meter lange Vierkantstäbe aus über 20 unterschiedlich farbig glasierter Keramik. Ich hatte die Chance, zwei Ausstellungen von Cy Twombly und Ed Ruscha zu sehen, echt toll.",
+            "time" : 1379832814
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mercier Rocher",
+            "author_url" : "https://plus.google.com/112114604533926448989",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Das schlecht geschulte Security Personal erwartet man eher in einer Discothek mit zweifelhaftem Ruf, sicherlich nicht in einer renommierten Sammlung. Uns hat der schon fast bedrohliche Auftritt, besonders eines Wärters, den Besuch verleitet. Eine schriftliche Beschwerde erfolgte, und wie wir erfuhren, waren wir nicht die ersten, die sich über so viel Anmaßung echauffierten. \nDie Sammlung als solches ist wirklich schön anzusehen. Ed Roucher war ein Erlebnis und die Video Installation von Isaac Julien überragend. ",
+            "time" : 1376235759
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/102976254597643444082/about?hl=en-US",
+      "user_ratings_total" : 24,
+      "utc_offset" : 120,
+      "vicinity" : "Theresienstraße 35a, München",
+      "website" : "http://www.museum-brandhorst.de/"
+   },
+   "status" : "OK"
+}

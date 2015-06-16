@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4a",
+            "short_name" : "4a",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Galeriestraße",
+            "short_name" : "Galeriestraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80539",
+            "short_name" : "80539",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGaleriestraße 4a\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80539\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Galeriestraße 4a, 80539 München, Germany",
+      "formatted_phone_number" : "089 2106910",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.143614,
+            "lng" : 11.581123
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d157fb645b5a132c13b5f5be82f1226b2e561665",
+      "international_phone_number" : "+49 89 2106910",
+      "name" : "Deutsches Theatermuseum",
+      "photos" : [
+         {
+            "height" : 1366,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116877659370436484109\"\u003eMichael Jiroch\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBpgAAAC9WMpMV7znkDI0usawVWrnw9XcEW761p65p95aKheVReQ2bzkj7bvhwVlnALWSVrtiPJNaRcHAZ1c0oDCVzfsEA47RnlULKeyme_A4abLLv0wpmRRHoZyVhM50LBXsyv9LTO6KbMantaVzjODoHFEPmR66J_m6ico1bT888vT8TxxQUEETLRYBV6fc0YvrtELXj44ewyvc8DdHHHJ2Qx_ULjwfrdRATrK9TrfHVpPX9EhAOeWuBDB76YWiJwEIA3AOKGhRO86EquV0Rh2f69K4U6p7PnMpXpQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116877659370436484109\"\u003eMichael Jiroch\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBpgAAAOs1TMkYBk5ZfbMrUY1K7A1f-H-8lnZQS7Givb1H91mEuv_lYWg3vWzHzOmLG3YTj1gJ7VFvsbu0RNjev91WgeyQZ0mZDUJbgpMv5-KoLEVeHkqEfe7MSScH9UlxQiz0D0Ux4RbNXeBNwmZwtxYobgC6jwb-es1F4tkgaa7WHTk0ZCJrrry_tqswCCnzauVKn8gGAbtA1iJ_AlWT4iu2xvpuqSmkBSw4SuC0irjUyt8nEhC4P3Rhik-HMXipklCO8mo3GhSuND__efVlTVzZ3JpNget3c_ywSg",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJXXoteo11nkcRD7IB6zaTVcw",
+      "reference" : "CnRrAAAAbDYr7X6y6segTYrF1qgID6FDRIrwCvle5hu1kWHuluGhDjSbsT9LOy9MoBjVCuH9cbWQIbhVtNC8SOhe_hI2YluSo67MsIYiCFZhWp8ZYCumFHcJHwalB0Fk4mxoFT2rXCgopRAErzXqzGO82fbOJhIQPumeYeVK1ktbgTB3dGvmsRoUXHhYyLli4Dj-pK1QFG4h1KmcIoo",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/111810881538603836814/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Galeriestraße 4a, München",
+      "website" : "http://www.deutschestheatermuseum.de/"
+   },
+   "status" : "OK"
+}

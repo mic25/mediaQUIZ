@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Frauenplatz",
+            "short_name" : "Frauenpl.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFrauenplatz 12\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Frauenplatz 12, 80331 München, Germany",
+      "formatted_phone_number" : "089 2900820",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.138631,
+            "lng" : 11.573625
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "1fe54848c7df064a37b0f1705bb9e8539ba36fb6",
+      "international_phone_number" : "+49 89 2900820",
+      "name" : "Frauenkirche",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:00 pm",
+            "Tuesday: 7:00 am – 7:00 pm",
+            "Wednesday: 7:00 am – 7:00 pm",
+            "Thursday: 7:00 am – 8:30 pm",
+            "Friday: 7:00 am – 6:00 pm",
+            "Saturday: 7:00 am – 7:00 pm",
+            "Sunday: 7:00 am – 7:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1317,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106595534716823156561\"\u003egschwandtner bua\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhQAAAIakljJK4LpP3KgO7hgngCJc4xLTLyFHhEvrsYW3dyKNk0xs8X6dLRkmcs7E3k_jI9oCZpO-mhqumE9K691I0vLOJq7LpXLd2tzAQmMhiSsZ8tpERko2DvQHc_R5j9KAsMZFRhBZPn14grnj0h4f2K07klIX-EnzoWjWC2a_6qCEseEJid69bv-GHjVutxuZihIQABeQJQiM5Q85j7Tcd7l9LRoUU96eqgtiSClIw-NOL2ag1nGUJvg",
+            "width" : 1980
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108191845971288551072\"\u003eStefan THOMAS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAARYRe4rOdw2dRWFPJUpcDlyqPorox2DukfuaQAMGisAeEhUqCotVvzrgwM4seXGM2OohUJMPEwRZE3iw0R42Ew1M43MbILyd49URNuFOkVER9BiwUY8boC92Lei9pwD4MafnAUF-1yEYxd9UQECFtKxIQJodFsuUGeudeSz6N6BLmQBoUJ3-HrLPYpZrBXBjlv72IpEEpz9Y",
+            "width" : 816
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116877659370436484109\"\u003eMichael Jiroch\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBjAAAAGrYnlz5tkDBHQ3lVwnGtkj3cYDLePZgNsIHn0zpif5p5HtS0ZkRaOWlsz5LWlZ5hGvRb-Mjuw24ZuczUceQeTNcor_YHE2oOApZDDz1QaoM6eYsrGiA2iGlWwZ2nTGvgoFGgr4LDXzWlPN8jUGDIUQLx0MVxu5C7bi1PzjFm__qQggWrIJY5wFD1I-5ylE-uxIQGAdp2wwNd65zSr7ZlrcpLBoUiMBBnnXqbnfU4Ak0CzciEC06xaE",
+            "width" : 1365
+         },
+         {
+            "height" : 2736,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRpAAAA9vB9MxkLi4X6Tw_LiNuCdrfhrBuyCOV85q3QpD3-uWF8pgL_zWDP3zD9eF3ozsLJVty7-iHa0-6sUQF2EkimUrdvsjeQTe9T_-4RaqJ7PPjr4G_pLcKv3aIzmu0Q-3o8lQyp3gEixoq5KckntqL6eRIQFvIHgj5xpz4fDNqW8q7okRoUItCze10EMBiel5oS-KzTy9Jolnk",
+            "width" : 3648
+         },
+         {
+            "height" : 459,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108191845971288551072\"\u003eStefan THOMAS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAchMgJuga-heJ7uq2ksKvZOFaCRSWQrnfP6N0a61tf_jXXP47QGa2Nvz7iWYjIMBoNTy8m-XYRr28aNZSNsudtaFPralvQPlyDP_RNi_QzT4LLNKcGLtCPCRzbF8dSIxbkcONwSyj-4SkaPrgujGyVBIQyCJTJJdFl2eOaHKxze79GhoUfGxI86z4e-A2M6TcoGlHnBW42fI",
+            "width" : 816
+         },
+         {
+            "height" : 1096,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117506582778481007331\"\u003eДмитрий Лобачев\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAov5KQg2DUxwvP2eqwjwxXnjgkX9-EqlnvOJw736omPT5zWnw2mk8mZAcFyWxyZrHJP4cfyzZ4bfcNTYdJZfuGDDlzO913Y8FsUuiWPPeQHltg2lFkVs-cArBG0eA_R1BnoiUz20z4ZWwYS8ThAw7DRIQmbn_C40ISD4F-W8sI9UeghoUc8jvnA1iX08s9H-PTbG8BoX86zo",
+            "width" : 1096
+         },
+         {
+            "height" : 616,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAjbuTQAYSxTAmSV4_sO7Ba-kl9PaIx2CHzBsx-Yu3GKsvMU_hPveHZtqZXkmFcjVt1AQcgiDBRuOmD2Q-w_bxzLttNTLKYdhCxWMSppV4tdsPwNgLe4aLaO4HIimgRTOuImDb2zbbXxb-vpcTzcVo9hIQ05_2ROZpG2K8LL_FCE0csBoUydIiOEeog7XPzsqx94_tPoC25xA",
+            "width" : 1024
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109329463232857988367\"\u003eA Yuen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAMeR6QTt2cXGBYznoFHVO2opMMhZB4bqTjAXl_PfoyB3C9gAwq3L4q1f0Bks9yG1hrISFwK4dFbVXrUxClv5z6SkzJdy7Yai1GmDm-kz7LymGwZEdf3lv1QKcmITZu1rnlyqAX-xZkD8-MprzCQeBVRIQX5QYMeExJZVg9P4QRHZiCBoUrFGKg84lDr5EC7gW16GBZtxAs3k",
+            "width" : 1067
+         },
+         {
+            "height" : 1492,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102670352484906491035\"\u003emal 쏜\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAkix7bky80UZCpeWI0UgKbnNF7qty02p1kLLrCklIiyiATHOgxnn0TiDZ1PsazNpGbk2ZpB9Ybla3mQWucbedER-DcI9RfVQwE_v0u7_a_CNFuf_h8w0fdla-Iz6fmCqIjVIwm3pqSra9f0OC4-y88xIQ_nbRw0nTYrI1Icum-YaP2xoUFg3Zx4CH_7BcyfCk0B2d-QYvV_U",
+            "width" : 1119
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102084660279828670745\"\u003eColin W\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAHXTn5uFDDUDSdU5yhx8k0YJpKQ0JY_M4EGNGGKyoZ3oXdg69E958eH_SJ9WdRk0SyEvW9IXFIrRzPZxCwBP_AtXMIrRgUZ0ssdN13Wtu1rEsy_8VJ5Jix-MOg9moQn9MeonPO4lCuQy7OEmkdDD_MIfpRsvRfV4Vj6oITHg7h83EhDAxSiiwDf6S-OSS3pUxTi3GhR382G41849LevNAo2fX5zn2ZY2DA",
+            "width" : 1154
+         }
+      ],
+      "place_id" : "ChIJl3iTk_R1nkcRWv8Z_6jCLAA",
+      "rating" : 4.2,
+      "reference" : "CmReAAAAAQfAB3uk2Z5LUH_IH2SpLqFbaDiykCazB0lvKUYKI-PnjAhLjPAkYNeb9L8nRVEtgT50wQ9fybXTWyXZdlswmRYZCCFDMwloYTPEgSCqxQKs-_I7d8CfcVXNu__BcVrZEhBob9zWKnezlRS5JhSN5OZ2GhQI5tyb-leGOc3coByKRbjetvdvgg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "John DeLuisi",
+            "author_url" : "https://plus.google.com/103918205226724376687",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "great !",
+            "time" : 1428336612
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aygul Zagidullina",
+            "author_url" : "https://plus.google.com/101697775213251991950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Frauenkirche is the main and world wide recognizable symbol of Munich! I pass by every day and it feels that people (both city inhabitants and tourists) never get tired of enjoying the breathtaking view it has to offer. This beautiful church located within walking distance of Marienplatz. Its interior was nearly destroyed during World War II. One of the things you have to see is Devil's Footstep, one of the attractions that survived. According to legend, the devil had visited the church during construction and left his footprint in the floor Beautiful building worth the visit but make sure to do some historical research beforehand.",
+            "time" : 1352562435
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Alexander Orlov",
+            "author_url" : "https://plus.google.com/102299455092306269473",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "covered with renovation frames for over two years. creates a very ugly city panorama.",
+            "time" : 1343851696
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Timothy Bailey",
+            "author_url" : "https://plus.google.com/117965753332376411494",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Whoa!  This thing is huge!",
+            "time" : 1394989818
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Артем Тарасенко",
+            "author_url" : "https://plus.google.com/110250109890065070661",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "It's Munich...",
+            "time" : 1402439571
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "church", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/118423825197084813171/about?hl=en-US",
+      "user_ratings_total" : 89,
+      "utc_offset" : 120,
+      "vicinity" : "Frauenplatz 12, München",
+      "website" : "http://www.muenchner-dom.de/"
+   },
+   "status" : "OK"
+}

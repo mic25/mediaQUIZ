@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Königinstraße",
+            "short_name" : "Königinstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80539",
+            "short_name" : "80539",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKöniginstraße 5\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80539\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Königinstraße 5, 80539 München, Germany",
+      "formatted_phone_number" : "089 28880",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14519,
+            "lng" : 11.58361
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+      "id" : "6cbebeef4f73cdc5e08382e0e370ef7392bdc404",
+      "international_phone_number" : "+49 89 28880",
+      "name" : "US Consulate General Munich",
+      "photos" : [
+         {
+            "height" : 1157,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107440338398673950830\"\u003eJoseph Gummer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBgwAAAImLX7U78Mv5l8JAgsf0qG6gYe7lBtZW-SjUskvaoPl8_3F6Pzdr0AMvnLgdDFDXkvKEqLqMIh6gAZs1BTbMELzWESvB2nYp9LgF3VaET5bZhMC_JspYJPCihmO0D532l8cTzCnix46ugJ3hxwJefhaVwei3n06Sc_X8DNe8IpwnKh41LsRVy6n2JAZfFjk_gxIQ1U1XQXBJgmkrYcwC2DRfiBoUGuoIvKYV-bgBTiA8DTzTYKKGh48",
+            "width" : 1811
+         },
+         {
+            "height" : 433,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107440338398673950830\"\u003eJoseph Gummer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBnAAAAA_FyC3HJaYW-RpGekwZQJtrVBeT_6QO55WiCciq631I9OC5wQZrHkYbmIlwi_8KHiI1mPa8MgLbExcKsM8hitwuhIPO-Ef5IVaRB1N0gCQoW6VSiu409cQvcUpJ62EWRSXB9fOwNG7laSkiQX1MzmXCh3bFRjnSlaz-kq3z7PgPfKSz384tGQyKceAK2eT2ELTQNuP6JES97McSyQrfjn0SEHULejrBHuk-Og91iwHQUccaFG0w_tJb23IA-oH_6KpUhZ5oNLUr",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJkUfcBJJ1nkcRsZ4U7Gp7ixM",
+      "reference" : "CnRuAAAAHgZrx8nQbCyXp14w8hsWW1EKnBff3_aBNOl1yXAtzefaC11D0UzpjY3o1j_oDW6_J4rsdTAEYA2KXRrg0VLcAxJyCM-pFegO0N7HylGc-2mf95KjIfWSBSueklIXDcmG7Q3uRj_grERjWrlMk23tLxIQnd7HNuvKeg9QCKiJdClUFBoUMxq34YzCArDJyu82KWjha0ccqz8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Duane Beach",
+            "author_url" : "https://plus.google.com/104168059706527535824",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "If you have all your paperwork, everything goes quickly and smoothly. ",
+            "time" : 1414734336
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Michael Schrader",
+            "author_url" : "https://plus.google.com/103037822581772109128",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1371830510
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhishek Lele",
+            "author_url" : "https://plus.google.com/102834700281918547752",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1421154674
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "embassy", "establishment" ],
+      "url" : "https://plus.google.com/100101207755990330770/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Königinstraße 5, München"
+   },
+   "status" : "OK"
+}

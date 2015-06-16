@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Robert-Koch-Straße",
+            "short_name" : "Robert-Koch-Straße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Landshut",
+            "short_name" : "LA",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "84034",
+            "short_name" : "84034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRobert-Koch-Straße 1\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-84034\u003c/span\u003e \u003cspan class=\"locality\"\u003eLandshut\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Robert-Koch-Straße 1, 84034 Landshut, Germany",
+      "formatted_phone_number" : "0871 6980",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.537934,
+            "lng" : 12.137639
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "134b73cf59a3547f7cd0a247b79c0b1d9627fabc",
+      "international_phone_number" : "+49 871 6980",
+      "name" : "Klinikum Landshut gemeinnützige GmbH",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117079097722221703572\"\u003eKlaus Fleischmann\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBkgAAAAPt8I8wyKbWT-Gvifab0yv-FDEvkWrhqMkHIGHM-kpeSryDvOE5Y98Gzz9ZNV4EUTp9hu4u-EospMK6eUCZAxhF_uduSjFnaofFjom5eLdAPUCFRho2ns9INHH6SRrFGhB8xjPGxYbvfNISDFf8_sVvQbhWKqcuofkl0pWVU4J4udk4hBYDMJjGkq3f9igbMY48RyLse4SYfLAz17yRliISEOv30Otp7nWvNtQKDdoJExQaFCVIjbDcZBmH7BdeD2A4gG8FykIS",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ9_XLmt4lnkcRrXuLuRihl7E",
+      "rating" : 3.9,
+      "reference" : "CoQBeQAAACLFlxuP9JG55kOXcozlgBHse8cwNui1y316-yScw0j1V8mGHC55FexNaE3BrIZxbmeByxFxtXwGdNGFN5OymZLqBdw_u-u_kGPCuhhAM6uR_wGmF6wUps3cUjyfnVWtAaDJKdLrgLKqIyGOmGJdeCf5YwWaNDjlHDovFUzAEXJEEhDRAYlKNY9_LJEWnKqIZbX8GhRsFyeYW7HS_CNgcgxPCI7pvb-Zkw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Max Cainam",
+            "author_url" : "https://plus.google.com/100476547929071006902",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "Noteinlieferung wegen Schmerzen und Brennen im Herzbereich. 5,5h in der Notaufnahme verbracht. Personal freundlich dafür einen Stern. Kompetenz wird angezweifelt, da auf wichtige Informationen nicht eingegangen wurde und in der Patientenakte Sachen standen, die ich nicht gefragt wurde und sonst auch nicht geäußert habe.\nUnterbringung auf einer Einlieferungsstation, die ein Bad/Toilette für alle Patienten hat, halte ich für eine Zumutung. Wurde so gezwungen, wegen des besetzten Bades meine Notdurft hinaus zu zögern.\nGesamteindruck, Vom Management auf absolutes Sparen in jeder Hinsicht getrimmtes KH.\nNicht empfehlenswert! Besser ins Achdorfer KH.",
+            "time" : 1432983532
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Klaus Fleischmann",
+            "author_url" : "https://plus.google.com/117079097722221703572",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "dieses Jahr 2014",
+            "time" : 1417714975
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shimon Dick",
+            "author_url" : "https://plus.google.com/112199789691023099838",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1359908789
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Holger Klemann",
+            "author_url" : "https://plus.google.com/109761338727606101124",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1311437530
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1337552532
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/106938658252493908804/about?hl=en-US",
+      "user_ratings_total" : 7,
+      "utc_offset" : 120,
+      "vicinity" : "Robert-Koch-Straße 1, Landshut",
+      "website" : "http://www.klinikum-landshut.de/"
+   },
+   "status" : "OK"
+}

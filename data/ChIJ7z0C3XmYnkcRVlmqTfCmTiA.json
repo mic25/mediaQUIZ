@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Universitätsstraße",
+            "short_name" : "Universitätsstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Universitätsviertel",
+            "short_name" : "Universitätsviertel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Augsburg",
+            "short_name" : "A",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "86159",
+            "short_name" : "86159",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUniversitätsstraße 2\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-86159\u003c/span\u003e \u003cspan class=\"locality\"\u003eAugsburg\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Universitätsstraße 2, 86159 Augsburg, Germany",
+      "formatted_phone_number" : "0821 5980",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.333289,
+            "lng" : 10.897216
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "6964f0e6ae7eda8cd4dc255fdae027b8395180d4",
+      "international_phone_number" : "+49 821 5980",
+      "name" : "University of Augsburg",
+      "place_id" : "ChIJ7z0C3XmYnkcRVlmqTfCmTiA",
+      "rating" : 4.7,
+      "reference" : "CnRpAAAAQObCYqi_h5c8tbmeRw4GrdMCn9sWX68M-cNq3-XusCq2QT3nVNnbZ_0x3Q28y5WKQ1oZs-ioRvnkTda4LyOpKVfkvbhJYt9deqmSLd1mruV5altVeqxFmS2HRbjWqvskpANU0v-D-o7maJOpggJuexIQnImBDPqXbMv6HGwtfeSoTBoUTLp53U8_bN-hMfBXmRGJrVIXrNk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martin Blok",
+            "author_url" : "https://plus.google.com/104676123821145950088",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "- Toller, parkähnlicher Campus; teilweise sogar fast malerisch\n- Universitätsgelände und Fakultäten sind überwiegend barrierefrei zugänglich\n- Sehr breit gefächertes Spektrum an Studienfächern. Künftig sollen noch mehr dazu kommen\n- Sehr geräumige Universitätsbibliothek mit mehreren ruhigen Ecken zum konzentrierten Arbeiten. Fachbereiche sind ununterbrochen begehbar\n- Gute Studienbedingungen und oft ausreichend Parkmöglichkeiten aufgrund der Nähe zum augsburger Messezentrum",
+            "time" : 1429256157
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mattia Sangiuliano",
+            "author_url" : "https://plus.google.com/117243646009336984083",
+            "language" : "it",
+            "rating" : 4,
+            "text" : "La freddezza \"tipica\" dei tedeschi? Niente di più lontano dalla verità nella bavarese Augsburg; totale disponibilità dei cittadini nel prodigarsi nel fornire informazioni a turisti e non solo. Associazioni di accoglienza per gli studenti stranieri possono fornire un grande aiuto e un ampio prospetto di attività in seno alla vita universitaria, fornendo informazioni, organizzando incontri, eventi, gite per la Baviera o nei Land vicini; disponibilità sembra la parola d'ordine che muove centinaia di studenti volontari.\nE il personale universitario non è da meno. Rapporto con strutture burocratico-amministrative eccezionale, dal primo approccio con l'ufficio per l'internazionalizzazione, Akademisches Auslandsamt, sino alla segreteria studenti, Studentenzanzlei. Completa disponibilità del personale nel fornire informazioni anche via email, fornendo chiare e precise delucidazioni (in tedesco e/o in inglese) in merito a qualsivoglia questione. I docenti? I professori non si tirano certo indietro, reggono la sfida, anche loro estremamente disponibili cercano e apprezzano il rapporto diretto docente-discente; anche in questo senso il tipico sistema dell'istruzione universitaria tedesca, fatto non solo di lezioni dirette, Vorlesungen, ma anche di seminari (Proseminar e Hauptseminar) riescono a creare un sodalizio all'interno del corso di studio, motivato anche dalla vicinanza e dall'attenzione del professore.\nSe il vostro tedesco non è dei migliori o proprio non riuscite neppure a pronunciare \"Ich\" senza strozzarvi non c'è problema: i corsi di lingua tedesca coprono tutte le necessità, dal livello A1 - base - sino al B2 - livello avanzato - sino a un livello ancora più alto, verso la qualifica di Muttersprache, madre lingua. Sono inoltre attivi un gran ventaglio di corsi in inglese per tutte le facoltà, toccando le più disparate materie. Non da meno i corsi di italiano in vari soggetti, che contemplano corsi ed esaminazione in lingua italiana, ricordando anche che proprio la Baviera è un grande centro verso cui si sono indirizate le varie ondate migratorie dalla penisola italiana.\nSe siete interessati a scegliere UniAugsburg come meta per il vostro ERASMUS: ottima scelta.\n\nMattia;\nEx studente ERASMUS presso UniAugsburg.",
+            "time" : 1405356266
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Goewe123",
+            "author_url" : "https://plus.google.com/106482172393495152442",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1407263524
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christoph B.",
+            "author_url" : "https://plus.google.com/107539696842421036255",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1415650169
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jutt Je",
+            "author_url" : "https://plus.google.com/104547685286245179886",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1432474093
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/116016102672999456693/about?hl=en-US",
+      "user_ratings_total" : 12,
+      "utc_offset" : 120,
+      "vicinity" : "Universitätsstraße 2, Augsburg",
+      "website" : "http://www.uni-augsburg.de/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,215 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Richard-Wagner-Straße",
+            "short_name" : "Richard-Wagner-Straße",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bayern",
+            "short_name" : "Bayern",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e10 Richard-Wagner-Straße\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "10 Richard-Wagner-Straße, 80333 München, Germany",
+      "formatted_phone_number" : "089 21806630",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.147518,
+            "lng" : 11.563548
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4faa0605f791028a89ee2eafbd292699807b2c8d",
+      "international_phone_number" : "+49 89 21806630",
+      "name" : "Paläontologisches Museum München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 4:00 pm",
+            "Tuesday: 8:00 am – 4:00 pm",
+            "Wednesday: 8:00 am – 4:00 pm",
+            "Thursday: 8:00 am – 4:00 pm",
+            "Friday: 8:00 am – 2:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJN5ksGOV1nkcR0NbRs_Qo1Hc",
+      "rating" : 4.5,
+      "reference" : "CoQBdQAAABIga3AuSt1JY27ug6_dlD7Pi4wIkE_J86AqCnTJ0EUpDUuoCvS7FRLAsQ40C28i2_btc2uVc9KnWqi4Qpfs8vIh9vSKdopbY_ky7RCI7OHrqRyiY8ASoxy63nulCsgCBl40I2UOA2yvU7zDUaOf4aOd0BOY_JeIieT4zQu9P2p0EhCKc5WjtCX2Z1-7ABNBzatRGhTv0aTy2bTY_ppyc5Gj2qmc-AQjSA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hans-Georg Michna",
+            "author_url" : "https://plus.google.com/112408344964548794002",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very interesting displays. Good for a two-hour visit at least. At certain days and times a paleontologist acts as a guide, which is worth planning for.",
+            "time" : 1432780611
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Slawa Hunger",
+            "author_url" : "https://plus.google.com/105638349423492065206",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1414386871
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Pierre-Jacques Berthelé",
+            "author_url" : "https://plus.google.com/106695825771463504018",
+            "language" : "fr",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1370944054
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Swetlana Petrowa",
+            "author_url" : "https://plus.google.com/108618208466861120894",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1416677821
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andreas Fischer",
+            "author_url" : "https://plus.google.com/113049622296000376141",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430233911
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/106123568528347386490/about?hl=en-US",
+      "user_ratings_total" : 7,
+      "utc_offset" : 120,
+      "vicinity" : "10 Richard-Wagner-Straße, München",
+      "website" : "http://www.palmuc.de/"
+   },
+   "status" : "OK"
+}

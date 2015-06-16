@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "44",
+            "short_name" : "44",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Schmidbauerstraße",
+            "short_name" : "Schmidbauerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramersdorf-Perlach",
+            "short_name" : "Ramersdorf-Perlach",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "81737",
+            "short_name" : "81737",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchmidbauerstraße 44\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-81737\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Schmidbauerstraße 44, 81737 München, Germany",
+      "formatted_phone_number" : "089 678021",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.101945,
+            "lng" : 11.629399
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "878315ca9b8e0ada5135635492e3777150e3b625",
+      "international_phone_number" : "+49 89 678021",
+      "name" : "HELIOS Klinik",
+      "place_id" : "ChIJm_uUEtvfnUcRumrDJCJfv2M",
+      "reference" : "CmRgAAAAySG5u8IHb2eb7zLRztfSM68FbqfHp-Cn8mGjgpNo5mf3LqpC1j0gZzqH-suEOs3jVxLZhejKrD3p9016YxreTNBL6vqXQszAeifFsyLL5RjKDaxDnyRdYerexX-SCo4NEhDDOpuZhVfXa30C6SqCzsxTGhT_UGtQ3Lp-rw2EtEwCu6QalNfqMA",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "establishment" ],
+      "url" : "https://plus.google.com/108455670463925407254/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Schmidbauerstraße 44, München",
+      "website" : "http://www.helios-kliniken.de/muenchen-perlach"
+   },
+   "status" : "OK"
+}

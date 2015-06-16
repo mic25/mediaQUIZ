@@ -1,0 +1,202 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Theatinerstraße",
+            "short_name" : "Theatinerstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt-Lehel",
+            "short_name" : "Altstadt-Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTheatinerstraße 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Theatinerstraße 8, 80333 München, Germany",
+      "formatted_phone_number" : "089 224412",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.139972,
+            "lng" : 11.575858
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0ff38892a5f6a21c6a8abbdf10e9a4a8cba13eb1",
+      "international_phone_number" : "+49 89 224412",
+      "name" : "Kunsthalle der Hypo-Kulturstiftung",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 230,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA7aQThagSvdNerOMas_oBV7FIGZFsj1NpRQmdT3IgJvBnCTAEO5X3H2-u-CP-YPNGQZJaVdaSe0lrfFVuakdqcZvvCGrwokHMc_dMCBixDVgrD80kXHWbeYrYWew7s5Hl1RPYWrx7xvxm3amUKkjDGBIQ-0jRhKRGL3d9t3vIpP1TuBoUdLiz1RjGvNoYsv4zAGylevXMuho",
+            "width" : 230
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CpQBhAAAAJBV1sVSt1_72_nyPVdQY_oYqi9_tQrZv0uItAAOFZ-hce9jD22X_30wuc4r0hb0DjFP_LnBTyN-zFXEdZfB6KVkrR-qpJXXGR_cgOQDoDGvnFnGBQ5ZDCvNQMRQ659f18VS52rD9rBgTOxv8vkvujOmX7eRLHWU4sB1wkqbFrV0FJsPcfZUrAYYtOuycZ9cphIQMMciFP8Ztn0cfbGZkGniTRoUB8X6iWtsbgM8-DKYoAGVL1pq9ro",
+            "width" : 1224
+         }
+      ],
+      "place_id" : "ChIJnU447V_fnUcR1fT9iNbHYxI",
+      "reference" : "CoQBdQAAAHy7394ODxUmdbgJWjEnWSQxT_OECVo7h9L0Rhgp9eviL5MuR8DBZQIiXwzoCuHrd5p_IfXo_ytAjP4zM5Opi2cQJnAps2de9uVBo1SqJ5XAAaCvxUqpkr0WpBuPVocv7QAOrvelAy6aXxRL87JFtxHI9deIrtishwGVjXeur_OmEhDj8sOZ8a0F9E_FEPOBu8MNGhSofuLugc853fC24HT2JSNFmT3PAg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johann Lohmayr",
+            "author_url" : "https://plus.google.com/114476063107549767152",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Wunderbar",
+            "time" : 1411673826
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kay-Uwe Goetze",
+            "author_url" : "https://plus.google.com/111715988973463318061",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "Toller Platz mit wunderbarer Kunst!!! ",
+            "time" : 1413711625
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lutz Heidelberg",
+            "author_url" : "https://plus.google.com/116680579088204867706",
+            "language" : "de",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1431884754
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/102998440939361402359/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 120,
+      "vicinity" : "Theatinerstraße 8, München",
+      "website" : "http://www.hypo-kunsthalle.de/"
+   },
+   "status" : "OK"
+}

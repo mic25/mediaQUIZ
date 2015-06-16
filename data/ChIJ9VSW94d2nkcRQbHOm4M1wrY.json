@@ -1,0 +1,168 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80809",
+            "short_name" : "80809",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Willi-Daume-Platz 1, \u003cspan class=\"postal-code\"\u003eD-80809\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Willi-Daume-Platz 1, 80809 München, Germany",
+      "formatted_phone_number" : "0180 6 66690101",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.173705,
+            "lng" : 11.556091
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+      "id" : "e306d2f62bd96ef319edaf0f65a6c77b59fa2345",
+      "international_phone_number" : "+49 180 6 66690101",
+      "name" : "SEA LIFE München",
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111526059058586164885\"\u003eMareike Wüste\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAbEHkxUMjXp9gC5l48GksWW9a8GrX917kVzh2CyV4Bx7k5W6ZJ3SSnyIRZyoPb3qpEIUkNfC8tYr5AdL3smspKQjA84R6KkVcaT8pQBup2tBPeXzdCD0Nwsj3QMYIMtWdNxDQVuWfc9U_EMBm_07LvRIQK2u9Enr1M6N6XFPRwDOiEBoUNjbd07CNWsS-Yd95tnXZaZvqX7E",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111526059058586164885\"\u003eMareike Wüste\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAJ9m-gcaP_ih7Cl1EBTHDTrU-8Y9BLpnSjiPK3tjO5SBHwKXW6D5jz8p6Nm_excJZeC0WGJnqO3q590zuZIA2zS2ynSklZgiNqPdb--9dlbrY7xjDR7B1MXe6rxsmh-KY3QPUKD9aMvlctFpGp1BDvhIQHbBWY5Za0JjCpYzRcLomyhoUX41JXPaj3Spaoe4_T51s6dAlZeI",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111526059058586164885\"\u003eMareike Wüste\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAfy8NqcZYcv8tdqx2lcJjAZvWd4E3bZ3-5Dw1puaYzN8ftKoEVrnCePPT5eBURilZ72RKJ8dPLIITwDx-DEyY36SJrxQ8Npze96tNdLN20yrQwy0IgnSVms9vuRcDeqEHxr8ZBYtqqPdAIGoNM-5k0xIQLS_e-FxqV0l8oSYdYUoF7hoUVBEbutPnChXO-tSRdaFmBbFHNSw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111526059058586164885\"\u003eMareike Wüste\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAuPQ4Rq8xiQLjnWe2x1AChPCA0XbJSA5IFSb1ZPPo5OSswBuqH76ZsUYeAMfe726U5zmyvfAh3DzO9t3Uz7ZeCL8ESTFXeOjdExOEizs8yVEy99wUv5DzMutdX6Iq-tnFbfHqcrYpOadY0s3Tm5lgZRIQNjl52or-Pj5RsBcv3Z6GXBoUvL8nmfVAG8LwehpmL6x0MIcEeVs",
+            "width" : 2048
+         },
+         {
+            "height" : 1756,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111526059058586164885\"\u003eMareike Wüste\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAA1WqVhQhAkMFEPIPK1V-4aDwnUNwT_fCewEC4zxNafVaYdYyNbgWW16yzQRimWy_PJ9h2z6ygERM9oN1oBp-4C3XPDPEsQ3Fju7C2jIfkqYwunnD4PCuSOYWD2Ztc2PUjC5yTaByvL9Ei_lHGHTtQfRIQYNIVs08IFFv-9aTUxNnYihoU4let4rzKf2v4C0xWz8God9GHdz4",
+            "width" : 1756
+         }
+      ],
+      "place_id" : "ChIJ9VSW94d2nkcRQbHOm4M1wrY",
+      "rating" : 2.9,
+      "reference" : "CnRlAAAA47mHe6z_nZjxBf9tjE3tfW7HXwr9CET8ROghNwJwusci9PKQtu4wG14t8Bv5YnKHlEzzgCf2M81dw6aUA5Zno6JVZB7AEblHtD5FjBZFdkjRoVjnqZGt3-Zakx98Nff1lyMAkLoToq0H2Nvna6sDsxIQDUfoQLAnFibzpcXR7niFFhoUo5QBavs6j1XYJQFoOYXPOD8qPNE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Alexander Orlov",
+            "author_url" : "https://plus.google.com/102299455092306269473",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Nice for kids but not necessarily for adults.",
+            "time" : 1338405110
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bettina Classen",
+            "author_url" : "https://plus.google.com/110723229868427032583",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Da müssen wir uns leider einem unserer Vorgänger anschließen: das Preis-Leistungs-Verhältnis ist tatsächlich eine Unverschämtheit. Mit Groupon-Gutscheinen bezahlten wir 9,70 €/Person inkl. eines ekelhaften Slushs .. purer Zucker mit etwas chemischen Pulver vermischt .. den wir dann auch leider nach probieren entsorgen mussten! Noch mehr würden wir uns darüber ärgern, wenn wir den normalen Eintrittspreis von unglaublichen 16,95 € bezahlt hätten .. wobei man aktuell eine Jahreskarte für 25,95 € erwerben kann!! Die Einrichtung ist sehr spartanisch und die gesamte Anlage erscheint sehr ungepflegt! Hier ist ganz klar das oberste Prinzip den Leuten das Geld aus der Tasche zu ziehen .. man kann Informationshefte für 3,95 € kaufen oder auch Fotos für 8 € machen lassen! Die Meeresbewohner die man dort beobachten kann waren in unseren Augen auch kein Highlight! Schade, aber der Besuch war wirklich Mist!",
+            "time" : 1432990971
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "eckhard melyarki",
+            "author_url" : "https://plus.google.com/105879190771161563651",
+            "language" : "de",
+            "rating" : 1,
+            "text" : "Schon die online Buchung war üble. Zuerst ging Paypal und Credit Card nicht und dann waren plötzlich die Eintrittskarten für den Zeitraum 12-15 Uhr weg.!\nDann gingen nur noch die Expresstickets. Schlappe 53,4 für 1 Kind und 2 Erwachsene. \nReine Abzocke.\nRundgang - 40 min mit einem 5jährigen Zwerg.\nNicht empfehlenswert bei den Preisen!",
+            "time" : 1429431507
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Florian Falk",
+            "author_url" : "https://plus.google.com/109983437209026664838",
+            "language" : "de",
+            "rating" : 2,
+            "text" : "30 min und der Rundgang war beendet. Außerdem können die Angestellten leider nicht zwischen 5 und 25 Jahren unterscheiden. Ich musste mit meiner Freundin (beide über 20) mit einem Pastikhai fotografiert werden. Fühlt man sich gleich wie im Kindergarten. Zu alledem kommt, dass die Becken für die Tiere teilweise viel zu klein sind. Tut mir leid, aber das kann keine artgerechte Haltung sein. ",
+            "time" : 1429275909
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pascal Mehlig",
+            "author_url" : "https://plus.google.com/117613333325606344550",
+            "language" : "de",
+            "rating" : 3,
+            "text" : "Wir waren unter der Woche dort. 2 Erwachsene 33€. Keine 40min und der Rundgang war beendet. Viel zu teuer und es wird zu wenig geboten. Was für Kinder, mehr nicht. Finde toll das man aussterbende Tierarten unterstützt. Jedoch finde ich es krass, wie gewisse Fische in kleinen Becken gehalten werden. Für mich die reinste entäuschung. In gewissen Aquaristik Shops gibts Interessantes zu sehen.",
+            "time" : 1422627327
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "aquarium", "establishment" ],
+      "url" : "https://plus.google.com/112462468870736256870/about?hl=en-US",
+      "user_ratings_total" : 56,
+      "utc_offset" : 120,
+      "vicinity" : "Willi-Daume-Platz 1, München",
+      "website" : "http://www.visitsealife.com/munchen/en/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,44 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Germany",
+      "formatted_phone_number" : "089 926967101",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.145442,
+            "lng" : 11.670301
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+      "id" : "d1af6247feefeca0bbb85542ad75086e8c091715",
+      "international_phone_number" : "+49 89 926967101",
+      "name" : "Reitstadion Riem",
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114476063107549767152\"\u003eJohann Lohmayr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CrQBrwAAAKZMwiisT_4OHtFUGYQn6HR9jXEhwaYFsd3ir49lvKo0EnPNedGURve3wUj2OYil21ibqDU4Q3NktqqlM29YGvQNMc0xtYxQ_MkQmbAQTV8wVPpT39L-HH6YEuvSrvBgRZu_Soqlw9c0Qp95V3U9Ri5GdgalUJQvt9HATC1uJPWIwivQWmFTdgGLO8C6oUIpi9jQSJqsLy184lczSBUQZBAkK4QqqCwk0Stp1gFVXCbcEhDnbIyql8SMiZUquwAA0OjLGhQ61w9K6qOzyPWihwsnPm1HYBxUhQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJhTPN5bcKnkcRgGA-c8WCEuY",
+      "reference" : "CnRkAAAAtAXVZVR7QoQQGDCDrG8sxKh4sBAGk4ye_2HLw2fxKxPOL3of2zZlDNsz59fMpnOyY5mcH9_SaMiRSPkVKP4Oygp_C9QegexGuu50QXxChT2S4t6j3GqUYPjBi3LgxffA763HXnBgXFWh6lKMHI90ghIQG1yCgm2Y_nNfRpqTjvX0LRoUOQcdLHfdrHMyoLPLEu0fFX7EQek",
+      "scope" : "GOOGLE",
+      "types" : [ "campground", "park", "lodging", "establishment" ],
+      "url" : "https://plus.google.com/114145838475313402608/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Germany",
+      "website" : "http://www.olympiareitanlage.de/"
+   },
+   "status" : "OK"
+}

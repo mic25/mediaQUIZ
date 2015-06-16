@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mariannenplatz",
+            "short_name" : "Mariannenplatz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Altstadt - Lehel",
+            "short_name" : "Altstadt - Lehel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80538",
+            "short_name" : "80538",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMariannenplatz\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80538\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Mariannenplatz, 80538 München, Germany",
+      "formatted_phone_number" : "089 2126860",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.134759,
+            "lng" : 11.587274
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3db4ca0aa46fcb2054f18ab86ae8bec7806b2fc5",
+      "international_phone_number" : "+49 89 2126860",
+      "name" : "Sankt Lukas Kirche",
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109787711861606578337\"\u003elucia copa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBigAAAIyNl57b7bJwv_YgLTEOl5e4F_r-NETYzDmllhwpn_aMACVkyGDG2YCFuUhAPZtEPfpJPcejfgXTJowjdb6jnevTfHf7jfxqUsVjZQnm-M89-ZPFmPawnCLpubUl-fsj6p9qLXLZbE8KmWZT9gRBsFFqmxiSHfCvmWdlBmKBkvydq7PPN_ZWGgi1Y5DmJ0RwSRIQnGcT-yf_RxMXmaoWsyyffxoUFR4Qe-W01-hmxY0aYwIIjwu0t2c",
+            "width" : 2048
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAARHR6LS7BPshFegovsZKNRHQFvfYNAY67hiDqSscDwp8nKGK3NEYUVT0nBMZlLAx3c6PZ0niiR2eBXIs-hwAfeNyEEbErtkRztv23b4NnZsNX2ipydu7NsVxSIXjC0hR9E7xLR7NvQpvZzdz68LS1KBIQUxL0_9RAx0YVQtcoSyRcwRoUf5WnjLXjGWJHFqFFR3Qj5SUOMHY",
+            "width" : 1632
+         },
+         {
+            "height" : 1344,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111463104735041529036\"\u003eDonald Simbarashe Mate\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdAAAABnMrdKX-owMWl6GuXlV9xGYb5uT5Pfk5L3W3spiwnxV07HX0bb0mSFnx_S2RnNfLduD57qS3EaLarSXOKYKR0QmmEbva4Qj5_TBpA_yw_R6WbtIEObUpu8umsGLKi0xNPT1q1D257OyL2aW_OIRrS5TTdjCMANkRpkfGN-0BxbiEhAetaI_rU7HaukkiAsEulHkGhQ7kwCYfpH113t0q2kySi-WbYA4SA",
+            "width" : 760
+         }
+      ],
+      "place_id" : "ChIJW-_i24d1nkcRrtx7Zcxfv3s",
+      "rating" : 4.4,
+      "reference" : "CnRlAAAAtxc-ZLqvhDO2pVBrHgBhFDIq9yj5b53C7B1hI5B6cJOnlA8hHZVBqLKWiO6WKE-ivJIA43wBe6PsYsM9gNLKkgqja-6vjar1zfJrDvNhKvxcTgpFLS0dON9tansua1KQeHXoW4kXfu3RxvB7t57eUxIQy7fEcc5y8uqEVx1o-mKmZBoUXkjVRZ6rR6mokzJ1lMSWQFtRxok",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eddie Santos",
+            "author_url" : "https://plus.google.com/106469845964432673736",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Memorable Time.\nWe performed here several times during the Christmas season of 2001 and later in 2003, with the audiences always responding enthusiastically. The church staff treated us very well. Not to mention, this is another beautiful church...the catering was pretty good too.",
+            "time" : 1386469035
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Donald Simbarashe Mate",
+            "author_url" : "https://plus.google.com/111463104735041529036",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Beautiful Church",
+            "time" : 1408873627
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Igor Ger",
+            "author_url" : "https://plus.google.com/117284439326097631196",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "Можно спрятаться от городского шума в полумраке, тишине и покое. И задуматься о бренности бытия и бесполезности мирской суеты.",
+            "time" : 1418887158
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vugar Ganbarzada",
+            "author_url" : "https://plus.google.com/110494813191289625692",
+            "language" : "de",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1387556725
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iurii Perga",
+            "author_url" : "https://plus.google.com/107606843218438274886",
+            "language" : "uk",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1400499483
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/101053367229698991658/about?hl=en-US",
+      "user_ratings_total" : 8,
+      "utc_offset" : 120,
+      "vicinity" : "Mariannenplatz, München",
+      "website" : "http://www.sanktlukas.de/index.php?id=home"
+   },
+   "status" : "OK"
+}

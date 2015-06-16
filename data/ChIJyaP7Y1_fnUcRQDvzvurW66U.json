@@ -1,0 +1,236 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "32",
+            "short_name" : "32",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sendlinger Str.",
+            "short_name" : "Sendlinger Str.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "München",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80331",
+            "short_name" : "80331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSendlinger Str. 32\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80331\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Sendlinger Str. 32, 80331 München, Germany",
+      "formatted_phone_number" : "089 23687989",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.13522,
+            "lng" : 11.56957
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+      "id" : "20527d6c0639a35b2513a3c55994caf7b408c697",
+      "international_phone_number" : "+49 89 23687989",
+      "name" : "Asam's Church",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107606843218438274886\"\u003eIurii Perga\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAoQYK4-6AnCMAAvR94KPt80dDuEEVLAgMF9JiKvbS6c2E64G58IRiimxWrHcGBX_HufNkMIWHWafXQWd47deWEAiKRLDygv6PFHAa83vEmsSIGRzDc053D9hGftQYSDPDpfaoypFpa2rZjNtfkngP2hIQ9avYMVMcsqSswFjw1bjBXBoUimBOb9oHXUm0VtVxQIXGib2Hu48",
+            "width" : 612
+         },
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111632263198459958035\"\u003eRalf Liebegott\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAASkU7NI15GOUb5ilsflOtZwYyHnyEyWYIySdw3Xp0O-R4Oe9-0Nbq7aeFgMxBAUBrPZ2adwckxgNjwgk2xCX2nNqyEjusrIBa9510mtLt-fXgXXi2qwPeY4V_gi_GBHysJ2s0ipu1_nwmlihvKPr7vRIQg2ZYoTsk5ZZeo51Jap6B4xoU1LBxGkcHs8_G8DiLJbjinLFST2w",
+            "width" : 1632
+         },
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109197511822202046237\"\u003eOsman Y. Bayram\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAS-xxxsbjfdw-FjkdAKy2fXOBOEHnLL-nhsu5jAsazeeAnnv8FVlZ7O2Rt_4nv11JecUDt8QxHWDHSiG-zJma2yI1QDcjq21PP_ZU8M6IonpZI-GzJ5D--q_5WPPWCeUE_HZIsQ76f9vX5PwSgWPK-BIQZGCKiSNSez8wB2ZI3-SnYxoUamkrFlRSEJelydERxr78xZa6res",
+            "width" : 960
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114818691738167309193\"\u003eZin Chiang\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhAAAAInxte-Xt6kA8T0E9m1_rTe0HcLVzSIyq9n1huGhjjC4-gCQLr7PKhAoWnGMImclMArLEQ0_AOg4mepMpytCxuvUyX2xkkQYgVT0sZ03CbTInLE0qWuBUxfk4TUtTPgCucmn-OQUqi_sf4J92khP_eQ5vJasRPwhmzt99AoDFEUMwPIdZoAI5yiqaYBoZRjZxRIQDSio4MdPrsOfEzaoyPcmyhoUrXOIefamvzKR1D86jMnFJ4hsj7g",
+            "width" : 949
+         }
+      ],
+      "place_id" : "ChIJyaP7Y1_fnUcRQDvzvurW66U",
+      "rating" : 4.8,
+      "reference" : "CnRhAAAAkfqZuXVP54Al1cI_DNTWQ45TqHOJfFEuFfw9wqKvj_uywXQevKfAgbAO996uB0AvgjJRWPiw-MYcx5zdXECRAeSPfKTrBurJZBb6CeZFpktJCqYtbiA0HoEUh1W-GT2UTGNy8AcjT-dHJtKEIC4rChIQMb7-OVS7eUB7lkzJD-u7_RoUjv_zzMFmlxgolt9hVp1qdHJm7Ho",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Daniel Rosenhaus",
+            "author_url" : "https://plus.google.com/104812712664387054123",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Just wow. It's on a great street worth exploring and you'll recognize the building when you pass it. Truly impressive design, not to be missed. \n",
+            "time" : 1431530348
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Thomas Araia",
+            "author_url" : "https://plus.google.com/104793885885425988550",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "It's 360 degrees fantastic art. Impressive! You can't capture it in a picture. You have to stand in the church too feel it.",
+            "time" : 1430527385
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joanna Cooper",
+            "author_url" : "https://plus.google.com/100148874869958514666",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Beautiful. I'm not a huge fan of baroque architecture but I still really appreciated and liked it",
+            "time" : 1390838215
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emad Khalil",
+            "author_url" : "https://plus.google.com/103294427279591028232",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "A wonderful church",
+            "time" : 1407434127
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marcelo Ivo Martinho",
+            "author_url" : "https://plus.google.com/117344587654359219398",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "For sure one of the most beautiful churchs i ever saw.",
+            "time" : 1375289288
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "place_of_worship", "church", "establishment" ],
+      "url" : "https://plus.google.com/116541944606800050300/about?hl=en-US",
+      "user_ratings_total" : 37,
+      "utc_offset" : 120,
+      "vicinity" : "Sendlinger Str. 32, München",
+      "website" : "http://www.erzbistum-muenchen.de/"
+   },
+   "status" : "OK"
+}

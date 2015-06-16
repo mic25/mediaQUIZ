@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "37",
+            "short_name" : "37",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Luisenstraße",
+            "short_name" : "Luisenstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maxvorstadt",
+            "short_name" : "Maxvorstadt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "München",
+            "short_name" : "M",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "80333",
+            "short_name" : "80333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLuisenstraße 37\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-80333\u003c/span\u003e \u003cspan class=\"locality\"\u003eMünchen\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Luisenstraße 37, 80333 München, Germany",
+      "formatted_phone_number" : "089 21806630",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.14742,
+            "lng" : 11.564634
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0ee37fa6eb527150f3a3e1cdf146b0241e589c4f",
+      "international_phone_number" : "+49 89 21806630",
+      "name" : "Geologisches Museum München",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 4:00 pm",
+            "Tuesday: 8:00 am – 4:00 pm",
+            "Wednesday: 8:00 am – 4:00 pm",
+            "Thursday: 8:00 am – 4:00 pm",
+            "Friday: 8:00 am – 2:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJzd8ec-V1nkcRM0KkHH6nCsw",
+      "reference" : "CnRwAAAAz7slDpFpUrtBXvm72V5FdOD9qfvmKqYEaaX-4f4hcQDP9n2TSNawAhu8OAr9bVirDJW3TAiJMcm0F3o7mVAxAB6U9S2g-H3tY5n8Toi9YEUoiTbQCpBDehX3cKLt2sa-lR_Lf3U8XFyNamI5CwMsEBIQu2ZFaRxJu79sSiJN3bw67hoUoMTabRXfydnp1VXryVAAT0gItkc",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/109224934704655279095/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Luisenstraße 37, München",
+      "website" : "http://www.palmuc.de/bspg/"
+   },
+   "status" : "OK"
+}

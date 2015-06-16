@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3b",
+            "short_name" : "3b",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Schloßstraße",
+            "short_name" : "Schloßstraße",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ismaning",
+            "short_name" : "Ismaning",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Germany",
+            "short_name" : "DE",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "85737",
+            "short_name" : "85737",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchloßstraße 3b\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003eD-85737\u003c/span\u003e \u003cspan class=\"locality\"\u003eIsmaning\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eGermany\u003c/span\u003e",
+      "formatted_address" : "Schloßstraße 3b, 85737 Ismaning, Germany",
+      "formatted_phone_number" : "089 9612948",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.228541,
+            "lng" : 11.67223
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "923704a386ed7352ab05b5cd6c6a5a0a5bd66e4c",
+      "international_phone_number" : "+49 89 9612948",
+      "name" : "Kallmann Museum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1430"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 2:30 – 5:00 pm",
+            "Wednesday: 2:30 – 5:00 pm",
+            "Thursday: 2:30 – 5:00 pm",
+            "Friday: 2:30 – 5:00 pm",
+            "Saturday: 2:30 – 5:00 pm",
+            "Sunday: 2:30 – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ88mYJDlznkcRr8UK-FAqX_o",
+      "reference" : "CnRjAAAAmVW9psUITf3myzsvLDwndEg53nq3vD5qTyXWG25gt_cn_3DlbZi9qajiH9RGN0HlAJEaYNRyBwX8m-mGT1vouM_sDpLG6pry0TwoggdoYkAFLdE2mtpfgbAkNJx7yNl2O7WJ1WFc4Zk5w1e0TzixPRIQmSVFgszAC2k6G5jmELUqjxoUlX9Vw0lPskOCPuXTSCZhNuOuo1o",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "establishment" ],
+      "url" : "https://plus.google.com/115919590844615440998/about?hl=en-US",
+      "utc_offset" : 120,
+      "vicinity" : "Schloßstraße 3b, Ismaning",
+      "website" : "http://www.kallmann-museum.de/"
+   },
+   "status" : "OK"
+}
