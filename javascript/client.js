@@ -22,9 +22,17 @@ $(document).ready(function () {
     });
 
     /* retrieve json data from server */
-    $.getJSON("getQuestions.php", function (data) {
+    $.getJSON("../getQuestions.php", function (data) {
         questions = data;
         startGame();
+    });
+
+    /* replay video on click */
+    $("video").click(function () {
+        var video = document.getElementById("videoTag");
+        video.pause();
+        video.currentTime = '0';
+        video.play();
     });
 });
 
@@ -43,6 +51,8 @@ function startGame() {
  * @param entry The index of the question to load
  */
 function loadQuestion(entry) {
+    $("#loading").show();
+    $("#clickNote").hide();
     /* hide Buttons */
     animateButtons(false);
     /* load answers */
@@ -60,6 +70,8 @@ function loadQuestion(entry) {
     $("video").fadeOut(function () {
         $("#videosrc").attr("src", entry.video);
         $("video").fadeIn().load();
+        $("#loading").hide();
+        $("#clickNote").show();
     });
 }
 
