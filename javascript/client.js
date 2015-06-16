@@ -70,8 +70,11 @@ function loadQuestion(entry) {
     $("video").fadeOut(function () {
         $("#videosrc").attr("src", entry.video);
         $("video").fadeIn().load();
-        $("#loading").hide();
-        $("#clickNote").show();
+        var video = document.getElementById("videoTag");
+        video.addEventListener('loadeddata', function() {
+            $("#loading").hide();
+            $("#clickNote").show();
+        }, false);
     });
 }
 
