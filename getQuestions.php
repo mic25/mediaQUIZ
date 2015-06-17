@@ -19,7 +19,8 @@ $responseArray = [];
 $json = file_get_contents('data/POI.json');
 //echo $json;
 $json_obj = json_decode($json, true);
-for($i = 0; $i < count($json_obj['results']); $i++){
+$resultLength = count($json_obj['results']);
+for($i = 0; $i < $resultLength; ++$i){
     $lat = $json_obj[results][$i][geometry][location][lat];
     $lng = $json_obj[results][$i][geometry][location][lng];
     $availableAnswers = [];
@@ -53,13 +54,15 @@ for($i = 0; $i < count($json_obj['results']); $i++){
             mysqli_free_result($result);
 
             //echo "<h3>New place:</h3> <br />";
-            for($r = 0; $r < count($rows); $r++){
+            $rowsLength = count($rows);
+            for($r = 0; $r < $rowsLength; ++$r){
                 $id = $rows[$r]['VideoId'];
                 $frame = $rows[$r]['FovNum'];
                 $frames = [];
                 $contained = false;
                 $index = 0;
-                for($v = 0; $v < count($videoFrames); $v++){
+                $videoFramesLength = count($videoFrames);
+                for($v = 0; $v < $videoFramesLength; ++$v){
                     if($videoFrames[$v]['id'] == $id){
                         $contained = true;
                         //$frames = $videoFrames[$v]['frames'];
@@ -79,14 +82,15 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                 }
                 //echo "ID: ".$frames['id'].", Frames: ".implode(", ", $frames['frames'])."<br />";
             }
-
-            for($v = 0; $v < count($videoFrames); $v++){
+            $videoFramesLength = count($videoFrames);
+            for($v = 0; $v < $videoFramesLength; ++$v){
                 //echo "ID: ".$videoFrames[$v]['id'].", Frames: ".implode(", ", $videoFrames[$v]['frames'])."<br />";
                 if(count($videoFrames[$v]['frames']) > 2){
                     sort($videoFrames[$v]['frames']);
                     $following = 0;
                     $usableFrames = [];
-                    for($f = 0; $f < count($videoFrames[$v]['frames'])-3; $f++){
+                    $maxCount = count($videoFrames[$v]['frames'])-3;
+                    for($f = 0; $f < $maxCount; ++$f){
                         if($videoFrames[$v]['frames'][$f+1]-$videoFrames[$v]['frames'][$f]==1){
                             $following++;
                             if(!in_array($videoFrames[$v]['frames'][$f], $usableFrames)){
@@ -130,7 +134,8 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                 $clipEndFrame = 0;
 
                 //array_push($videos, $row['VideoId']);
-                for($r = 0; $r < count($rows); $r++){
+                $rowsLength = count($rows);
+                for($r = 0; $r < $rowsLength; ++$r){
                     /*
                     if($rows[$r]['VideoId'] == $videos[$videoNumber]['id']){
                         $startTimeQuery = "SELECT TimeCode FROM VIDEO_METADATA WHERE VideoId=".$videos[$videoNumber]['id']." AND FovNum=1";
@@ -201,7 +206,8 @@ for($i = 0; $i < count($json_obj['results']); $i++){
                 //echo "Position: ".$lat.", ".$lng."; Name: ".$name."<br />";
 
                 /* get available answers */
-                for($j = 0; $j < count($json_obj['results']); $j++){
+                $resultLength = count($json_obj['results']);
+                for($j = 0; $j < $resultLength; ++$j){
                     if($j != $i && (sqrt(pow($json_obj[results][$j][Plat] - $selectedVideoLat, 2) + pow($json_obj[results][$j][Plng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($json_obj[results][$j][Plng]-$selectedVideoLng)/sqrt(pow($json_obj[results][$j][Plat]-$selectedVideoLat, 2)+pow($json_obj[results][$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0))){
                         /* web service */
                         //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$json_obj[results][$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
@@ -224,7 +230,8 @@ for($i = 0; $i < count($json_obj['results']); $i++){
 
                 /* add answers to response json string */
                 $response .= "\"answers\": " . "[ ";
-                for($k = 0; $k < count($answers); $k++){
+                $answersLength = count($answers);
+                for($k = 0; $k < $answersLength; ++$k){
                     if($k == count($answers) - 1){
                         $response .= "\"" . $answers[$k] ."\"";
                     }else{
