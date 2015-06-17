@@ -65,6 +65,7 @@ button.choice{
 footer{
     position: absolute;
     width: 1032px;
+    max-width: 100%;
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
@@ -76,6 +77,7 @@ footer{
     position: relative;
     left: 0;
     top:0;
-    height: 50px;
+    height: auto;
     width: auto;
+    max-width: 5.26%;
 }

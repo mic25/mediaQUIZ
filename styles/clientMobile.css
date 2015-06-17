@@ -1,0 +1,33 @@
+div#client {
+    top: 55px;
+    height: calc(100% - 50px);
+}
+
+div#video{
+    position: relative;
+    width: 100%;
+    height: calc(50% - 30px);
+}
+
+div#sidebar {
+    position: relative;
+    width: 100%;
+    padding: 15px 0;
+    height: calc(50% - 35px);
+}
+
+#button-container {
+    position: relative;
+    transform: none;
+    top: 0;
+    padding-left: 15px;
+}
+
+button.choice {
+    width: calc(50% - 10px);
+}
+
+footer {
+    width: 100%;
+    height: auto;
+}
