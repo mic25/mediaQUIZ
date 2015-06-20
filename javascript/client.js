@@ -23,13 +23,13 @@ $(document).ready(function () {
 
     /* retrieve json data from server */
     $.getJSON("../getQuestions.php", function (data) {
-        questions = data;
+        questions = shuffleArray(data);
         startGame();
     });
 
     /* replay video on click */
     $("video").click(function () {
-        var video = document.getElementById("videoTag");
+        var video = $(this);
         video.pause();
         video.currentTime = '0';
         video.play();
@@ -68,13 +68,12 @@ function loadQuestion(entry) {
 
     /* load and play new video file */
     $("video").fadeOut(function () {
-        $("#videosrc").attr("src", entry.video);
+        $("video source").attr("src", entry.video);
         $("video").fadeIn().load();
-        var video = document.getElementById("videoTag");
-        video.addEventListener('loadeddata', function() {
+        $("video").on('loadeddata', function() {
             $("#loading").hide();
             $("#clickNote").show();
-        }, false);
+        });
     });
 }
 
@@ -152,4 +151,18 @@ function updateProgress(right) {
     } else {
         $("#progressBar" + (progress + 1)).attr("src", "styles/img/client_progress-cross.png");
     }
+}
+
+/**
+ * Randomize array element order in-place.
+ * Using Fisher-Yates shuffle algorithm.
+ */
+function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
 }

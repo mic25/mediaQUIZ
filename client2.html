@@ -6,10 +6,10 @@
     <title>mediaQUIZ</title>
 
     <script src="javascript/jquery.min.js"></script>
-    <link href="styles/main.css" type="text/css" rel="stylesheet">
     <link rel="icon" href="styles/favicon.ico" type="image/x-icon" />
     <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="javascript/video.js"></script>
     <link href="styles/client.css" type="text/css" rel="stylesheet">
     <link href="styles/clientLandscape.css" type="text/css" rel="stylesheet" media="all and (orientation:landscape)">
     <link href="styles/clientPortrait.css" type="text/css" rel="stylesheet" media="all and (orientation:portrait)">
@@ -31,11 +31,11 @@
         <div id="client">
             <div id="video">
                 <img src="styles/img/ajax-loader.gif" width="5%" id="loading">
-                <video width="720" height="480" autoplay muted id="videoTag">
-                    <source id="videosrc" src="" type="video/mp4">
+                <video width="720" height="480" muted id="videoTag">
+                    <source id="videosrc" src="">
                     Your browser does not support the video tag.
                 </video>
-                <div id="clickNote">Click to replay</div>
+                <div id="clickNote">Click to (re)play</div>
             </div>
 
             <div id="sidebar">

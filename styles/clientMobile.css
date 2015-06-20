@@ -7,6 +7,15 @@ div#video{
     position: relative;
     width: 100%;
     height: calc(50% - 30px);
+    max-height: calc(50% - 30px);
+    overflow: hidden;
+}
+
+video {
+    height: auto !important;
+    max-height: 100% !important;
+    overflow: hidden;
+    position: absolute;
 }
 
 div#sidebar {
@@ -25,6 +34,7 @@ div#sidebar {
 
 button.choice {
     width: calc(50% - 10px);
+    height: 4em;
 }
 
 footer {
