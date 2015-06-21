@@ -30,11 +30,14 @@ div#sidebar {
     transform: none;
     top: 0;
     padding-left: 15px;
+    height: 80%;
 }
 
 button.choice {
     width: calc(50% - 10px);
-    height: 4em;
+    height: 40%;
+    float: left;
+    margin-right: 3px;
 }
 
 footer {

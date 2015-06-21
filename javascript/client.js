@@ -34,6 +34,12 @@ $(document).ready(function () {
         video.currentTime = '0';
         video.play();
     });
+
+    /* resize answer texts to fit into buttons */
+    $('.choice').textfill({ maxFontPixels: 14 });
+    $(window).resize(function () {
+        $('.choice').textfill({ maxFontPixels: 14 });
+    });
 });
 
 /**
@@ -59,8 +65,9 @@ function loadQuestion(entry) {
 
     var answers = entry.answers;
     for (var i = 0; i < answers.length; i++) {
-        $("#choice" + i).text(answers[i]);
+        $("#choice" + i + " span").text(answers[i]);
     }
+    $('.choice').textfill({ maxFontPixels: 14 });
     rightAnswer = entry.correctAnswer;
 
     /* display buttons */
@@ -165,4 +172,25 @@ function shuffleArray(array) {
         array[j] = temp;
     }
     return array;
+}
+
+/**
+ * Resize text to fit into container.
+ * @param options attribute maxFontPixels sets the maximum font-size
+ * @returns {textfill}
+ */
+$.fn.textfill = function(options) {
+    var fontSize = options.maxFontPixels;
+    var ourText = $('span:visible:first', this);
+    var maxHeight = $(this).height();
+    var maxWidth = $(this).width();
+    var textHeight;
+    var textWidth;
+    do {
+        ourText.css('font-size', fontSize);
+        textHeight = ourText.height();
+        textWidth = ourText.width();
+        fontSize = fontSize - 1;
+    } while ((textHeight > maxHeight || textWidth > maxWidth) && fontSize > 3);
+    return this;
 }
