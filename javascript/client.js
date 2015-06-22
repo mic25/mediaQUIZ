@@ -22,9 +22,23 @@ $(document).ready(function () {
     });
 
     /* retrieve json data from server */
-    $.getJSON("getQuestions.php", function (data) {
-        questions = data;
+    $.getJSON("../getQuestions.php", function (data) {
+        questions = shuffleArray(data);
         startGame();
+    });
+
+    /* replay video on click */
+    $("video").click(function () {
+        var video = $(this);
+        video.pause();
+        video.currentTime = '0';
+        video.play();
+    });
+
+    /* resize answer texts to fit into buttons */
+    $('.choice').textfill({ maxFontPixels: 14 });
+    $(window).resize(function () {
+        $('.choice').textfill({ maxFontPixels: 14 });
     });
 });
 
@@ -43,14 +57,17 @@ function startGame() {
  * @param entry The index of the question to load
  */
 function loadQuestion(entry) {
+    $("#loading").show();
+    $("#clickNote").hide();
     /* hide Buttons */
     animateButtons(false);
     /* load answers */
 
     var answers = entry.answers;
     for (var i = 0; i < answers.length; i++) {
-        $("#choice" + i).text(answers[i]);
+        $("#choice" + i + " span").text(answers[i]);
     }
+    $('.choice').textfill({ maxFontPixels: 14 });
     rightAnswer = entry.correctAnswer;
 
     /* display buttons */
@@ -58,8 +75,12 @@ function loadQuestion(entry) {
 
     /* load and play new video file */
     $("video").fadeOut(function () {
-        $("#videosrc").attr("src", entry.video);
+        $("video source").attr("src", entry.video);
         $("video").fadeIn().load();
+        $("video").on('loadeddata', function() {
+            $("#loading").hide();
+            $("#clickNote").show();
+        });
     });
 }
 
@@ -137,4 +158,39 @@ function updateProgress(right) {
     } else {
         $("#progressBar" + (progress + 1)).attr("src", "styles/img/client_progress-cross.png");
     }
+}
+
+/**
+ * Randomize array element order in-place.
+ * Using Fisher-Yates shuffle algorithm.
+ */
+function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+
+/**
+ * Resize text to fit into container.
+ * @param options attribute maxFontPixels sets the maximum font-size
+ * @returns {textfill}
+ */
+$.fn.textfill = function(options) {
+    var fontSize = options.maxFontPixels;
+    var ourText = $('span:visible:first', this);
+    var maxHeight = $(this).height();
+    var maxWidth = $(this).width();
+    var textHeight;
+    var textWidth;
+    do {
+        ourText.css('font-size', fontSize);
+        textHeight = ourText.height();
+        textWidth = ourText.width();
+        fontSize = fontSize - 1;
+    } while ((textHeight > maxHeight || textWidth > maxWidth) && fontSize > 3);
+    return this;
 }

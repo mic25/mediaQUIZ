@@ -1,0 +1,46 @@
+div#client {
+    top: 55px;
+    height: calc(100% - 50px);
+}
+
+div#video{
+    position: relative;
+    width: 100%;
+    height: calc(50% - 30px);
+    max-height: calc(50% - 30px);
+    overflow: hidden;
+}
+
+video {
+    height: auto !important;
+    max-height: 100% !important;
+    overflow: hidden;
+    position: absolute;
+}
+
+div#sidebar {
+    position: relative;
+    width: 100%;
+    padding: 15px 0;
+    height: calc(50% - 35px);
+}
+
+#button-container {
+    position: relative;
+    transform: none;
+    top: 0;
+    padding-left: 15px;
+    height: 80%;
+}
+
+button.choice {
+    width: calc(50% - 10px);
+    height: 40%;
+    float: left;
+    margin-right: 3px;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+}
