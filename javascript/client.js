@@ -19,8 +19,9 @@ $(document).ready(function () {
     });
 
     /* retrieve json data from server */
-    $.getJSON("../getQuestions.php", function (data) {
+    $.getJSON("../data/questions.json", function (data) {
         questions = shuffleArray(data);
+        //questions = data;
         if(questions.length < 10){
             QUESTIONS = questions.length;
         }
