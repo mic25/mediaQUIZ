@@ -242,7 +242,46 @@ for($i = 0; $i < $resultLength; ++$i){
 
                 /* add correct answer info to response json string */
                 $correctIndex = array_search($name, $answers);
-                $response .= "\"correctAnswer\": \"" . $correctIndex . "\"}";
+                $response .= "\"correctAnswer\": \"" . $correctIndex . "\"";
+
+                /* get wiki info */
+                $wikiPages = file_get_contents('https://de.wikipedia.org/w/api.php?action=query&list=geosearch&gsradius=100&gscoord='.$lat.'|'.$lng.'&format=json');
+                $wikiPages_obj = json_decode($wikiPages, true);
+                $countWikiPages = count($wikiPages_obj['query']['geosearch']);
+                if($countWikiPages > 0) {
+                    $firstWikiPage = $wikiPages_obj['query']['geosearch'][0];
+                    //$wikiPageId = $firstWikiPage['pageid'];
+                    for($c = 0; $c < $countWikiPages; ++$c){
+                        $pageTitle = $wikiPages_obj['query']['geosearch'][$c]['title'];
+                        $nameStart = substr($name, 0, 5);
+                        /*
+                        echo $pageTitle;
+                        echo "<br />";
+                        echo $nameStart;
+                        echo "<br />";
+                        echo (strpos($pageTitle,$nameStart) !== false);
+                        echo "<br />";
+                        */
+                        if(strpos($pageTitle,$nameStart) !== false){
+                            $wikiPageId = $wikiPages_obj['query']['geosearch'][$c]['pageid'];
+                            /*
+                            echo $wikiPageId;
+                            echo "<br />";
+                            */
+                            break;
+                        }
+                    }
+                }
+                if($wikiPageId){
+                    $wikiText = file_get_contents('https://de.wikipedia.org/w/api.php?action=parse&pageid='.$wikiPageId.'&prop=text&section=0&format=json');
+                    $wikiUrl = urlencode('https://de.wikipedia.org/w/api.php?action=parse&pageid='.$wikiPageId.'&prop=text&section=0&format=json');
+                    $response .= ", \"wiki\": \"".$wikiUrl."\"}";
+                }else{
+                    $response .= "}";
+                }
+
+
+                /* add single response to array of all questions */
                 array_push($responseArray, $response);
             }
 

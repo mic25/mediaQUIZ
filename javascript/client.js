@@ -40,6 +40,18 @@ $(document).ready(function () {
     $(window).resize(function () {
         $('.choice').textfill({ maxFontPixels: 14 });
     });
+
+    /* close overlay on click */
+    var transparency = $('#greyOverlay');
+    var overlay = $('#wikiOverlay');
+    overlay.click(function(){
+       overlay.fadeOut();
+        transparency.fadeOut();
+    });
+    transparency.click(function(){
+        overlay.fadeOut();
+        transparency.fadeOut();
+    });
 });
 
 /**
@@ -142,10 +154,10 @@ function animateButtons(flyIn) {
  */
 function initProgress(length) {
     var html = "";
-    html += "<img src='styles/img/client_progress-question.png' class='progressBar' id='progressBar1'>";
+    html += "<img src='styles/img/client_progress-question.png' class='progressBar question' id='progressBar1'>";
     for (var i = 2; i <= length; i++) {
-        html += "<img src='styles/img/client_progress-path.png' class='progressBar'>";
-        html += "<img src='styles/img/client_progress-podest.png' class='progressBar' id='progressBar" + i + "'>";
+        html += "<img src='styles/img/client_progress-path.png' class='progressBar path'>";
+        html += "<img src='styles/img/client_progress-podest.png' class='progressBar question' id='progressBar" + i + "'>";
     }
 
     $("footer").html(html);
@@ -153,11 +165,24 @@ function initProgress(length) {
 
 function updateProgress(right) {
     $("#progressBar" + (progress + 2)).attr("src", "styles/img/client_progress-question.png");
+    var current = $("#progressBar" + (progress + 1));
     if (right) {
-        $("#progressBar" + (progress + 1)).attr("src", "styles/img/client_progress-check.png");
+        current.attr("src", "styles/img/client_progress-check.png");
     } else {
-        $("#progressBar" + (progress + 1)).attr("src", "styles/img/client_progress-cross.png");
+        current.attr("src", "styles/img/client_progress-cross.png");
     }
+    current.addClass('done');
+
+    $(".progressBar.question.done").click(function(){
+        var index = $(this).attr('id').substr(11) - 1;
+        var questionId = questions[index].id;
+        var overlay = $('#wikiOverlay');
+        if(overlay.is(':visible')){
+            overlay.hide();
+        }else{
+            showWiki(questionId);
+        }
+    });
 }
 
 /**
@@ -193,4 +218,30 @@ $.fn.textfill = function(options) {
         fontSize = fontSize - 1;
     } while ((textHeight > maxHeight || textWidth > maxWidth) && fontSize > 3);
     return this;
+};
+
+/**
+ * get wikipedia information and show in overlay
+ * @param questionId the question to show the info for
+ */
+function showWiki(questionId){
+    var wikiUrl = questions.filter(function (d) {
+        return d.id === questionId;
+    })[0].wiki;
+    if(wikiUrl){
+        var decodedUrl = decodeURIComponent(wikiUrl);
+        $.ajax({
+            url: decodedUrl,
+            dataType: "jsonp",
+            success: function (data) {
+                var title = data.parse.title;
+                var text = data.parse.text['*'];
+                var transparency = $('#greyOverlay');
+                var overlay = $('#wikiOverlay');
+                overlay.html('<h3>'+title+'</h3><div>'+text+'</div>');
+                transparency.fadeIn();
+                overlay.fadeIn();
+            }
+        });
+    }
 }
