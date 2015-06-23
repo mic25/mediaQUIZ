@@ -10,9 +10,6 @@ var progress = 0;
 var score = 0;
 
 $(document).ready(function () {
-    // load progress bar
-    initProgress(QUESTIONS);
-
     /* add click listener */
     $(".choice").click(function () {
         // only register inputs if buttons are enabled
@@ -24,6 +21,11 @@ $(document).ready(function () {
     /* retrieve json data from server */
     $.getJSON("../getQuestions.php", function (data) {
         questions = shuffleArray(data);
+        if(questions.length < 10){
+            QUESTIONS = questions.length;
+        }
+        // load progress bar
+        initProgress(QUESTIONS);
         startGame();
     });
 
