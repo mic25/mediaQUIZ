@@ -81,8 +81,8 @@ function loadQuestion(entry) {
     var answers = entry.answers;
     for (var i = 0; i < answers.length; i++) {
         $("#choice" + i + " span").text(answers[i]);
+        $('#choice' + i).textfill({ maxFontPixels: 14 });
     }
-    $('.choice').textfill({ maxFontPixels: 14 });
     rightAnswer = entry.correctAnswer;
 
     /* display buttons */
@@ -210,8 +210,8 @@ function shuffleArray(array) {
 $.fn.textfill = function(options) {
     var fontSize = options.maxFontPixels;
     var ourText = $('span:visible:first', this);
-    var maxHeight = $(this).height();
-    var maxWidth = $(this).width();
+    var maxHeight = $(this).height() - 2;
+    var maxWidth = $(this).width() - 2;
     var textHeight;
     var textWidth;
     do {
@@ -233,6 +233,16 @@ function showWiki(questionId){
     })[0].wiki;
     if(wikiUrl){
         var decodedUrl = decodeURIComponent(wikiUrl);
+        var urlParams = decodedUrl.slice(decodedUrl.indexOf('?') + 1).split('&');
+        var params = [];
+        for(var i = 0; i < urlParams.length; i++)
+        {
+            hash = urlParams[i].split('=');
+            params.push(hash[0]);
+            params[hash[0]] = hash[1];
+        }
+        var wikiID = params['pageid'];
+        var wikiLink = "https://de.wikipedia.org/?curid=" + wikiID;
         $.ajax({
             url: decodedUrl,
             dataType: "jsonp",
@@ -241,10 +251,22 @@ function showWiki(questionId){
                 var text = data.parse.text['*'];
                 var transparency = $('#greyOverlay');
                 var overlay = $('#wikiOverlay');
-                overlay.html('<h3>'+title+'</h3><div>'+text+'</div>');
+                overlay.html('<h3>'+title+'</h3><div>'+text+'</div><a target="_blank" href="' + wikiLink + '">Hier klicken zur Wikipedia-Seite</a>');
                 transparency.fadeIn();
                 overlay.fadeIn();
             }
         });
     }
+}
+
+/**
+ * get parameter value of url
+ * @param name
+ * @returns {string}
+ */
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }

@@ -3,44 +3,53 @@ div#client {
     height: calc(100% - 50px);
 }
 
-div#video{
-    position: relative;
-    width: 100%;
-    height: calc(50% - 30px);
-    max-height: calc(50% - 30px);
-    overflow: hidden;
+@media (orientation: landscape){
+    h2 {
+        margin: 5px 10px;
+        font-size: 18px;
+    }
 }
 
-video {
-    height: auto !important;
-    max-height: 100% !important;
-    overflow: hidden;
-    position: absolute;
-}
+@media (orientation: portrait){
+    div#video{
+        position: relative;
+        width: 100%;
+        height: calc(50% - 30px);
+        max-height: calc(50% - 30px);
+        overflow: hidden;
+    }
 
-div#sidebar {
-    position: relative;
-    width: 100%;
-    padding: 15px 0;
-    height: calc(50% - 35px);
-}
+    video {
+        height: auto !important;
+        max-height: 100% !important;
+        overflow: hidden;
+        position: absolute;
+    }
 
-#button-container {
-    position: relative;
-    transform: none;
-    top: 0;
-    padding-left: 15px;
-    height: 80%;
-}
+    div#sidebar {
+        position: relative;
+        width: 100%;
+        padding: 15px 0;
+        height: calc(50% - 35px);
+    }
 
-button.choice {
-    width: calc(50% - 10px);
-    height: 40%;
-    float: left;
-    margin-right: 3px;
-}
+    #button-container {
+        position: relative;
+        transform: none;
+        top: 0;
+        padding-left: 15px;
+        height: 80%;
+    }
 
-footer {
-    width: 100%;
-    height: auto;
+    button.choice {
+        width: calc(50% - 10px);
+        height: 40%;
+        float: left;
+        margin-right: 3px;
+    }
+
+    footer {
+        width: 100%;
+        height: auto;
+    }
 }
