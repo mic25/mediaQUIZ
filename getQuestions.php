@@ -246,11 +246,11 @@ for($i = 0; $i < $resultLength; ++$i){
                         /* if distance of lat is lower than threshold, check complete distance and angle, remove item if distance is to low */
                         if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
                             /* check distance and angle */
-                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0)){
+                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 0)){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                $array = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
+                                $availableAnswerObjects = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
                             }
                         }else{
                             /* break loop as soon as first element with lat distance higher than threshold is found */
@@ -264,11 +264,11 @@ for($i = 0; $i < $resultLength; ++$i){
                         /* if distance of lat is lower than threshold, check complete distance and angle, remove item if distance is to low */
                         if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
                             /* check distance and winkel */
-                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0)){
+                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) <0)){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                $array = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
+                                $availableAnswerObjects = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
                             }
                         }else{
                             /* break loop as soon as first element with lat distance higher than threshold is found */

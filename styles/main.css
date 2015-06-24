@@ -37,6 +37,12 @@ body {
     margin: 50px auto;
 }
 
+/* code formatting */
+pre {
+    background-color: #000;
+    color: #fff;
+}
+
 
 /* smartphone styles */
 @media (max-width: 767px) {

@@ -18,17 +18,8 @@ $(document).ready(function () {
         }
     });
 
-    /* retrieve json data from server */
-    $.getJSON("../data/questions.json", function (data) {
-        questions = shuffleArray(data);
-        //questions = data;
-        if(questions.length < 10){
-            QUESTIONS = questions.length;
-        }
-        // load progress bar
-        initProgress(QUESTIONS);
-        startGame();
-    });
+    /* init the game on page load */
+    init();
 
     /* replay video on click */
     $("video").click(function () {
@@ -55,7 +46,30 @@ $(document).ready(function () {
         overlay.fadeOut();
         transparency.fadeOut();
     });
+
+    /* replay */
+    $("#playAgain").click(function () {
+        $("#finishedOverlay").fadeOut();
+        init();
+    });
 });
+
+/**
+ * Init the game & get questions from server
+ */
+function init() {
+    /* retrieve json data from server */
+    $.getJSON("../data/questions.json", function (data) {
+        questions = shuffleArray(data);
+        //questions = data;
+        if(questions.length < 10){
+            QUESTIONS = questions.length;
+        }
+        // load progress bar
+        initProgress(QUESTIONS);
+        startGame();
+    });
+}
 
 /**
  * Resets counters and starts the question-chain
@@ -117,7 +131,10 @@ function validate(answer) {
     if (progress == (QUESTIONS - 1)) {
         /* end game when all questions are answered */
         /* TODO: Result Screen */
-        alert("Score: " + score + "/" + QUESTIONS);
+        $("#finishedOverlay span#correct").text(score);
+        $("#finishedOverlay span#count").text(QUESTIONS);
+        $("#finishedOverlay").fadeIn();
+        //alert("Score: " + score + "/" + QUESTIONS);
     } else {
         /* load next question */
         progress++;
