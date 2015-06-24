@@ -85,6 +85,10 @@ div#wikiOverlay {
     z-index: 10;
 }
 
+#wikiOverlay img {
+    max-width: 90%;
+}
+
 #wikiOverlay .thumb {
     float: left;
     margin-right: 10px;
