@@ -3,6 +3,11 @@ div#client {
     height: calc(100% - 50px);
 }
 
+div#finishedOverlay {
+    top: 55px;
+    z-index: 0;
+}
+
 @media (orientation: landscape){
     h2 {
         margin: 5px 10px;
@@ -46,6 +51,10 @@ div#client {
         height: 40%;
         float: left;
         margin-right: 3px;
+    }
+
+    div#finishedOverlay {
+        z-index: 2;
     }
 
     footer {
