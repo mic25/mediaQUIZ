@@ -33,6 +33,7 @@ for($i = 0; $i < $resultLength; ++$i){
     $lng = $results[$i][geometry][location][lng];
     $availableAnswers = [];
     $answers = [];
+    $wikiPageId = "";
     //echo "".$lat.", ".$lng."<br />";
     $query = "SELECT *
               FROM VIDEO_METADATA
@@ -338,7 +339,7 @@ for($i = 0; $i < $resultLength; ++$i){
                     //$wikiPageId = $firstWikiPage['pageid'];
                     for($c = 0; $c < $countWikiPages; ++$c){
                         $pageTitle = $wikiPages_obj['query']['geosearch'][$c]['title'];
-                        $nameStart = substr($name, 0, 5);
+                        //$nameStart = substr($name, 0, 5);
                         /*
                         echo $pageTitle;
                         echo "<br />";
@@ -347,7 +348,9 @@ for($i = 0; $i < $resultLength; ++$i){
                         echo (strpos($pageTitle,$nameStart) !== false);
                         echo "<br />";
                         */
-                        if(strpos($pageTitle,$nameStart) !== false){
+                        /* if similarity of titles is higher than 50% */
+                        similar_text($pageTitle, $name, $percentage);
+                        if($percentage > 0.85){
                             $wikiPageId = $wikiPages_obj['query']['geosearch'][$c]['pageid'];
                             /*
                             echo $wikiPageId;
@@ -357,7 +360,7 @@ for($i = 0; $i < $resultLength; ++$i){
                         }
                     }
                 }
-                if($wikiPageId){
+                if(!empty($wikiPageId)){
                     $wikiText = file_get_contents('https://de.wikipedia.org/w/api.php?action=parse&pageid='.$wikiPageId.'&prop=text&section=0&format=json');
                     $wikiUrl = urlencode('https://de.wikipedia.org/w/api.php?action=parse&pageid='.$wikiPageId.'&prop=text&section=0&format=json');
                     $response .= ", \"wiki\": \"".$wikiUrl."\"}";
@@ -388,6 +391,15 @@ function removeElementWithValue($array, $key, $value){
         }
     }
     return $array;
+}
+
+function levenshteinPerc($str1, $str2) {
+    $len = strlen($str1);
+    if ($len===0 && strlen($str2)===0) {
+        return 0;
+    } else {
+        return ($len>0 ? levenshtein($str1, $str2) / $len : 1);
+    }
 }
 
 ?>

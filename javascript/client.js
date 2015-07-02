@@ -195,8 +195,8 @@ function updateProgress(right) {
 
     $(".progressBar.question.done").click(function(){
         var index = $(this).attr('id').substr(11) - 1;
-        var questionId = questions[index].id;
-        var overlay = $('#wikiOverlay');
+        questionId = questions[index].id;
+        overlay = $('#wikiOverlay');
         if(overlay.is(':visible')){
             overlay.hide();
         }else{
@@ -273,6 +273,12 @@ function showWiki(questionId){
                 overlay.fadeIn();
             }
         });
+    }else{
+        var transparency = $('#greyOverlay');
+        var overlay = $('#wikiOverlay');
+        overlay.html('<h3>Keine Wikipedia-Infos gefunden</h3><div>Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.</div>');
+        transparency.fadeIn();
+        overlay.fadeIn();
     }
 }
 
