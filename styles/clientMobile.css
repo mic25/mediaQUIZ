@@ -34,7 +34,7 @@ div#finishedOverlay {
     div#sidebar {
         position: relative;
         width: 100%;
-        padding: 15px 0;
+        padding: 30px 0 10px;
         height: calc(50% - 35px);
     }
 

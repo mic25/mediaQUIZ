@@ -348,7 +348,7 @@ for($i = 0; $i < $resultLength; ++$i){
                         echo (strpos($pageTitle,$nameStart) !== false);
                         echo "<br />";
                         */
-                        /* if similarity of titles is higher than 50% */
+                        /* if similarity of titles is higher than 85% */
                         similar_text($pageTitle, $name, $percentage);
                         if($percentage > 0.85){
                             $wikiPageId = $wikiPages_obj['query']['geosearch'][$c]['pageid'];
