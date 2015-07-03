@@ -241,42 +241,54 @@ for($i = 0; $i < $resultLength; ++$i){
                 /* get available answers */
                 /* new */
                 $availableAnswerObjects = $results;
+                //echo "Old: "; echo count($availableAnswerObjects); echo "<br />";
                 /* search from current point in ascending order */
                 for($j = $i; $j < $resultLength; ++$j){
                     if($j != $i){
                         /* if distance of lat is lower than threshold, check complete distance and angle, remove item if distance is to low */
-                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
+                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.2){
                             /* check distance and angle */
-                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 0)){
+                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.2 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 || (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 0)){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                $availableAnswerObjects = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
+                                //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
+                                unset($availableAnswerObjects[$j]);
                             }
                         }else{
                             /* break loop as soon as first element with lat distance higher than threshold is found */
                             break;
                         }
+                    }else{
+                        /* remove item from answer list */
+                        //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
+                        unset($availableAnswerObjects[$j]);
                     }
                 }
                 /* search from current point in descending order */
                 for($j = $i; $j >= 0; --$j){
                     if($j != $i){
                         /* if distance of lat is lower than threshold, check complete distance and angle, remove item if distance is to low */
-                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
+                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.2){
                             /* check distance and winkel */
-                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) <0)){
+                            if(sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.2 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 51 || (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) <0)){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                $availableAnswerObjects = removeElementWithValue($availableAnswerObjects, "place_id", $results[$i][place_id]);
+                                //removeElementWithValue($availableAnswerObjects, "place_id", $results[$i]["place_id"]);
+                                unset($availableAnswerObjects[$j]);
                             }
                         }else{
                             /* break loop as soon as first element with lat distance higher than threshold is found */
                             break;
                         }
+                    }else{
+                        /* remove item from answer list */
+                        //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
+                        unset($availableAnswerObjects[$j]);
                     }
                 }
+                //echo "New: "; echo count($availableAnswerObjects); echo "<br />";
                 /* get answer names */
                 $availableAnswerObjectsLength = count($availableAnswerObjects);
                 for($a = 0; $a < $availableAnswerObjectsLength; ++$a){
@@ -288,7 +300,9 @@ for($i = 0; $i < $resultLength; ++$i){
                         //echo "<br />";
                         $answerDetails_obj = json_decode($answerDetails, true);
                         $singlename = $answerDetails_obj[result][name];
-                        array_push($availableAnswers, $singlename);
+                        if(!empty($singlename)) {
+                            array_push($availableAnswers, $singlename);
+                        }
                 }
                 /* old */
                 /*
