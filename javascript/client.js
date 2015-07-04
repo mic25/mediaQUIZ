@@ -8,6 +8,13 @@ var rightAnswer = -1;       // index of currently right answer
 var questions;              // array of questions
 var progress = 0;
 var score = 0;
+var scorePoints = 0;
+
+var answerTime = 0;
+var answerStartTime = 0;
+var answerEndTime = 0;
+
+var highScore = 0;
 
 $(document).ready(function () {
     /* add click listener */
@@ -77,6 +84,14 @@ function init() {
 function startGame() {
     progress = 0;
     score = 0;
+    scorePoints = 0;
+
+    answerTime = 0;
+    answerStartTime = 0;
+    answerEndTime = 0;
+
+    highScore = sessionStorage.mediaQuizHighScore;
+
     loadQuestion(questions[progress]);
 }
 
@@ -109,6 +124,7 @@ function loadQuestion(entry) {
         $("video").on('loadeddata', function() {
             $("#loading").hide();
             $("#clickNote").show();
+            answerStartTime = (new Date()).getTime();
         });
     });
 }
@@ -123,6 +139,13 @@ function validate(answer) {
     if (answer == ("choice" + rightAnswer)) {
         /* give credits for correct answer */
         score++;
+        answerEndTime = (new Date()).getTime();
+        answerTime = Math.round((answerEndTime - answerStartTime) / 1000);
+        if(answerTime < 20){
+            scorePoints += 20 - answerTime;
+        }else{
+            scorePoints += 1;
+        }
         updateProgress(true);
     } else {
         updateProgress(false);
@@ -133,6 +156,14 @@ function validate(answer) {
         /* TODO: Result Screen */
         $("#finishedOverlay span#correct").text(score);
         $("#finishedOverlay span#count").text(QUESTIONS);
+        $("#finishedOverlay span#points").text(scorePoints);
+        if(!highScore || highScore < scorePoints){
+            //sessionStorage.setItem(("mediaQuizHighScore", scorePoints));
+            sessionStorage.mediaQuizHighScore = scorePoints;
+            $("#finishedOverlay span#highscore").text(scorePoints);
+        }else{
+            $("#finishedOverlay span#highscore").text(highScore);
+        }
         $("#finishedOverlay").fadeIn();
         //alert("Score: " + score + "/" + QUESTIONS);
     } else {
