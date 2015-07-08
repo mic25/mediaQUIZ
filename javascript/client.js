@@ -16,6 +16,8 @@ var answerEndTime = 0;
 
 var highScore = 0;
 
+var clipStartTime;
+
 $(document).ready(function () {
     /* add click listener */
     $(".choice").click(function () {
@@ -30,10 +32,13 @@ $(document).ready(function () {
 
     /* replay video on click */
     $("video").click(function () {
-        var video = $(this);
-        video.pause();
-        video.currentTime = '0';
-        video.play();
+        var video = document.getElementById("videoTag");
+        console.log(clipStartTime);
+        if(clipStartTime){
+            video.pause();
+            video.currentTime = clipStartTime;
+            video.play();
+        }
     });
 
     /* resize answer texts to fit into buttons */
@@ -113,6 +118,8 @@ function loadQuestion(entry) {
         $('#choice' + i).textfill({ maxFontPixels: 14 });
     }
     rightAnswer = entry.correctAnswer;
+
+    clipStartTime = entry.clipStartTime;
 
     /* display buttons */
     animateButtons(true);

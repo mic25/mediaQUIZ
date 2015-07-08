@@ -37,7 +37,7 @@ for($i = 0; $i < $resultLength; ++$i){
     //echo "".$lat.", ".$lng."<br />";
     $query = "SELECT *
               FROM VIDEO_METADATA
-              WHERE SQRT(POWER(Plat-".$lat.", 2)+POWER(Plng-".$lng.", 2)) < 0.001
+              WHERE SQRT(POWER(Plat-".$lat.", 2)+POWER(Plng-".$lng.", 2)) < 0.0014
                 AND (DEGREES(ACOS((Plng-".$lng.")/SQRT(POWER(Plat-".$lat.", 2)+POWER(Plng-".$lng.", 2))))-ThetaX) < 51
                 AND (DEGREES(ACOS((Plng-".$lng.")/SQRT(POWER(Plat-".$lat.", 2)+POWER(Plng-".$lng.", 2))))-ThetaX) > 0";
     //echo $query."<br />";

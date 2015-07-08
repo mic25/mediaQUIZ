@@ -64,7 +64,7 @@ button.choice{
 }
 
 div#finishedOverlay {
-    position: fixed;
+    position: absolute;
     background-color: #000;
     width: 100%;
     height: calc(100% - 80px);
