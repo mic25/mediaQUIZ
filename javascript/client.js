@@ -17,6 +17,7 @@ var answerEndTime = 0;
 var highScore = 0;
 
 var clipStartTime;
+var lat, lng, name;
 
 $(document).ready(function () {
     /* add click listener */
@@ -51,8 +52,10 @@ $(document).ready(function () {
     var transparency = $('#greyOverlay');
     var overlay = $('#wikiOverlay');
     overlay.click(function(){
-       overlay.fadeOut();
-        transparency.fadeOut();
+        if(!$(event.target).closest('#map-canvas').length){
+            overlay.fadeOut();
+            transparency.fadeOut();
+        }
     });
     transparency.click(function(){
         overlay.fadeOut();
@@ -286,6 +289,18 @@ function showWiki(questionId){
     var wikiUrl = questions.filter(function (d) {
         return d.id === questionId;
     })[0].wiki;
+    lat = questions.filter(function (d) {
+        return d.id === questionId;
+    })[0].lat;
+    lng = questions.filter(function (d) {
+        return d.id === questionId;
+    })[0].lng;
+    var correctAnswer = questions.filter(function (d) {
+        return d.id === questionId;
+    })[0].correctAnswer;
+    name = questions.filter(function (d) {
+        return d.id === questionId;
+    })[0].answers[correctAnswer];
     if(wikiUrl){
         var decodedUrl = decodeURIComponent(wikiUrl);
         var urlParams = decodedUrl.slice(decodedUrl.indexOf('?') + 1).split('&');
@@ -306,7 +321,11 @@ function showWiki(questionId){
                 var text = data.parse.text['*'];
                 var transparency = $('#greyOverlay');
                 var overlay = $('#wikiOverlay');
-                overlay.html('<h3>'+title+'</h3><div>'+text+'</div><a target="_blank" href="' + wikiLink + '">Hier klicken zur Wikipedia-Seite</a>');
+                overlay.find("h3").html(title);
+                overlay.find("#text").html(text);
+                /* add google map */
+                loadGMScript();
+                //overlay.html('<h3>'+title+'</h3><div>'+text+'</div><a target="_blank" href="' + wikiLink + '">Hier klicken zur Wikipedia-Seite</a>');
                 transparency.fadeIn();
                 overlay.fadeIn();
             }
@@ -314,10 +333,53 @@ function showWiki(questionId){
     }else{
         var transparency = $('#greyOverlay');
         var overlay = $('#wikiOverlay');
-        overlay.html('<h3>Keine Wikipedia-Infos gefunden</h3><div>Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.</div>');
+        overlay.find("h3").html("Keine Wikipedia-Infos gefunden");
+        overlay.find("#text").html("Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.");
+        //overlay.html('<h3>Keine Wikipedia-Infos gefunden</h3><div>Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.</div>');
         transparency.fadeIn();
         overlay.fadeIn();
     }
+}
+
+function initialize() {
+    initializeMap(lat, lng);
+}
+
+function loadGMScript() {
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDKt2zbA8qFXtyJ1kJlBwcVomFQx9aenZg&callback=initialize';
+    document.body.appendChild(script);
+}
+
+/**
+ * initializes a Google Map for given coordinates
+ * @param lat
+ * @param lng
+ */
+function initializeMap (lat, lng) {
+    var mapOptions = {
+        center: {
+            lat: parseFloat(lat),
+            lng: parseFloat(lng)
+        },
+        zoom: 14
+    };
+    var map = new google.maps.Map(document.getElementById('map-canvas'),
+        mapOptions);
+
+    var infowindow = new google.maps.InfoWindow({
+        content: "<h4>" +name+ "</h4>"
+    });
+
+    var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(parseFloat(lat),parseFloat(lng)),
+        map: map,
+        title: name
+    });
+    google.maps.event.addListener(marker, 'click', function() {
+        infowindow.open(map,marker);
+    });
 }
 
 /**

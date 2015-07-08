@@ -220,6 +220,10 @@ for($i = 0; $i < $resultLength; ++$i){
                 //echo "Selected Video: ".$videos[$videoNumber]."<br />";
                 $response .= "\"video\": \"http://mediaq.dbs.ifi.lmu.de/MediaQ_MVC_V2/video_content/" . $selectedVideo . "#t=". $clipStartTime . ",". $clipEndTime . "\" , ";
 
+                /* add coordinates for map to response */
+                $response .= "\"lat\": \"".$lat."\", ";
+                $response .= "\"lng\": \"".$lng."\", ";
+
                 //$response .= "\"videoStartTime\": \"".$videoStartTime."\", ";
                 $response .= "\"clipStartTime\": \"".$clipStartTime."\", ";
                 $response .= "\"clipEndTime\": \"".$clipEndTime."\", ";
