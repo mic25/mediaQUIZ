@@ -341,15 +341,8 @@ function showWiki(questionId){
     }
 }
 
-function initialize() {
-    initializeMap(lat, lng);
-}
-
 function loadGMScript() {
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDKt2zbA8qFXtyJ1kJlBwcVomFQx9aenZg&callback=initialize';
-    document.body.appendChild(script);
+    initializeMap(lat, lng);
 }
 
 /**

@@ -19,7 +19,9 @@ for($i = 0; $i < count($json_obj['results']); $i++){
     echo "wrote Details To File <br />";
 }
 
-$questions = file_get_contents("getQuestions.php");
+ob_start();
+include 'getQuestions.php';
+$questions = ob_get_clean();
 
 $questionsfile = fopen("data/questions.json", "w") or die("Unable to open file!");
 fwrite($questionsfile, $questions);
@@ -27,7 +29,9 @@ fclose($questionsfile);
 
 echo "wrote JSON To File <br />";
 
-$crowdsourcing = file_get_contents("getPOIs.php");
+ob_start();
+include 'getPOIs.php';
+$crowdsourcing = ob_get_clean();
 
 $crowdsourcingfile = fopen("data/crowdsourcing.json", "w") or die("Unable to open file!");
 fwrite($crowdsourcingfile, $crowdsourcing);
