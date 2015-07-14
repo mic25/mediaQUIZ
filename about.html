@@ -9,32 +9,37 @@
     <link href="styles/video-js.css" type="text/css" rel="stylesheet">
     <link rel="icon" href="styles/favicon.ico" type="image/x-icon" />
     <script type="text/javascript" src="javascript/video.js"></script>
+    <script type="text/javascript" src="javascript/about.js"></script>
     <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <link href="styles/main.css" type="text/css" rel="stylesheet">
+    <link href="styles/about.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <div class="container">
     <div class="header">
         <a href="/" class="logo"></a>
-        <div class="nav"><a href="/crowdsourcing.html">Crowdsourcing</a><a href="/downloads.html">Downloads</a><a href="/about.html">About</a></div>
+        <div class="nav"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about" class="active">About</a></div>
         <div class="clear"></div>
     </div>
     <div class="content">
-        <h3>Warum MediaQUIZ?</h3>
-        <p>Die Idee für MediaQUIZ entstand spontan während einer Brainstorming-Runde.
-            Es sollte eine Anwendung auf MediaQ-Daten her,
-            anschaulich sollte es sein, interaktiv, alltagstauglich. So entstand spontan die Idee ein Quiz
-            in der Art von Quizduell zu schreiben, wo Orte auf den MediaQ-Videos erkannt werden sollen.
-        </p>
-        <p>
-            Wichtig war dabei immer, dass die Anwendung auf möglichst vielen Plattformen verfügbar ist, weshalb wir uns
-            für eine Webanwendung entschieden haben, die auf verschiedenen Gräten einfach über den Browser aufgerufen werden kann.
-            Mittels CSS(3) können wir das Layout auch sehr komfortabel für die verschiedenen Bildschirmgrößen passend gestalten.
-        </p>
-        <p>Als Erweiterung oder Version 2.0 ist eine Verknüpfung mit sozialen Netzwerken ähnlich wie bei der erfolgreichen Quiz-App Quizduell angedacht.</p>
-        <h3>Wo liegt das Problem?</h3>
-        <p>Das Quiz soll dynamisch erzeugt werden und möglichst selten zweimal die gleiche Frage anzeigen, um den Spielspaß zu erhalten. Dazu sind verschiedene Aspekte zu beachten:
+        <div id="motivation" class="section">
+            <h3>Warum MediaQUIZ?</h3>
+            <p>Die Idee für MediaQUIZ entstand spontan während einer Brainstorming-Runde.
+                Es sollte eine Anwendung auf MediaQ-Daten her,
+                anschaulich sollte es sein, interaktiv, alltagstauglich. So entstand spontan die Idee ein Quiz
+                in der Art von Quizduell zu schreiben, wo Orte auf den MediaQ-Videos erkannt werden sollen.
+            </p>
+            <p>
+                Wichtig war dabei immer, dass die Anwendung auf möglichst vielen Plattformen verfügbar ist, weshalb wir uns
+                für eine Webanwendung entschieden haben, die auf verschiedenen Gräten einfach über den Browser aufgerufen werden kann.
+                Mittels CSS(3) können wir das Layout auch sehr komfortabel für die verschiedenen Bildschirmgrößen passend gestalten.
+            </p>
+            <p>Als Erweiterung oder Version 2.0 ist eine Verknüpfung mit sozialen Netzwerken ähnlich wie bei der erfolgreichen Quiz-App Quizduell angedacht.</p>
+        </div>
+        <div id="problem" class="section">
+            <h3>Wo liegt das Problem?</h3>
+            <p>Das Quiz soll dynamisch erzeugt werden und möglichst selten zweimal die gleiche Frage anzeigen, um den Spielspaß zu erhalten. Dazu sind verschiedene Aspekte zu beachten:
             <ul>
                 <li>zufällige Auswahl des Videoausschnitts aus allen aktuell vorhandenen Videos</li>
                 <li>zufällige Generierung der 3 falschen Antwortmöglichkeiten aus den vorhandenen Points of Interest</li>
@@ -43,9 +48,11 @@
                 <li>der Nutzer soll nur den relevanten Ausschnitt des Videos sehen</li>
                 <li>das Quiz und damit die Videos soll Cross-Browser und Cross-Device kompatibel sein</li>
             </ul>
-        </p>
-        <h3>Algorithmus</h3>
-        <p>
+            </p>
+        </div>
+        <div id="algorithm" class="section">
+            <h3>Algorithmus</h3>
+            <p>
             <ul>
                 <li>Server:
                     <ul>
@@ -58,173 +65,188 @@
                         <li>ID, Video, Antworten, korrekte Antwort und Wikipedia-Link werden im JSON-Format zurückgegeben.</li>
                     </ul>
                     <p></p>
-                    <pre>
+                    <!--<pre>
 <code>
     sort POIs by latitude
     /* für jeden POI aus Google Places API */
     foreach(POI){
-        /* Suche Videos, in denen der Punkt im Blickwinkel liegt und wenig Abstand hat */
-        SELECT * FROM VIDEO_METADATA WHERE abstand < 0.001 AND winkel < 51 AND winkel > 0
+    /* Suche Videos, in denen der Punkt im Blickwinkel liegt und wenig Abstand hat */
+    SELECT * FROM VIDEO_METADATA WHERE abstand < 0.001 AND winkel < 51 AND winkel > 0
 
-        if(videos found){
-            get list of frames for each video
-            if(there are at least 3 following frames){
-                push video and frames to array of available videos
-            }
-            if(there are available videos){
-                add questionID to responseString
+    if(videos found){
+    get list of frames for each video
+    if(there are at least 3 following frames){
+    push video and frames to array of available videos
+    }
+    if(there are available videos){
+    add questionID to responseString
 
-                select one video-section randomly
-                startTime = startFrameNumber - 1 (sec)
-                endTime = endFrameNumber + 2 (sec)
+    select one video-section randomly
+    startTime = startFrameNumber - 1 (sec)
+    endTime = endFrameNumber + 2 (sec)
 
-                add video url with start and end time to responseString
+    add video url with start and end time to responseString
 
-                get place name from Google Places Details
+    get place name from Google Places Details
 
-                /* get wrong answers */
-                availableAnswers = results;
-                /* search from current point in ascending order */
-                for($j = $i; $j < $resultLength; ++$j){
-                    if($j != $i){
-                        /* if distance of lat is lower than threshold, check complete distance and angle,
-                            remove item if distance is to low */
-                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
-                            /* check distance and angle */
-                            if(distance > 0.1 || angle > 51 || angle < 0){
-                                continue;
-                            }else{
-                                /* remove item from answer list */
-                                $availableAnswerObjects =
-                                    removeElementWithValue(
-                                        $availableAnswerObjects, "place_id", $results[$i][place_id]
-                                    );
-                            }
-                        }else{
-                            /* break loop as soon as first element with lat distance
-                                higher than threshold is found */
-                            break;
-                        }
-                    }
-                }
-                /* search from current point in descending order */
-                for($j = $i; $j >= 0; --$j){
-                    if($j != $i){
-                        /* if distance of lat is lower than threshold, check complete distance and angle,
-                            remove item if distance is to low */
-                        if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
-                            /* check distance and winkel */
-                            if(distance > 0.1 || angle > 51 || angle < 0){
-                                continue;
-                            }else{
-                                /* remove item from answer list */
-                                $availableAnswerObjects =
-                                    removeElementWithValue(
-                                        $availableAnswerObjects, "place_id", $results[$i][place_id]
-                                    );
-                            }
-                        }else{
-                            /* break loop as soon as first element with lat distance
-                                higher than threshold is found */
-                            break;
-                        }
-                    }
-                }
-                /* get names from google Places Details */
-                foreach(availableAnswer){
-                    get name
-                    push to array of availableAnswersNames
-                }
-                /* get randomly 3 answers */
-                shuffle array availableAnswersNames
-                take first 3 elements
+    /* get wrong answers */
+    availableAnswers = results;
+    /* search from current point in ascending order */
+    for($j = $i; $j < $resultLength; ++$j){
+    if($j != $i){
+    /* if distance of lat is lower than threshold, check complete distance and angle,
+    remove item if distance is to low */
+    if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
+    /* check distance and angle */
+    if(distance > 0.1 || angle > 51 || angle < 0){
+    continue;
+    }else{
+    /* remove item from answer list */
+    $availableAnswerObjects =
+    removeElementWithValue(
+    $availableAnswerObjects, "place_id", $results[$i][place_id]
+    );
+    }
+    }else{
+    /* break loop as soon as first element with lat distance
+    higher than threshold is found */
+    break;
+    }
+    }
+    }
+    /* search from current point in descending order */
+    for($j = $i; $j >= 0; --$j){
+    if($j != $i){
+    /* if distance of lat is lower than threshold, check complete distance and angle,
+    remove item if distance is to low */
+    if($results[$j][geometry][location][lat] - $selectedVideoLat < 0.1){
+    /* check distance and winkel */
+    if(distance > 0.1 || angle > 51 || angle < 0){
+    continue;
+    }else{
+    /* remove item from answer list */
+    $availableAnswerObjects =
+    removeElementWithValue(
+    $availableAnswerObjects, "place_id", $results[$i][place_id]
+    );
+    }
+    }else{
+    /* break loop as soon as first element with lat distance
+    higher than threshold is found */
+    break;
+    }
+    }
+    }
+    /* get names from google Places Details */
+    foreach(availableAnswer){
+    get name
+    push to array of availableAnswersNames
+    }
+    /* get randomly 3 answers */
+    shuffle array availableAnswersNames
+    take first 3 elements
 
-                add correct answer, wrong answers and index of correct answer to response String
+    add correct answer, wrong answers and index of correct answer to response String
 
-                /* create wikipedia link */
-                search by coordinates in wikipedia API for articles
-                if(articles found){
-                    foreach(article){
-                        if(title matches place name in first 5 characters){
-                            build wikipedia api query url
-                            add wikipedia url to responseString
-                        }
-                    }
-                }
-            }
-        }
-        push responseString to responseArray
+    /* create wikipedia link */
+    search by coordinates in wikipedia API for articles
+    if(articles found){
+    foreach(article){
+    if(title matches place name in first 5 characters){
+    build wikipedia api query url
+    add wikipedia url to responseString
+    }
+    }
+    }
+    }
+    }
+    push responseString to responseArray
     }
     echo responseArray in json format
 </code>
-                    </pre>
+                    </pre>-->
                 </li>
                 <li>Client:
 
                 </li>
             </ul>
-        </p>
-        <h3>Technische Umsetzung</h3>
-        <p>
+            </p>
+        </div>
+        <div id="technical" class="section">
+            <h3>Technische Umsetzung</h3>
+            <p>
             <ul>
                 <li>
                     <h4>Server:</h4>
                     <p>Der Server stellt die Anfragen an die Google Maps API, um die Points of Interest zu erhalten, sucht die verfügbaren Videos dazu aus der Datenbank und generiert die Fragen und Antworten dazu.</p>
                     <p>
-                        <ul>
-                            <li>Sprache: PHP (Anfragen SQL)</li>
-                            <li>Technische Besonderheiten:
-                                <ul>
-                                    <li>Die Anfragen an die API werden per CRON-Job einmal täglich ausgeführt, die Ergebnisse werden in JSON-Files gespeichert. So kann die Anfragezeit für den Client minimiert werden.</li>
-                                    <li>Die Anfrage an die Datenbank sowie die Generierung der Fragen und Antworten wird alle 30 Minuten per CRON-Job ausgeführt, die Ergebnisse werden auch hier als JSON-File gespeichert.</li>
-                                    <li>Bei jeder Generierung der Fragen werden Antworten und Video neu ausgewählt. So bleibt der Spielspaß erhalten.</li>
+                    <ul>
+                        <li>Sprache: PHP (Anfragen SQL)</li>
+                        <li>Technische Besonderheiten:
+                            <ul>
+                                <li>Die Anfragen an die API werden per CRON-Job einmal täglich ausgeführt, die Ergebnisse werden in JSON-Files gespeichert. So kann die Anfragezeit für den Client minimiert werden.</li>
+                                <li>Die Anfrage an die Datenbank sowie die Generierung der Fragen und Antworten wird alle 30 Minuten per CRON-Job ausgeführt, die Ergebnisse werden auch hier als JSON-File gespeichert.</li>
+                                <li>Bei jeder Generierung der Fragen werden Antworten und Video neu ausgewählt. So bleibt der Spielspaß erhalten.</li>
 
-                                </ul>
-                            </li>
-                            <li>Probleme: die Anfrage an die Datenbank ist Messfehlern ausgesetzt, die wir nicht identifzieren können (zeigt sich durch ungeeignete Video-Ausschnitte).</li>
-                        </ul>
-                    </p>
-                </li>
-                <li>
-                    <h4>Client - Frontend:</h4>
-                    <p>Die Oberfläche von MediaQUIZ zeigt dem Nutzer ein Video sowie 4 Antwortmöglichkeiten. Der Nutzer wählt durch klicken eine Antwort aus und erhält Feedback, ob die Antwort richtig oder falsch ist. Danach gelangt der Nutzer automatisch zur nächsten Frage.</p>
-                    <p>
+                            </ul>
+                        </li>
+                        <li>Probleme: die Anfrage an die Datenbank ist Messfehlern ausgesetzt, die wir nicht identifzieren können (zeigt sich durch ungeeignete Video-Ausschnitte).</li>
+                    </ul>
+            </p>
+            </li>
+            <li>
+                <h4>Client - Frontend:</h4>
+                <p>Die Oberfläche von MediaQUIZ zeigt dem Nutzer ein Video sowie 4 Antwortmöglichkeiten. Der Nutzer wählt durch klicken eine Antwort aus und erhält Feedback, ob die Antwort richtig oder falsch ist. Danach gelangt der Nutzer automatisch zur nächsten Frage.</p>
+                <p>
+                <ul>
+                    <li>Sprache: HTML5, CSS</li>
+                    <li>Design: responsive, unterschiedliche Layouts für Portrait- & Landscape-Ansicht</li>
+                    <li>Technische Besonderheiten:
                         <ul>
-                            <li>Sprache: HTML5, CSS</li>
-                            <li>Design: responsive, unterschiedliche Layouts für Portrait- & Landscape-Ansicht</li>
-                            <li>Technische Besonderheiten:
-                                <ul>
-                                    <li>Anzeige der Videos mit HTML5 Video-Tag</li>
-                                    <li>Anzeige des Fortschritts im Footer mit richtig/falsch-Indikation.</li>
-                                    <li>Progress-Bar bietet zusätzliche Informationen zu bereits beantworteten Fragen.</li>
-                                    <li>Dasselbe Element für alle Fragen wird zur Laufzeit dynamisch befüllt.</li>
-                                    <li>Durch CSS-Definitionen Cross-Browser und Cross-Device kompatibel.</li>
-                                </ul>
-                            </li>
+                            <li>Anzeige der Videos mit HTML5 Video-Tag</li>
+                            <li>Anzeige des Fortschritts im Footer mit richtig/falsch-Indikation.</li>
+                            <li>Progress-Bar bietet zusätzliche Informationen zu bereits beantworteten Fragen.</li>
+                            <li>Dasselbe Element für alle Fragen wird zur Laufzeit dynamisch befüllt.</li>
+                            <li>Durch CSS-Definitionen Cross-Browser und Cross-Device kompatibel.</li>
                         </ul>
-                    </p>
-                </li>
-                <li>
-                    <h4>Client - Backend:</h4>
-                    <p>Per Javascript/AJAX werden Anfragen an den Server gestellt, der die Fragen als JSON zurückgibt. Hier werden die Fragen zu einem Quiz zusammengestellt, sowie die Antworten überprüft und das Quiz abgewickelt.</p>
-                    <p>
+                    </li>
+                </ul>
+                </p>
+            </li>
+            <li>
+                <h4>Client - Backend:</h4>
+                <p>Per Javascript/AJAX werden Anfragen an den Server gestellt, der die Fragen als JSON zurückgibt. Hier werden die Fragen zu einem Quiz zusammengestellt, sowie die Antworten überprüft und das Quiz abgewickelt.</p>
+                <p>
+                <ul>
+                    <li>Sprache: JavaScript</li>
+                    <li>Technische Besonderheiten:
                         <ul>
-                            <li>Sprache: JavaScript</li>
-                            <li>Technische Besonderheiten:
-                                <ul>
-                                    <li>verwendet AJAX-Requests</li>
-                                    <li>Zeigt zufällige 10 Fragen (wenn mind. 10 verfügbar).</li>
-                                    <li>Ruft zu bereits beantworteten Fragen dynamisch (bei Nutzer-Interaktion) Informationen von Wikipedia ab.</li>
-                                    <li>Lässt den ausgewählten Video-Ausschnitt beliebig oft per Klick wiederholen, Rest des Videos ist dabei nicht sichtbar.</li>
-                                </ul>
-                            </li>
+                            <li>verwendet AJAX-Requests</li>
+                            <li>Zeigt zufällige 10 Fragen (wenn mind. 10 verfügbar).</li>
+                            <li>Ruft zu bereits beantworteten Fragen dynamisch (bei Nutzer-Interaktion) Informationen von Wikipedia ab.</li>
+                            <li>Lässt den ausgewählten Video-Ausschnitt beliebig oft per Klick wiederholen, Rest des Videos ist dabei nicht sichtbar.</li>
                         </ul>
-                    </p>
-                </li>
+                    </li>
+                </ul>
+                </p>
+            </li>
             </ul>
-        </p>
-        <h3></h3>
+            </p>
+        </div>
+
     </div>
+    <div class="footerBack">
+        <div class="nav footer">
+            <div id="toggleMotivation" class="toggleAbout img"></div>
+            <img src="styles/img/client_progress-path.png">
+            <div id="toggleProblem" class="toggleAbout img"></div>
+            <img src="styles/img/client_progress-path.png">
+            <div id="toggleAlgorithm" class="toggleAbout img"></div>
+            <img src="styles/img/client_progress-path.png">
+            <div id="toggleTechnical" class="toggleAbout img"></div>
+        </div>
+    </div>
+
 </div>
 </body>
 </html>
