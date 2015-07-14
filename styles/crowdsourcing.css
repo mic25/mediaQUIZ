@@ -1,4 +1,34 @@
+.content {
+    width: 90%;
+    margin: 50px auto;
+}
+
 .line .name {
-    width: 50%;
+    width: 90%;
     float: left;
+}
+
+div#crowdsourcingTable {
+    height: 400px;
+    overflow: scroll;
+    float: left;
+    width: 400px;
+}
+
+#crowdsourcingTable a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#crowdsourcingTable a:hover {
+    color: #00c9cc;
+}
+
+#map-canvas {
+    height: 400px;
+    color: #000;
+}
+
+#map-canvas h4, #map-canvas h5 {
+    color: #000;
 }
