@@ -27,14 +27,14 @@
 <div class="container">
     <header class="header">
         <a href="/" class="logo"></a>
-        <div class="nav"><a href="/crowdsourcing.html">Crowdsourcing</a><a href="/downloads.html">Downloads</a><a href="/about.html">About</a></div>
+        <div class="nav"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
         <div class="clear"></div>
     </header>
 
     <div class="content">
         <div id="client">
             <div id="video">
-                <img src="styles/img/ajax-loader.gif" width="5%" id="loading">
+                <img src="styles/img/ajax-loader.gif" width="5%" id="loading" style="display: none;">
                 <video width="720" height="480" autoplay="" muted="" name="media" id="videoTag"><source src="" type="video/mp4"></video>
                 <div id="clickNote" style="display:none;">Click to (re)play</div>
             </div>
@@ -48,6 +48,9 @@
                     <button class="choice" id="choice3"><span>Ddhkf</span></button>
                 </div>
             </div>
+            <div id="startOverlay" style="">
+                <button id="play">Spiel starten!</button>
+            </div>
             <div id="finishedOverlay" style="display: none;">
                 <h2>Herzlichen Glückwunsch!</h2>
                 <h3>Du hast das Quiz mit <span id="correct"></span> richtigen von <span id="count"></span> Fragen beendet.</h3>
@@ -60,7 +63,7 @@
                 <div id="map-canvas"></div>
                 <div id="text"></div>
             </div>
-            <footer>
+            <footer style="display: none;">
                 ...
             </footer>
 

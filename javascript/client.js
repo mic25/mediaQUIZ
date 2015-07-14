@@ -28,8 +28,14 @@ $(document).ready(function () {
         }
     });
 
-    /* init the game on page load */
-    init();
+    /* start game when click on play button */
+    $("#play").click(function () {
+        /* init the game */
+        init();
+        $("#startOverlay").hide();
+        $("footer").show();
+        $("#loading").show();
+    });
 
     /* replay video on click */
     $("video").click(function () {
@@ -335,6 +341,7 @@ function showWiki(questionId){
         var overlay = $('#wikiOverlay');
         overlay.find("h3").html("Keine Wikipedia-Infos gefunden");
         overlay.find("#text").html("Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.");
+        overlay.find("#map-canvas").html("");
         //overlay.html('<h3>Keine Wikipedia-Infos gefunden</h3><div>Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.</div>');
         transparency.fadeIn();
         overlay.fadeIn();
