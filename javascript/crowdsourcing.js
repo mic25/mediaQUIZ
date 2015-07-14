@@ -3,6 +3,34 @@ var gmarkers = [];
 
 $(document).ready(function(){
     init();
+
+    $("#toggleCrowdsourcingList").click(function () {
+        var table = $("#crowdsourcingTable");
+        var $this = $(this);
+        if(table.is(":visible")){
+            table.hide();
+            $this.text("Liste der POIs anzeigen");
+        }else{
+            table.show();
+            $this.text("Liste schließen   X");
+        }
+
+    });
+
+    $("#crowdsourcingTable a .name").click(function () {
+        var table = $("#crowdsourcingTable");
+        var $this = $(this);
+        var name = $this.text();
+        var toggle = $("#toggleCrowdsourcingList");
+        if(table.is(":visible")){
+            table.hide();
+            toggle.text(name+" - Liste der POIs anzeigen");
+        }else{
+            table.show();
+            toggle.text("Liste schließen   X");
+        }
+
+    });
 });
 
 function init () {
@@ -77,4 +105,16 @@ function bindInfoWindow(marker, map, infowindow, description) {
 
 function triggerClick(i) {
     google.maps.event.trigger(gmarkers[i],"click");
+    var table = $("#crowdsourcingTable");
+    var name = gmarkers[i].title;
+    var toggle = $("#toggleCrowdsourcingList");
+    if(toggle.is(":visible")){
+        if(table.is(":visible")){
+            table.hide();
+            toggle.text(name+" - Liste der POIs anzeigen");
+        }else{
+            table.show();
+            toggle.text("Liste schließen   X");
+        }
+    }
 }

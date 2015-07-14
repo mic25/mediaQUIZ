@@ -32,3 +32,20 @@ div#crowdsourcingTable {
 #map-canvas h4, #map-canvas h5 {
     color: #000;
 }
+
+#toggleCrowdsourcingList {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    #toggleCrowdsourcingList {
+        display: block;
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+
+    #crowdsourcingTable {
+        display: none;
+        max-width: 100%;
+    }
+}
