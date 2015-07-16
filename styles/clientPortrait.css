@@ -46,6 +46,14 @@ div#startOverlay {
     height: calc(100% - 80px);
 }
 
+div#finishedOverlay {
+    position: absolute;
+    top:5%;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 80px);
+}
+
 div#startOverlay-sidebar {
     position: absolute;
     background-color: #00b3ee;
