@@ -1,11 +1,11 @@
-div#client {
-    top: 145px;
-    height: calc(100% - 150px);
-}
-
 div#finishedOverlay {
     top: 55px;
     z-index: 0;
+}
+
+div#startOverlay {
+    top: 0;
+    height: calc(100% - 40px);
 }
 
 @media (orientation: landscape){
@@ -13,9 +13,19 @@ div#finishedOverlay {
         margin: 5px 10px;
         font-size: 18px;
     }
+
+    div#client {
+        top: 50px;
+        height: calc(100% - 55px);
+    }
 }
 
 @media (orientation: portrait){
+    div#client {
+        top: 55px;
+        height: calc(100% - 60px);
+    }
+
     div#video{
         position: relative;
         width: 100%;
@@ -55,6 +65,11 @@ div#finishedOverlay {
 
     div#finishedOverlay {
         z-index: 2;
+    }
+
+    div#startOverlay {
+        top: 145px;
+        height: calc(100% - 145px);
     }
 
     footer {

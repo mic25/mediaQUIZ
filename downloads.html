@@ -12,12 +12,22 @@
     <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <link href="styles/main.css" type="text/css" rel="stylesheet">
+
+    <script src="javascript/main.js"></script>
 </head>
 <body>
 <div class="container">
     <div class="header">
         <a href="/" class="logo"></a>
-        <div class="nav"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads" class="active">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <div class="nav desktop"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads" class="active">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <img src="styles/img/navigation/burger.png" width="40" height="30" id="toggleMenu" />
+        <div class="nav mobile">
+            <ul>
+                <li><a href="/crowdsourcing.html" id="nav-crowd-mobile">Crowdsourcing</a></li>
+                <li><a href="/downloads.html" id="nav-downloads-mobile" class="active">Downloads</a></li>
+                <li><a href="/about.html" id="nav-about-mobile">About</a></li>
+            </ul>
+        </div>
         <div class="clear"></div>
     </div>
     <div class="content">

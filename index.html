@@ -21,13 +21,22 @@
 
     <!-- Include client scripts -->
     <script src="javascript/client.js"></script>
+    <script src="javascript/main.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 </head>
 <body>
 <div class="container">
     <header class="header">
         <a href="/" class="logo"></a>
-        <div class="nav"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <div class="nav desktop"><a href="/crowdsourcing.html" id="nav-crowd">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <img src="styles/img/navigation/burger.png" width="40" height="30" id="toggleMenu" />
+        <div class="nav mobile">
+            <ul>
+                <li><a href="/crowdsourcing.html" id="nav-crowd-mobile">Crowdsourcing</a></li>
+                <li><a href="/downloads.html" id="nav-downloads-mobile">Downloads</a></li>
+                <li><a href="/about.html" id="nav-about-mobile">About</a></li>
+            </ul>
+        </div>
         <div class="clear"></div>
     </header>
 

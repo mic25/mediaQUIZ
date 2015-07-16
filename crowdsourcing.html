@@ -17,12 +17,21 @@
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKt2zbA8qFXtyJ1kJlBwcVomFQx9aenZg">
     </script>
     <script src="javascript/crowdsourcing.js"></script>
+    <script src="javascript/main.js"></script>
 </head>
 <body>
 <div class="container">
     <div class="header">
         <a href="/" class="logo"></a>
-        <div class="nav"><a href="/crowdsourcing.html" id="nav-crowd" class="active">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <div class="nav desktop"><a href="/crowdsourcing.html" id="nav-crowd" class="active">Crowdsourcing</a><a href="/downloads.html" id="nav-downloads">Downloads</a><a href="/about.html" id="nav-about">About</a></div>
+        <img src="styles/img/navigation/burger.png" width="40" height="30" id="toggleMenu" />
+        <div class="nav mobile">
+            <ul>
+                <li><a href="/crowdsourcing.html" id="nav-crowd-mobile" class="active">Crowdsourcing</a></li>
+                <li><a href="/downloads.html" id="nav-downloads-mobile">Downloads</a></li>
+                <li><a href="/about.html" id="nav-about-mobile">About</a></li>
+            </ul>
+        </div>
         <div class="clear"></div>
     </div>
     <div class="content">

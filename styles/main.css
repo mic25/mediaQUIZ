@@ -26,6 +26,14 @@ body {
     display: block;
 }
 
+.nav.desktop {
+    display: block;
+}
+
+#toggleMenu, .nav.mobile {
+    display: none;
+}
+
 .nav {
     float: right;
     padding: 10px 0px;
@@ -104,6 +112,7 @@ pre {
     color: #fff;
 }
 
+/* tablet and smaller */
 @media (max-width: 991px) {
     .header {
         padding: 0 5%;
@@ -123,8 +132,30 @@ pre {
         background-size: 100%;
     }
 
+    .nav.desktop, .nav.mobile {
+        display: none;
+        clear: both;
+    }
+
+    #toggleMenu {
+        display: block;
+        float: right;
+        margin: 12px 0 0;
+    }
+
     .nav {
         padding: 15px 0px;
+    }
+
+    .nav ul {
+        list-style: none;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .nav li {
+        display: inline-block;
     }
 
     .nav a {
@@ -141,39 +172,39 @@ pre {
         width: 45px;
     }
 
-    #nav-crowd:before {
+    #nav-crowd-mobile:before {
         background-position: 0px -540px;
     }
 
-    #nav-crowd:hover:before {
+    #nav-crowd-mobile:hover:before {
         background-position: 0px -630px;
     }
 
-    #nav-crowd.active:before {
+    #nav-crowd-mobile.active:before {
         background-position: 0px -585px;
     }
 
-    #nav-about:before {
+    #nav-about-mobile:before {
         background-position: 0px -675px;
     }
 
-    #nav-about:hover:before {
+    #nav-about-mobile:hover:before {
         background-position: 0px -765px;
     }
 
-    #nav-about.active:before {
+    #nav-about-mobile.active:before {
         background-position: 0px -720px;
     }
 
-    #nav-downloads:before {
+    #nav-downloads-mobile:before {
         background-position: 0px -810px;
     }
 
-    #nav-downloads:hover:before {
+    #nav-downloads-mobile:hover:before {
         background-position: 0px -900px;
     }
 
-    #nav-downloads.active:before {
+    #nav-downloads-mobile.active:before {
         background-position: 0px -855px;
     }
 }
