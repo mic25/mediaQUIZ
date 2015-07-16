@@ -31,8 +31,6 @@ for($i = 0; $i < $resultLength; ++$i){
 
     $id = $results[$i][place_id];
     $details = file_get_contents("data/".$id.".json");
-    //echo $details;
-    //echo "<br />";
     $details_obj = json_decode($details, true);
     $name = $details_obj[result][name];
     $types = $details_obj[result][types];
@@ -44,22 +42,11 @@ for($i = 0; $i < $resultLength; ++$i){
             "lat" => $lat,
             "lng" => $lng
         );
-        //$value = "{\"name\": \"".$name."\", \"videos\": \"".mysqli_num_rows($result)."\", \"lat\": \"".$lat."\", \"lng\": \"".$lng."\"}";
         array_push($response, $value);
-        $htmlResponse .= "<div class='line'><div class='name'>".$name."</div><div class='videos'>".mysqli_num_rows($result)."</div></div>";
-        /*
-        if(mysqli_num_rows($result) > 0){
-            //echo $name; echo " - "; echo mysqli_num_rows($result); echo " videos found."; echo "<br />";
-        }else{
-            echo "-> "; echo $name; echo " - no videos!"; echo "<br />";
-        }
-        */
     }
 }
 
-//echo "[".implode(", ",$response)."]";
 echo json_encode($response);
 mysqli_close($link);
-//echo $htmlResponse;
 
 ?>

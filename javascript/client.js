@@ -323,7 +323,6 @@ function showWiki(questionId){
                 overlay.find("#wikiLink").attr("href", wikiLink);
                 /* add google map */
                 loadGMScript();
-                //overlay.html('<h3>'+title+'</h3><div>'+text+'</div><a target="_blank" href="' + wikiLink + '">Hier klicken zur Wikipedia-Seite</a>');
                 transparency.fadeIn();
                 overlay.fadeIn();
             }

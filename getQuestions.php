@@ -47,25 +47,14 @@ for($i = 0; $i < $resultLength; ++$i){
 
             while($row = mysqli_fetch_array($result)) {
                 array_push($rows, $row);
-                /*
-                array_push($videos, $row['VideoId']);
-                $select = $row['VideoId'] == $videos[$videoNumber];
-                if($select){
-                    $selectedVideoFrame = $row['FovNum'];
-                    $selectedVideoLat = $row['Plat'];
-                    $selectedVideoLng = $row['Plng'];
-                    $selectedVideoThetaX = $row['ThetaX'];
-                }*/
             }
             /* free result set */
             mysqli_free_result($result);
 
-            //echo "<h3>New place:</h3> <br />";
             $rowsLength = count($rows);
             for($r = 0; $r < $rowsLength; ++$r){
                 $id = $rows[$r]['VideoId'];
                 $frame = $rows[$r]['FovNum'];
-                //echo "ID: ". $id . ", Frame: " . $frame . ", Winkel: " . (rad2deg(acos(($rows[$r]['Plng']-$lng)/sqrt(pow($rows[$r]['Plat']-$lat, 2)+pow($rows[$r]['Plng']-$lng, 2))))-$rows[$r]['ThetaX']) . "<br />";
                 $frames = [];
                 $contained = false;
                 $index = 0;
@@ -73,11 +62,9 @@ for($i = 0; $i < $resultLength; ++$i){
                 for($v = 0; $v < $videoFramesLength; ++$v){
                     if($videoFrames[$v]['id'] == $id){
                         $contained = true;
-                        //$frames = $videoFrames[$v]['frames'];
                         $index = $v;
                     }
                 }
-                //echo "ID: ".$id.", Frame: ".$frame."<br />";
                 if(!$contained){
                     /* push new object with id and frame to array */
                     $frames['id'] = $id;
@@ -88,11 +75,9 @@ for($i = 0; $i < $resultLength; ++$i){
                     /* push frame to object with id */
                     array_push($videoFrames[$index]['frames'], $frame);
                 }
-                //echo "ID: ".$frames['id'].", Frames: ".implode(", ", $frames['frames'])."<br />";
             }
             $videoFramesLength = count($videoFrames);
             for($v = 0; $v < $videoFramesLength; ++$v){
-                //echo "ID: ".$videoFrames[$v]['id'].", Frames: ".implode(", ", $videoFrames[$v]['frames'])."<br />";
                 if(count($videoFrames[$v]['frames']) > 2){
                     sort($videoFrames[$v]['frames']);
                     $following = 0;
@@ -111,24 +96,20 @@ for($i = 0; $i < $resultLength; ++$i){
                         }else{
                             $usableFramesLength = count($usableFrames);
                             if($usableFramesLength < 3){
-                                //echo "Current Frame is: ".$videoFrames[$v]['frames'][$f].", Did not push: "; print_r($usableFrames); echo "<br />";
                                 $following = 0;
                                 $usableFrames = [];
                             }else{
                                 array_push($usableFramesArray, $usableFrames);
-                                //echo "Current Frame is: ".$videoFrames[$v]['frames'][$f].", Pushed: "; print_r($usableFrames); echo "<br />";
                                 $usableFrames = [];
                             }
                         }
                         if($f == $maxCount - 1){
                             $usableFramesLength = count($usableFrames);
                             if($usableFramesLength < 3){
-                                //echo "Current Frame is: ".$videoFrames[$v]['frames'][$f].", Did not push: "; print_r($usableFrames); echo "<br />";
                                 $following = 0;
                                 $usableFrames = [];
                             }else{
                                 array_push($usableFramesArray, $usableFrames);
-                                //echo "Current Frame is: ".$videoFrames[$v]['frames'][$f].", Pushed: "; print_r($usableFrames); echo "<br />";
                                 $usableFrames = [];
                             }
                         }
@@ -139,12 +120,10 @@ for($i = 0; $i < $resultLength; ++$i){
                             $video['id'] = $videoFrames[$v]['id'];
                             $video['usableFrames'] = $usableFramesArray[$ufa];
                             array_push($videos, $video);
-                            //echo "ID: ".$video['id'].", Usable Frames: ".implode(", ", $video['usableFrames'])."<br />";
                         }
                     }
                 }
             }
-            //echo '<pre>'; print_r($videos); echo '</pre>';
             /* get Video from random position */
             $max = count($videos);
             if($max > 0){
@@ -160,32 +139,10 @@ for($i = 0; $i < $resultLength; ++$i){
                 $clipEndTime = 0;
                 $clipEndFrame = 0;
 
-                //array_push($videos, $row['VideoId']);
                 $rowsLength = count($rows);
                 for($r = 0; $r < $rowsLength; ++$r){
-                    /*
-                    if($rows[$r]['VideoId'] == $videos[$videoNumber]['id']){
-                        $startTimeQuery = "SELECT TimeCode FROM VIDEO_METADATA WHERE VideoId=".$videos[$videoNumber]['id']." AND FovNum=1";
-                        //echo $startTimeQuery."<br />";
-                        if ($startTimeResult = mysqli_query($link, $startTimeQuery)){
-                            echo mysqli_num_rows($startTimeResult)."<br />";
-                            while($row = mysqli_fetch_array($startTimeResult)) {
-                                $videoStartTime = $row;
-                                echo "Start time: ".$row."<br />";
-                            }
-                        }
-                        /* free result set
-                        mysqli_free_result($startTimeResult);
-                    }*/
-                    /*
-                    $selectVideoStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == 1;
-                    if($selectVideoStart){
-                        $videoStartTime = $rows[$r]['TimeCode'];
-                    }
-                    */
                     $selectClipStart = $rows[$r]['VideoId'] == $videos[$videoNumber]['id'] && $rows[$r]['FovNum'] == $videos[$videoNumber]['usableFrames'][0];
                     if($selectClipStart){
-                        //$clipStartTime = $rows[$r]['TimeCode'] - $videoStartTime;
                         $clipStartFrame = $rows[$r]['FovNum'];
                         /*estimated start Time */
                         $clipStartTime = $clipStartFrame - 1;
@@ -208,38 +165,27 @@ for($i = 0; $i < $resultLength; ++$i){
                 /* increase question id */
                 $questionId += 1;
                 $response = "{ \"id\": \"" . $questionId . "\" , ";
-                //echo "Question ID: ".$questionId."<br />";
 
                 $selectedVideo = $videos[$videoNumber]['id'];
-                //echo "Selected Video: ".$videos[$videoNumber]."<br />";
                 $response .= "\"video\": \"http://mediaq.dbs.ifi.lmu.de/MediaQ_MVC_V2/video_content/" . $selectedVideo . "#t=". $clipStartTime . ",". $clipEndTime . "\" , ";
 
                 /* add coordinates for map to response */
                 $response .= "\"lat\": \"".$lat."\", ";
                 $response .= "\"lng\": \"".$lng."\", ";
 
-                //$response .= "\"videoStartTime\": \"".$videoStartTime."\", ";
                 $response .= "\"clipStartTime\": \"".$clipStartTime."\", ";
                 $response .= "\"clipEndTime\": \"".$clipEndTime."\", ";
-
-
-                //echo "ID: ".$selectedVideo."Lat: ".$selectedVideoLat.", Lng: ".$selectedVideoLng.", ThetaX: ".$selectedVideoThetaX."<br />";
 
                 /* get name = correct answer */
                 /* web service */
                 //$details = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$results[$i][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
                 /* json on our server */
                 $details = file_get_contents("data/".$results[$i][place_id].".json");
-                //echo $details;
-                //echo "<br />";
                 $details_obj = json_decode($details, true);
                 $name = $details_obj[result][name];
-                //echo "Position: ".$lat.", ".$lng."; Name: ".$name."<br />";
-                //echo '<br />'; echo $name; echo '<br />';
+
                 /* get available answers */
-                /* new */
                 $availableAnswerObjects = $results;
-                //echo "Old: "; echo count($availableAnswerObjects); echo "<br />";
                 /* search from current point in ascending order */
                 for($j = $i; $j < $resultLength; ++$j){
                     if($j != $i){
@@ -250,7 +196,6 @@ for($i = 0; $i < $resultLength; ++$i){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
                                 unset($availableAnswerObjects[$j]);
                             }
                         }else{
@@ -259,7 +204,6 @@ for($i = 0; $i < $resultLength; ++$i){
                         }
                     }else{
                         /* remove item from answer list */
-                        //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
                         unset($availableAnswerObjects[$j]);
                     }
                 }
@@ -273,7 +217,6 @@ for($i = 0; $i < $resultLength; ++$i){
                                 continue;
                             }else{
                                 /* remove item from answer list */
-                                //removeElementWithValue($availableAnswerObjects, "place_id", $results[$i]["place_id"]);
                                 unset($availableAnswerObjects[$j]);
                             }
                         }else{
@@ -282,11 +225,9 @@ for($i = 0; $i < $resultLength; ++$i){
                         }
                     }else{
                         /* remove item from answer list */
-                        //removeElementWithValue($availableAnswerObjects, "place_id", $results[$j]["place_id"]);
                         unset($availableAnswerObjects[$j]);
                     }
                 }
-                //echo "New: "; echo count($availableAnswerObjects); echo "<br />";
                 /* get answer names */
                 $availableAnswerObjectsLength = count($availableAnswerObjects);
                 for($a = 0; $a < $availableAnswerObjectsLength; ++$a){
@@ -294,34 +235,16 @@ for($i = 0; $i < $resultLength; ++$i){
                     //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$availableAnswerObjects[$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
                     /* json on our server */
                         $answerDetails = file_get_contents("data/".$availableAnswerObjects[$a][place_id].".json");
-                        //echo $answerDetails;
-                        //echo "<br />";
                         $answerDetails_obj = json_decode($answerDetails, true);
                         $singlename = $answerDetails_obj[result][name];
                         if(!empty($singlename)) {
                             array_push($availableAnswers, $singlename);
                         }
                 }
-                /* old */
-                /*
-                for($j = 0; $j < $resultLength; ++$j){
-                    if($j != $i && (sqrt(pow($results[$j][geometry][location][lat] - $selectedVideoLat, 2) + pow($results[$j][geometry][location][lng] - $selectedVideoLng, 2)) > 0.1 || ((rad2deg(acos(($results[$j][geometry][location][lng]-$selectedVideoLng)/sqrt(pow($results[$j][geometry][location][lat]-$selectedVideoLat, 2)+pow($results[$j][geometry][location][l]-$selectedVideoLng, 2))))-$selectedVideoThetaX) < 51 && (rad2deg(acos(($results[$j][Plng]-$selectedVideoLng)/sqrt(pow($results[$j][Plat]-$selectedVideoLat, 2)+pow($results[$j][Plng]-$selectedVideoLng, 2))))-$selectedVideoThetaX) > 0))){
-                        /* web service */
-                        //$answerDetails = file_get_contents('https://maps.googleapis.com/maps/api/place/details/json?placeid='.$results[$j][place_id].'&key=AIzaSyAhFHDr_1SlAdzp2G0OfM7p9kw-QI9IUCs');
-                        /* json on our server *//*
-                        $answerDetails = file_get_contents("data/".$results[$j][place_id].".json");
-                        //echo $answerDetails;
-                        //echo "<br />";
-                        $answerDetails_obj = json_decode($answerDetails, true);
-                        $singlename = $answerDetails_obj[result][name];
-                        array_push($availableAnswers, $singlename);
-                    }
-                }
-                */
+
                 /* shuffle available answers and take first 3 */
                 shuffle($availableAnswers);
                 $answers = array_slice($availableAnswers, 0, 3);
-                //echo "Name: ".$name."<br />";
                 /* shuffle chosen answers with correct answer */
                 array_push($answers, $name);
                 shuffle($answers);
@@ -351,23 +274,10 @@ for($i = 0; $i < $resultLength; ++$i){
                     //$wikiPageId = $firstWikiPage['pageid'];
                     for($c = 0; $c < $countWikiPages; ++$c){
                         $pageTitle = $wikiPages_obj['query']['geosearch'][$c]['title'];
-                        //$nameStart = substr($name, 0, 5);
-                        /*
-                        echo $pageTitle;
-                        echo "<br />";
-                        echo $nameStart;
-                        echo "<br />";
-                        echo (strpos($pageTitle,$nameStart) !== false);
-                        echo "<br />";
-                        */
-                        /* if similarity of titles is higher than 85% */
+                        /* if similarity of titles is high enough */
                         $percentage = levenshteinPerc($pageTitle, $name);
                         if($percentage < 0.8){
                             $wikiPageId = $wikiPages_obj['query']['geosearch'][$c]['pageid'];
-                            /*
-                            echo $wikiPageId;
-                            echo "<br />";
-                            */
                             break;
                         }
                     }
