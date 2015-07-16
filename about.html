@@ -36,17 +36,29 @@
     <div class="content">
         <div id="motivation" class="section">
             <h3>Warum MediaQUIZ?</h3>
-            <p>Die Idee für MediaQUIZ entstand spontan während einer Brainstorming-Runde.
-                Es sollte eine Anwendung auf MediaQ-Daten her,
-                anschaulich sollte es sein, interaktiv, alltagstauglich. So entstand spontan die Idee ein Quiz
-                in der Art von Quizduell zu schreiben, wo Orte auf den MediaQ-Videos erkannt werden sollen.
-            </p>
-            <p>
-                Wichtig war dabei immer, dass die Anwendung auf möglichst vielen Plattformen verfügbar ist, weshalb wir uns
-                für eine Webanwendung entschieden haben, die auf verschiedenen Gräten einfach über den Browser aufgerufen werden kann.
-                Mittels CSS(3) können wir das Layout auch sehr komfortabel für die verschiedenen Bildschirmgrößen passend gestalten.
-            </p>
-            <p>Als Erweiterung oder Version 2.0 ist eine Verknüpfung mit sozialen Netzwerken ähnlich wie bei der erfolgreichen Quiz-App Quizduell angedacht.</p>
+            <p>MediaQ ist ein Media Management System und bietet die Möglichkeit, Videos und zusätzliche geographische Metadaten 
+      		   zu den einzelnen Frames aufzunehmen und auszuwerten. Geographische Metadaten sind z.B. die Blickrichtung,
+      		   das Blickfeld der Kamera und natürlich die geographische Position mit Hilfe des GPS Sensors. 
+   		 	   Über die MediaQ App können Videos aufgenommen, gesammelt und archiviert werden. 
+   		 	   Nach dem Upload werden in der MediaQ Webapplikation die Videos auf einer Karte angezeigt, wobei während dem Abspielen 
+		       die zusätzlich aufgezeichneten Metadaten ebenfalls visualisiert werden. 
+       		   Außerdem bietet MediaQ die Möglichkeit für verschiedene Such- und Filteranfragen, wie z.B. eine Range oder Point-Query.        
+        	</p>
+        	<p>Die Idee für MediaQUIZ entstand spontan während einer Brainstorming-Runde. MediaQUIZ ist ein interaktives und alltagstaugliches 
+        	   Spiel in der Art von Quizduell, 
+       		   bei dem kurze Videosequenzen aus der MediaQ Datenbank angezeigt werden und der gezeigte Ort erkannt werden soll. 
+       		</p>
+        	<p>Wichtig war dabei immer, dass die Anwendung auf möglichst vielen Plattformen verfügbar ist, weshalb wir uns
+               für eine Webanwendung entschieden haben, die auf verschiedenen Geräten einfach über den Browser aufgerufen werden kann.
+               Mittels CSS(3) können wir das Layout auch sehr komfortabel für die verschiedenen Bildschirmgrößen passend gestalten.
+        	</p>
+        	<p>Als Erweiterung oder Version 2.0 ist eine Verknüpfung mit sozialen Netzwerken ähnlich wie bei der erfolgreichen 
+         	   Quiz-App Quizduell angedacht.
+        	   Außerdem könnte man Nutzern die Möglichkeit bieten, selbst MediaQ Content zu erzeugen und Videos von Orten hochzuladen, 
+       		   um die Anzahl an Fragen zu erhöhen und somit natürlich auch den Spielspaß. Dies kann zum Beispiel sehr gut über das
+         	   Spatial Crowdsourcing umgesetzt werden, indem auf einer Karte angezeigt wird, zu welchen Points of Interests 
+         	   noch keine Videos verfügbar sind.
+			</p>
         </div>
         <div id="problem" class="section">
             <h3>Wo liegt das Problem?</h3>
@@ -55,6 +67,7 @@
                 <li>zufällige Auswahl des Videoausschnitts aus allen aktuell vorhandenen Videos</li>
                 <li>zufällige Generierung der 3 falschen Antwortmöglichkeiten aus den vorhandenen Points of Interest</li>
                 <li>nur Videos auswählen, in dessen Blickkegel (Winkel & Abstand) der gesuchte Ort liegt</li>
+                <li>effizientes Bestimmen der interessanten Orte und POIs</li>
                 <li>nur Antworten anzeigen, deren Orte nicht im Blickkegel des Videos liegen</li>
                 <li>der Nutzer soll nur den relevanten Ausschnitt des Videos sehen</li>
                 <li>das Quiz und damit die Videos soll Cross-Browser und Cross-Device kompatibel sein</li>
@@ -78,6 +91,23 @@
                     <p></p>
                 </li>
                 <li>Client:
+                	<ul>
+                        <li>Beim Laden der Webseite wird zunächst der Client initialisiert und die Fragen sowie Antworten beim Server angefragt.</li>
+                        <li>Sobald die Antwort vom Server da ist, werden 10 Fragen und jeweils 4 Antwortmöglichkeiten ausgewählt und das Spiel kann beginnen</li>
+                        <li>Dabei wird nicht das gesamte Video angezeigt, sondern nur ein kurzer Ausschnitt, auf dem der POI zu sehen ist.</li>
+                        <li>Der Server übergibt im json File den Startzeitpunkt, an dem das Abspielen des Videos beginnen soll.</li>
+                        <li>Sobald auf "Start" geklickt wird, wird das erste Video abgespielt und die 4 Antworten rechts angezeigt.</li>
+                        <li>Außerdem wird nach jedem Klick auf eine Antwort die nächste Frage geladen und der Spieler bekommt direktes Feedback, ob seine Antwort richtig oder falsch war.</li>
+                        <li>Dies wird zusätzlich auf einer Fortschrittsleiste am unteren Rand der Webseite visualisiert</li>
+                        <li>Über diese erhält man außerdem zu jedem POI zusätzliche Informationen, die aus Wikipedia geladen werden und auf einer Karte wird die genaue Position des Ortes ebenfalls angezeigt.</li>
+                        <li>Nachdem alle 10 Fragen beantwortet wurden, wird abhängig von der Antwortzeit und der Anzahl richtiger Antworten ein Highscore erstellt, der in eine Sessionvariable gespeichert wird.</li>
+                        
+                    </ul>
+                    <p></p>
+                   <!-- <pre>
+<code>
+</code>                    
+                    </pre>-->
 
                 </li>
             </ul>
@@ -85,6 +115,11 @@
         </div>
         <div id="technical" class="section">
             <h3>Technische Umsetzung</h3>
+            <p></p>
+                <div class="diagramm">
+                <img src="styles/img/MediaQDiagramm.png" width="560px">
+                </div>
+            <p></p>    
             <p>
             <ul>
                 <li>
