@@ -20,3 +20,28 @@ div#sidebar{
     width: 30%;
     top: 0;
 }
+
+div#startOverlay {
+    position: absolute;
+    background-color: #000;
+    width: 100%;
+    height: calc(100% - 80px);
+    padding: 25px 25%;
+}
+
+div#startOverlay-sidebar{
+    background-color: #00b3ee;
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: 30%;
+    top: 0;
+    overflow-y: auto;
+}
+
+div#startOverlay-field{
+    position: absolute;
+    height: 100%;
+    width: 70%;
+    left: 0;
+}

@@ -222,3 +222,51 @@ footer{
         height: calc(100% - 80px);
     }
 }
+
+.step{
+    margin-top: 15px;
+    position: relative;
+    width: 90%;
+    left: 50%;
+    transform: translateX(-51%);
+}
+
+.step h3{
+    position: absolute;
+    top: -15px;
+    left: 32%;
+    font-size: 2.5vh;
+}
+
+.step p{
+    position: absolute;
+    top: 30px;
+    left: 32%;
+    font-size: 1vw;
+}
+
+.step img{
+    width: 30%;
+}
+
+#startOverlay-sidebar hr{
+    width: 80%;
+}
+
+.center-vertically{
+    position: relative;
+    top: 50%;
+    transform: translateY(-55%);
+}
+
+.center-horizontally{
+    position: relative;
+    left: 50%;
+    transform: translateX(-51%);
+}
+
+#startOverlay-field button{
+    padding: 10px;
+    background-color: #FF5252;
+    border: none;
+}

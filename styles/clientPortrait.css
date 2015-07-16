@@ -37,3 +37,38 @@ h2{
         bottom: 40px;
     }
 }
+
+div#startOverlay {
+    position: absolute;
+    top:5%;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 80px);
+}
+
+div#startOverlay-sidebar {
+    position: absolute;
+    background-color: #00b3ee;
+    height: 50%;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    padding-top: 25%;
+    overflow-y: auto;
+}
+
+.step{
+    max-height: 5%;
+}
+
+.step p{
+    font-size: 1.5vh;
+}
+
+div#startOverlay-field{
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 5%;
+    left: 0;
+}
