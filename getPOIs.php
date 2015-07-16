@@ -15,14 +15,7 @@ $htmlResponse = "";
 
 $json = file_get_contents('data/POI.json');
 $json_obj = json_decode($json, true);
-$results = $json_obj['results'];
-/* sort POIs by latitude */
-usort($results, function($a, $b){
-    if($a["geometry"]["location"]["lat"] == $b["geometry"]["location"]["lat"]){
-        return 0;
-    }
-    return $a["geometry"]["location"]["lat"] < $b["geometry"]["location"]["lat"] ? -1 : 1;
-});
+$results = $json_obj['results'] ? $json_obj['results'] : $json_obj;
 $resultLength = count($results);
 for($i = 0; $i < $resultLength; ++$i){
     $lat = $results[$i][geometry][location][lat];
@@ -45,9 +38,13 @@ for($i = 0; $i < $resultLength; ++$i){
     $types = $details_obj[result][types];
 
     if ($result = mysqli_query($link, $query)) {
-        //$value[name] = $name;
-        //$value[videos] = mysqli_num_rows($result);
-        $value = "{\"name\": \"".$name."\", \"videos\": \"".mysqli_num_rows($result)."\", \"lat\": \"".$lat."\", \"lng\": \"".$lng."\"}";
+        $value = array(
+            "name" => $name,
+            "videos" => mysqli_num_rows($result),
+            "lat" => $lat,
+            "lng" => $lng
+        );
+        //$value = "{\"name\": \"".$name."\", \"videos\": \"".mysqli_num_rows($result)."\", \"lat\": \"".$lat."\", \"lng\": \"".$lng."\"}";
         array_push($response, $value);
         $htmlResponse .= "<div class='line'><div class='name'>".$name."</div><div class='videos'>".mysqli_num_rows($result)."</div></div>";
         /*
@@ -60,7 +57,8 @@ for($i = 0; $i < $resultLength; ++$i){
     }
 }
 
-echo "[".implode(", ",$response)."]";
+//echo "[".implode(", ",$response)."]";
+echo json_encode($response);
 mysqli_close($link);
 //echo $htmlResponse;
 

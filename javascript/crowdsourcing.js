@@ -38,6 +38,7 @@ function init () {
     $.getJSON("../data/crowdsourcing.json", function (data) {
     //$.get("../getPOIs.php", function (data) {
         POIs = data;
+        console.log(POIs);
         createList();
         createMap();
     });
@@ -93,7 +94,6 @@ function createMap () {
         gmarkers.push(marker);
         bindInfoWindow(marker, map, infowindow, infowindowtext);
     }
-    console.log(gmarkers);
 }
 
 function bindInfoWindow(marker, map, infowindow, description) {

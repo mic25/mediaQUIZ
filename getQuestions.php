@@ -18,8 +18,9 @@ $responseArray = [];
 /* json on our server */
 $json = file_get_contents('data/POI.json');
 //echo $json;
-$json_obj = json_decode($json, true);
-$results = $json_obj['results'];
+$results = json_decode($json, true);
+$results = $results["results"] ? $results["results"] : $results;
+//print_r($results);
 $resultLength = count($results);
 for($i = 0; $i < $resultLength; ++$i){
     $lat = $results[$i][geometry][location][lat];
@@ -361,7 +362,7 @@ for($i = 0; $i < $resultLength; ++$i){
                         */
                         /* if similarity of titles is higher than 85% */
                         $percentage = levenshteinPerc($pageTitle, $name);
-                        if($percentage > 0.85){
+                        if($percentage < 0.8){
                             $wikiPageId = $wikiPages_obj['query']['geosearch'][$c]['pageid'];
                             /*
                             echo $wikiPageId;
@@ -405,17 +406,12 @@ function removeElementWithValue($array, $key, $value){
 }
 
 function levenshteinPerc($str1, $str2) {
-    $len = strlen($str1);
+    $len = max(strlen($str1), strlen($str2));
     if ($len===0 && strlen($str2)===0) {
         return 0;
     } else {
         return ($len>0 ? levenshtein($str1, $str2) / $len : 1);
     }
-}
-
-function similarityOfStrings($str1, $str2) {
-    $len1 = strlen($str1);
-
 }
 
 /**

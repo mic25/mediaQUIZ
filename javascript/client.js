@@ -239,10 +239,13 @@ function updateProgress(right) {
         current.attr("src", "styles/img/client_progress-cross.png");
     }
     current.addClass('done');
-
+    /* open wikipedia overlay on click */
     $(".progressBar.question.done").click(function(){
         var index = $(this).attr('id').substr(11) - 1;
         questionId = questions[index].id;
+        lat = questions[index].lat;
+        lng = questions[index].lng;
+        name = questions[index].name;
         overlay = $('#wikiOverlay');
         if(overlay.is(':visible')){
             overlay.hide();
@@ -295,18 +298,6 @@ function showWiki(questionId){
     var wikiUrl = questions.filter(function (d) {
         return d.id === questionId;
     })[0].wiki;
-    lat = questions.filter(function (d) {
-        return d.id === questionId;
-    })[0].lat;
-    lng = questions.filter(function (d) {
-        return d.id === questionId;
-    })[0].lng;
-    var correctAnswer = questions.filter(function (d) {
-        return d.id === questionId;
-    })[0].correctAnswer;
-    name = questions.filter(function (d) {
-        return d.id === questionId;
-    })[0].answers[correctAnswer];
     if(wikiUrl){
         var decodedUrl = decodeURIComponent(wikiUrl);
         var urlParams = decodedUrl.slice(decodedUrl.indexOf('?') + 1).split('&');
@@ -329,6 +320,7 @@ function showWiki(questionId){
                 var overlay = $('#wikiOverlay');
                 overlay.find("h3").html(title);
                 overlay.find("#text").html(text);
+                overlay.find("#wikiLink").attr("href", wikiLink);
                 /* add google map */
                 loadGMScript();
                 //overlay.html('<h3>'+title+'</h3><div>'+text+'</div><a target="_blank" href="' + wikiLink + '">Hier klicken zur Wikipedia-Seite</a>');
@@ -341,8 +333,6 @@ function showWiki(questionId){
         var overlay = $('#wikiOverlay');
         overlay.find("h3").html("Keine Wikipedia-Infos gefunden");
         overlay.find("#text").html("Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.");
-        overlay.find("#map-canvas").html("");
-        //overlay.html('<h3>Keine Wikipedia-Infos gefunden</h3><div>Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.</div>');
         transparency.fadeIn();
         overlay.fadeIn();
     }
