@@ -1,6 +1,6 @@
 div#client {
-    top: 55px;
-    height: calc(100% - 50px);
+    top: 145px;
+    height: calc(100% - 150px);
 }
 
 div#finishedOverlay {
