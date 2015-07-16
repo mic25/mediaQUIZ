@@ -23,3 +23,17 @@ div#sidebar{
 h2{
     font-size: 1.5em;
 }
+
+@media (max-width: 991px) and (min-width: 768px) {
+    div#sidebar {
+        height: calc(50% - 160px);
+        width: 100%;
+        bottom: 50px;
+        padding-top: 0;
+        top: 50%;
+    }
+
+    footer {
+        bottom: 40px;
+    }
+}
