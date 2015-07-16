@@ -215,3 +215,10 @@ footer{
 .progressBar.question.done {
     cursor: pointer;
 }
+
+@media (max-width: 991px) {
+    div#startOverlay {
+        top: 80px;
+        height: calc(100% - 80px);
+    }
+}
