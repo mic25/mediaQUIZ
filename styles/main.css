@@ -63,27 +63,27 @@ body {
     background-position: 0px -780px;
 }
 
-#nav-downloads:before {
+#nav-about:before {
     background-position: 0px -900px;
 }
 
-#nav-downloads:hover:before {
+#nav-about:hover:before {
     background-position: 0px -1020px;
 }
 
-#nav-downloads.active:before {
+#nav-about.active:before {
     background-position: 0px -960px;
 }
 
-#nav-about:before {
+#nav-downloads:before {
     background-position: 0px -1080px;
 }
 
-#nav-about:hover:before {
+#nav-downloads:hover:before {
     background-position: 0px -1200px;
 }
 
-#nav-about.active:before {
+#nav-downloads.active:before {
     background-position: 0px -1140px;
 }
 
