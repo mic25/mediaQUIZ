@@ -332,6 +332,7 @@ function showWiki(questionId){
         var overlay = $('#wikiOverlay');
         overlay.find("h3").html("Keine Wikipedia-Infos gefunden");
         overlay.find("#text").html("Leider konnte zu dieser Location kein Artikel in Wikipedia gefunden werden.");
+        overlay.find("#wikiLink").hide();
         transparency.fadeIn();
         overlay.fadeIn();
     }
