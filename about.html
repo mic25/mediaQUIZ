@@ -80,34 +80,118 @@
             <ul>
                 <li>Server:
                     <ul>
-                        <li>Für jeden POI aus der Google Places API im Umkreis von München, sortiert nach Latitude, wird nach Videos in der MediaQ-Datenbank gesucht.</li>
-                        <li>Wenn mindestens Video mit mindestens 3 aufeinander folgenden passenden Frames gefunden wurde, wird der Punkt in die Liste der Fragen aufgenommen.</li>
+                        <li>
+                            Für jeden POI aus der Google Places API im Umkreis von München, sortiert nach Latitude, wird nach Videos in der MediaQ-Datenbank gesucht.
+                            <pre style="background:#000;color:#f8f8f8">$results = get(google Places API center Munich distance up to 500km);
+    usort($results, function($a, $b){
+        if($a["lat"] == $b["lat"]) return 0;
+        return $a["lat"] &lt; $b["lat"] ? -1 : 1;
+    });
+    write(jsonfile, $results);
+    </pre>
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#89bdff">foreach</span>(<span style="color:#3e87e3">POI</span>) {
+     <span style="color:#3387cc">select</span> <span style="color:#e28964">*</span> <span style="color:#3387cc">from</span> <span style="color:#3e87e3">VIDEO_METADATA</span> <span style="color:#3387cc">where</span> <span style="color:#3387cc">distance</span> <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">0.0014</span> <span style="color:#e28964">and</span> <span style="color:#3387cc">angleToPoint</span> <span style="color:#e28964">></span> <span style="color:#3387cc">0</span> <span style="color:#e28964">and</span> <span style="color:#3387cc">angleToPoint</span> <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">51</span>
+}
+</pre>
+                        </li>
+                        <li>
+                            Wenn mindestens Video mit mindestens 3 aufeinander folgenden passenden Frames gefunden wurde, wird der Punkt in die Liste der Fragen aufgenommen.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#89bdff">if</span>(<span style="color:#3387cc">$r</span><span style="color:#3387cc">esults</span> <span style="color:#3387cc">contain</span> <span style="color:#89bdff">frame</span>(<span style="color:#3387cc">i</span>), <span style="color:#89bdff">frame</span>(<span style="color:#3387cc">i</span><span style="color:#e28964">+</span><span style="color:#3387cc">1</span>) <span style="color:#e28964">and</span> <span style="color:#89bdff">frame</span>(<span style="color:#3387cc">i</span><span style="color:#e28964">+</span><span style="color:#3387cc">2</span>) <span style="color:#3387cc">from</span> <span style="color:#3387cc">video</span> <span style="color:#3387cc">with</span> <span style="color:#3387cc">same</span> <span style="color:#3387cc">id</span>)
+     <span style="color:#3387cc">add</span> <span style="color:#3e87e3">POI</span> <span style="color:#3387cc">to</span> <span style="color:#3387cc">$q</span><span style="color:#3387cc">uestions</span>;
+     <span style="color:#3387cc">calculate</span> <span style="color:#3387cc">start</span> &amp; <span style="color:#3387cc">stop</span> <span style="color:#3387cc">time</span> <span style="color:#3387cc">from</span> <span style="color:#3387cc">matching</span> <span style="color:#3387cc">frames</span>;
+</pre>
+                        </li>
                         <li>Aus den restlichen POIs werden die falschen Antworten generiert, wobei nur Punkte berücksichtigt werden, die weiter weg oder nicht im Blickwinkel des Videos sind.</li>
-                        <li>Dafür werden die POIs vom aktuellen Punkt aus aufsteigend und absteigend solange durchsucht und geprüft, bis bereits die erste Koordinate genug Abstand hat. So muss nicht das gesamte Array durchlaufen werden.</li>
-                        <li>Aus den gefundenen Antwortmöglichkeiten werden 3 zufällig ausgewählt.</li>
-                        <li>Über die Wikipedia API wird nach passenden Artikeln gesucht und ggf. eine Query-URL gebildet.</li>
+                        <li>
+                            Dafür werden die POIs vom aktuellen Punkt aus aufsteigend und absteigend solange durchsucht und geprüft, bis bereits die erste Koordinate genug Abstand hat. So muss nicht das gesamte Array durchlaufen werden.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#89bdff">foreach</span>(<span style="color:#3e87e3">POI</span> <span style="color:#3387cc">left</span> <span style="color:#3387cc">from</span> <span style="color:#3387cc">selected</span>){
+     <span style="color:#e28964">if</span>(|<span style="color:#3387cc">latitude</span> <span style="color:#e28964">-</span> <span style="color:#3387cc">latitude_selected</span>| <span style="color:#e28964">></span> <span style="color:#3387cc">0.2</span>) <span style="color:#3387cc">break</span>;
+     <span style="color:#3387cc">else</span>
+       <span style="color:#e28964">if</span>(<span style="color:#3387cc">distance</span> <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">0.2</span> <span style="color:#e28964">or</span> <span style="color:#3387cc">angleToPoint</span> <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">51</span> <span style="color:#e28964">or</span> <span style="color:#3387cc">angleToPoint</span> <span style="color:#e28964">></span> <span style="color:#3387cc">0</span>) <span style="color:#3387cc">remove</span> <span style="color:#3e87e3">POI</span>;
+       <span style="color:#3387cc">else</span> <span style="color:#3387cc">break</span>;
+}
+</pre>
+                        </li>
+                        <li>
+                            Aus den gefundenen Antwortmöglichkeiten werden 3 zufällig ausgewählt.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#89bdff">shuffle</span>(<span style="color:#3387cc">$a</span><span style="color:#3387cc">rrayOfAnswers</span>);
+    <span style="color:#89bdff">array_slice</span>(<span style="color:#3387cc">$a</span><span style="color:#3387cc">rrayOfAnswers</span>, <span style="color:#3387cc">0</span>, <span style="color:#3387cc">3</span>);
+    </pre>
+                        </li>
+                        <li>
+                            Über die Wikipedia API wird nach passenden Artikeln gesucht und ggf. eine Query-URL gebildet.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#89bdff">get</span>(<span style="color:#3387cc">articles</span> <span style="color:#3387cc">from</span> <span style="color:#3e87e3">Wikipedia</span> <span style="color:#3e87e3">API</span> <span style="color:#3387cc">located</span> <span style="color:#3387cc">at</span> <span style="color:#3e87e3">POI</span> <span style="color:#3387cc">coordinates</span>)
+    <span style="color:#e28964">if</span>(<span style="color:#89bdff">levenshteinPerc</span>(<span style="color:#3387cc">$p</span><span style="color:#3387cc">ageTitle</span>, <span style="color:#3387cc">$n</span><span style="color:#3387cc">ame</span>) <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">0.8</span>) <span style="color:#3387cc">generate</span> <span style="color:#3387cc">queryUrl</span>;
+    </pre>
+                        </li>
                         <li>ID, Video, Antworten, korrekte Antwort und Wikipedia-Link werden im JSON-Format zurückgegeben.</li>
                     </ul>
                     <p></p>
                 </li>
                 <li>Client:
                 	<ul>
-                        <li>Beim Laden der Webseite wird zunächst der Client initialisiert und die Fragen sowie Antworten beim Server angefragt.</li>
-                        <li>Sobald die Antwort vom Server da ist, werden 10 Fragen und jeweils 4 Antwortmöglichkeiten ausgewählt und das Spiel kann beginnen</li>
+                        <li>
+                            Beim Laden der Webseite wird zunächst der Client initialisiert und die Fragen sowie Antworten beim Server angefragt.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#e28964">$.</span>getJSON(<span style="color:#65b042">"../data/questions.json"</span>, function (<span style="color:#e28964">data</span>) {
+     questions <span style="color:#e28964">=</span> shuffleArray(<span style="color:#e28964">data</span>);
+     <span style="color:#e28964">if</span>(questions<span style="color:#e28964">.</span><span style="color:#dad085">length</span> <span style="color:#e28964">&lt;</span> <span style="color:#3387cc">10</span>){
+        <span style="color:#3387cc">QUESTIONS</span> <span style="color:#e28964">=</span> questions<span style="color:#e28964">.</span><span style="color:#dad085">length</span>;
+     }
+});
+</pre>
+                        </li>
+                        <li>
+                            Sobald die Antwort vom Server da ist, werden 10 Fragen und jeweils 4 Antwortmöglichkeiten ausgewählt und das Spiel kann beginnen
+                            <pre style="background:#000;color:#f8f8f8">foreach(answer)
+     load answer to button;
+videoTag(
+     add video url with start &amp; end time to src attribute
+     load();
+);
+</pre>
+                        </li>
                         <li>Dabei wird nicht das gesamte Video angezeigt, sondern nur ein kurzer Ausschnitt, auf dem der POI zu sehen ist.</li>
                         <li>Der Server übergibt im json File den Startzeitpunkt, an dem das Abspielen des Videos beginnen soll.</li>
                         <li>Sobald auf "Start" geklickt wird, wird das erste Video abgespielt und die 4 Antworten rechts angezeigt.</li>
-                        <li>Außerdem wird nach jedem Klick auf eine Antwort die nächste Frage geladen und der Spieler bekommt direktes Feedback, ob seine Antwort richtig oder falsch war.</li>
-                        <li>Dies wird zusätzlich auf einer Fortschrittsleiste am unteren Rand der Webseite visualisiert</li>
-                        <li>Über diese erhält man außerdem zu jedem POI zusätzliche Informationen, die aus Wikipedia geladen werden und auf einer Karte wird die genaue Position des Ortes ebenfalls angezeigt.</li>
-                        <li>Nachdem alle 10 Fragen beantwortet wurden, wird abhängig von der Antwortzeit und der Anzahl richtiger Antworten ein Highscore erstellt, der in eine Sessionvariable gespeichert wird.</li>
+                        <li>
+                            Außerdem wird nach jedem Klick auf eine Antwort die nächste Frage geladen und der Spieler bekommt direktes Feedback, ob seine Antwort richtig oder falsch war.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#3387cc">answer</span>.<span style="color:#89bdff">click</span>(<span style="color:#89bdff">function</span> () {
+     <span style="color:#89bdff">validateAnswer</span>();
+     <span style="color:#89bdff">addPointsToScore</span>(<span style="color:#3387cc">timeToAnswer</span>);
+     <span style="color:#89bdff">loadNextQuestion</span>();
+});
+</pre>
+                        </li>
+                        <li>Dies wird auf einer Fortschrittsleiste am unteren Rand der Webseite visualisiert</li>
+                        <li>
+                            Über diese erhält man außerdem zu jedem POI zusätzliche Informationen, die aus Wikipedia geladen werden und auf einer Karte wird die genaue Position des Ortes ebenfalls angezeigt.
+                            <pre style="background:#000;color:#f8f8f8">progressIcon<span style="color:#dad085">.click</span>(<span style="color:#99cf50">function</span> () {
+     getQuestionIDFromIndex();
+     <span style="color:#e28964">$</span><span style="color:#dad085">.ajax</span>({
+            url: wikiUrl,
+            dataType: <span style="color:#65b042">"jsonp"</span>,
+            <span style="color:#89bdff">success</span>: <span style="color:#99cf50">function</span> (data) {
+                addWikiInfosToOverlay();
+                addGoogleMapToOverlay();
+                overlay<span style="color:#dad085">.show</span>();
+            }
+        });
+});
+</pre>
+                        </li>
+                        <li>
+                            Nachdem alle 10 Fragen beantwortet wurden, wird abhängig von der Antwortzeit und der Anzahl richtiger Antworten ein Highscore erstellt, der in eine Sessionvariable gespeichert wird.
+                            <pre style="background:#000;color:#f8f8f8"><span style="color:#e28964">if</span>(<span style="color:#e28964">!</span>highScore <span style="color:#e28964">||</span> highScore <span style="color:#e28964">&lt;</span> scorePoints){
+      sessionStorage.mediaQuizHighScore <span style="color:#e28964">=</span> scorePoints;
+      <span style="color:#9b859d">$</span>(highScoreText)<span style="color:#dad085">.text</span>(scorePoints);
+}<span style="color:#e28964">else</span>{
+      <span style="color:#9b859d">$</span>(highScoreText)<span style="color:#dad085">.text</span>(highScore);
+}
+</pre>
+                        </li>
                         
                     </ul>
                     <p></p>
-                   <!-- <pre>
-<code>
-</code>                    
-                    </pre>-->
 
                 </li>
             </ul>
